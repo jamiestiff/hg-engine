@@ -3450,10 +3450,8 @@ levelup SPECIES_MEW
 
 
 levelup SPECIES_CHIKORITA
-    learnset MOVE_BODY_PRESS, 1
-    learnset MOVE_GRASSY_TERRAIN, 1
-	learnset MOVE_MOONBLAST, 1
-    learnset MOVE_NUZZLE, 1
+    learnset MOVE_TACKLE, 1
+    learnset MOVE_GROWL, 1
     learnset MOVE_RAZOR_LEAF, 6
 	learnset MOVE_SLEEP_POWDER, 9
     learnset MOVE_ANCIENT_POWER, 12
