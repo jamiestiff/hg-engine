@@ -7384,21 +7384,21 @@ movedata MOVE_SPACIAL_REND, "Spacial Rend"
     terminatedata
     movedescription MOVE_SPACIAL_REND, "The user tears the\nfoe along with the\nspace around it.\nThis move has a high\ncritical-hit ratio."
 
-movedata MOVE_LUNAR_DANCE, "Lunar Dance"
-    battleeffect MOVE_EFFECT_FAINT_FULL_RESTORE_NEXT_MON
-    pss SPLIT_STATUS
-    basepower 0
-    type TYPE_PSYCHIC
-    accuracy 0
+movedata MOVE_LUNAR_DANCE, "Lunar Waltz"
+    battleeffect MOVE_EFFECT_CONTINUE_AND_CONFUSE_SELF
+    pss SPLIT_SPECIAL
+    basepower 120
+    type (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL
+    accuracy 100
     pp 10
     effectchance 0
-    target MOVE_TARGET_USER
+    target MOVE_TARGET_RANDOM
     priority 0
-    flags FLAG_HIDE_SHADOW | FLAG_SNATCH
-    appeal 0x08
+    flags FLAG_KINGS_ROCK | FLAG_MIRROR_MOVE | FLAG_PROTECT | FLAG_CONTACT
+    appeal 0x15
     contesttype CONTEST_BEAUTY
     terminatedata
-    movedescription MOVE_LUNAR_DANCE, "The user faints. In\nreturn, the Pokémon\ntaking its place will\nhave its status and\nHP fully restored."
+    movedescription MOVE_LUNAR_DANCE, "The user circles the\nfoe in a beautiful\nmoonlit dance for two\nto three turns before\nbecoming confused."
 
 movedata MOVE_CRUSH_GRIP, "Crush Grip"
     battleeffect MOVE_EFFECT_INCREASE_POWER_WITH_MORE_HP
@@ -13079,7 +13079,7 @@ movedata MOVE_TRIPLE_AXEL, "Triple Axel"
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_TRIPLE_AXEL, "---"
+    movedescription MOVE_TRIPLE_AXEL, "KICK Kick kick"
 
 movedata MOVE_DUAL_WINGBEAT, "Dual Wingbeat"
     battleeffect MOVE_EFFECT_HIT_TWICE
