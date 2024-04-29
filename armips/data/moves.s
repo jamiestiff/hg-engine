@@ -9367,7 +9367,7 @@ movedata MOVE_MISTY_TERRAIN, "Misty Terrain"
     appeal 0x05
     contesttype CONTEST_BEAUTY
     terminatedata
-    movedescription MOVE_MISTY_TERRAIN, ""The user covers the\nground under\neveryone's feet with\nmist for five turns.\n""
+    movedescription MOVE_MISTY_TERRAIN, "The user covers the\nground under\neveryone's feet with\nmist for five turns.\n"
 
 movedata MOVE_ELECTRIFY, "Electrify"
     battleeffect MOVE_EFFECT_HIT
