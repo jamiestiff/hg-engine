@@ -216,13 +216,13 @@ movedata MOVE_GUILLOTINE, "Guillotine"
     terminatedata
     movedescription MOVE_GUILLOTINE, "A vicious, tearing\nattack with pincers.\nThe foe will faint\ninstantly if this\nattack hits."
 
-movedata MOVE_RAZOR_WIND, "Razor Wind"
-    battleeffect MOVE_EFFECT_CHARGE_TURN_HIGH_CRIT
+movedata MOVE_RAZOR_WIND, "Cyclone"
+    battleeffect MOVE_EFFECT_THUNDER
     pss SPLIT_SPECIAL
-    basepower 80
-    type TYPE_NORMAL
-    accuracy 100
-    pp 10
+    basepower 120
+    type TYPE_FLYING
+    accuracy 70
+    pp 5
     effectchance 0
     target MOVE_TARGET_BOTH
     priority 0
@@ -230,7 +230,7 @@ movedata MOVE_RAZOR_WIND, "Razor Wind"
     appeal 0x06
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_RAZOR_WIND, "A two-turn attack.\nBlades of wind hit the\nfoe on the second\nturn. It has a high\ncritical-hit ratio."
+    movedescription MOVE_RAZOR_WIND, "The user whips up\na terrible hurricane.\nThis attack always\nduring heavy rain."
 
 movedata MOVE_SWORDS_DANCE, "Swords Dance"
     battleeffect MOVE_EFFECT_ATK_UP_2
@@ -2360,21 +2360,21 @@ movedata MOVE_DIZZY_PUNCH, "Dizzy Punch"
     terminatedata
     movedescription MOVE_DIZZY_PUNCH, "The foe is hit with\nrhythmically launched\npunches that may also\nleave it confused.\n"
 
-movedata MOVE_SPORE, "Spore"
+movedata MOVE_SPORE, "Spore Burst"
     battleeffect MOVE_EFFECT_STATUS_SLEEP
     pss SPLIT_STATUS
     basepower 0
     type TYPE_GRASS
-    accuracy 100
+    accuracy 75
     pp 15
     effectchance 0
-    target MOVE_TARGET_SELECTED
+    target MOVE_TARGET_BOTH
     priority 0
     flags FLAG_MIRROR_MOVE | FLAG_MAGIC_COAT | FLAG_PROTECT
     appeal 0x0A
     contesttype CONTEST_BEAUTY
     terminatedata
-    movedescription MOVE_SPORE, "The user scatters\nbursts of spores\nthat induce sleep.\n\n"
+    movedescription MOVE_SPORE, "The user scatters\nbursts of spores\nthat induce sleep\non both foes.\n"
 
 movedata MOVE_FLASH, "Flash"
     battleeffect MOVE_EFFECT_ACC_DOWN
@@ -3688,21 +3688,21 @@ movedata MOVE_RAPID_SPIN, "Rapid Spin"
     terminatedata
     movedescription MOVE_RAPID_SPIN, "A spin attack that\ncan also eliminate\nsuch moves as Bind,\nWrap, Leech Seed,\nand Spikes."
 
-movedata MOVE_SWEET_SCENT, "Sweet Scent"
-    battleeffect MOVE_EFFECT_EVA_DOWN
-    pss SPLIT_STATUS
-    basepower 0
-    type TYPE_NORMAL
+movedata MOVE_SWEET_SCENT, "Sakura Breeze"
+    battleeffect MOVE_EFFECT_RAISE_ALL_STATS_HIT
+    pss SPLIT_SPECIAL
+    basepower 40
+    type (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL
     accuracy 100
-    pp 20
-    effectchance 0
-    target MOVE_TARGET_BOTH
+    pp 5
+    effectchance 15
+    target MOVE_TARGET_SELECTED
     priority 0
-    flags FLAG_MIRROR_MOVE | FLAG_MAGIC_COAT | FLAG_PROTECT
-    appeal 0x13
-    contesttype CONTEST_CUTE
+    flags FLAG_KINGS_ROCK | FLAG_MIRROR_MOVE | FLAG_PROTECT
+    appeal 0x0B
+    contesttype CONTEST_SMART
     terminatedata
-    movedescription MOVE_SWEET_SCENT, "A sweet scent that\nlowers the foe’s\nevasiveness. It also\nlures wild Pokémon\nif used in grass, etc."
+    movedescription MOVE_SWEET_SCENT, "The user blows sweet\ncherry blossom at\nthe foe. It may also\nraise all the user’s\nstats at once."
 
 movedata MOVE_IRON_TAIL, "Iron Tail"
     battleeffect MOVE_EFFECT_LOWER_DEFENSE_HIT
@@ -5500,7 +5500,7 @@ movedata MOVE_COVET, "Covet"
     battleeffect MOVE_EFFECT_STEAL_HELD_ITEM
     pss SPLIT_PHYSICAL
     basepower 60
-    type TYPE_NORMAL
+    type (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL
     accuracy 100
     pp 25
     effectchance 0
@@ -7273,12 +7273,12 @@ movedata MOVE_AQUA_JET, "Aqua Jet"
     movedescription MOVE_AQUA_JET, "The user lunges at\nthe foe at a speed\nthat makes it almost\ninvisible. It is sure\nto strike first."
 
 movedata MOVE_ATTACK_ORDER, "Attack Order"
-    battleeffect MOVE_EFFECT_HIGH_CRITICAL
-    pss SPLIT_PHYSICAL
-    basepower 90
+    battleeffect MOVE_EFFECT_BIND_HIT
+    pss SPLIT_SPECIAL
+    basepower 20
     type TYPE_BUG
     accuracy 100
-    pp 15
+    pp 20
     effectchance 0
     target MOVE_TARGET_SELECTED
     priority 0
@@ -7286,7 +7286,7 @@ movedata MOVE_ATTACK_ORDER, "Attack Order"
     appeal 0x04
     contesttype CONTEST_SMART
     terminatedata
-    movedescription MOVE_ATTACK_ORDER, "The user calls out\nits underlings to\npummel the foe.\nIt has a high\ncritical-hit ratio."
+    movedescription MOVE_ATTACK_ORDER, "The target is\ninfested for four to\nfive turns. The foe\ncannot flee during\nthis time."
 
 movedata MOVE_DEFEND_ORDER, "Defend Order"
     battleeffect MOVE_EFFECT_DEF_SPD_UP
@@ -7432,21 +7432,21 @@ movedata MOVE_MAGMA_STORM, "Magma Storm"
     terminatedata
     movedescription MOVE_MAGMA_STORM, "The foe becomes\ntrapped within a\nmaelstrom of fire\nthat rages for two\nto five turns."
 
-movedata MOVE_DARK_VOID, "Dark Void"
+movedata MOVE_DARK_VOID, "Lights Out"
     battleeffect MOVE_EFFECT_STATUS_SLEEP
     pss SPLIT_STATUS
     basepower 0
     type TYPE_DARK
-    accuracy 50
+    accuracy 100
     pp 10
     effectchance 0
-    target MOVE_TARGET_BOTH
+    target MOVE_TARGET_SELECTED
     priority 0
     flags FLAG_HIDE_SHADOW | FLAG_MIRROR_MOVE | FLAG_MAGIC_COAT | FLAG_PROTECT
     appeal 0x13
     contesttype CONTEST_SMART
     terminatedata
-    movedescription MOVE_DARK_VOID, "The foe is dragged\ninto a world of total\ndarkness that puts it\nto sleep.\n"
+    movedescription MOVE_DARK_VOID, "The foe is dragged\ninto a world of total\ndarkness that puts\nthem to sleep.\n"
 
 movedata MOVE_SEED_FLARE, "Seed Flare"
     battleeffect MOVE_EFFECT_LOWER_SP_DEF_2_HIT
@@ -8665,7 +8665,7 @@ movedata MOVE_STEAMROLLER, "Steamroller"
     movedescription MOVE_STEAMROLLER, "The user crushes\nthe foe with its\nbody. It may also\nmake the foe flinch."
 
 movedata MOVE_COTTON_GUARD, "Cotton Guard"
-    battleeffect MOVE_EFFECT_HIT
+    battleeffect MOVE_EFFECT_DEF_UP_2
     pss SPLIT_STATUS
     basepower 0
     type TYPE_GRASS
@@ -8678,7 +8678,7 @@ movedata MOVE_COTTON_GUARD, "Cotton Guard"
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_COTTON_GUARD, "The user protects\nitself with cotton,\ndrastically raising\nits Defense."
+    movedescription MOVE_COTTON_GUARD, "The user protects\nitself with cotton,\nsharply raising\nits Defense."
 
 movedata MOVE_NIGHT_DAZE, "Night Daze"
     battleeffect MOVE_EFFECT_LOWER_ACCURACY_HIT
@@ -8840,21 +8840,21 @@ movedata MOVE_SECRET_SWORD, "Secret Sword"
     terminatedata
     movedescription MOVE_SECRET_SWORD, "The user cuts with\nits long horn. The\nodd power in the\nhorn does physical\ndamage to the foe."
 
-movedata MOVE_GLACIATE, "Glaciate"
-    battleeffect MOVE_EFFECT_LOWER_SPEED_HIT
+movedata MOVE_GLACIATE, "Polar Vortex"
+    battleeffect MOVE_EFFECT_BLIZZARD
     pss SPLIT_SPECIAL
-    basepower 65
-    type TYPE_ICE
-    accuracy 95
+    basepower 150
+    type TYPE_FLYING
+    accuracy 60
     pp 10
-    effectchance 100
+    effectchance 20
     target MOVE_TARGET_BOTH
     priority 0
     flags FLAG_KEEP_HP_BAR | FLAG_PROTECT | FLAG_MIRROR_MOVE
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_GLACIATE, "The user attacks by\nblowing freezing cold\nair at opposing\nPokémon. This lowers\ntheir Speed."
+    movedescription MOVE_GLACIATE, "Both foes are\nblasted with sub-zero\nwinds. This attack\nmay freeze, and will\nalways hit during hail."
 
 movedata MOVE_BOLT_STRIKE, "Bolt Strike"
     battleeffect MOVE_EFFECT_PARALYZE_HIT
