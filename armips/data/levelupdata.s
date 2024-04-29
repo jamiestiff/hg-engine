@@ -3444,7 +3444,7 @@ levelup SPECIES_MEW
 
 
 levelup SPECIES_CHIKORITA
-    learnset MOVE_TRIPLE_AXEL, 1
+    learnset MOVE_BODY_PRESS, 1
     learnset MOVE_SPORE, 1
 	learnset MOVE_RAZOR_WIND, 1
     learnset MOVE_LUNAR_DANCE, 1

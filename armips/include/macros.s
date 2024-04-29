@@ -17,7 +17,7 @@
 .endmacro
 
 .macro learnset,move,level
-.if move <= MOVE_MALIGNANT_CHAIN
+.if move <= MOVE_UPPER_HAND
     .word (level << 16 | move)
 .endif
 .endmacro
