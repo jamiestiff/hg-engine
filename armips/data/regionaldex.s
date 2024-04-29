@@ -833,8 +833,8 @@
 /* SPECIES_SILVALLY        */ .halfword 0
 /* SPECIES_MINIOR          */ .halfword 0
 /* SPECIES_KOMALA          */ .halfword 0
-/* SPECIES_TURTONATOR      */ .halfword 227
-/* SPECIES_TOGEDEMARU      */ .halfword 248
+/* SPECIES_TURTONATOR      */ .halfword 248
+/* SPECIES_TOGEDEMARU      */ .halfword 165
 /* SPECIES_MIMIKYU         */ .halfword 0
 /* SPECIES_BRUXISH         */ .halfword 0
 /* SPECIES_DRAMPA          */ .halfword 247
@@ -1007,7 +1007,7 @@
 /* SPECIES_BRAMBLEGHAST    */ .halfword 0
 /* SPECIES_TOEDSCOOL       */ .halfword 74
 /* SPECIES_TOEDSCRUEL      */ .halfword 75
-/* SPECIES_KLAWF           */ .halfword 246
+/* SPECIES_KLAWF           */ .halfword 192
 /* SPECIES_CAPSAKID        */ .halfword 0
 /* SPECIES_SCOVILLAIN      */ .halfword 0
 /* SPECIES_RELLOR          */ .halfword 0
