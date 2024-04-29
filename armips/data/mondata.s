@@ -35,7 +35,7 @@ mondata SPECIES_NONE, "-----"
 
 mondata SPECIES_BULBASAUR, "Bulbasaur"
     basestats 45, 49, 49, 45, 65, 65
-    types TYPE_GRASS, TYPE_POISON
+    types TYPE_GRASS, TYPE_ELECTRIC
     catchrate 45
     baseexp 0 // defined in baseexp.s
     evyields 0, 0, 0, 0, 1, 0
