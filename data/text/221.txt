@@ -102,8 +102,8 @@ A fossil of an ancient Pokémon that\nlived in the sea. It appears to be\npart o
 A fossil of an ancient Pokémon that\nlived in the sea. It appears to be\npart of a seashell.
 A fossil of an ancient Pokémon that\nlived in the sea. It appears to be\npart of a shell.
 A piece of amber that contains the\ngenetic material of an ancient Pokémon.\nIt is clear with a reddish tint.
-A fossil from a prehistoric Pokémon\nthat lived on the land. It appears to\nbe part of a collar.
-A fossil from a prehistoric Pokémon\nthat lived on the land. It appears to\nbe part of a head.
+A fossil from a prehistoric Pokémon that\nonce lived on the land. It looks as if\nit could be a piece of a large jaw.
+A fossil from a prehistoric Pokémon that\nonce lived on land. It looks like the\nimpression from a skin sail.
 A bone that is extremely valuable for\nPokémon archaeology. It can be sold\nfor a high price to shops.
 A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt shines with a dazzling light.
 A peculiar stone that makes certain\nspecies of Pokémon evolve.\nIt is as dark as dark can be.
@@ -326,15 +326,15 @@ A transparent device overflowing with\ndubious data.\nIts producer is unknown.
 A cloth imbued with horrifyingly strong\nspiritual energy.\nIt is loved by a certain Pokémon.
 An item to be held by a Pokémon.\nIt is a sharply hooked claw that ups\nthe holder’s critical-hit ratio.
 An item to be held by a Pokémon.\nIt may cause the foe to flinch when\nthe holder inflicts damage.
-The user focuses its mind before\nlaunching this attack. It will fail if\nthe user is hit before it is used.
-Sharp, huge claws hook and slash\nthe foe quickly and with great\npower.
-The foe is hit with a pulsing blast\nof water. It may also confuse the\ntarget.
+The user strikes the target with a\nfierce blow. This attack always results\nin a critical hit.
+The user exhales a mighty gust that\ninflicts damage. It may also paralyze\nthe target.
+The user shoots boiling hot water at\nits target. It may also leave the\ntarget with a burn.
 The user quietly focuses its mind and\ncalms its spirit to raise its Sp. Atk\nand Sp. Def stats.
-The foe is scared off, to be replaced\nby another Pokémon in its party.\nIn the wild, the battle ends.
+The user yells as if it is ranting\nabout something, making the target’s\nSp. Atk stat decrease.
 A move that leaves the foe badly\npoisoned. This poison damage\nworsens every turn.
 Summons a hailstorm that lasts for\nfive turns. The hailstorm damages\nall types except Ice.
 The user tenses its muscles to bulk up\nits body, boosting both its Attack and\nDefense stats.
-The user forcefully shoots seeds at\nthe foe. Two to five seeds are shot in\nrapid succession.
+Star-shaped rays are shot at opposing\nPokémon. This attack never misses.\n
 A variable move that changes type\nand power depending on the hidden\nability of the Pokémon using it.
 The user intensifies the sun for\nfive turns, powering up Fire-type\nmoves.
 The foe is taunted into a rage that\nallows it to use only attack moves for\ntwo to four turns.
@@ -346,76 +346,76 @@ It enables the user to evade all\nattacks. Its chance of failing rises\nif it is
 The user summons a heavy rain that\nfalls for five turns, powering up\nWater-type moves.
 A nutrient-draining attack. The user’s\nHP is restored by half the damage\ntaken by the target.
 The user creates a protective field\nthat prevents status problems like\npoison, paralysis, burn, and sleep.
-A full-power attack that grows more\npowerful the less the user likes its\nTrainer.
+This attack’s power increases the\nmore the foe has powered up with\nstat changes.
 A two-turn attack. The user gathers\nlight, then blasts a bundled beam on\nthe second turn.
-The foe is slammed with a sturdy\ntail of steel. It may also lower the\ntarget’s Defense stat if it hits.
+The foe slams the target with its\nsteel-hard head. It may also make the\ntarget flinch.
 A strong electric blast is loosed at\nthe foe. It may also leave the foe\nparalyzed.
 A wicked thunderbolt is dropped on the\nfoe to inflict damage. It may also\nleave the target paralyzed.
 The user sets off an earthquake\nthat hits all the Pokémon in the\nbattle.
 A full-power attack that grows more\npowerful the more the user likes its\nTrainer.
-The user burrows, then attacks on the\nsecond turn. It can also be used to\nexit dungeons.
+The user strikes everything around it\nby stomping down on the ground.\nThis lowers the Speed stat of those hit.
 The foe is hit by a strong telekinetic\nforce. It may also reduce the foe’s\nSp. Def stat.
 The user hurls a shadowy blob at the\nfoe. It may also lower the foe’s\nSp. Def stat.
-The user attacks with tough fists,\netc. It can also break any barrier\nsuch as Light Screen and Reflect.
+The user whirls its fists to send\na wave of pure vacuum at the foe.\nThis move always goes first.
 The user begins moving so quickly\nthat it creates illusory copies to\nraise its evasiveness.
 A wondrous wall of light is put up to\nsuppress damage from physical attacks\nfor five turns.
-The user strikes the foe with a quick\njolt of electricity. This attack cannot\nbe evaded.
+After making its attack, the user rushes\nback to switch places with a party\nPokémon in waiting.
 The foe is scorched with an intense\nblast of fire. The target may also be\nleft with a burn.
 Unsanitary sludge is hurled at\nthe foe. It may also poison the\ntarget.
 A five-turn sandstorm is summoned\nto hurt all combatants except the\nRock, Ground, and Steel types.
 The foe is attacked with an intense\nblast of all-consuming fire. It may\nalso leave the target with a burn.
 Large boulders are hurled at the foe\nto inflict damage. It lowers the foe’s\nSpeed.
-The user confounds the foe with speed,\nthen strikes. The attack lands without\nfail.
-The user torments and enrages the\nfoe, making it incapable of using the\nsame move twice in a row.
+The user launches razorlike wind to\nslash the foe. It has a high\ncritical-hit ratio.
+The user sharpens its claws to boost\nits Attack stat and accuracy.\n
 An attack move that doubles its power\nif the user is poisoned, paralyzed, or\nhas a burn.
-An attack move with effects that\nvary depending on the user’s\nenvironment.
+The user dances in the moonlight for\ntwo to three turns.\nThe user then becomes confused.
 The user goes to sleep for two\nturns. It fully restores the user’s HP\nand heals any status problem.
 If it is the opposite gender of the\nuser, the foe becomes infatuated\nand less likely to attack.
-The user attacks and steals the foe’s\nheld item simultaneously. It can’t\nsteal if the user holds an item.
+The user slaps down the foe’s held item,\npreventing the item from being used\nduring the battle.
 The foe is hit with wings of steel.\nIt may also raise the user’s Defense\nstat.
 The user employs its psychic power to\nexchange abilities with the foe.\n
-The user steals the effects of any\nhealing or status-changing move the\nfoe attempts to use.
-The user attacks the foe at full\npower using fiery energy. It also\nsharply reduces the user’s Sp. Atk.
+The user plays rough with the target\nand attacks it. This may also lower the\ntarget’s Attack stat.
+The user cloaks itself with flame and\nattacks. Building up more power,\nit raises the user’s Speed stat.
 The user lands and rests its body.\nIt restores the user’s HP by up to\nhalf of its max HP.
 The user attacks at full power.\nIt may also lower the foe’s Sp. Def\nstat if it hits.
 The user draws power from nature and\nfires it at the foe. It may also lower\nthe target’s Sp. Def.
-A restrained attack that prevents the\nfoe from fainting. The target is left\nwith at least 1 HP.
-If the foe’s HP is down to under half,\nthis attack will hit with double the\npower.
-The user flings its held item at the\nfoe to attack. Its power and effects\ndepend on the item.
+This move’s type and power change\ndepending on the weather at the time\nthe move is used.
+The user attacks by showering the foe\nwith water so cold that it lowers the\ntarget’s Attack stat.
+The user endearingly approaches\nthe foe, then steals the item\nthe foe is holding.
 The user attacks with an electric\ncharge. The user may use any remaining\nelectricity to raise its Sp. Atk stat.
-The user endures any attack, leaving\n1 HP. Its chance of failing rises if it\nis used in succession.
+The target is infested and attacked for\nfour to five turns.\nThe target can’t flee during this time.
 The foe is attacked with a shock\nwave generated by the user’s gaping\nmouth.
 An energy-draining punch. The user’s\nHP is restored by half the damage\ntaken by the target.
 The user shoots a sinister, bluish\nwhite flame at the foe to inflict a\nburn.
 The foe is attacked with powdery\nscales blown by wind. It may also\nraise all the user’s stats.
-It prevents the foe from using its\nheld item. Its Trainer is also\nprevented from using items on it.
+This relentless attack does massive\ndamage to a target affected by\nstatus conditions.
 The user explodes to inflict damage on\nall Pokémon in battle. The user faints\nupon using this move.
 The user slashes with a sharp claw\nmade from shadows. It has a high\ncritical-hit ratio.
-The user stores power, then attacks.\nIf the user can use this attack after\nthe foe, its power is doubled.
-The user recycles a single-use item\nthat has been used in battle so it can\nbe used again.
+The user bites the foe with toxic fangs.\nIt may also leave the foe\nbadly poisoned.
+The user attacks with a gust of\nchilled air. It also reduces the\ntarget’s Speed stat.
 The user charges the foe using every\nbit of its power. It must rest on the\nnext turn to recover.
-The user polishes its body to reduce\ndrag. It sharply raises the Speed\nstat.
+The user hurls mud in the foe’s face\nto inflict damage and lower\nits accuracy.
 The user flashes a light that cuts the\nfoe’s accuracy. It can also be used to\nilluminate caves.
 The user stabs the foe with a\nsharpened stone from below. It has\na high critical-hit ratio.
-An attack move that inflicts double\nthe damage if the user has been hurt\nby the foe in the same turn.
+A consecutive three-kick attack\nthat becomes more powerful with\neach successful hit.
 A weak electric charge is launched\nat the foe. It causes paralysis if it\nhits.
-The user tackles the foe from a\nhigh-speed spin. The slower the user,\nthe greater the damage.
-A frenetic dance to uplift the fighting\nspirit. It sharply raises the user’s\nAttack stat.
-The user lays a trap of levitating\nstones around the foe. The trap hurts\nfoes that switch into battle.
-The user hypnotizes itself into\ncopying any stat change made\nby the foe.
-If it is the opposite gender of the\nuser, the foe is charmed into sharply\nlowering its Sp. Atk stat.
+The foe is punched with a\nfiery fist. It may leave the target\nwith a burn.
+The foe is punched with an\nelectrified fist. It may leave the target\nwith paralysis.
+The foe is punched with an\nicy fist. It may leave the target\nfrozen.
+The user damages opposing Pokémon\nby emitting a powerful flash.\n
+The user nimbly strikes the target.\nThis attack does massive damage if\nthe user isn’t holding an item.
 The user releases a horrible aura\nimbued with dark thoughts. It may also\nmake the target flinch.
-Large boulders are hurled at the foe\nto inflict damage. It may also make the\ntarget flinch.
-The user slashes at the foe by\ncrossing its scythes or claws as if\nthey were a pair of scissors.
-While it is asleep, the user\nrandomly uses one of the moves\nit knows.
-The user draws power from the Berry\nit is holding to attack. The Berry\ndetermines its type and power.
+The user makes the ground under the\ntarget erupt with power. It may also\nlower the target’s Sp. Def.
+A blood-draining attack.\nThe user’s HP is restored by half the\ndamage taken by the target.
+After making its attack, the user rushes\nback to switch places with a party\nPokémon in waiting.
+The user’s body grows all at once,\nraising the Attack and Sp. Atk stats.\nIt is more effective in harsh sunlight.
 The foe is stabbed with a tentacle or\narm steeped with poison. It may also\npoison the foe.
-An attack that works only on a\nsleeping foe. It absorbs half the\ndamage caused to heal the user’s HP.
-The user snares the foe with grass\nand trips it. The heavier the foe, the\ngreater the damage.
-The user enrages the foe into\nconfusion. However, it also sharply\nraises the foe’s Attack stat.
-The user pecks the foe. If the foe is\nholding a Berry, the user plucks it and\ngains its effect.
+The user tears at the target with\nblades formed by psychic power.\nCritical hits land more easily.
+The user attacks suddenly as if leaping\nout from tall grass. The user’s nimble\nfootwork boosts its Speed stat.
+The user shrouds itself in electricity\nand smashes into its target.\nIt also damages the user a little.
+The user whips up a terrible hurricane,\nhitting all foes. This attack always\nhits during heavy rain.
 After making its attack, the user\nrushes back to switch places with a\nparty Pokémon in waiting.
-The user makes a copy of itself using\nsome of its HP. The copy serves as\nthe user’s decoy.
+The user rampages and attacks for\ntwo to three turns.\nIt then becomes confused, however.
 The user gathers all its light energy\nand releases it in one shot. It may\nalso lower the foe’s Sp. Def stat.
 The user creates a bizarre space in\nwhich slower Pokémon get to move\nfirst for five turns.
 The foe is cut with a scythe or a claw.\nIt can also be used to cut down thin\ntrees.
@@ -476,7 +476,7 @@ A very old-fashioned bell that makes a\ngentle ringing.
 A card key that opens a shutter in the\nRadio Tower.
 A key that opens a door in the\nGoldenrod Tunnel.
 A bottle used for watering plants in the\nBerry Pots.
-A scale from the red GYARADOS. It glows\nred like a flame.
+A scale from the red Gyarados. It glows\nred like a flame.
 The Poké Doll lost by the Copycat.
 A ticket required for riding the Magnet\nTrain. It allows you to ride whenever\nand however much you’d like.
 An important machine part for the\nPower Plant that was stolen.
