@@ -411,7 +411,7 @@ mondata SPECIES_PIDGEOT, "Pidgeot"
     mondexweight SPECIES_PIDGEOT, "87.1 lbs."
 
 
-mondata SPECIES_RATTATA, "Rattata"
+mondata SPECIES_RATTATA, "Sentret"
     basestats 30, 56, 35, 72, 25, 35
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 255
