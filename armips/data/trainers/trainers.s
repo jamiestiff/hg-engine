@@ -11795,8 +11795,8 @@ trainerdata 290, "Li"
         move MOVE_HIDDEN_POWER
         move MOVE_TELEPORT
         move MOVE_FUTURE_SIGHT
-        ability ABILITY_EARLY_BIRD
-        ball ITEM_NONE
+        ability ABILITY_FOREWARN
+        ball ITEM_LEVEL_BALL
         setivs 14, 17, 14, 17, 17, 14 // hp, atk, def, spd, spatk, spdef
         setevs 0, 0, 0, 0, 0, 0
         nature NATURE_CALM
@@ -11815,7 +11815,7 @@ trainerdata 290, "Li"
         move MOVE_HYPNOSIS
         move MOVE_GROWTH
         ability ABILITY_WATER_ABSORB
-        ball ITEM_NONE
+        ball ITEM_LURE_BALL
         setivs 15, 15, 0, 31, 15, 0 // hp, atk, def, spd, spatk, spdef
         setevs 0, 0, 0, 0, 0, 0
         nature NATURE_HASTY
@@ -11834,7 +11834,7 @@ trainerdata 290, "Li"
         move MOVE_GROWTH
         move MOVE_HIDDEN_POWER
         ability ABILITY_CHLOROPHYLL
-        ball ITEM_NONE
+        ball ITEM_FRIEND_BALL
         setivs 15, 16, 13, 13, 16, 14 // hp, atk, def, spd, spatk, spdef
         setevs 0, 0, 0, 0, 0, 0
         nature NATURE_SERIOUS
