@@ -316,9 +316,9 @@ _020C: // Trainer 29
     trainertextentry  29, TEXT_DEFEATED_IN_OVERWORLD, "Falkner’s skills are for real!\rDon’t get cocky!"
 
 _0218: // Trainer 50
-    trainertextentry  50, TEXT_NOTICE_IN_OVERWORLD, "Have you spoken to the guy at the front?\nNot that it matters...\rYou don't stand a chance against\nFalkner, with or without his advice!\n"
+    trainertextentry  50, TEXT_NOTICE_IN_OVERWORLD, "Have you spoken to the guy who hangs\naround at the front of the gym?\rNot that it matters...\rYou don't stand a chance against\nFalkner, with or without his advice!\r"
     trainertextentry  50, TEXT_DEFEATED_IN_BATTLE, "Did the man at the front give you\nadvice on how to beat me too?\n"
-    trainertextentry  50, TEXT_DEFEATED_IN_OVERWORLD, "Always speak to the guy at the front of\nthe gym.\rHe might not be a trainer but he knows\nhis stuff!\n"
+    trainertextentry  50, TEXT_DEFEATED_IN_OVERWORLD, "Always speak to the guy at the front of\nthe gyms.\rHe might not be a trainer, but he knows\nhis stuff!\n"
 
 _0224: // Trainer 10
     trainertextentry  10, TEXT_DOUBLE_NOTICE_IN_OVERWORLD_1, "Amy: Hey, are you challenging the\nLeader? No way!\r"
