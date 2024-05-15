@@ -4597,6 +4597,7 @@ levelup SPECIES_UNOWN
 	learnset MOVE_PSYWAVE, 1
 	learnset MOVE_MIRACLE_EYE, 1
 	learnset MOVE_MEAN_LOOK, 1
+    learnset MOVE_ANCIENT_POWER, 13
 	learnset MOVE_PSYCHO_SHIFT, 26
 	learnset MOVE_TRICK_ROOM, 26
 	learnset MOVE_PSYCHO_BOOST, 28
