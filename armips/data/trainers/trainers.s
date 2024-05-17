@@ -1817,24 +1817,55 @@ trainerdata 39, "Eugene"
         ballseal 0
     endparty
 
-trainerdata 40, "Mickey"
-    trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass CLASS_SUPER_NERD
-    nummons 1
+trainerdata 40, "Ethan"
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET | TRAINER_DATA_TYPE_SHINY_LOCK | TRAINER_DATA_TYPE_ADDITIONAL_FLAGS
+    trainerclass CLASS_PKMN_TRAINER_0
+    nummons 2
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EXPERT_ATTACKS | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_PRIORITIZE_DAMAGE | 0
     battletype SINGLE_BATTLE
     endentry
 
-    party 40
+    party 1
         // mon 0
-        ivs 0
+        ivs 50
         abilityslot 0
-        level 20
-        pokemon SPECIES_GRIMER
+        level 5
+        pokemon SPECIES_AIPOM
+        item ITEM_NONE
+        move MOVE_SCRATCH
+        move MOVE_TICKLE
+        move MOVE_NONE
+        move MOVE_NONE
+        ability ABILITY_RUN_AWAY
+        ball ITEM_NONE
+        setivs 15, 15, 15, 31, 15, 15 // hp, atk, def, spd, spatk, spdef
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_JOLLY
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
+        ballseal 0
+
+        // mon 1
+        ivs 50
+        abilityslot 0
+        level 7
+        pokemon SPECIES_MARILL
+        item ITEM_NONE
+        move MOVE_TACKLE
+        move MOVE_TICKLE
+        move MOVE_WATER_GUN
+        move MOVE_SWIFT
+        ability ABILITY_SAP_SIPPER
+        ball ITEM_NONE
+        setivs 31, 0, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
+        setevs 0, 0, 50, 0, 50, 0
+        nature NATURE_BOLD
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
         ballseal 0
     endparty
 

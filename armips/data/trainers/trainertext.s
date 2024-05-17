@@ -3112,6 +3112,11 @@ _1ADC: // Trainer 19
     trainertextentry 19, TEXT_NOTICE_IN_OVERWORLD, "I like flowers. Don't you?\r"
     trainertextentry 19, TEXT_DEFEATED_IN_BATTLE, "You're in full bloom!\n"
     trainertextentry 19, TEXT_DEFEATED_IN_OVERWORLD, "You're quite beautiful you know.\n"
+
+_01AE0: // Trainer 40
+    trainertextentry 40, TEXT_LAST_MON_CRITICAL, "We haven’t lost yet!\n"
+    trainertextentry 40, TEXT_LAST_MON_SENT_OUT, "One more to go!\n"
+    trainertextentry 40, TEXT_DEFEATED_IN_BATTLE, "Wow, nice work!\n"
 	
 .close
 
@@ -3159,7 +3164,7 @@ _1ADC: // Trainer 19
 /* Trainer  37 */ .halfword _1254
 /* Trainer  38 */ .halfword _0830
 /* Trainer  39 */ .halfword _0C68
-/* Trainer  40 */ .halfword _0000
+/* Trainer  40 */ .halfword _1AE0
 /* Trainer  41 */ .halfword _0FB4
 /* Trainer  42 */ .halfword _1170
 /* Trainer  43 */ .halfword _1008
