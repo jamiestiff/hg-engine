@@ -2472,24 +2472,55 @@ trainerdata 62, "Samuel"
         ballseal 0
     endparty
 
-trainerdata 63, "Mickey"
-    trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass CLASS_TEAM_ROCKET
-    nummons 1
+trainerdata 63, "Lyra"
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET | TRAINER_DATA_TYPE_SHINY_LOCK | TRAINER_DATA_TYPE_ADDITIONAL_FLAGS
+    trainerclass CLASS_PKMN_TRAINER_1
+    nummons 2
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_PRIORITIZE_DAMAGE | 0
     battletype SINGLE_BATTLE
     endentry
 
-    party 63
+    party 1
         // mon 0
-        ivs 30
+        ivs 50
         abilityslot 0
-        level 14
-        pokemon SPECIES_KOFFING
+        level 5
+        pokemon SPECIES_SKITTY
+        item ITEM_NONE
+        move MOVE_DOUBLE_SLAP
+        move MOVE_TICKLE
+        move MOVE_NONE
+        move MOVE_NONE
+        ability ABILITY_NORMALIZE
+        ball ITEM_NONE
+        setivs 15, 15, 15, 31, 15, 15 // hp, atk, def, spd, spatk, spdef
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_JOLLY
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
+        ballseal 0
+
+        // mon 1
+        ivs 50
+        abilityslot 0
+        level 7
+        pokemon SPECIES_MARILL
+        item ITEM_NONE
+        move MOVE_TACKLE
+        move MOVE_TICKLE
+        move MOVE_WATER_GUN
+        move MOVE_ROCK_SMASH
+        ability ABILITY_HUGE_POWER
+        ball ITEM_NONE
+        setivs 31, 31, 31, 31, 0, 31 // hp, atk, def, spd, spatk, spdef
+        setevs 0, 0, 0, 0, 0, 110
+        nature NATURE_ADAMANT
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
         ballseal 0
     endparty
 

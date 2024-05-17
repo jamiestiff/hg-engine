@@ -3113,11 +3113,16 @@ _1ADC: // Trainer 19
     trainertextentry 19, TEXT_DEFEATED_IN_BATTLE, "You're in full bloom!\n"
     trainertextentry 19, TEXT_DEFEATED_IN_OVERWORLD, "You're quite beautiful you know.\n"
 
-_01AE0: // Trainer 40
+_1AE0: // Trainer 40
     trainertextentry 40, TEXT_LAST_MON_CRITICAL, "We haven’t lost yet!\n"
     trainertextentry 40, TEXT_LAST_MON_SENT_OUT, "One more to go!\n"
     trainertextentry 40, TEXT_DEFEATED_IN_BATTLE, "Wow, nice work!\n"
-	
+
+_1AEC: // Trainer 63
+    trainertextentry 63, TEXT_LAST_MON_CRITICAL, "It's not over yet!\n"
+    trainertextentry 63, TEXT_LAST_MON_SENT_OUT, "It's up to you!\n"
+    trainertextentry 63, TEXT_DEFEATED_IN_BATTLE, "Awww, great job!\n"
+
 .close
 
 
@@ -3187,7 +3192,7 @@ _01AE0: // Trainer 40
 /* Trainer  60 */ .halfword _0A80
 /* Trainer  61 */ .halfword _0AB4
 /* Trainer  62 */ .halfword _0B20
-/* Trainer  63 */ .halfword _0000
+/* Trainer  63 */ .halfword _1AEC
 /* Trainer  64 */ .halfword _0B2C
 /* Trainer  65 */ .halfword _0B04
 /* Trainer  66 */ .halfword _0AC4
