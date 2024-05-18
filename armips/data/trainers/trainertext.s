@@ -10,11 +10,6 @@ _0000: // Trainer 0
        // Trainer 2
        // Trainer 3
        // Trainer 19
-       // Trainer 40
-       // Trainer 63
-       // Trainer 87
-       // Trainer 88
-       // Trainer 106
        // Trainer 107
        // Trainer 138
        // Trainer 141
@@ -3114,14 +3109,23 @@ _1ADC: // Trainer 19
     trainertextentry 19, TEXT_DEFEATED_IN_OVERWORLD, "You're quite beautiful you know.\n"
 
 _1AE0: // Trainer 40
-    trainertextentry 40, TEXT_LAST_MON_CRITICAL, "We haven’t lost yet!\n"
-    trainertextentry 40, TEXT_LAST_MON_SENT_OUT, "One more to go!\n"
+    trainertextentry 40, TEXT_LAST_MON_CRITICAL, "One more to go!\n"
+    trainertextentry 40, TEXT_LAST_MON_SENT_OUT, "We're not giving up!\n"
     trainertextentry 40, TEXT_DEFEATED_IN_BATTLE, "Wow, nice work!\n"
 
 _1AEC: // Trainer 63
-    trainertextentry 63, TEXT_LAST_MON_CRITICAL, "It's not over yet!\n"
-    trainertextentry 63, TEXT_LAST_MON_SENT_OUT, "It's up to you!\n"
+    trainertextentry 63, TEXT_LAST_MON_CRITICAL, "We're just getting started!\n"
+    trainertextentry 63, TEXT_LAST_MON_SENT_OUT, "It's not over yet!\n"
     trainertextentry 63, TEXT_DEFEATED_IN_BATTLE, "Awww, great job!\n"
+
+_1AF8: // Trainer 87
+    trainertextentry 87, TEXT_DEFEATED_IN_BATTLE, "You're a Trailblazer!\n"
+
+_1AFC: // Trainer 88
+    trainertextentry 88, TEXT_DEFEATED_IN_BATTLE, "You're on fire!\n"
+
+_1B00: // Trainer 106
+    trainertextentry 106, TEXT_DEFEATED_IN_BATTLE, "Woah, chill out!\n"
 
 .close
 
@@ -3216,8 +3220,8 @@ _1AEC: // Trainer 63
 /* Trainer  84 */ .halfword _05A8
 /* Trainer  85 */ .halfword _0C98
 /* Trainer  86 */ .halfword _0C80
-/* Trainer  87 */ .halfword _0000
-/* Trainer  88 */ .halfword _0000
+/* Trainer  87 */ .halfword _1AF8
+/* Trainer  88 */ .halfword _1AFC
 /* Trainer  89 */ .halfword _02A4
 /* Trainer  90 */ .halfword _0CE0
 /* Trainer  91 */ .halfword _0CEC
@@ -3235,7 +3239,7 @@ _1AEC: // Trainer 63
 /* Trainer 103 */ .halfword _09D4
 /* Trainer 104 */ .halfword _09E0
 /* Trainer 105 */ .halfword _1AD8
-/* Trainer 106 */ .halfword _0000
+/* Trainer 106 */ .halfword _1B00
 /* Trainer 107 */ .halfword _0000
 /* Trainer 108 */ .halfword _0DFC
 /* Trainer 109 */ .halfword _0E8C

@@ -1829,7 +1829,7 @@ trainerdata 40, "Ethan"
     battletype SINGLE_BATTLE
     endentry
 
-    party 1
+    party 40
         // mon 0
         ivs 50
         abilityslot 0
@@ -2484,7 +2484,7 @@ trainerdata 63, "Lyra"
     battletype SINGLE_BATTLE
     endentry
 
-    party 1
+    party 63
         // mon 0
         ivs 50
         abilityslot 0
@@ -3208,15 +3208,15 @@ trainerdata 86, "Randall"
         ballseal 0
     endparty
 
-trainerdata 87, "Mickey"
-    trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass CLASS_SAGE
+trainerdata 87, "Edgar"
+    trainermontype TRAINER_DATA_TYPE_MOVES
+    trainerclass CLASS_SUPER_NERD
     nummons 1
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EXPERT_ATTACKS | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | 0
     battletype SINGLE_BATTLE
     endentry
 
@@ -3224,20 +3224,24 @@ trainerdata 87, "Mickey"
         // mon 0
         ivs 0
         abilityslot 0
-        level 22
-        pokemon SPECIES_HAUNTER
+        level 18
+        pokemon SPECIES_JOLTIK
+        move MOVE_TRAILBLAZE
+        move MOVE_ELECTROWEB
+        move MOVE_NONE
+        move MOVE_NONE
         ballseal 0
     endparty
 
-trainerdata 88, "Mickey"
-    trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass CLASS_SAGE
-    nummons 5
+trainerdata 88, "Cole"
+    trainermontype TRAINER_DATA_TYPE_MOVES
+    trainerclass CLASS_WORKER
+    nummons 1
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EXPERT_ATTACKS | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | 0
     battletype SINGLE_BATTLE
     endentry
 
@@ -3245,36 +3249,12 @@ trainerdata 88, "Mickey"
         // mon 0
         ivs 0
         abilityslot 0
-        level 16
-        pokemon SPECIES_GASTLY
-        ballseal 0
-
-        // mon 1
-        ivs 0
-        abilityslot 0
-        level 16
-        pokemon SPECIES_GASTLY
-        ballseal 0
-
-        // mon 2
-        ivs 0
-        abilityslot 0
-        level 16
-        pokemon SPECIES_GASTLY
-        ballseal 0
-
-        // mon 3
-        ivs 0
-        abilityslot 0
-        level 16
-        pokemon SPECIES_GASTLY
-        ballseal 0
-
-        // mon 4
-        ivs 0
-        abilityslot 0
-        level 16
-        pokemon SPECIES_GASTLY
+        level 18
+        pokemon SPECIES_BLITZLE
+        move MOVE_FLAME_CHARGE
+        move MOVE_SHOCK_WAVE
+        move MOVE_NONE
+        move MOVE_NONE
         ballseal 0
     endparty
 
@@ -3815,7 +3795,7 @@ trainerdata 104, "Brian"
     endparty
 
 trainerdata 105, "Eusine"
-trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET | TRAINER_DATA_TYPE_SHINY_LOCK | TRAINER_DATA_TYPE_ADDITIONAL_FLAGS
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET | TRAINER_DATA_TYPE_SHINY_LOCK | TRAINER_DATA_TYPE_ADDITIONAL_FLAGS
     trainerclass CLASS_MYSTERY_MAN
     nummons 4
     item ITEM_MOOMOO_MILK
@@ -3904,15 +3884,15 @@ trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_
         ballseal 0
     endparty
 
-trainerdata 106, "Mickey"
-    trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass CLASS_ACE_TRAINER_M
-    nummons 3
+trainerdata 106, "Faye"
+    trainermontype TRAINER_DATA_TYPE_MOVES
+    trainerclass CLASS_AROMA_LADY
+    nummons 1
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_EXPERT_ATTACKS | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | 0
     battletype SINGLE_BATTLE
     endentry
 
@@ -3920,22 +3900,12 @@ trainerdata 106, "Mickey"
         // mon 0
         ivs 0
         abilityslot 0
-        level 10
-        pokemon SPECIES_BULBASAUR
-        ballseal 0
-
-        // mon 1
-        ivs 0
-        abilityslot 0
-        level 10
-        pokemon SPECIES_CHARMANDER
-        ballseal 0
-
-        // mon 2
-        ivs 0
-        abilityslot 0
-        level 10
-        pokemon SPECIES_SQUIRTLE
+        level 18
+        pokemon SPECIES_CLEFAIRY
+        move MOVE_CHILLING_WATER
+        move MOVE_MAGICAL_LEAF
+        move MOVE_NONE
+        move MOVE_NONE
         ballseal 0
     endparty
 
