@@ -3233,9 +3233,9 @@ trainerdata 87, "Edgar"
         ballseal 0
     endparty
 
-trainerdata 88, "Cole"
+trainerdata 88, "Seb"
     trainermontype TRAINER_DATA_TYPE_MOVES
-    trainerclass CLASS_WORKER
+    trainerclass CLASS_CYCLIST_M
     nummons 1
     item ITEM_NONE
     item ITEM_NONE
