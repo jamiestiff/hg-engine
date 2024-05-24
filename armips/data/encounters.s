@@ -2198,7 +2198,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 11, 12, 10, 11, 10, 10, 11, 11, 12, 11, 12, 11
+walklevels 11, 12, 10, 11, 10, 10, 11, 11, 12, 11, 12, 12
 
 // morning encounter slots
 pokemon SPECIES_WATTREL
@@ -2210,9 +2210,9 @@ pokemon SPECIES_SKITTY
 pokemon SPECIES_MEOWTH
 pokemon SPECIES_SKITTY
 pokemon SPECIES_MEOWTH
-pokemon SPECIES_HOUNDOUR
-pokemon SPECIES_HOUNDOUR
-pokemon SPECIES_PORYGON
+pokemon SPECIES_TOEDSCOOL
+pokemon SPECIES_TOEDSCOOL
+pokemon SPECIES_TOEDSCOOL
 
 // day encounter slots
 pokemon SPECIES_WATTREL
@@ -2224,9 +2224,9 @@ pokemon SPECIES_SKITTY
 pokemon SPECIES_MEOWTH
 pokemon SPECIES_SKITTY
 pokemon SPECIES_MEOWTH
-pokemon SPECIES_HOUNDOUR
-pokemon SPECIES_HOUNDOUR
-pokemon SPECIES_PORYGON
+pokemon SPECIES_TOEDSCOOL
+pokemon SPECIES_TOEDSCOOL
+pokemon SPECIES_TOEDSCOOL
 
 // night encounter slots
 pokemon SPECIES_HOOTHOOT
@@ -2235,12 +2235,12 @@ pokemon SPECIES_MEOWTH
 pokemon SPECIES_MEOWTH
 pokemon SPECIES_SNUBBULL
 pokemon SPECIES_SNUBBULL
-pokemon SPECIES_MEOWTH
-pokemon SPECIES_HOUNDOUR
-pokemon SPECIES_MEOWTH
-pokemon SPECIES_HOUNDOUR
-pokemon SPECIES_HOUNDOUR
-pokemon SPECIES_PORYGON
+pokemon SPECIES_WATTREL
+pokemon SPECIES_WATTREL
+pokemon SPECIES_WATTREL
+pokemon SPECIES_TOEDSCOOL
+pokemon SPECIES_TOEDSCOOL
+pokemon SPECIES_TOEDSCOOL
 
 // hoenn encounter slots
 pokemon SPECIES_WHISMUR
