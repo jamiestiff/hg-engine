@@ -15873,7 +15873,7 @@ const ITEMDATA __data[] =
 
 [ITEM_MUSCLE_BAND - NUM_UNKNOWN_SLOTS] =
 {
-    .price = 2000,
+    .price = 2500,
     .holdEffect = HOLD_EFFECT_BOOST_PHYSICAL,
     .holdEffectParam = 10,
     .pluckEffect = 0,
@@ -15938,7 +15938,7 @@ const ITEMDATA __data[] =
 
 [ITEM_WISE_GLASSES - NUM_UNKNOWN_SLOTS] =
 {
-    .price = 2000,
+    .price = 2500,
     .holdEffect = HOLD_EFFECT_BOOST_SPECIAL,
     .holdEffectParam = 10,
     .pluckEffect = 0,
