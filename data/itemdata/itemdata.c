@@ -3393,7 +3393,7 @@ const ITEMDATA __data[] =
 
 [ITEM_ZINC] =
 {
-    .price = 9800,
+    .price = 500,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -16458,7 +16458,7 @@ const ITEMDATA __data[] =
 
 [ITEM_FOCUS_SASH - NUM_UNKNOWN_SLOTS] =
 {
-    .price = 20000,
+    .price = 9999,
     .holdEffect = HOLD_EFFECT_HP_MAX_SURVIVE_1_HP,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -38688,7 +38688,7 @@ const ITEMDATA __data[] =
 
 [ITEM_ELECTRIC_SEED - NUM_UNKNOWN_SLOTS_EXPLORER_KIT] =
 {
-    .price = 20000, // Cost: 20000 Sell: 5000 
+    .price = 500, // Cost: 20000 Sell: 5000 
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -38753,7 +38753,7 @@ const ITEMDATA __data[] =
 
 [ITEM_GRASSY_SEED - NUM_UNKNOWN_SLOTS_EXPLORER_KIT] =
 {
-    .price = 20000, // Cost: 20000 Sell: 5000 
+    .price = 500, // Cost: 20000 Sell: 5000 
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -38818,7 +38818,7 @@ const ITEMDATA __data[] =
 
 [ITEM_MISTY_SEED - NUM_UNKNOWN_SLOTS_EXPLORER_KIT] =
 {
-    .price = 20000, // Cost: 20000 Sell: 5000 
+    .price = 500, // Cost: 20000 Sell: 5000 
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -38883,7 +38883,7 @@ const ITEMDATA __data[] =
 
 [ITEM_PSYCHIC_SEED - NUM_UNKNOWN_SLOTS_EXPLORER_KIT] =
 {
-    .price = 20000, // Cost: 20000 Sell: 5000 
+    .price = 500, // Cost: 20000 Sell: 5000 
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,

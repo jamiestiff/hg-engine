@@ -3494,8 +3494,6 @@ levelup SPECIES_BAYLEEF
 
 
 levelup SPECIES_MEGANIUM
-    learnset MOVE_PETAL_DANCE, 0
-	learnset MOVE_PETAL_BLIZZARD, 0
     learnset MOVE_PETAL_DANCE, 1
 	learnset MOVE_PETAL_BLIZZARD, 1
     learnset MOVE_EARTH_POWER, 1
@@ -3690,7 +3688,6 @@ levelup SPECIES_FURRET
     learnset MOVE_DEFENSE_CURL, 4
     learnset MOVE_QUICK_ATTACK, 7
     learnset MOVE_ME_FIRST, 13
-	learnset MOVE_AGILITY, 15
     learnset MOVE_COVET, 17
     learnset MOVE_FOLLOW_ME, 20
     learnset MOVE_REST, 26
@@ -3828,7 +3825,6 @@ levelup SPECIES_SPINARAK
 
 
 levelup SPECIES_ARIADOS
-    learnset MOVE_SWORDS_DANCE, 0
     learnset MOVE_SWORDS_DANCE, 1
     learnset MOVE_FOCUS_ENERGY, 1
     learnset MOVE_POISON_STING, 1
@@ -3921,9 +3917,6 @@ levelup SPECIES_LANTURN
     learnset MOVE_SHOCK_WAVE, 21
 	learnset MOVE_CHARGE, 23
 	learnset MOVE_FLAIL, 26
-	learnset MOVE_STOCKPILE, 27
-    learnset MOVE_SWALLOW, 27
-    learnset MOVE_SPIT_UP, 27
     learnset MOVE_SIGNAL_BEAM, 29
     learnset MOVE_DISCHARGE, 32
 	Learnset MOVE_SOAK, 36
@@ -3995,7 +3988,6 @@ levelup SPECIES_TOGEPI
 
 
 levelup SPECIES_TOGETIC
-    learnset MOVE_DISARMING_VOICE, 0
     learnset MOVE_GROWL, 1
     learnset MOVE_POUND, 1
     learnset MOVE_SWEET_KISS, 1
@@ -4060,7 +4052,6 @@ levelup SPECIES_XATU
 	learnset MOVE_PSYCHO_CUT, 22
     learnset MOVE_LUCKY_CHANT, 24
 	learnset MOVE_TAILWIND, 25
-	learnset MOVE_AIR_SLASH, 25
     learnset MOVE_CONFUSE_RAY, 27
     learnset MOVE_OMINOUS_WIND, 30
     learnset MOVE_PSYCHO_SHIFT, 33
@@ -4139,7 +4130,6 @@ levelup SPECIES_AMPHAROS
     learnset MOVE_TAKE_DOWN, 21
     learnset MOVE_SIGNAL_BEAM, 24
 	learnset MOVE_VOLT_SWITCH, 28
-	learnset MOVE_THUNDER_PUNCH, 30
     learnset MOVE_POWER_GEM, 34
     learnset MOVE_DISCHARGE, 38
     learnset MOVE_TAIL_GLOW, 43
@@ -5040,7 +5030,6 @@ levelup SPECIES_MAGCARGO
 	learnset MOVE_WILL_O_WISP, 20
 	learnset MOVE_LAVA_PLUME, 23
 	learnset MOVE_ANCIENT_POWER, 27
-	learnset MOVE_SHELL_SMASH, 28
 	learnset MOVE_ACID_ARMOR, 32
 	learnset MOVE_AMNESIA, 32
 	learnset MOVE_BODY_SLAM, 36

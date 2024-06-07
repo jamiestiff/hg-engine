@@ -1087,8 +1087,8 @@ trainerdata 30, "Whitney"
         move MOVE_TRAILBLAZE
         ability ABILITY_CUTE_CHARM
         ball ITEM_LOVE_BALL
-        setivs 15, 15, 0, 31, 0, 0 // hp, atk, def, spd, spatk, spdef
-        setevs 20, 20, 20, 0, 0, 0
+        setivs 15, 15, 15, 31, 0, 15 // hp, atk, def, spd, spatk, spdef
+        setevs 20, 100, 0, 20, 0, 20
         nature NATURE_JOLLY
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
@@ -1107,7 +1107,7 @@ trainerdata 30, "Whitney"
         ability ABILITY_COMPETITIVE
         ball ITEM_LOVE_BALL
         setivs 10, 10, 10, 31, 31, 10 // hp, atk, def, spd, spatk, spdef
-        setevs 0, 0, 0, 100, 0, 0
+        setevs 0, 0, 0, 100, 100, 0
         nature NATURE_HASTY
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
@@ -1119,7 +1119,7 @@ trainerdata 30, "Whitney"
         level 21
         pokemon SPECIES_MILTANK
         item ITEM_LUM_BERRY
-        move MOVE_ROLLOUT
+        move MOVE_BULLDOZE
         move MOVE_ATTRACT
         move MOVE_STOMP
         move MOVE_MILK_DRINK
@@ -3909,9 +3909,9 @@ trainerdata 106, "Faye"
         ballseal 0
     endparty
 
-trainerdata 107, "Mickey"
+trainerdata 107, "Grunt"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass CLASS_ACE_TRAINER_M
+    trainerclass CLASS_TEAM_ROCKET
     nummons 3
     item ITEM_NONE
     item ITEM_NONE
@@ -3925,22 +3925,22 @@ trainerdata 107, "Mickey"
         // mon 0
         ivs 0
         abilityslot 0
-        level 10
-        pokemon SPECIES_BULBASAUR
+        level 30
+        pokemon SPECIES_HOUNDOUR
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 10
-        pokemon SPECIES_CHARMANDER
+        level 30
+        pokemon SPECIES_CROAGUNK
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 10
-        pokemon SPECIES_SQUIRTLE
+        level 30
+        pokemon SPECIES_MURKROW
         ballseal 0
     endparty
 
@@ -4908,9 +4908,9 @@ trainerdata 137, "Vance"
         ballseal 0
     endparty
 
-trainerdata 138, "Mickey"
+trainerdata 138, "Grunt"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass CLASS_CAMPER
+    trainerclass CLASS_TEAM_ROCKET_1
     nummons 1
     item ITEM_NONE
     item ITEM_NONE
@@ -4924,8 +4924,8 @@ trainerdata 138, "Mickey"
         // mon 0
         ivs 0
         abilityslot 0
-        level 15
-        pokemon SPECIES_NIDORINO
+        level 34
+        pokemon SPECIES_MALAMAR
         ballseal 0
     endparty
 
@@ -4978,9 +4978,9 @@ trainerdata 140, "Doug"
         ballseal 0
     endparty
 
-trainerdata 141, "Mickey"
+trainerdata 141, "Grunt"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass CLASS_CAMPER
+    trainerclass CLASS_TEAM_ROCKET
     nummons 1
     item ITEM_NONE
     item ITEM_NONE
@@ -4994,8 +4994,8 @@ trainerdata 141, "Mickey"
         // mon 0
         ivs 0
         abilityslot 0
-        level 15
-        pokemon SPECIES_NIDORINO
+        level 34
+        pokemon SPECIES_TOEDSCRUEL
         ballseal 0
     endparty
 
@@ -17832,7 +17832,7 @@ trainerdata 478, "Ariana"
         move MOVE_FIRE_FANG
         move MOVE_ICE_FANG
         move MOVE_THUNDER_FANG
-        ability ABILITY_INTIMIDATE
+        ability ABILITY_STRONG_JAW
         ball ITEM_LOVE_BALL
         setivs 31, 31, 20, 20, 20, 20 // hp, atk, def, spd, spatk, spdef
         setevs 252, 252, 0, 0, 0, 4
@@ -17961,7 +17961,7 @@ trainerdata 479, "Ariana"
         move MOVE_FIRE_FANG
         move MOVE_ICE_FANG
         move MOVE_THUNDER_FANG
-        ability ABILITY_INTIMIDATE
+        ability ABILITY_STRONG_JAW
         ball ITEM_LOVE_BALL
         setivs 31, 31, 20, 20, 20, 20 // hp, atk, def, spd, spatk, spdef
         setevs 200, 200, 0, 0, 0, 0

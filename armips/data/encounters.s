@@ -14774,3 +14774,4 @@ pokemon SPECIES_MAGIKARP
 .close
 
 
+            

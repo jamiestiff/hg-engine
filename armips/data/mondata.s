@@ -3741,7 +3741,7 @@ mondata SPECIES_NATU, "Natu"
     basefriendship 50
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_FLYING, EGG_GROUP_FLYING
-    abilities ABILITY_MAGIC_BOUNCE, ABILITY_FOREWARN
+    abilities ABILITY_EARLY_BIRD, ABILITY_FOREWARN
     runchance 0
     colorflip BODY_COLOR_GREEN, 0
     mondexentry SPECIES_NATU, "Because its wings aren’t yet fully\ngrown, it has to hop to get around.\nIt is always staring at something."
@@ -3762,7 +3762,7 @@ mondata SPECIES_XATU, "Xatu"
     basefriendship 50
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_FLYING, EGG_GROUP_FLYING
-    abilities ABILITY_MAGIC_BOUNCE, ABILITY_FOREWARN
+    abilities ABILITY_PSYCHIC_SURGE, ABILITY_FOREWARN
     runchance 0
     colorflip BODY_COLOR_GREEN, 0
     mondexentry SPECIES_XATU, "They say that it stays still and\nquiet because it is seeing both the\npast and future at the same time."

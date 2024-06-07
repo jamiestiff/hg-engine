@@ -9,10 +9,6 @@
 _0000: // Trainer 0
        // Trainer 2
        // Trainer 3
-       // Trainer 19
-       // Trainer 107
-       // Trainer 138
-       // Trainer 141
        // Trainer 165
        // Trainer 166
        // Trainer 167
@@ -3127,6 +3123,21 @@ _1AFC: // Trainer 88
 _1B00: // Trainer 106
     trainertextentry 106, TEXT_DEFEATED_IN_BATTLE, "Woah, chill out!\n"
 
+_1B04: // Trainer 107
+    trainertextentry 107, TEXT_NOTICE_IN_OVERWORLD, "You want to go to the Safari Zone?\nNot now, beat it kid."
+    trainertextentry 107, TEXT_DEFEATED_IN_BATTLE, "Hey, wait a second!\n"
+    trainertextentry 107, TEXT_DEFEATED_IN_OVERWORLD, "Turn back.\nIt's for your own good."
+
+_1B10: // Trainer 138
+    trainertextentry 138, TEXT_NOTICE_IN_OVERWORLD, "This new Safari Zone is meant to be\nsuper high-tech.\rSounds like profit to me!\n"
+    trainertextentry 138, TEXT_DEFEATED_IN_BATTLE, "I'm at a loss!\n"
+    trainertextentry 138, TEXT_DEFEATED_IN_OVERWORLD, "You're too late y'know.\n"
+
+_1B1C: // Trainer 141
+    trainertextentry 141, TEXT_NOTICE_IN_OVERWORLD, "Acquiring the communication parts used\nin the Safari Zone is essential for our\foverarching goals.\rYou will not be proceeding\npast this point!"
+    trainertextentry 141, TEXT_DEFEATED_IN_BATTLE, "Hmmm, I see...\n"
+    trainertextentry 141, TEXT_DEFEATED_IN_OVERWORLD, "I might have lost here, but our boss,\nArcher, could trounce you easily.\n"
+	
 .close
 
 
@@ -3240,7 +3251,7 @@ _1B00: // Trainer 106
 /* Trainer 104 */ .halfword _09E0
 /* Trainer 105 */ .halfword _1AD8
 /* Trainer 106 */ .halfword _1B00
-/* Trainer 107 */ .halfword _0000
+/* Trainer 107 */ .halfword _1B04
 /* Trainer 108 */ .halfword _0DFC
 /* Trainer 109 */ .halfword _0E8C
 /* Trainer 110 */ .halfword _0334
@@ -3271,10 +3282,10 @@ _1B00: // Trainer 106
 /* Trainer 135 */ .halfword _0808
 /* Trainer 136 */ .halfword _05B0
 /* Trainer 137 */ .halfword _0D94
-/* Trainer 138 */ .halfword _0000
+/* Trainer 138 */ .halfword _1B10
 /* Trainer 139 */ .halfword _0F18
 /* Trainer 140 */ .halfword _061C
-/* Trainer 141 */ .halfword _0000
+/* Trainer 141 */ .halfword _1B1C
 /* Trainer 142 */ .halfword _1A50
 /* Trainer 143 */ .halfword _0E18
 /* Trainer 144 */ .halfword _0E24
