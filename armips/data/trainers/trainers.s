@@ -1239,9 +1239,9 @@ trainerdata 32, "Pryce"
         // mon 0
         ivs 50
         abilityslot 0
-        level 41
+        level 40
         pokemon SPECIES_DELIBIRD
-        item ITEM_NONE
+        item ITEM_FOCUS_SASH
         move MOVE_FAKE_OUT
         move MOVE_BLIZZARD
         move MOVE_AIR_SLASH
@@ -1258,7 +1258,7 @@ trainerdata 32, "Pryce"
         // mon 1
         ivs 50
         abilityslot 0
-        level 43
+        level 41
         pokemon SPECIES_DEWGONG
         item ITEM_CHESTO_BERRY
         move MOVE_CHILLING_WATER
@@ -1277,7 +1277,7 @@ trainerdata 32, "Pryce"
         // mon 2
         ivs 50
         abilityslot 0
-        level 43
+        level 41
         pokemon SPECIES_MAMOSWINE
         item ITEM_SITRUS_BERRY
         move MOVE_HAIL
@@ -1296,9 +1296,9 @@ trainerdata 32, "Pryce"
 		// mon 3
         ivs 50
         abilityslot 0
-        level 41
+        level 40
         pokemon SPECIES_STANTLER
-        item ITEM_NONE
+        item ITEM_CHOPLE_BERRY
         move MOVE_PSYCHO_CUT
         move MOVE_MEGAHORN
         move MOVE_JUMP_KICK
@@ -1315,9 +1315,9 @@ trainerdata 32, "Pryce"
 		// mon 4
         ivs 50
         abilityslot 0
-        level 41
+        level 40
         monwithform SPECIES_SANDSLASH, 1 // alolan Sandslash
-        item ITEM_NONE
+        item ITEM_NEVER_MELT_ICE
         move MOVE_ICICLE_CRASH
         move MOVE_IRON_HEAD
         move MOVE_BULLDOZE
@@ -1334,7 +1334,7 @@ trainerdata 32, "Pryce"
 		// mon 5
         ivs 50
         abilityslot 0
-        level 44
+        level 42
         pokemon SPECIES_MR_RIME
         item ITEM_WISE_GLASSES
         move MOVE_BLIZZARD
@@ -1343,7 +1343,7 @@ trainerdata 32, "Pryce"
         move MOVE_ENERGY_BALL
         ability ABILITY_FILTER
         ball ITEM_QUICK_BALL
-        setivs 0, 0, 30, 30, 30, 30 // hp, atk, def, spd, spatk, spdef
+        setivs 30, 0, 30, 30, 30, 30 // hp, atk, def, spd, spatk, spdef
         setevs 0, 0, 0, 252, 252, 4
         nature NATURE_MODEST
         shinylock 0
@@ -4409,7 +4409,7 @@ trainerdata 122, "Marvin"
         // mon 0
         ivs 0
         abilityslot 0
-        level 27
+        level 30
         pokemon SPECIES_REMORAID
         move MOVE_OCTAZOOKA
         move MOVE_PSYBEAM
@@ -4420,7 +4420,7 @@ trainerdata 122, "Marvin"
         // mon 1
         ivs 0
         abilityslot 0
-        level 28
+        level 30
         pokemon SPECIES_GYARADOS
         move MOVE_THRASH
         move MOVE_SURF
@@ -4436,7 +4436,7 @@ trainerdata 122, "Marvin"
         move MOVE_OCTAZOOKA
         move MOVE_ROCK_BLAST
         move MOVE_BULLET_SEED
-        move MOVE_DIVE
+        move MOVE_FIRE_BLAST
         ballseal 0
     endparty
 
@@ -4456,7 +4456,7 @@ trainerdata 123, "Tully"
         // mon 0
         ivs 0
         abilityslot 0
-        level 29
+        level 33
         pokemon SPECIES_QWILFISH
         ballseal 0
     endparty
@@ -4653,14 +4653,14 @@ trainerdata 129, "Shane"
         // mon 0
         ivs 0
         abilityslot 0
-        level 26
+        level 31
         pokemon SPECIES_SANDILE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 26
+        level 31
         pokemon SPECIES_KLAWF
         ballseal 0
     endparty
@@ -4681,7 +4681,7 @@ trainerdata 130, "Beckett"
         // mon 0
         ivs 0
         abilityslot 0
-        level 32
+        level 33
         pokemon SPECIES_POLITOED
         ballseal 0
     endparty
@@ -4702,14 +4702,14 @@ trainerdata 131, "Brent"
         // mon 0
         ivs 0
         abilityslot 0
-        level 30
+        level 32
         pokemon SPECIES_BLITZLE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 31
+        level 32
         pokemon SPECIES_ZEBSTRIKA
         ballseal 0
     endparty
@@ -4730,7 +4730,7 @@ trainerdata 132, "Ron"
         // mon 0
         ivs 0
         abilityslot 32
-        level 31
+        level 33
         pokemon SPECIES_DRUDDIGON
         ballseal 0
     endparty
@@ -4779,22 +4779,22 @@ trainerdata 134, "Benjamin"
         // mon 0
         ivs 0
         abilityslot 0
-        level 25
+        level 30
         pokemon SPECIES_DRILBUR
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 25
+        level 30
         monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 25
-        pokemon SPECIES_DRILBUR
+        level 32
+        monwithform SPECIES_SANDSLASH, 1 // alolan Sandshrew
         ballseal 0
     endparty
 
@@ -15299,7 +15299,7 @@ trainerdata 402, "Tiffany"
         // mon 0
         ivs 0
         abilityslot 0
-        level 31
+        level 33
         pokemon SPECIES_CLEFABLE
         move MOVE_ENCORE
         move MOVE_ICY_WIND

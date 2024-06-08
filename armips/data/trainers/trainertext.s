@@ -3124,17 +3124,17 @@ _1B00: // Trainer 106
     trainertextentry 106, TEXT_DEFEATED_IN_BATTLE, "Woah, chill out!\n"
 
 _1B04: // Trainer 107
-    trainertextentry 107, TEXT_NOTICE_IN_OVERWORLD, "You want to go to the Safari Zone?\nNot now, beat it kid."
+    trainertextentry 107, TEXT_NOTICE_IN_OVERWORLD, "You want to go to the Safari Zone?\nNot now, beat it kid.\r"
     trainertextentry 107, TEXT_DEFEATED_IN_BATTLE, "Hey, wait a second!\n"
     trainertextentry 107, TEXT_DEFEATED_IN_OVERWORLD, "Turn back.\nIt's for your own good."
 
 _1B10: // Trainer 138
-    trainertextentry 138, TEXT_NOTICE_IN_OVERWORLD, "This new Safari Zone is meant to be\nsuper high-tech.\rSounds like profit to me!\n"
+    trainertextentry 138, TEXT_NOTICE_IN_OVERWORLD, "This new Safari Zone is meant to be\nsuper high-tech.\rSounds like profit to me!\r"
     trainertextentry 138, TEXT_DEFEATED_IN_BATTLE, "I'm at a loss!\n"
     trainertextentry 138, TEXT_DEFEATED_IN_OVERWORLD, "You're too late y'know.\n"
 
 _1B1C: // Trainer 141
-    trainertextentry 141, TEXT_NOTICE_IN_OVERWORLD, "Acquiring the communication parts used\nin the Safari Zone is essential for our\foverarching goals.\rYou will not be proceeding\npast this point!"
+    trainertextentry 141, TEXT_NOTICE_IN_OVERWORLD, "Acquiring the communication parts used\nin the Safari Zone is essential for our\foverarching goals.\rYou will not be proceeding\npast this point!\r"
     trainertextentry 141, TEXT_DEFEATED_IN_BATTLE, "Hmmm, I see...\n"
     trainertextentry 141, TEXT_DEFEATED_IN_OVERWORLD, "I might have lost here, but our boss,\nArcher, could trounce you easily.\n"
 	
