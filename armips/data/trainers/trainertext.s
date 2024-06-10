@@ -9,8 +9,6 @@
 _0000: // Trainer 0
        // Trainer 2
        // Trainer 3
-       // Trainer 165
-       // Trainer 166
        // Trainer 167
        // Trainer 168
        // Trainer 169
@@ -3137,6 +3135,16 @@ _1B1C: // Trainer 141
     trainertextentry 141, TEXT_NOTICE_IN_OVERWORLD, "Acquiring the communication parts used\nin the Safari Zone is essential for our\foverarching goals.\rYou will not be proceeding\npast this point!\r"
     trainertextentry 141, TEXT_DEFEATED_IN_BATTLE, "Hmmm, I see...\n"
     trainertextentry 141, TEXT_DEFEATED_IN_OVERWORLD, "I might have lost here, but our boss,\nArcher, could trounce you easily.\n"
+
+_1B28: // Trainer 165
+    trainertextentry 165, TEXT_LAST_MON_CRITICAL, "Time to strike!\n"
+    trainertextentry 165, TEXT_LAST_MON_SENT_OUT, "It's not over yet!\n"
+    trainertextentry 165, TEXT_DEFEATED_IN_BATTLE, "You're amazing!\n"
+
+_1B34: // Trainer 166
+    trainertextentry 166, TEXT_LAST_MON_CRITICAL, "Time to strike!\n"
+    trainertextentry 166, TEXT_LAST_MON_SENT_OUT, "It's not over yet!\n"
+    trainertextentry 166, TEXT_DEFEATED_IN_BATTLE, "You're amazing!\n"
 	
 .close
 
@@ -3309,8 +3317,8 @@ _1B1C: // Trainer 141
 /* Trainer 162 */ .halfword _0E7C
 /* Trainer 163 */ .halfword _0E80
 /* Trainer 164 */ .halfword _0E84
-/* Trainer 165 */ .halfword _0000
-/* Trainer 166 */ .halfword _0000
+/* Trainer 165 */ .halfword _1B28
+/* Trainer 166 */ .halfword _1B34
 /* Trainer 167 */ .halfword _0000
 /* Trainer 168 */ .halfword _0000
 /* Trainer 169 */ .halfword _0000

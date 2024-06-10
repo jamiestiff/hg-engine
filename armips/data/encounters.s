@@ -1697,30 +1697,30 @@ pokemon SPECIES_ONIX
 
 // day encounter slots
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_RATICATE
+pokemon SPECIES_DWEBBLE
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_RATICATE
+pokemon SPECIES_ARON
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_GOLBAT
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_RATTATA
+pokemon SPECIES_DWEBBLE
+pokemon SPECIES_ARON
+pokemon SPECIES_ARON
 pokemon SPECIES_ONIX
-pokemon SPECIES_RATTATA
+pokemon SPECIES_DWEBBLE
 pokemon SPECIES_ONIX
 
 // night encounter slots
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_RATICATE
+pokemon SPECIES_DWEBBLE
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_RATICATE
+pokemon SPECIES_ARON
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_GOLBAT
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_RATTATA
+pokemon SPECIES_DWEBBLE
+pokemon SPECIES_ARON
+pokemon SPECIES_ARON
 pokemon SPECIES_ONIX
-pokemon SPECIES_RATTATA
+pokemon SPECIES_DWEBBLE
 pokemon SPECIES_ONIX
 
 // hoenn encounter slots
@@ -6150,18 +6150,18 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 33, 34, 34, 35, 33, 34, 35, 35, 35, 34, 37, 35
+walklevels 30, 31, 31, 32, 30, 31, 32, 32, 32, 31, 34, 32
 
 // morning encounter slots
 pokemon SPECIES_INKAY
 pokemon SPECIES_WEEPINBELL
 pokemon SPECIES_SNORUNT
-pokemon SPECIES_WEEPINBELL
-pokemon SPECIES_STUNFISK
 pokemon SPECIES_SNORUNT
+pokemon SPECIES_SWINUB
+pokemon SPECIES_STANTLER
+pokemon SPECIES_SWINUB
 pokemon SPECIES_STUNFISK
-pokemon SPECIES_STUNFISK
-pokemon SPECIES_INKAY
+monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
 pokemon SPECIES_DRAMPA
 pokemon SPECIES_VICTREEBEL
 pokemon SPECIES_DRAMPA
@@ -6170,12 +6170,12 @@ pokemon SPECIES_DRAMPA
 pokemon SPECIES_INKAY
 pokemon SPECIES_WEEPINBELL
 pokemon SPECIES_SNORUNT
-pokemon SPECIES_WEEPINBELL
-pokemon SPECIES_STUNFISK
 pokemon SPECIES_SNORUNT
+pokemon SPECIES_SWINUB
+pokemon SPECIES_STANTLER
+pokemon SPECIES_SWINUB
 pokemon SPECIES_STUNFISK
-pokemon SPECIES_STUNFISK
-pokemon SPECIES_INKAY
+monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
 pokemon SPECIES_DRAMPA
 pokemon SPECIES_VICTREEBEL
 pokemon SPECIES_DRAMPA
@@ -6184,12 +6184,12 @@ pokemon SPECIES_DRAMPA
 pokemon SPECIES_INKAY
 pokemon SPECIES_WEEPINBELL
 pokemon SPECIES_SNORUNT
-pokemon SPECIES_WEEPINBELL
-pokemon SPECIES_STUNFISK
 pokemon SPECIES_SNORUNT
+pokemon SPECIES_SWINUB
+pokemon SPECIES_STANTLER
+pokemon SPECIES_SWINUB
 pokemon SPECIES_STUNFISK
-pokemon SPECIES_SNORUNT
-pokemon SPECIES_INKAY
+monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
 pokemon SPECIES_DRAMPA
 pokemon SPECIES_VICTREEBEL
 pokemon SPECIES_DRAMPA
@@ -6254,7 +6254,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 33, 34, 30, 30, 32, 32, 32, 32, 31, 32, 34, 34
+walklevels 34, 35, 31, 31, 33, 33, 33, 33, 32, 33, 35, 35
 
 // morning encounter slots
 pokemon SPECIES_SWINUB
