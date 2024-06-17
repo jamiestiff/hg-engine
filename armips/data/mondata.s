@@ -3762,7 +3762,7 @@ mondata SPECIES_XATU, "Xatu"
     basefriendship 50
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_FLYING, EGG_GROUP_FLYING
-    abilities ABILITY_PSYCHIC_SURGE, ABILITY_FOREWARN
+    abilities ABILITY_MAGIC_BOUNCE, ABILITY_FOREWARN
     runchance 0
     colorflip BODY_COLOR_GREEN, 0
     mondexentry SPECIES_XATU, "They say that it stays still and\nquiet because it is seeing both the\npast and future at the same time."
@@ -12165,7 +12165,7 @@ mondata SPECIES_SWOOBAT, "Swoobat"
     abilities ABILITY_UNAWARE, ABILITY_KLUTZ
     runchance 0
     colorflip BODY_COLOR_BLUE, 0
-    mondexentry SPECIES_SWOOBAT, "The auspicious shape of this Pokémon’s nose\napparently led some regions to consider\nSwoobat a symbol of good luck."
+    mondexentry SPECIES_SWOOBAT, "The auspicious shape of its nose\napparently led some regions to consider\nSwoobat a symbol of good luck."
     mondexclassification SPECIES_SWOOBAT, "Courting Pokémon"
     mondexheight SPECIES_SWOOBAT, "2’11”"
     mondexweight SPECIES_SWOOBAT, "23.1 lbs."
@@ -19260,7 +19260,7 @@ mondata SPECIES_MR_RIME, "Mr. Rime"
     basefriendship 50
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_HUMAN_LIKE, EGG_GROUP_HUMAN_LIKE
-    abilities ABILITY_ICE_BODY, ABILITY_FILTER
+    abilities ABILITY_PSYCHIC_SURGE, ABILITY_FILTER
     runchance 0
     colorflip BODY_COLOR_PURPLE, 0
     mondexentry SPECIES_MR_RIME, "Its amusing movements make it very\npopular. It releases its psychic power\nfrom the pattern on its belly."
@@ -23846,7 +23846,7 @@ mondata SPECIES_MR_MIME_GALARIAN, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_HUMAN_LIKE, EGG_GROUP_HUMAN_LIKE
-    abilities ABILITY_ICE_BODY, ABILITY_FILTER
+    abilities ABILITY_TANGLED_FEET, ABILITY_FILTER
     runchance 0
     colorflip BODY_COLOR_WHITE, 0
 	mondexentry SPECIES_MR_MIME_GALARIAN, "Tap-dancing, Mr. Mime\nmanipulates temperates to create icy floors\nand barriers in battle."

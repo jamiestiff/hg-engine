@@ -9,8 +9,6 @@
 _0000: // Trainer 0
        // Trainer 2
        // Trainer 3
-       // Trainer 167
-       // Trainer 168
        // Trainer 169
        // Trainer 170
        // Trainer 171
@@ -1603,10 +1601,10 @@ _0E78: // Trainer 161
     trainertextentry 161, TEXT_DEFEATED_IN_BATTLE, "Oh, so close! I almost had you.\n"
 
 _0E7C: // Trainer 162
-    trainertextentry 162, TEXT_DEFEATED_IN_BATTLE, "I don’t have any Pokémon left...\n"
+    trainertextentry 162, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "I don’t have any Pokémon left...\n"
 
 _0E80: // Trainer 163
-    trainertextentry 163, TEXT_DEFEATED_IN_BATTLE, "Oh, you are wonderful...\n"
+    trainertextentry 163, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "Oh, you are wonderful...\n"
 
 _0E84: // Trainer 164
     trainertextentry 164, TEXT_DEFEATED_IN_BATTLE, "Ooh, you’re good at Pokémon, too.\n"
@@ -3128,7 +3126,7 @@ _1B04: // Trainer 107
 
 _1B10: // Trainer 138
     trainertextentry 138, TEXT_NOTICE_IN_OVERWORLD, "This new Safari Zone is meant to be\nsuper high-tech.\rSounds like profit to me!\r"
-    trainertextentry 138, TEXT_DEFEATED_IN_BATTLE, "I'm at a loss!\n"
+    trainertextentry 138, TEXT_DEFEATED_IN_BATTLE, "... I'm at a loss!\n"
     trainertextentry 138, TEXT_DEFEATED_IN_OVERWORLD, "You're too late y'know.\n"
 
 _1B1C: // Trainer 141
@@ -3145,7 +3143,14 @@ _1B34: // Trainer 166
     trainertextentry 166, TEXT_LAST_MON_CRITICAL, "Time to strike!\n"
     trainertextentry 166, TEXT_LAST_MON_SENT_OUT, "It's not over yet!\n"
     trainertextentry 166, TEXT_DEFEATED_IN_BATTLE, "You're amazing!\n"
-	
+
+_1B40: // Trainer 167
+    trainertextentry 167, TEXT_DEFEATED_IN_BATTLE, "I hate to admit it, but you win.\n"
+    trainertextentry 167, TEXT_PLAYER_LOSES, "All right!\nSuicune, were you watching us?\n"
+
+_1B48: // Trainer 168
+    trainertextentry 168, TEXT_DEFEATED_IN_BATTLE, "Yes.\nYou are ready for Lugia.\n"
+
 .close
 
 
@@ -3319,7 +3324,7 @@ _1B34: // Trainer 166
 /* Trainer 164 */ .halfword _0E84
 /* Trainer 165 */ .halfword _1B28
 /* Trainer 166 */ .halfword _1B34
-/* Trainer 167 */ .halfword _0000
+/* Trainer 167 */ .halfword _1B40
 /* Trainer 168 */ .halfword _0000
 /* Trainer 169 */ .halfword _0000
 /* Trainer 170 */ .halfword _0000
