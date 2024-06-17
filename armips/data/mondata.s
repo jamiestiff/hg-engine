@@ -2,13 +2,15 @@
 .thumb
 
 .include "armips/include/macros.s"
-.include "armips/include/monnums.s"
-.include "armips/include/itemnums.s"
 .include "armips/include/constants.s"
-.include "armips/include/abilities.s"
 .include "armips/include/config.s"
 
-// all the mon personal data.  tm learnsets are specifically in tmlearnset.s
+.include "asm/include/abilities.inc"
+.include "asm/include/items.inc"
+.include "asm/include/species.inc"
+
+
+// all the mon personal data.  tm learnsets are specifically in tmlearnset.txt
 // basestats and evyields fields are formatted as such:  hp atk def speed spatk spdef
 
 
@@ -5799,7 +5801,7 @@ mondata SPECIES_SHIFTRY, "Shiftry"
     basefriendship 50
     growthrate GROWTH_MEDIUM_SLOW
     egggroups EGG_GROUP_FIELD, EGG_GROUP_GRASS
-    abilities ABILITY_CHLOROPHYLL, ABILITY_EARLY_BIRD
+    abilities ABILITY_CHLOROPHYLL, ABILITY_WIND_RIDER
     runchance 0
     colorflip BODY_COLOR_BROWN, 0
     mondexentry SPECIES_SHIFTRY, "It lives quietly in the deep forest.\nIt is said to create chilly winter\nwinds with the fans it holds."
@@ -23261,7 +23263,7 @@ mondata SPECIES_MEGA_RAYQUAZA, "-----"
     basefriendship 0
     growthrate GROWTH_SLOW
     egggroups EGG_GROUP_UNDISCOVERED, EGG_GROUP_UNDISCOVERED
-    abilities ABILITY_CLOUD_NINE /*ABILITY_DELTA_STREAM*/, ABILITY_NONE
+    abilities ABILITY_DELTA_STREAM, ABILITY_NONE
     runchance 0
     colorflip 0, 0
 
@@ -26793,7 +26795,7 @@ mondata SPECIES_SLIGGOO_HISUIAN, "-----"
     basefriendship 35
     growthrate GROWTH_SLOW
     egggroups EGG_GROUP_DRAGON, EGG_GROUP_DRAGON
-    abilities ABILITY_SAP_SIPPER,  ABILITY_OVERCOAT
+    abilities ABILITY_SAP_SIPPER,  ABILITY_SHELL_ARMOR
     runchance 0
     colorflip BODY_COLOR_PURPLE, 0
 
@@ -26810,7 +26812,7 @@ mondata SPECIES_GOODRA_HISUIAN, "-----"
     basefriendship 35
     growthrate GROWTH_SLOW
     egggroups EGG_GROUP_DRAGON, EGG_GROUP_DRAGON
-    abilities ABILITY_SAP_SIPPER,  ABILITY_OVERCOAT
+    abilities ABILITY_SAP_SIPPER,  ABILITY_SHELL_ARMOR
     runchance 0
     colorflip BODY_COLOR_PURPLE, 0
 
@@ -26963,7 +26965,7 @@ mondata SPECIES_BASCULEGION_FEMALE, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_WATER_2, EGG_GROUP_WATER_2
-    abilities ABILITY_RATTLED, ABILITY_ADAPTABILITY
+    abilities ABILITY_SWIFT_SWIM, ABILITY_ADAPTABILITY
     runchance 0
     colorflip BODY_COLOR_GREEN, 0
 
