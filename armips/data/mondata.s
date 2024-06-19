@@ -17456,7 +17456,7 @@ mondata SPECIES_DRAMPA, "Drampa"
     basefriendship 50
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_MONSTER, EGG_GROUP_DRAGON
-    abilities ABILITY_BERSERK, ABILITY_SAP_SIPPER
+    abilities ABILITY_BERSERK, ABILITY_CLOUD_NINE
     runchance 0
     colorflip BODY_COLOR_WHITE, 0
     mondexentry SPECIES_DRAMPA, "Drampa is a kind and friendly Pokémon:\nup until it’s angered. When that\nhappens, it engulfs everything around."

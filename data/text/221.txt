@@ -364,7 +364,7 @@ The foe is scorched with an intense\nblast of fire. The target may also be\nleft
 Unsanitary sludge is hurled at\nthe foe. It may also poison the\ntarget.
 A five-turn sandstorm is summoned\nto hurt all combatants except the\nRock, Ground, and Steel types.
 The foe is attacked with an intense\nblast of all-consuming fire. It may\nalso leave the target with a burn.
-Large boulders are hurled at the foe\nto inflict damage. It lowers the foe’s\nSpeed.
+The user attacks with prehistoric power.\nIt may also raise all the user's\nstats at once.
 The user launches razorlike wind to\nslash the foe. It has a high\ncritical-hit ratio.
 The user sharpens its claws to boost\nits Attack stat and accuracy.\n
 An attack move that doubles its power\nif the user is poisoned, paralyzed, or\nhas a burn.
@@ -373,7 +373,7 @@ The user goes to sleep for two\nturns. It fully restores the user’s HP\nand he
 If it is the opposite gender of the\nuser, the foe becomes infatuated\nand less likely to attack.
 The user slaps down the foe’s held item,\npreventing the item from being used\nduring the battle.
 The foe is hit with wings of steel.\nIt may also raise the user’s Defense\nstat.
-The user employs its psychic power to\nexchange abilities with the foe.\n
+The user bites the target with its\npsychic capabilities. This can also\ndestroy Light Screen and Reflect.
 The user plays rough with the target\nand attacks it. This may also lower the\ntarget’s Attack stat.
 The user cloaks itself with flame and\nattacks. Building up more power,\nit raises the user’s Speed stat.
 The user lands and rests its body.\nIt restores the user’s HP by up to\nhalf of its max HP.
