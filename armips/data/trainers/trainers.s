@@ -10379,7 +10379,7 @@ trainerdata 264, "Silver"
         move MOVE_EARTHQUAKE
         move MOVE_STONE_EDGE
         move MOVE_CRUNCH
-        move MOVE_OUTRAGE
+        move MOVE_PSYCHIC_FANGS
         ability ABILITY_SAND_STREAM
         ball ITEM_DUSK_BALL
         setivs 15, 15, 15, 15, 15, 15 // hp, atk, def, spd, spatk, spdef
@@ -10437,10 +10437,10 @@ trainerdata 264, "Silver"
         move MOVE_DRAIN_PUNCH
         move MOVE_FAKE_OUT
         move MOVE_NIGHT_SLASH
-        ability ABILITY_INNER_FOCUS
+        ability ABILITY_PRESSURE
         ball ITEM_GREAT_BALL
         setivs 15, 15, 15, 15, 15, 15 // hp, atk, def, spd, spatk, spdef
-        setevs 20, 220, 20, 20, 20, 20
+        setevs 20, 220, 20, 220, 0, 20
         nature NATURE_JOLLY
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
@@ -10459,7 +10459,7 @@ trainerdata 264, "Silver"
         ability ABILITY_TECHNICIAN
         ball ITEM_SAFARI_BALL
         setivs 31, 31, 10, 31, 10, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 20, 220, 0, 0, 0, 120
+        setevs 60, 220, 0, 0, 0, 220
         nature NATURE_LONELY
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
@@ -10689,7 +10689,7 @@ trainerdata 268, "Silver"
         move MOVE_EARTHQUAKE
         move MOVE_STONE_EDGE
         move MOVE_CRUNCH
-        move MOVE_OUTRAGE
+        move MOVE_PSYCHIC_FANGS
         ability ABILITY_SAND_STREAM
         ball ITEM_DUSK_BALL
         setivs 15, 15, 15, 15, 15, 15 // hp, atk, def, spd, spatk, spdef
@@ -10747,10 +10747,10 @@ trainerdata 268, "Silver"
         move MOVE_DRAIN_PUNCH
         move MOVE_FAKE_OUT
         move MOVE_NIGHT_SLASH
-        ability ABILITY_INNER_FOCUS
+        ability ABILITY_PRESSURE
         ball ITEM_GREAT_BALL
         setivs 15, 15, 15, 15, 15, 15 // hp, atk, def, spd, spatk, spdef
-        setevs 20, 220, 20, 20, 20, 20
+        setevs 20, 220, 20, 220, 0, 20
         nature NATURE_JOLLY
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
@@ -10769,7 +10769,7 @@ trainerdata 268, "Silver"
         ability ABILITY_TECHNICIAN
         ball ITEM_SAFARI_BALL
         setivs 31, 31, 10, 31, 10, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 20, 220, 0, 0, 0, 120
+        setevs 60, 220, 0, 0, 0, 220
         nature NATURE_LONELY
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
@@ -11106,7 +11106,7 @@ trainerdata 272, "Silver"
         move MOVE_EARTHQUAKE
         move MOVE_STONE_EDGE
         move MOVE_CRUNCH
-        move MOVE_OUTRAGE
+        move MOVE_PSYCHIC_FANGS
         ability ABILITY_SAND_STREAM
         ball ITEM_DUSK_BALL
         setivs 15, 15, 15, 15, 15, 15 // hp, atk, def, spd, spatk, spdef
@@ -11164,10 +11164,10 @@ trainerdata 272, "Silver"
         move MOVE_DRAIN_PUNCH
         move MOVE_FAKE_OUT
         move MOVE_NIGHT_SLASH
-        ability ABILITY_INNER_FOCUS
+        ability ABILITY_PRESSURE
         ball ITEM_GREAT_BALL
         setivs 15, 15, 15, 15, 15, 15 // hp, atk, def, spd, spatk, spdef
-        setevs 20, 220, 20, 20, 20, 20
+        setevs 20, 220, 20, 220, 0, 20
         nature NATURE_JOLLY
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
@@ -11186,7 +11186,7 @@ trainerdata 272, "Silver"
         ability ABILITY_TECHNICIAN
         ball ITEM_SAFARI_BALL
         setivs 31, 31, 10, 31, 10, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 20, 220, 0, 0, 0, 120
+        setevs 20, 220, 0, 0, 0, 220
         nature NATURE_LONELY
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
@@ -11202,7 +11202,7 @@ trainerdata 272, "Silver"
         move MOVE_CRUNCH
         move MOVE_SUPERPOWER
         move MOVE_HYDRO_CANNON
-		ability ABILITY_BLAZE
+		ability ABILITY_TORRENT
         ball ITEM_NONE
         setivs 20, 20, 20, 20, 20, 20 // hp, atk, def, spd, spatk, spdef
         setevs 252, 252, 4, 0, 0, 0
