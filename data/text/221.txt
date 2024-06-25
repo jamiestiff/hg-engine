@@ -364,7 +364,7 @@ The foe is scorched with an intense\nblast of fire. The target may also be\nleft
 Unsanitary sludge is hurled at\nthe foe. It may also poison the\ntarget.
 A five-turn sandstorm is summoned\nto hurt all combatants except the\nRock, Ground, and Steel types.
 The foe is attacked with an intense\nblast of all-consuming fire. It may\nalso leave the target with a burn.
-The user attacks with prehistoric power.\nIt may also raise all the user's\nstats at once.
+The user attacks with prehistoric power.\nIt may also raise all the user’s\nstats at once.
 The user launches razorlike wind to\nslash the foe. It has a high\ncritical-hit ratio.
 The user sharpens its claws to boost\nits Attack stat and accuracy.\n
 An attack move that doubles its power\nif the user is poisoned, paralyzed, or\nhas a burn.

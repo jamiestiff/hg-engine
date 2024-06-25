@@ -1218,11 +1218,11 @@ Keep battling
 Use next Pokémon
 Flee
 Wow! {STRVAR_1 3, 0, 0}’s {STRVAR_1 1, 1, 0}\nis drawing close!\r
-PARK BALLS
+Park Balls
 Left: {STRVAR_1 51, 0, 0}
 What will {STRVAR_1 3, 0, 0} do?{YESNO 0}
-BALL
-RUN
+Ball
+Run
 {STRVAR_1 1, 0, 0}, come back!
 All right! I got its HP down!\nTime to throw a Poké Ball!{YESNO 0}
 OK! Its HP is down!\nIt’s ready for a Poké Ball!{YESNO 0}
@@ -1268,7 +1268,7 @@ Playback canceled.
 The dimensions became distorted!
 The Distortion World’s {STRVAR_1 1, 0, 0}\nappeared!\r
 Announcer: You’re out of\n{STRVAR_1 8, 0, 0}s!\fGame over!\r
-BALL
+Ball
 x{STRVAR_1 51, 0, 0}
 ♂
 ♀

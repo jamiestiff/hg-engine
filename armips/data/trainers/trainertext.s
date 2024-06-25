@@ -9,7 +9,6 @@
 _0000: // Trainer 0
        // Trainer 2
        // Trainer 3
-       // Trainer 169
        // Trainer 170
        // Trainer 171
        // Trainer 174
@@ -1637,17 +1636,11 @@ _0EBC: // Trainer 235
     trainertextentry 235, TEXT_DEFEATED_IN_BATTLE, "That’s too much to handle!\n"
     trainertextentry 235, TEXT_DEFEATED_IN_OVERWORLD, "I wonder if there are any mountains\nworth climbing in Kanto?\n"
 
-_0EC8: // Trainer 399
-	trainertextentry 399, TEXT_DOUBLE_NOTICE_IN_OVERWORLD_1, "I’m going to Kanto to put on\nfire-breathing shows!\r"
-    trainertextentry 399, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "Fizzle... The flame’s tiny...\n"
-    trainertextentry 399, TEXT_DOUBLE_DEFEATED_IN_OVERWORLD_1, "I guess fire is weak on the sea...\nIt doesn’t matter? Really?\n"
-    trainertextentry 399, TEXT_DOUBLE_ONLY_1_POKEMON_1, "Only one Pokémon?\nLet's not fight."
-
-_0ED4: // Trainer 424
-	trainertextentry 424, TEXT_DOUBLE_NOTICE_IN_OVERWORLD_1, "Hey, kid! Want to battle with me?\r"
-    trainertextentry 424, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "You’re strong!\n"
-    trainertextentry 424, TEXT_DOUBLE_DEFEATED_IN_OVERWORLD_1, "You’re traveling all alone?\nIsn’t your mom worried?\n"
-    trainertextentry 424, TEXT_DOUBLE_ONLY_1_POKEMON_1, "Only one Pokémon?\nDon't you like Pokémon?"
+_0EC8: // Trainer 239
+    trainertextentry 239, TEXT_DOUBLE_NOTICE_IN_OVERWORLD_1, "Nothing beats a battle when I’m on\nmy break.\r"
+    trainertextentry 239, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "Win or lose, my break’s over!\n"
+    trainertextentry 239, TEXT_DOUBLE_DEFEATED_IN_OVERWORLD_1, "I guess I can’t win if I don’t\nget serious.\n"
+    trainertextentry 239, TEXT_DOUBLE_ONLY_1_POKEMON_1, "You’ve got only one Pokémon?\nThen I’m not battling with you."
 	
 _0EE0: // Trainer 425
     trainertextentry 425, TEXT_DOUBLE_NOTICE_IN_OVERWORLD_1, "You think I’m a baby?\nThat’s not fair!\r"
@@ -1663,12 +1656,6 @@ _0F00: // Trainer 242
     trainertextentry 242, TEXT_NOTICE_IN_OVERWORLD, "Urrf...\nI’m seasick!\r"
     trainertextentry 242, TEXT_DEFEATED_IN_BATTLE, "I can’t move anymore...\n"
     trainertextentry 242, TEXT_DEFEATED_IN_OVERWORLD, "No more ships for me. Next time, I’m\ntaking the Magnet Train.\n"
-
-_0F0C: // Trainer 239
-    trainertextentry 239, TEXT_DOUBLE_NOTICE_IN_OVERWORLD_1, "Nothing beats a battle when I’m on\nmy break.\r"
-    trainertextentry 239, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "Win or lose, my break’s over!\n"
-    trainertextentry 239, TEXT_DOUBLE_DEFEATED_IN_OVERWORLD_1, "I guess I can’t win if I don’t\nget serious.\n"
-    trainertextentry 239, TEXT_DOUBLE_ONLY_1_POKEMON_1, "You’ve got only one Pokémon?\nThen I’m not battling with you."
 
 _0F18: // Trainer 139
     trainertextentry 139, TEXT_NOTICE_IN_OVERWORLD, "I’m so bored.\nWant to battle?\r"
@@ -3151,8 +3138,23 @@ _1B40: // Trainer 167
 _1B48: // Trainer 168
     trainertextentry 168, TEXT_DEFEATED_IN_BATTLE, "Yes.\nYou are ready for Lugia.\n"
 
-.close
+_1B4C: // Trainer 399
+	trainertextentry 399, TEXT_DOUBLE_NOTICE_IN_OVERWORLD_1, "I’m going to Kanto to put on\nfire-breathing shows!\r"
+    trainertextentry 399, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "Fizzle... The flame’s tiny...\n"
+    trainertextentry 399, TEXT_DOUBLE_DEFEATED_IN_OVERWORLD_1, "I guess fire is weak on the sea...\nIt doesn’t matter? Really?\n"
+    trainertextentry 399, TEXT_DOUBLE_ONLY_1_POKEMON_1, "Only one Pokémon?\nLet's not fight."
 
+_1B5C: // Trainer 424
+	trainertextentry 424, TEXT_DOUBLE_NOTICE_IN_OVERWORLD_1, "Hey, kid! Want to battle with me?\r"
+    trainertextentry 424, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "You’re strong!\n"
+    trainertextentry 424, TEXT_DOUBLE_DEFEATED_IN_OVERWORLD_1, "You’re traveling all alone?\nIsn’t your mom worried?\n"
+    trainertextentry 424, TEXT_DOUBLE_ONLY_1_POKEMON_1, "Only one Pokémon?\nDon't you like Pokémon?"
+
+_0ED8: // Trainer 169
+    trainertextentry 169, TEXT_DEFEATED_IN_BATTLE, "So I am still not worthy...\n"
+    trainertextentry 169, TEXT_PLAYER_LOSES, "Are you watching Suicune?\nAm I worthy now?\n"
+
+.close
 
 
 .create "build/trainer_text_offsets/1_0", 0
@@ -3325,8 +3327,8 @@ _1B48: // Trainer 168
 /* Trainer 165 */ .halfword _1B28
 /* Trainer 166 */ .halfword _1B34
 /* Trainer 167 */ .halfword _1B40
-/* Trainer 168 */ .halfword _0000
-/* Trainer 169 */ .halfword _0000
+/* Trainer 168 */ .halfword _1B48
+/* Trainer 169 */ .halfword _0ED8
 /* Trainer 170 */ .halfword _0000
 /* Trainer 171 */ .halfword _0000
 /* Trainer 172 */ .halfword _1A2C
@@ -3396,7 +3398,7 @@ _1B48: // Trainer 168
 /* Trainer 236 */ .halfword _0F30
 /* Trainer 237 */ .halfword _0F3C
 /* Trainer 238 */ .halfword _1878
-/* Trainer 239 */ .halfword _0F0C
+/* Trainer 239 */ .halfword _0EC8
 /* Trainer 240 */ .halfword _0F84
 /* Trainer 241 */ .halfword _0FFC
 /* Trainer 242 */ .halfword _0F00
@@ -3556,7 +3558,7 @@ _1B48: // Trainer 168
 /* Trainer 396 */ .halfword _0558
 /* Trainer 397 */ .halfword _0C24
 /* Trainer 398 */ .halfword _0C34
-/* Trainer 399 */ .halfword _0EC8
+/* Trainer 399 */ .halfword _1B4C
 /* Trainer 400 */ .halfword _0C08
 /* Trainer 401 */ .halfword _1260
 /* Trainer 402 */ .halfword _0D84
@@ -3581,7 +3583,7 @@ _1B48: // Trainer 168
 /* Trainer 421 */ .halfword _07A4
 /* Trainer 422 */ .halfword _0F54
 /* Trainer 423 */ .halfword _0FC0
-/* Trainer 424 */ .halfword _0ED4
+/* Trainer 424 */ .halfword _1B5C
 /* Trainer 425 */ .halfword _0EE0
 /* Trainer 426 */ .halfword _0000
 /* Trainer 427 */ .halfword _0FD8
