@@ -494,47 +494,47 @@ _03DC: // Trainer 701
 _03E8: // Trainer 261
     trainertextentry 261, TEXT_LAST_MON_CRITICAL, "Heh heh heh... You’re unprepared\nfor this. We’ll knock you down!\n"
     trainertextentry 261, TEXT_LAST_MON_SENT_OUT, "Perhaps I’m the one who was\nunprepared?\n"
-    trainertextentry 261, TEXT_DEFEATED_IN_BATTLE, "This is the real power of Johto...\n"
+    trainertextentry 261, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "This is the real power of Johto...\n"
 
 _03F4: // Trainer 253
     trainertextentry 253, TEXT_LAST_MON_CRITICAL, "Ah ha ha! It itches! It itches!\n"
     trainertextentry 253, TEXT_LAST_MON_SENT_OUT, "Ow ow ow ow ow...\n"
-    trainertextentry 253, TEXT_DEFEATED_IN_BATTLE, "Looks like you’re the stronger one...\n"
+    trainertextentry 253, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "Looks like you’re the stronger one...\n"
 
 _0400: // Trainer 254
     trainertextentry 254, TEXT_LAST_MON_CRITICAL, "Hmm... You’re pretty good...\n"
     trainertextentry 254, TEXT_LAST_MON_SENT_OUT, "Looks like you’re not just someone who\ngets in the way...\n"
-    trainertextentry 254, TEXT_DEFEATED_IN_BATTLE, "Looks like this is it...\n"
+    trainertextentry 254, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "Looks like this is it...\n"
 
 _040C: // Trainer 255
     trainertextentry 255, TEXT_LAST_MON_CRITICAL, "It’s not over yet. It’s just beginning!\n"
     trainertextentry 255, TEXT_LAST_MON_SENT_OUT, "Oh, last one! Never give up!\n"
-    trainertextentry 255, TEXT_DEFEATED_IN_BATTLE, "My electric trick...\n"
+    trainertextentry 255, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "My electric trick...\n"
 
 _0418: // Trainer 256
     trainertextentry 256, TEXT_LAST_MON_CRITICAL, "Don’t go easy on me.\nGive me everything you’ve got!\n"
     trainertextentry 256, TEXT_LAST_MON_SENT_OUT, "Wow, that’s a bit harsh!\n"
-    trainertextentry 256, TEXT_DEFEATED_IN_BATTLE, "Looks like I underestimated you...\n"
+    trainertextentry 256, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "Looks like I underestimated you...\n"
 
 _0424: // Trainer 257
     trainertextentry 257, TEXT_LAST_MON_CRITICAL, "You’ve got a great battle technique!\n"
     trainertextentry 257, TEXT_LAST_MON_SENT_OUT, "Not good. Seriously not good.\n"
-    trainertextentry 257, TEXT_DEFEATED_IN_BATTLE, "...!!!\nSo... So strong!\n"
+    trainertextentry 257, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "...!!!\nSo... So strong!\n"
 
 _0430: // Trainer 258
     trainertextentry 258, TEXT_LAST_MON_CRITICAL, "What will happen after this?\nI already know.\n"
     trainertextentry 258, TEXT_LAST_MON_SENT_OUT, "Was the future I saw...wrong?\n"
-    trainertextentry 258, TEXT_DEFEATED_IN_BATTLE, "I get it...\n"
+    trainertextentry 258, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "I get it...\n"
 
 _043C: // Trainer 259
     trainertextentry 259, TEXT_LAST_MON_CRITICAL, "I’ll show you the spirit of this\ncave Gym!\n"
     trainertextentry 259, TEXT_LAST_MON_SENT_OUT, "We can still do it!\n"
-    trainertextentry 259, TEXT_DEFEATED_IN_BATTLE, "My spirit has not been defeated!\n"
+    trainertextentry 259, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "My spirit has not been defeated!\n"
 
 _0448: // Trainer 727
     trainertextentry 727, TEXT_LAST_MON_CRITICAL, "Heh heh heh... You’re unprepared\nfor this. We’ll knock you down!\n"
     trainertextentry 727, TEXT_LAST_MON_SENT_OUT, "Perhaps I’m the one who was\nunprepared?\n"
-    trainertextentry 727, TEXT_DEFEATED_IN_BATTLE, "Just as I expected! No wonder you’ve\nbecome the Champion...\n"
+    trainertextentry 727, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "Just as I expected! No wonder you’ve\nbecome the Champion...\n"
 
 _0454: // Trainer 720
     trainertextentry 720, TEXT_LAST_MON_CRITICAL, "Ah ha ha! It itches! It itches!\n"

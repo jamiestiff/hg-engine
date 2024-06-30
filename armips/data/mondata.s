@@ -18905,7 +18905,7 @@ mondata SPECIES_TOXTRICITY, "Toxtricity"
     basefriendship 50
     growthrate GROWTH_MEDIUM_SLOW
     egggroups EGG_GROUP_HUMAN_LIKE, EGG_GROUP_HUMAN_LIKE
-    abilities ABILITY_ELECTRIC_SURGE, ABILITY_STATIC
+    abilities ABILITY_TECHNICIAN, ABILITY_PLUS
     runchance 0
     colorflip BODY_COLOR_PURPLE, 0
     mondexentry SPECIES_TOXTRICITY, "This short-tempered and aggressive Pokémon\nchugs stagnant water to absorb any toxins it\nmight contain."
@@ -26234,7 +26234,7 @@ mondata SPECIES_TOXTRICITY_LOW_KEY, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_SLOW
     egggroups EGG_GROUP_HUMAN_LIKE, EGG_GROUP_HUMAN_LIKE
-    abilities ABILITY_PUNK_ROCK,  ABILITY_MINUS
+    abilities ABILITY_TECHNICIAN,  ABILITY_MINUS
     runchance 0
     colorflip BODY_COLOR_PURPLE, 0
 
