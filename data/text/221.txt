@@ -135,18 +135,18 @@ A glowing orb to be held by GIRATINA.\nIt boosts the power of Dragon- and\nGhost
 -----
 A brightly gleaming orb to be held by\nDIALGA. It boosts the power of Dragon-\nand Steel-type moves.
 A beautifully glowing orb to be held by\nPALKIA. It boosts the power of Dragon-\nand Water-type moves.
-Stationery featuring a print of a\nrefreshingly green field.\nLet a Pokémon hold it for delivery.
-Stationery featuring a print of flames\nin blazing red.\nLet a Pokémon hold it for delivery.
+Found at the base of the Violet Bonsai.\nIt reads:\nI nourish that which gives nourishment.
+Given by a Sage on Bellchime Trail.\nIt shows a picture of a large\nbonsai tree surrounded by water.
 Stationery featuring a print of a blue\nworld underwater.\nLet a Pokémon hold it for delivery.
-Stationery featuring a print of pretty\nfloral patterns.\nLet a Pokémon hold it for delivery.
-Stationery featuring a print of a dimly\nlit coal mine.\nLet a Pokémon hold it for delivery.
+Found in a flower bed in National Park.\nThere’s a code at the bottom:\n42. PGY_!
+Not used, error.\n\n
 Stationery featuring a print of cool\nmechanical designs.\nLet a Pokémon hold it for delivery.
-Stationery featuring a print of giant\nheart patterns.\nLet a Pokémon hold it for delivery.
+An old letter apparently found near\nIlex Shrine. Mostly faded, the\nbottom reads: A - T - M - / P _ T H .
 Stationery featuring a print of a\nchilly, snow-covered world.\nLet a Pokémon hold it for delivery.
-Stationery featuring a print depicting\nthe huge expanse of space.\nLet a Pokémon hold it for delivery.
+A futuristic looking letter. It reads:\nIt looks to the past. Show it the future.
 Stationery featuring a print of\ncolorful letter sets.\nLet a Pokémon hold it for delivery.
-Stationery featuring a print of a vivid\nrainbow pattern.\nLet a Pokémon hold it for delivery.
-Stationery featuring a print of a\ntough-looking brick pattern.\nLet a Pokémon hold it for delivery.
+A rainbow-hued letter.\nIt simply reads: Back 4Ever.
+It reads: Follow the path where bugs\ngather in number. Search the spot where\npink flowers slumber.
 It may be used or held by a Pokémon to\nrecover from paralysis.
 It may be used or held by a Pokémon to\nrecover from sleep.
 It may be used or held by a Pokémon to\nrecover from poison.
@@ -234,7 +234,7 @@ An item to be held by a Pokémon.\nIt is a lens that boosts the holder’s\ncrit
 An item to be held by a Pokémon.\nIt is a special metallic film that ups\nthe power of Steel-type moves.
 An item to be held by a Pokémon.\nThe holder’s HP is gradually restored\nduring battle.
 A thick and tough scale.\nDragon-type Pokémon may be holding\nthis item when caught.
-An item to be held by PIKACHU.\nIt is a puzzling orb that raises\nthe Attack and Sp. Atk stat.
+An item to be held by Pikachu.\nIt is a puzzling orb that raises\nthe Attack and Sp. Atk stat.
 An item to be held by a Pokémon.\nIt is a loose, silky sand that boosts\nthe power of Ground-type moves.
 An item to be held by a Pokémon.\nIt is an unbreakable stone that ups\nthe power of Rock-type moves.
 An item to be held by a Pokémon.\nIt is a seed imbued with life that ups\nthe power of Grass-type moves.
@@ -254,10 +254,10 @@ A transparent device filled with all\nsorts of data.\nIt was produced by Silph C
 An item to be held by a Pokémon.\nThe holder’s HP is restored a little\nevery time it inflicts damage.
 An item to be held by a Pokémon. It is\nincense with a curious aroma that\nboosts the power of Water-type moves.
 An item to be held by a Pokémon. The\ntricky aroma of this incense lowers the\nfoe’s accuracy.
-An item to be held by CHANSEY. It is a\npair of gloves that boosts CHANSEY’s\ncritical-hit ratio.
-An item to be held by DITTO.\nExtremely fine yet hard, this odd\npowder boosts the Defense stat.
-An item to be held by CUBONE or\nMAROWAK. It is a hard bone of some\nsort that boosts the Attack stat.
-An item to be held by FARFETCH’D. It is\na very long and stiff stalk of leek\nthat boosts the critical-hit ratio.
+An item to be held by Chansey. It is a\npair of gloves that boosts CHANSEY’s\ncritical-hit ratio.
+An item to be held by Ditto.\nExtremely fine yet hard, this odd\npowder boosts the Defense stat.
+An item to be held by Cubone or\nMarowak. It is a hard bone of some\nsort that boosts the Attack stat.
+An item to be held by Farfetch’d. It is\na very long and stiff stalk of leek\nthat boosts the critical-hit ratio.
 An item to be held by a Pokémon.\nIt boosts the “Cool” aspect of the\nholder in a Contest in Sinnoh.
 An item to be held by a Pokémon.\nIt boosts the “Beauty” aspect of the\nholder in a Contest in Sinnoh.
 An item to be held by a Pokémon.\nIt boosts the “Cute” aspect of the\nholder in a Contest in Sinnoh.
@@ -272,7 +272,7 @@ An item to be held by a Pokémon.\nIt boosts the power of moves, but at\nthe cos
 A single-use item to be held by a\nPokémon. It allows the immediate use of\na move that charges on the first turn.
 An item to be held by a Pokémon.\nIt is a bizarre orb that badly poisons\nthe holder in battle.
 An item to be held by a Pokémon.\nIt is a bizarre orb that inflicts a\nburn on the holder in battle.
-An item to be held by DITTO.\nExtremely fine yet hard, this odd\npowder boosts the Speed stat.
+An item to be held by Ditto.\nExtremely fine yet hard, this odd\npowder boosts the Speed stat.
 An item to be held by a Pokémon. If it\nhas full HP, the holder will endure one\npotential KO attack, leaving 1 HP.
 An item to be held by a Pokémon.\nIf the holder moves after the foe, its\naccuracy will be boosted.
 A Pokémon held item that boosts a move\nused consecutively. Its effect is\nreset if another move is used.
@@ -334,7 +334,7 @@ The user yells as if it is ranting\nabout something, making the target’s\nSp. 
 A move that leaves the foe badly\npoisoned. This poison damage\nworsens every turn.
 Summons a hailstorm that lasts for\nfive turns. The hailstorm damages\nall types except Ice.
 The user tenses its muscles to bulk up\nits body, boosting both its Attack and\nDefense stats.
-Star-shaped rays are shot at opposing\nPokémon. This attack never misses.\n
+The user forcefully shoots seeds\nat the target two to five times\nin a row.
 A variable move that changes type\nand power depending on the hidden\nability of the Pokémon using it.
 The user intensifies the sun for\nfive turns, powering up Fire-type\nmoves.
 The foe is taunted into a rage that\nallows it to use only attack moves for\ntwo to four turns.
@@ -371,14 +371,14 @@ An attack move that doubles its power\nif the user is poisoned, paralyzed, or\nh
 The user dances in the moonlight for\ntwo to three turns.\nThe user then becomes confused.
 The user goes to sleep for two\nturns. It fully restores the user’s HP\nand heals any status problem.
 If it is the opposite gender of the\nuser, the foe becomes infatuated\nand less likely to attack.
-The user slaps down the foe’s held item,\npreventing the item from being used\nduring the battle.
+The user vanishes somewhere, striking\nthe target on the next turn. This move\nhits even if the foe protects itself.
 The foe is hit with wings of steel.\nIt may also raise the user’s Defense\nstat.
 The user bites the target with its\npsychic capabilities. This can also\ndestroy Light Screen and Reflect.
 The user plays rough with the target\nand attacks it. This may also lower the\ntarget’s Attack stat.
 The user cloaks itself with flame and\nattacks. Building up more power,\nit raises the user’s Speed stat.
 The user lands and rests its body.\nIt restores the user’s HP by up to\nhalf of its max HP.
 The user attacks at full power.\nIt may also lower the foe’s Sp. Def\nstat if it hits.
-The user draws power from nature and\nfires it at the foe. It may also lower\nthe target’s Sp. Def.
+Star-shaped rays are shot at opposing\nPokémon. This attack never misses.\n
 This move’s type and power change\ndepending on the weather at the time\nthe move is used.
 The user attacks by showering the foe\nwith water so cold that it lowers the\ntarget’s Attack stat.
 The user endearingly approaches\nthe foe, then steals the item\nthe foe is holding.
@@ -392,7 +392,7 @@ This relentless attack does massive\ndamage to a target affected by\nstatus cond
 The user explodes to inflict damage on\nall Pokémon in battle. The user faints\nupon using this move.
 The user slashes with a sharp claw\nmade from shadows. It has a high\ncritical-hit ratio.
 The user bites the foe with toxic fangs.\nIt may also leave the foe\nbadly poisoned.
-The user attacks with a gust of\nchilled air. It also reduces the\ntarget’s Speed stat.
+The user drenches the target in a\nspecial poisonous liquid. Its power is\ndoubled if the target is poisoned.
 The user charges the foe using every\nbit of its power. It must rest on the\nnext turn to recover.
 The user hurls mud in the foe’s face\nto inflict damage and lower\nits accuracy.
 The user flashes a light that cuts the\nfoe’s accuracy. It can also be used to\nilluminate caves.
