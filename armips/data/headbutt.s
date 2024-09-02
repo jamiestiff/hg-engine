@@ -42,7 +42,7 @@ headbuttheader   9,  20,   0
     headbuttencounter SPECIES_HOOTHOOT, 2, 3
     headbuttencounter SPECIES_PINECO, 2, 3
     headbuttencounter SPECIES_PINECO, 2, 3
-    headbuttencounter SPECIES_WURMPLE, 2, 3
+    headbuttencounter SPECIES_PINECO, 2, 3
     headbuttencounter SPECIES_WURMPLE, 2, 3
     headbuttencounter SPECIES_WURMPLE, 2, 3
     headbuttencounter SPECIES_HOOTHOOT, 5, 6
