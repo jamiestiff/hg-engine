@@ -9,8 +9,6 @@
 _0000: // Trainer 0
        // Trainer 2
        // Trainer 3
-       // Trainer 170
-       // Trainer 171
        // Trainer 174
        // Trainer 175
        // Trainer 176
@@ -913,11 +911,11 @@ _07C8: // Trainer 358
 _07D8: // Trainer 350
     trainertextentry 350, TEXT_NOTICE_IN_OVERWORLD, "Let me tell you, I had a hard time\ncatching my prized Pokémon.\r"
     trainertextentry 350, TEXT_DEFEATED_IN_BATTLE, "Awaaah!\n"
-    trainertextentry 350, TEXT_DEFEATED_IN_OVERWORLD, "Chikorita, Cyndaquil, and\nTotodile...\fI think that’s a well-balanced mix.\n"
+    trainertextentry 350, TEXT_DEFEATED_IN_OVERWORLD, "Rowlet, Tepig, and\nPiplup...\fYeah, I'm GREAT at Voltorb Flip!\n"
 
 _07E4: // Trainer 351
     trainertextentry 351, TEXT_NOTICE_IN_OVERWORLD, "Sometimes I go back to the places\nI met my Pokémon.\fThey bring back good memories.\r"
-    trainertextentry 351, TEXT_DEFEATED_IN_BATTLE, "Where did I meet this PSYDUCK?\n"
+    trainertextentry 351, TEXT_DEFEATED_IN_BATTLE, "Where did I meet this Psyduck?\n"
     trainertextentry 351, TEXT_DEFEATED_IN_OVERWORLD, "When and where did I get my Pokémon...\rI’ll bet if I checked my Trainer Memo,\nI’d remember!\n"
 
 _07F0: // Trainer 300
@@ -1976,9 +1974,9 @@ _120C: // Trainer 486
     trainertextentry 486, TEXT_DEFEATED_IN_BATTLE, "Grr...\nFor a kid to be this good...\fI didn’t see it coming.\n"
 
 _1218: // Trainer 12
-    trainertextentry  12, TEXT_NOTICE_IN_OVERWORLD, "Quit taking SlowpokeTails?\rIf we listened to you, Team Rocket’s\nrep would be ruined!\r"
+    trainertextentry  12, TEXT_NOTICE_IN_OVERWORLD, "Quit taking Slowpoke Tails?\rIf we listened to you, Team Rocket’s\nrep would be ruined!\r"
     trainertextentry  12, TEXT_DEFEATED_IN_BATTLE, "Just...\nToo strong...\n"
-    trainertextentry  12, TEXT_DEFEATED_IN_OVERWORLD, "We need the money, but selling\nSlowpokeTails?\rIt’s tough being a Team Rocket Grunt!\n"
+    trainertextentry  12, TEXT_DEFEATED_IN_OVERWORLD, "We need the money, but selling\nSlowpoke Tails?\rIt’s tough being a Team Rocket Grunt!\n"
 
 _1224: // Trainer 101
     trainertextentry 101, TEXT_NOTICE_IN_OVERWORLD, "Humph! I was standing guard up top\nwhen some old coot yelled at me.\rHe startled me so much that I fell\ndown here.\rHow about I vent my anger and take it\nout on you!\r"
@@ -1986,9 +1984,9 @@ _1224: // Trainer 101
     trainertextentry 101, TEXT_DEFEATED_IN_OVERWORLD, "Sure, we’ve been hacking the tails off\nSlowpoke and selling them.\rTeam Rocket will do anything for money!\n"
 
 _1230: // Trainer 13
-    trainertextentry  13, TEXT_NOTICE_IN_OVERWORLD, "Stop taking SlowpokeTails?\rWhat?! You want us to disobey a direct\norder from Executive Proton?\rIf you want to stop us, you’ll have to\ndefeat us all! Go ahead and try!\r"
+    trainertextentry  13, TEXT_NOTICE_IN_OVERWORLD, "Stop taking Slowpoke Tails?\rWhat?! You want us to disobey a direct\norder from Executive Proton?\rIf you want to stop us, you’ll have to\ndefeat us all! Go ahead and try!\r"
     trainertextentry  13, TEXT_DEFEATED_IN_BATTLE, "You rotten brat!\n"
-    trainertextentry  13, TEXT_DEFEATED_IN_OVERWORLD, "SlowpokeTails grow back fast!\rBesides, it was an order from Proton,\nso I’m more concerned about that!\n"
+    trainertextentry  13, TEXT_DEFEATED_IN_OVERWORLD, "Slowpoke Tails grow back fast!\rBesides, it was an order from Proton,\nso I’m more concerned about that!\n"
 
 _123C: // Trainer 73
     trainertextentry  73, TEXT_NOTICE_IN_OVERWORLD, "What are you here for? Just to stand\naround and gawk? I suggest you leave!\r"
@@ -3154,6 +3152,12 @@ _0ED8: // Trainer 169
     trainertextentry 169, TEXT_DEFEATED_IN_BATTLE, "So I am still not worthy...\n"
     trainertextentry 169, TEXT_PLAYER_LOSES, "Are you watching Suicune?\nAm I worthy now?\n"
 
+_1B6C: // Trainer 170
+    trainertextentry 170, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "... You are incredible.\n"
+
+_1B70: // Trainer 171
+    trainertextentry 171, TEXT_DEFEATED_IN_BATTLE, "... You are incredible.\n"
+    
 .close
 
 
@@ -3329,8 +3333,8 @@ _0ED8: // Trainer 169
 /* Trainer 167 */ .halfword _1B40
 /* Trainer 168 */ .halfword _1B48
 /* Trainer 169 */ .halfword _0ED8
-/* Trainer 170 */ .halfword _0000
-/* Trainer 171 */ .halfword _0000
+/* Trainer 170 */ .halfword _1B6C
+/* Trainer 171 */ .halfword _1B70
 /* Trainer 172 */ .halfword _1A2C
 /* Trainer 173 */ .halfword _1A30
 /* Trainer 174 */ .halfword _0000

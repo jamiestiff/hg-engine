@@ -140,12 +140,12 @@ Given by a Sage on Bellchime Trail.\nIt shows a picture of a large\nbonsai tree 
 Stationery featuring a print of a blue\nworld underwater.\nLet a Pokémon hold it for delivery.
 Found in a flower bed in National Park.\nThere’s a code at the bottom:\n42. PGY_!
 Not used, error.\n\n
-Stationery featuring a print of cool\nmechanical designs.\nLet a Pokémon hold it for delivery.
+A simple letter. It reads:\nPlease look after my friend.\n
 An old letter apparently found near\nIlex Shrine. Mostly faded, the\nbottom reads: A - T - M - / P _ T H .
 Stationery featuring a print of a\nchilly, snow-covered world.\nLet a Pokémon hold it for delivery.
 A futuristic looking letter. It reads:\nIt looks to the past. Show it the future.
 Stationery featuring a print of\ncolorful letter sets.\nLet a Pokémon hold it for delivery.
-A rainbow-hued letter.\nIt simply reads: Back 4Ever.
+An ancient, rainbow-hued letter with a\nmessage in child’s handwriting:\nIt reads: Friends 4Ever.
 It reads: Follow the path where bugs\ngather in number. Search the spot where\npink flowers slumber.
 It may be used or held by a Pokémon to\nrecover from paralysis.
 It may be used or held by a Pokémon to\nrecover from sleep.
@@ -157,7 +157,7 @@ It may be used or held by a Pokémon to\nheal the user by just 10 HP.
 It may be used or held by a Pokémon to\nrecover from confusion.
 It may be used or held by a Pokémon to\nrecover from any status problem.
 It may be used or held by a Pokémon to\nheal the user’s HP a little.
-If held by a Pokémon, it restores the\nuser’s HP in a pinch, but will cause\nconfusion if it hates spicy food.
+If held by a Pokémon, it restores the\nuser’s HP in a pinch, but will cause\nconfusion if itmake hates spicy food.
 If held by a Pokémon, it restores the\nuser’s HP in a pinch, but will cause\nconfusion if it hates dry food.
 If held by a Pokémon, it restores the\nuser’s HP in a pinch, but will cause\nconfusion if it hates sweet food.
 If held by a Pokémon, it restores the\nuser’s HP in a pinch, but will cause\nconfusion if it hates bitter food.
@@ -345,7 +345,7 @@ A wondrous wall of light is put up to\nsuppress damage from special attacks\nfor
 It enables the user to evade all\nattacks. Its chance of failing rises\nif it is used in succession.
 The user summons a heavy rain that\nfalls for five turns, powering up\nWater-type moves.
 A nutrient-draining attack. The user’s\nHP is restored by half the damage\ntaken by the target.
-The user creates a protective field\nthat prevents status problems like\npoison, paralysis, burn, and sleep.
+The user slams down on the target using\nits whole body. The higher the user’s\nDefense, the more damage it can deal.
 This attack’s power increases the\nmore the foe has powered up with\nstat changes.
 A two-turn attack. The user gathers\nlight, then blasts a bundled beam on\nthe second turn.
 The foe slams the target with its\nsteel-hard head. It may also make the\ntarget flinch.

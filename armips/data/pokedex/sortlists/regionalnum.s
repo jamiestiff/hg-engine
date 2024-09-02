@@ -329,4 +329,5 @@
 .halfword SPECIES_MOLTRES
 .halfword SPECIES_MEWTWO
 
+
 .close

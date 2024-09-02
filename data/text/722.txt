@@ -234,7 +234,7 @@ Reduces damage from\nsuper-effective attacks.
 Powers up moves that\nare super-effective.
 Boosts Attack when\nentering a battle.
 Boosts Defense when\nentering a battle.
-It changes type to that\nof the move it’s about to use.
+Restores HP if hit by a\nGround-type move.
 Retrieves the first\nthrown Poké Ball if it failed.
 Scatters Speed-lowering\ncotton fluff when hit.
 This Pokémon’s\nmoves cannot be redirected.
@@ -253,7 +253,7 @@ On entering battle, clears\neffects of Reflect, etc.
 Powers up ally Pokémon’s\nSteel-type moves.
 Both Pokémon faint 3 turns\nafter taking a contact hit.
 Swaps Abilities with\ncontact-making Pokémon.
-Boosts Attack, but allows\nonly one move to be used.
+It changes type to that\nof the move it’s about to use.
 Nullifies the effects of\nall other Abilities.
 Protects the Pokémon and\nits allies from poisoning.
 Changes between Full Belly\nand Hangry Mode each turn.

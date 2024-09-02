@@ -589,11 +589,11 @@ pokemon SPECIES_NONE
 pokemon SPECIES_NONE
 
 // surf encounters
-encounter SPECIES_POLIWAG, 15, 25
-encounter SPECIES_POLIWAG, 10, 20
-encounter SPECIES_POLIWHIRL, 15, 25
-encounter SPECIES_POLIWHIRL, 15, 25
-encounter SPECIES_POLIWHIRL, 15, 25
+encounter SPECIES_SURSKIT, 15, 25
+encounter SPECIES_SURSKIT, 10, 20
+encounter SPECIES_SURSKIT, 15, 25
+encounter SPECIES_MASQUERAIN, 15, 25
+encounter SPECIES_MASQUERAIN, 15, 25
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -688,6 +688,7 @@ pokemon SPECIES_CHINGLING
 pokemon SPECIES_DRIFLOON
 pokemon SPECIES_SWABLU
 
+// sinnoh encounter slots
 pokemon SPECIES_COMFEY
 pokemon SPECIES_MINCCINO
 
@@ -791,6 +792,7 @@ pokemon SPECIES_CHINGLING
 pokemon SPECIES_DRIFLOON
 pokemon SPECIES_SWABLU
 
+// sinnoh encounter slots
 pokemon SPECIES_COMFEY
 pokemon SPECIES_MINCCINO
 
@@ -1555,7 +1557,7 @@ encounter SPECIES_OCTILLERY, 40, 40
 encounter SPECIES_MAGIKARP, 40, 40
 
 // swarm grass
-pokemon SPECIES_GEODUDE
+pokemon SPECIES_CLEFFA
 // swarm surf
 pokemon SPECIES_WOOPER
 // swarm good rod
@@ -1659,7 +1661,7 @@ encounter SPECIES_OCTILLERY, 40, 40
 encounter SPECIES_MAGIKARP, 40, 40
 
 // swarm grass
-pokemon SPECIES_GEODUDE
+pokemon SPECIES_CLEFFA
 // swarm surf
 pokemon SPECIES_WOOPER
 // swarm good rod
@@ -2973,6 +2975,7 @@ pokemon SPECIES_LAMPENT
 pokemon SPECIES_DRIFLOON
 pokemon SPECIES_SWABLU
 
+// sinnoh encounter slots
 pokemon SPECIES_COMFEY
 pokemon SPECIES_MINCCINO
 
@@ -3076,6 +3079,7 @@ pokemon SPECIES_LAMPENT
 pokemon SPECIES_DRIFLOON
 pokemon SPECIES_SWABLU
 
+// sinnoh encounter slots
 pokemon SPECIES_COMFEY
 pokemon SPECIES_MINCCINO
 
@@ -3179,6 +3183,7 @@ pokemon SPECIES_BRONZOR
 pokemon SPECIES_DRIFLOON
 pokemon SPECIES_SWABLU
 
+// sinnoh encounter slots
 pokemon SPECIES_COMFEY
 pokemon SPECIES_MINCCINO
 
@@ -3282,6 +3287,7 @@ pokemon SPECIES_BRONZOR
 pokemon SPECIES_DRIFLOON
 pokemon SPECIES_SWABLU
 
+// sinnoh encounter slots
 pokemon SPECIES_COMFEY
 pokemon SPECIES_MINCCINO
 
@@ -3385,6 +3391,7 @@ pokemon SPECIES_BRONZOR
 pokemon SPECIES_DRIFLOON
 pokemon SPECIES_SWABLU
 
+// sinnoh encounter slots
 pokemon SPECIES_COMFEY
 pokemon SPECIES_MINCCINO
 
@@ -3488,6 +3495,7 @@ pokemon SPECIES_BRONZOR
 pokemon SPECIES_DRIFLOON
 pokemon SPECIES_SWABLU
 
+// sinnoh encounter slots
 pokemon SPECIES_COMFEY
 pokemon SPECIES_MINCCINO
 
@@ -3591,6 +3599,7 @@ pokemon SPECIES_BRONZOR
 pokemon SPECIES_DRIFLOON
 pokemon SPECIES_SWABLU
 
+// sinnoh encounter slots
 pokemon SPECIES_COMFEY
 pokemon SPECIES_MINCCINO
 
@@ -3694,6 +3703,7 @@ pokemon SPECIES_BRONZOR
 pokemon SPECIES_DRIFLOON
 pokemon SPECIES_SWABLU
 
+// sinnoh encounter slots
 pokemon SPECIES_COMFEY
 pokemon SPECIES_MINCCINO
 
@@ -3797,6 +3807,7 @@ pokemon SPECIES_BRONZOR
 pokemon SPECIES_DRIFLOON
 pokemon SPECIES_SWABLU
 
+// sinnoh encounter slots
 pokemon SPECIES_COMFEY
 pokemon SPECIES_MINCCINO
 
@@ -3900,6 +3911,7 @@ pokemon SPECIES_BRONZOR
 pokemon SPECIES_DRIFLOON
 pokemon SPECIES_SWABLU
 
+// sinnoh encounter slots
 pokemon SPECIES_COMFEY
 pokemon SPECIES_MINCCINO
 
@@ -8789,6 +8801,7 @@ pokemon SPECIES_BRONZOR
 pokemon SPECIES_DRIFLOON
 pokemon SPECIES_SWABLU
 
+// sinnoh encounter slots
 pokemon SPECIES_COMFEY
 pokemon SPECIES_MINCCINO
 
@@ -11235,49 +11248,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 10, 10, 10, 10, 12, 12, 8, 8, 14, 13, 14, 13
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
-pokemon SPECIES_CUBONE
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_CUBONE
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_MACHOP
-pokemon SPECIES_MACHOP
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MACHOKE
-pokemon SPECIES_CUBONE
-pokemon SPECIES_MACHOKE
-pokemon SPECIES_CUBONE
+pokemon SPECIES_LAIRON
+pokemon SPECIES_GOLBAT
+pokemon SPECIES_SABLEYE
+pokemon SPECIES_MAWILE
+pokemon SPECIES_LAIRON
+pokemon SPECIES_GOLBAT
+pokemon SPECIES_MAWILE
+pokemon SPECIES_SABLEYE
+pokemon SPECIES_DEINO
+pokemon SPECIES_DEINO
+pokemon SPECIES_DEINO
+pokemon SPECIES_DEINO
 
 // day encounter slots
-pokemon SPECIES_CUBONE
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_CUBONE
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_MACHOP
-pokemon SPECIES_MACHOP
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MACHOKE
-pokemon SPECIES_CUBONE
-pokemon SPECIES_MACHOKE
-pokemon SPECIES_CUBONE
+pokemon SPECIES_LAIRON
+pokemon SPECIES_GOLBAT
+pokemon SPECIES_SABLEYE
+pokemon SPECIES_MAWILE
+pokemon SPECIES_LAIRON
+pokemon SPECIES_GOLBAT
+pokemon SPECIES_MAWILE
+pokemon SPECIES_SABLEYE
+pokemon SPECIES_DEINO
+pokemon SPECIES_DEINO
+pokemon SPECIES_DEINO
+pokemon SPECIES_DEINO
 
 // night encounter slots
-pokemon SPECIES_CUBONE
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_CUBONE
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_MACHOP
-pokemon SPECIES_MACHOP
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MACHOKE
-pokemon SPECIES_CUBONE
-pokemon SPECIES_MACHOKE
-pokemon SPECIES_CUBONE
+pokemon SPECIES_LAIRON
+pokemon SPECIES_GOLBAT
+pokemon SPECIES_SABLEYE
+pokemon SPECIES_MAWILE
+pokemon SPECIES_LAIRON
+pokemon SPECIES_GOLBAT
+pokemon SPECIES_MAWILE
+pokemon SPECIES_SABLEYE
+pokemon SPECIES_DEINO
+pokemon SPECIES_DEINO
+pokemon SPECIES_DEINO
+pokemon SPECIES_DEINO
 
 // hoenn encounter slots
 pokemon SPECIES_SABLEYE
@@ -11320,7 +11333,7 @@ encounter SPECIES_NONE, 0, 0
 encounter SPECIES_NONE, 0, 0
 
 // swarm grass
-pokemon SPECIES_CUBONE
+pokemon SPECIES_SABLEYE
 // swarm surf
 pokemon SPECIES_NONE
 // swarm good rod
@@ -11339,49 +11352,49 @@ rocksmashrate 20
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 12, 12, 12, 12, 16, 16, 10, 10, 14, 14, 14, 14
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
-pokemon SPECIES_CUBONE
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_CUBONE
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_ONIX
-pokemon SPECIES_ONIX
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MAROWAK
-pokemon SPECIES_KANGASKHAN
-pokemon SPECIES_MAROWAK
-pokemon SPECIES_KANGASKHAN
+pokemon SPECIES_LAIRON
+pokemon SPECIES_GOLBAT
+pokemon SPECIES_SABLEYE
+pokemon SPECIES_MAWILE
+pokemon SPECIES_LAIRON
+pokemon SPECIES_GOLBAT
+pokemon SPECIES_MAWILE
+pokemon SPECIES_SABLEYE
+pokemon SPECIES_DEINO
+pokemon SPECIES_DEINO
+pokemon SPECIES_DEINO
+pokemon SPECIES_DEINO
 
 // day encounter slots
-pokemon SPECIES_CUBONE
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_CUBONE
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_ONIX
-pokemon SPECIES_ONIX
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MAROWAK
-pokemon SPECIES_KANGASKHAN
-pokemon SPECIES_MAROWAK
-pokemon SPECIES_KANGASKHAN
+pokemon SPECIES_LAIRON
+pokemon SPECIES_GOLBAT
+pokemon SPECIES_SABLEYE
+pokemon SPECIES_MAWILE
+pokemon SPECIES_LAIRON
+pokemon SPECIES_GOLBAT
+pokemon SPECIES_MAWILE
+pokemon SPECIES_SABLEYE
+pokemon SPECIES_DEINO
+pokemon SPECIES_DEINO
+pokemon SPECIES_DEINO
+pokemon SPECIES_DEINO
 
 // night encounter slots
-pokemon SPECIES_CUBONE
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_CUBONE
-pokemon SPECIES_GEODUDE
-pokemon SPECIES_ONIX
-pokemon SPECIES_ONIX
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MAROWAK
-pokemon SPECIES_KANGASKHAN
-pokemon SPECIES_MAROWAK
-pokemon SPECIES_KANGASKHAN
+pokemon SPECIES_LAIRON
+pokemon SPECIES_GOLBAT
+pokemon SPECIES_SABLEYE
+pokemon SPECIES_MAWILE
+pokemon SPECIES_LAIRON
+pokemon SPECIES_GOLBAT
+pokemon SPECIES_MAWILE
+pokemon SPECIES_SABLEYE
+pokemon SPECIES_DEINO
+pokemon SPECIES_DEINO
+pokemon SPECIES_DEINO
+pokemon SPECIES_DEINO
 
 // hoenn encounter slots
 pokemon SPECIES_SABLEYE
@@ -11424,7 +11437,7 @@ encounter SPECIES_NONE, 0, 0
 encounter SPECIES_NONE, 0, 0
 
 // swarm grass
-pokemon SPECIES_CUBONE
+pokemon SPECIES_SABLEYE
 // swarm surf
 pokemon SPECIES_NONE
 // swarm good rod

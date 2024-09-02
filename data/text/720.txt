@@ -234,7 +234,7 @@ Prism Armor
 Neuroforce
 Intrepid Sword
 Dauntless Shield
-Libero
+Earth Eater
 Ball Fetch
 Cotton Down
 Propeller Tail
@@ -253,7 +253,7 @@ Screen Cleaner
 Steely Spirit
 Perish Body
 Wandering Spirit
-Gorilla Tactics
+Libero
 Neutralizing Gas
 Pastel Veil
 Hunger Switch
@@ -295,7 +295,7 @@ Supreme Overlord
 Costar
 Toxic Debris
 Armor Tail
-Earth Eater
+Gorilla Tactics
 Mycelium Might
 Hospitality
 Mind’s Eye
