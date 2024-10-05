@@ -9,11 +9,6 @@
 _0000: // Trainer 0
        // Trainer 2
        // Trainer 3
-       // Trainer 174
-       // Trainer 175
-       // Trainer 176
-       // Trainer 177
-       // Trainer 180
        // Trainer 194
        // Trainer 207
        // Trainer 208
@@ -28,10 +23,6 @@ _0000: // Trainer 0
        // Trainer 273
        // Trainer 292
        // Trainer 295
-       // Trainer 304
-       // Trainer 305
-       // Trainer 306
-       // Trainer 307
        // Trainer 338
        // Trainer 340
        // Trainer 341
@@ -237,12 +228,11 @@ _0170: // Trainer 31
 _017C: // Trainer 33
     trainertextentry  33, TEXT_LAST_MON_CRITICAL, "Properly tempered steel won’t be made\nrusty by things like this!\n"
     trainertextentry  33, TEXT_LAST_MON_SENT_OUT, "Steel will hang on to the very last!\n"
-    trainertextentry  33, TEXT_DEFEATED_IN_BATTLE, "Well done...\n"
+    trainertextentry  33, TEXT_DEFEATED_IN_BATTLE, "Well done!\n"
 
 _0188: // Trainer 34
-    trainertextentry  34, TEXT_LAST_MON_CRITICAL, "We haven’t lost yet!\n"
-    trainertextentry  34, TEXT_LAST_MON_SENT_OUT, "No... Not...yet...\n"
-    trainertextentry  34, TEXT_DEFEATED_IN_BATTLE, "We...lost...\n"
+    trainertextentry  34, TEXT_PLAYER_LOSES, "You'll have to step your game up\nin the next round!"
+    trainertextentry  34, TEXT_DEFEATED_IN_BATTLE, "Hmmm, I'll have to step my game up\nin the next round..."
 
 _0194: // Trainer 32
     trainertextentry  32, TEXT_LAST_MON_CRITICAL, "Humph... You are quite the Trainer.\n"
@@ -3157,7 +3147,47 @@ _1B6C: // Trainer 170
 
 _1B70: // Trainer 171
     trainertextentry 171, TEXT_DEFEATED_IN_BATTLE, "... You are incredible.\n"
-    
+
+_1B74: // Trainer 174
+    trainertextentry  174, TEXT_LAST_MON_CRITICAL, "No, it’s not over yet--not yet!\nI still believe we can do it!\n"
+    trainertextentry  174, TEXT_LAST_MON_SENT_OUT, "We’ve got more discipline than\nanyone else!\n"
+    trainertextentry  174, TEXT_DEFEATED_IN_BATTLE, "How is this possible...\n"
+
+_1B80: // Trainer 175
+    trainertextentry  175, TEXT_LAST_MON_CRITICAL, "No, it’s not over yet--not yet!\nI still believe we can do it!\n"
+    trainertextentry  175, TEXT_LAST_MON_SENT_OUT, "We’ve got more discipline than\nanyone else!\n"
+    trainertextentry  175, TEXT_DEFEATED_IN_BATTLE, "How is this possible...\n"
+
+_1B8C: // Trainer 176
+    trainertextentry  176, TEXT_LAST_MON_CRITICAL, "No, it’s not over yet--not yet!\nI still believe we can do it!\n"
+    trainertextentry  176, TEXT_LAST_MON_SENT_OUT, "We’ve got more discipline than\nanyone else!\n"
+    trainertextentry  176, TEXT_DEFEATED_IN_BATTLE, "How is this possible...\n"
+
+_1B98: // Trainer 177
+    trainertextentry  177, TEXT_LAST_MON_CRITICAL, "No, it’s not over yet--not yet!\nI still believe we can do it!\n"
+    trainertextentry  177, TEXT_LAST_MON_SENT_OUT, "We’ve got more discipline than\nanyone else!\n"
+    trainertextentry  177, TEXT_DEFEATED_IN_BATTLE, "How is this possible...\n"
+
+_1BA4: // Trainer 180
+    trainertextentry  180, TEXT_LAST_MON_CRITICAL, "No, it’s not over yet--not yet!\nI still believe we can do it!\n"
+    trainertextentry  180, TEXT_LAST_MON_SENT_OUT, "We’ve got more discipline than\nanyone else!\n"
+    trainertextentry  180, TEXT_DEFEATED_IN_BATTLE, "How is this possible...\n"
+
+_1BB0: // Trainer 304
+    trainertextentry  304, TEXT_PLAYER_LOSES, "Wahahah!"
+    trainertextentry  304, TEXT_DEFEATED_IN_BATTLE, "Interesting...."    
+
+_1BB8: // Trainer 305
+    trainertextentry  305, TEXT_PLAYER_LOSES, "Tough luck kid -\nthis round is mine!"
+    trainertextentry  305, TEXT_DEFEATED_IN_BATTLE, "Wow, you're good kid!"    
+
+_1BC0: // Trainer 306
+    trainertextentry  306, TEXT_PLAYER_LOSES, "Wahahah!"
+    trainertextentry  306, TEXT_DEFEATED_IN_BATTLE, "Interesting...."    
+
+_1BC8: // Trainer 307
+    trainertextentry  307, TEXT_PLAYER_LOSES, "Nice try kid -\nBetter luck next time!"
+    trainertextentry  307, TEXT_DEFEATED_IN_BATTLE, "Damn, good work!"    
 .close
 
 
@@ -3337,13 +3367,13 @@ _1B70: // Trainer 171
 /* Trainer 171 */ .halfword _1B70
 /* Trainer 172 */ .halfword _1A2C
 /* Trainer 173 */ .halfword _1A30
-/* Trainer 174 */ .halfword _0000
-/* Trainer 175 */ .halfword _0000
-/* Trainer 176 */ .halfword _0000
-/* Trainer 177 */ .halfword _0000
+/* Trainer 174 */ .halfword _1B74
+/* Trainer 175 */ .halfword _1B80
+/* Trainer 176 */ .halfword _1B8C
+/* Trainer 177 */ .halfword _1B98
 /* Trainer 178 */ .halfword _10A0
 /* Trainer 179 */ .halfword _07FC
-/* Trainer 180 */ .halfword _0000
+/* Trainer 180 */ .halfword _1BA4
 /* Trainer 181 */ .halfword _1074
 /* Trainer 182 */ .halfword _1080
 /* Trainer 183 */ .halfword _05AC
@@ -3467,10 +3497,10 @@ _1B70: // Trainer 171
 /* Trainer 301 */ .halfword _0880
 /* Trainer 302 */ .halfword _088C
 /* Trainer 303 */ .halfword _1888
-/* Trainer 304 */ .halfword _0000
-/* Trainer 305 */ .halfword _0000
-/* Trainer 306 */ .halfword _0000
-/* Trainer 307 */ .halfword _0000
+/* Trainer 304 */ .halfword _1BB0
+/* Trainer 305 */ .halfword _1BB8
+/* Trainer 306 */ .halfword _1BC0
+/* Trainer 307 */ .halfword _1BC8
 /* Trainer 308 */ .halfword _04EC
 /* Trainer 309 */ .halfword _0698
 /* Trainer 310 */ .halfword _06A4

@@ -231,7 +231,7 @@ movedata MOVE_RAZOR_WIND, "Cyclone"
     appeal 0x06
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_RAZOR_WIND, "The user whips up\na terrible hurricane.\nThis attack always\nduring heavy rain."
+    movedescription MOVE_RAZOR_WIND, "The user whips up\na terrible hurricane.\nThis attack always\nhits during heavy rain."
 
 movedata MOVE_SWORDS_DANCE, "Swords Dance"
     battleeffect MOVE_EFFECT_ATK_UP_2
@@ -250,7 +250,7 @@ movedata MOVE_SWORDS_DANCE, "Swords Dance"
     movedescription MOVE_SWORDS_DANCE, "A frenetic dance to\nuplift the fighting\nspirit. It sharply\nraises the user’s\nAttack stat."
 
 movedata MOVE_CUT, "Cut"
-    battleeffect MOVE_EFFECT_HIT
+    battleeffect MOVE_EFFECT_HIGH_CRITICAL
     pss SPLIT_PHYSICAL
     basepower 50
     type TYPE_NORMAL
@@ -263,7 +263,7 @@ movedata MOVE_CUT, "Cut"
     appeal 0x05
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_CUT, "The foe is cut with a\nscythe or a claw.\nIt can also be used\nto cut down thin\ntrees."
+    movedescription MOVE_CUT, "The foe is cut with a\nscythe or a claw.\nIt has a high\ncritical-hit ratio."
 
 movedata MOVE_GUST, "Gust"
     battleeffect MOVE_EFFECT_DOUBLE_DAMAGE_FLY_OR_BOUNCE
@@ -8730,20 +8730,20 @@ movedata MOVE_TAIL_SLAP, "Tail Slap"
     movedescription MOVE_TAIL_SLAP, "The use attacks by\nhitting the target\nwith its hard tail.\nIt hits two to five\ntimes in a row."
 
 movedata MOVE_HURRICANE, "Hurricane"
-    battleeffect MOVE_EFFECT_HIT
+    battleeffect MOVE_EFFECT_THUNDER
     pss SPLIT_SPECIAL
     basepower 110
     type TYPE_FLYING
     accuracy 70
     pp 10
-    effectchance 30
+    effectchance 0
     target MOVE_TARGET_SELECTED
     priority 0
     flags FLAG_PROTECT | FLAG_MIRROR_MOVE | FLAG_KINGS_ROCK
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_HURRICANE, "The foe is caught\nin a fierce wind.\nIt may also confuse\nthe foe."
+    movedescription MOVE_HURRICANE, "The user whips up\na terrible hurricane.\nThis always hits\nduring heavy rain."
 
 movedata MOVE_HEAD_CHARGE, "Head Charge"
     battleeffect MOVE_EFFECT_RECOIL_THIRD
@@ -9835,7 +9835,7 @@ movedata MOVE_HOLD_BACK, "Hold Back"
     movedescription MOVE_HOLD_BACK, "---"
 
 movedata MOVE_INFESTATION, "Infestation"
-    battleeffect MOVE_EFFECT_HIT
+    battleeffect MOVE_EFFECT_BIND_HIT
     pss SPLIT_SPECIAL
     basepower 20
     type TYPE_BUG
@@ -9848,7 +9848,7 @@ movedata MOVE_INFESTATION, "Infestation"
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_INFESTATION, "---"
+    movedescription MOVE_INFESTATION, "The target is\ninfested for four to\nfive turns. The foe\ncannot flee during\nthis time."
 
 movedata MOVE_POWER_UP_PUNCH, "Power-Up Punch"
     battleeffect MOVE_EFFECT_RAISE_ATTACK_HIT
@@ -10792,7 +10792,7 @@ movedata MOVE_LEAFAGE, "Leafage"
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_LEAFAGE, "---"
+    movedescription MOVE_LEAFAGE, "The user attacks by\npelting the target\nwith leaves."
 
 movedata MOVE_SPOTLIGHT, "Spotlight"
     battleeffect MOVE_EFFECT_MAKE_GLOBAL_TARGET
@@ -10936,7 +10936,7 @@ movedata MOVE_LUNGE, "Lunge"
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_LUNGE, "---"
+    movedescription MOVE_LUNGE, "The user lunges at\nthe foe, full force.\nThis lowers the\ntarget's Attack."
 
 movedata MOVE_FIRE_LASH, "Fire Lash"
     battleeffect MOVE_EFFECT_LOWER_DEFENSE_HIT
@@ -11160,7 +11160,7 @@ movedata MOVE_BRUTAL_SWING, "Brutal Swing"
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_BRUTAL_SWING, "---"
+    movedescription MOVE_BRUTAL_SWING, "The user swings\naround violently to\ninflict damage on\neverything in its\nvicinity."
 
 movedata MOVE_AURORA_VEIL, "Aurora Veil"
     battleeffect MOVE_EFFECT_HIT
@@ -11368,7 +11368,7 @@ movedata MOVE_PSYCHIC_FANGS, "Psychic Fangs"
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_PSYCHIC_FANGS, "---"
+    movedescription MOVE_PSYCHIC_FANGS, "The user bites the\ntarget with its\npsychic powers. This\nalso breaks barriers\nsuch as Reflect."
 
 movedatalongname MOVE_STOMPING_TANTRUM, "Stomp Tantrum", "Stomping Tantrum"
     battleeffect MOVE_EFFECT_HIT
@@ -12648,7 +12648,7 @@ movedata MOVE_OVERDRIVE, "Overdrive"
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_OVERDRIVE, "---"
+    movedescription MOVE_OVERDRIVE, "The user strums an\nelectric guitar,\nreleasing a loud\nburst of energy."
 
 movedata MOVE_APPLE_ACID, "Apple Acid"
     battleeffect MOVE_EFFECT_LOWER_SP_DEF_HIT
@@ -12696,7 +12696,7 @@ movedata MOVE_SPIRIT_BREAK, "Spirit Break"
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_SPIRIT_BREAK, "---"
+    movedescription MOVE_SPIRIT_BREAK, "The user demoralises\nthe target, dealing\ndamage and lowering\nthe foe's Sp. Atk."
 
 movedata MOVE_STRANGE_STEAM, "Strange Steam"
     battleeffect MOVE_EFFECT_CONFUSE_HIT
@@ -13064,7 +13064,7 @@ movedata MOVE_FLIP_TURN, "Flip Turn"
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_FLIP_TURN, "---"
+    movedescription MOVE_FLIP_TURN, "After making its\nattack, the user\nrushes back to switch\nplaces with a party\nPokémon in waiting."
 
 movedata MOVE_TRIPLE_AXEL, "Triple Axel"
     battleeffect MOVE_EFFECT_HIT_THREE_TIMES_INCREMENT_BASE_POWER_20
@@ -13112,7 +13112,7 @@ movedata MOVE_SCORCHING_SANDS, "Scorching Sands"
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_SCORCHING_SANDS, "---"
+    movedescription MOVE_SCORCHING_SANDS, "The user hurls hot\nsand at the foe.\nThis may leave the\ntarget with a burn."
 
 movedata MOVE_JUNGLE_HEALING, "Jungle Healing"
     battleeffect MOVE_EFFECT_HIT
@@ -13320,7 +13320,7 @@ movedata MOVE_PSYSHIELD_BASH, "Psyshield Bash"
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_PSYSHIELD_BASH, "---"
+    movedescription MOVE_PSYSHIELD_BASH, "Cloaked in psychic\nenergy, the user\ncharges into the foe\nand boosts its\nown Defense stat."
 
 movedata MOVE_POWER_SHIFT, "Power Shift"
     battleeffect MOVE_EFFECT_SWAP_ATK_DEF
@@ -14226,14 +14226,13 @@ movedata MOVE_TRAILBLAZE, "Trailblaze"
     accuracy 100
     pp 20
     effectchance 100
-    effectchance 100
     target MOVE_TARGET_SELECTED
     priority 0
     flags FLAG_PROTECT | FLAG_MIRROR_MOVE | FLAG_KINGS_ROCK | FLAG_CONTACT
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_TRAILBLAZE, "---"
+    movedescription MOVE_TRAILBLAZE, "The user attacks the\nfoe with a swift\nleap. The user's\nnimble footwork\nboosts its Speed."
 
 movedata MOVE_CHILLING_WATER, "Chilling Water"
     battleeffect MOVE_EFFECT_LOWER_ATTACK_HIT
@@ -14249,7 +14248,7 @@ movedata MOVE_CHILLING_WATER, "Chilling Water"
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_CHILLING_WATER, "---"
+    movedescription MOVE_CHILLING_WATER, "The user showers the\nfoe with icy water,\ndealing damage and\nlowering the foes's\nAttack stat."
 
 movedata MOVE_HYPER_DRILL, "Hyper Drill"
     battleeffect MOVE_EFFECT_HIT
@@ -14265,7 +14264,7 @@ movedata MOVE_HYPER_DRILL, "Hyper Drill"
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_HYPER_DRILL, "---"
+    movedescription MOVE_HYPER_DRILL, "The user spins and\npierces the target.\nThis attack bypasses\nmoves such as\nProtect or Detect."
 
 movedata MOVE_TWIN_BEAM, "Twin Beam"
     battleeffect MOVE_EFFECT_HIT_TWICE
@@ -14281,7 +14280,7 @@ movedata MOVE_TWIN_BEAM, "Twin Beam"
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_TWIN_BEAM, "---"
+    movedescription MOVE_TWIN_BEAM, "The user shoots two\nmystical beams to\ninflict damage.\nThe target is hit\ntwice in a row."
 
 movedata MOVE_RAGE_FIST, "Rage Fist"
     battleeffect MOVE_EFFECT_HIT
