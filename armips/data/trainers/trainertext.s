@@ -9,10 +9,6 @@
 _0000: // Trainer 0
        // Trainer 2
        // Trainer 3
-       // Trainer 194
-       // Trainer 207
-       // Trainer 208
-       // Trainer 210
        // Trainer 221
        // Trainer 225
        // Trainer 226
@@ -336,8 +332,8 @@ _0280: // Trainer 5
 
 _028C: // Trainer 70
     trainertextentry  70, TEXT_NOTICE_IN_OVERWORLD, "Give it your best shot, or I’ll take\nyou down!\r"
-    trainertextentry  70, TEXT_DEFEATED_IN_BATTLE, "No!\nOh, Meowth, I’m so sorry!\n"
-    trainertextentry  70, TEXT_DEFEATED_IN_OVERWORLD, "I taught Meowth moves for taking\non any type...\n"
+    trainertextentry  70, TEXT_DEFEATED_IN_BATTLE, "No!\nMeowth, Skitty, I’m so sorry!\n"
+    trainertextentry  70, TEXT_DEFEATED_IN_OVERWORLD, "I taught Skitty moves for taking\non any type...\n"
 
 _0298: // Trainer 46
     trainertextentry  46, TEXT_NOTICE_IN_OVERWORLD, "I shall win!\r"
@@ -3188,8 +3184,14 @@ _1BC0: // Trainer 306
 _1BC8: // Trainer 307
     trainertextentry  307, TEXT_PLAYER_LOSES, "Nice try kid -\nBetter luck next time!"
     trainertextentry  307, TEXT_DEFEATED_IN_BATTLE, "Damn, good work!"    
-.close
 
+_1BD0: // Trainer 194
+    trainertextentry 194, TEXT_DEFEATED_IN_BATTLE, "Still not good enough...\n"
+
+_1BD4: // Trainer 207
+    trainertextentry 207, TEXT_DEFEATED_IN_BATTLE, "You've grown tremendously!\n"
+
+.close
 
 .create "build/trainer_text_offsets/1_0", 0
 
@@ -3387,7 +3389,7 @@ _1BC8: // Trainer 307
 /* Trainer 191 */ .halfword _1108
 /* Trainer 192 */ .halfword _1134
 /* Trainer 193 */ .halfword _1388
-/* Trainer 194 */ .halfword _0000
+/* Trainer 194 */ .halfword _1BD0
 /* Trainer 195 */ .halfword _1394
 /* Trainer 196 */ .halfword _13B8
 /* Trainer 197 */ .halfword _13C4
@@ -3400,7 +3402,7 @@ _1BC8: // Trainer 307
 /* Trainer 204 */ .halfword _11DC
 /* Trainer 205 */ .halfword _11E8
 /* Trainer 206 */ .halfword _11F4
-/* Trainer 207 */ .halfword _0000
+/* Trainer 207 */ .halfword _1BD4
 /* Trainer 208 */ .halfword _0000
 /* Trainer 209 */ .halfword _0F48
 /* Trainer 210 */ .halfword _0000

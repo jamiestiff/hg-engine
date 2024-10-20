@@ -866,8 +866,8 @@ pokemon SPECIES_WOOPER
 
 // day encounter slots
 pokemon SPECIES_HOPPIP
-pokemon SPECIES_KRICKETOT
 pokemon SPECIES_BELLSPROUT
+pokemon SPECIES_MAREEP
 pokemon SPECIES_EKANS
 pokemon SPECIES_MAREEP
 pokemon SPECIES_MAREEP

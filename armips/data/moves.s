@@ -62,7 +62,7 @@ movedata MOVE_DOUBLE_SLAP, "Double Slap"
     pss SPLIT_PHYSICAL
     basepower 15
     type TYPE_NORMAL
-    accuracy 85
+    accuracy 100
     pp 10
     effectchance 0
     target MOVE_TARGET_SELECTED
@@ -76,10 +76,10 @@ movedata MOVE_DOUBLE_SLAP, "Double Slap"
 movedata MOVE_COMET_PUNCH, "Comet Punch"
     battleeffect MOVE_EFFECT_MULTI_HIT
     pss SPLIT_PHYSICAL
-    basepower 18
-    type TYPE_NORMAL
-    accuracy 85
-    pp 15
+    basepower 25
+    type TYPE_FLYING
+    accuracy 100
+    pp 20
     effectchance 0
     target MOVE_TARGET_SELECTED
     priority 0
@@ -508,10 +508,10 @@ movedata MOVE_HORN_ATTACK, "Horn Attack"
 movedata MOVE_FURY_ATTACK, "Fury Attack"
     battleeffect MOVE_EFFECT_MULTI_HIT
     pss SPLIT_PHYSICAL
-    basepower 15
+    basepower 20
     type TYPE_NORMAL
-    accuracy 85
-    pp 20
+    accuracy 90
+    pp 30
     effectchance 0
     target MOVE_TARGET_SELECTED
     priority 0
@@ -686,7 +686,7 @@ movedata MOVE_PIN_MISSILE, "Pin Missile"
     pss SPLIT_PHYSICAL
     basepower 25
     type TYPE_BUG
-    accuracy 95
+    accuracy 100
     pp 20
     effectchance 0
     target MOVE_TARGET_SELECTED
@@ -2108,10 +2108,10 @@ movedata MOVE_SKULL_BASH, "Skull Bash"
 movedata MOVE_SPIKE_CANNON, "Spike Cannon"
     battleeffect MOVE_EFFECT_MULTI_HIT
     pss SPLIT_PHYSICAL
-    basepower 20
-    type TYPE_NORMAL
+    basepower 25
+    type TYPE_STEEL
     accuracy 100
-    pp 15
+    pp 20
     effectchance 0
     target MOVE_TARGET_SELECTED
     priority 0
@@ -2124,18 +2124,18 @@ movedata MOVE_SPIKE_CANNON, "Spike Cannon"
 movedata MOVE_CONSTRICT, "Constrict"
     battleeffect MOVE_EFFECT_LOWER_SPEED_HIT
     pss SPLIT_PHYSICAL
-    basepower 10
+    basepower 50
     type TYPE_NORMAL
     accuracy 100
-    pp 35
-    effectchance 10
+    pp 25
+    effectchance 100
     target MOVE_TARGET_SELECTED
     priority 0
     flags FLAG_MIRROR_MOVE | FLAG_PROTECT | FLAG_CONTACT
     appeal 0x15
     contesttype CONTEST_TOUGH
     terminatedata
-    movedescription MOVE_CONSTRICT, "The foe is attacked\nwith long, creeping\ntentacles or vines.\nIt may also lower the\ntarget’s Speed."
+    movedescription MOVE_CONSTRICT, "The foe is attacked\nwith long, creeping\ntentacles or vines.\nIt also lowers the\ntarget’s Speed."
 
 movedata MOVE_AMNESIA, "Amnesia"
     battleeffect MOVE_EFFECT_SP_DEF_UP_2
@@ -2249,12 +2249,12 @@ movedata MOVE_POISON_GAS, "Poison Gas"
     terminatedata
     movedescription MOVE_POISON_GAS, "A cloud of poison gas\nis sprayed in the\nfoe’s face.\nIt may poison the\ntarget."
 
-movedata MOVE_BARRAGE, "Barrage"
+movedata MOVE_BARRAGE, "Mental Barrage"
     battleeffect MOVE_EFFECT_MULTI_HIT
-    pss SPLIT_PHYSICAL
-    basepower 15
-    type TYPE_NORMAL
-    accuracy 85
+    pss SPLIT_SPECIAL
+    basepower 25
+    type TYPE_PSYCHIC
+    accuracy 100
     pp 20
     effectchance 0
     target MOVE_TARGET_SELECTED
@@ -2263,7 +2263,7 @@ movedata MOVE_BARRAGE, "Barrage"
     appeal 0x07
     contesttype CONTEST_TOUGH
     terminatedata
-    movedescription MOVE_BARRAGE, "Round objects are\nhurled at the foe to\nstrike two to five\ntimes in a row.\n"
+    movedescription MOVE_BARRAGE, "Round objects are\nhurled psychically\nstriking up to five\ntimes in a row.\n"
 
 movedata MOVE_LEECH_LIFE, "Leech Life"
     battleeffect MOVE_EFFECT_RECOVER_HALF_DAMAGE_DEALT
@@ -2476,10 +2476,10 @@ movedata MOVE_EXPLOSION, "Explosion"
 movedata MOVE_FURY_SWIPES, "Fury Swipes"
     battleeffect MOVE_EFFECT_MULTI_HIT
     pss SPLIT_PHYSICAL
-    basepower 18
+    basepower 25
     type TYPE_NORMAL
     accuracy 80
-    pp 15
+    pp 30
     effectchance 0
     target MOVE_TARGET_SELECTED
     priority 0
@@ -3182,8 +3182,8 @@ movedata MOVE_BONE_RUSH, "Bone Rush"
     pss SPLIT_PHYSICAL
     basepower 25
     type TYPE_GROUND
-    accuracy 90
-    pp 10
+    accuracy 100
+    pp 20
     effectchance 0
     target MOVE_TARGET_SELECTED
     priority 0
@@ -4684,7 +4684,7 @@ movedata MOVE_DIVE, "Dive"
 movedata MOVE_ARM_THRUST, "Arm Thrust"
     battleeffect MOVE_EFFECT_MULTI_HIT
     pss SPLIT_PHYSICAL
-    basepower 15
+    basepower 25
     type TYPE_FIGHTING
     accuracy 100
     pp 20
@@ -5311,7 +5311,7 @@ movedata MOVE_BULLET_SEED, "Bullet Seed"
     basepower 25
     type TYPE_GRASS
     accuracy 100
-    pp 30
+    pp 20
     effectchance 0
     target MOVE_TARGET_SELECTED
     priority 0
@@ -5343,7 +5343,7 @@ movedata MOVE_ICICLE_SPEAR, "Icicle Spear"
     basepower 25
     type TYPE_ICE
     accuracy 100
-    pp 30
+    pp 20
     effectchance 0
     target MOVE_TARGET_SELECTED
     priority 0
@@ -5614,8 +5614,8 @@ movedata MOVE_ROCK_BLAST, "Rock Blast"
     pss SPLIT_PHYSICAL
     basepower 25
     type TYPE_ROCK
-    accuracy 90
-    pp 10
+    accuracy 100
+    pp 20
     effectchance 0
     target MOVE_TARGET_SELECTED
     priority 0
@@ -7340,9 +7340,9 @@ movedata MOVE_HEAD_SMASH, "Head Smash"
 movedata MOVE_DOUBLE_HIT, "Double Hit"
     battleeffect MOVE_EFFECT_HIT_TWICE
     pss SPLIT_PHYSICAL
-    basepower 35
+    basepower 45
     type TYPE_NORMAL
-    accuracy 90
+    accuracy 100
     pp 10
     effectchance 0
     target MOVE_TARGET_SELECTED
@@ -8718,8 +8718,8 @@ movedata MOVE_TAIL_SLAP, "Tail Slap"
     pss SPLIT_PHYSICAL
     basepower 25
     type TYPE_NORMAL
-    accuracy 85
-    pp 10
+    accuracy 100
+    pp 20
     effectchance 0
     target MOVE_TARGET_SELECTED
     priority 0

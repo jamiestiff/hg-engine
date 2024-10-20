@@ -13533,7 +13533,7 @@ const ITEMDATA __data[] =
 
 [ITEM_FOCUS_BAND - NUM_UNKNOWN_SLOTS] =
 {
-    .price = 200,
+    .price = 9999,
     .holdEffect = HOLD_EFFECT_MAYBE_ENDURE,
     .holdEffectParam = 10,
     .pluckEffect = 0,
@@ -13663,7 +13663,7 @@ const ITEMDATA __data[] =
 
 [ITEM_SCOPE_LENS - NUM_UNKNOWN_SLOTS] =
 {
-    .price = 200,
+    .price = 2000,
     .holdEffect = HOLD_EFFECT_CRITRATE_UP,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -15808,7 +15808,7 @@ const ITEMDATA __data[] =
 
 [ITEM_WIDE_LENS - NUM_UNKNOWN_SLOTS] =
 {
-    .price = 200,
+    .price = 2000,
     .holdEffect = HOLD_EFFECT_ACCURACY_UP,
     .holdEffectParam = 10,
     .pluckEffect = 0,
@@ -15873,7 +15873,7 @@ const ITEMDATA __data[] =
 
 [ITEM_MUSCLE_BAND - NUM_UNKNOWN_SLOTS] =
 {
-    .price = 200,
+    .price = 4000,
     .holdEffect = HOLD_EFFECT_POWER_UP_PHYS,
     .holdEffectParam = 10,
     .pluckEffect = 0,
@@ -15938,7 +15938,7 @@ const ITEMDATA __data[] =
 
 [ITEM_WISE_GLASSES - NUM_UNKNOWN_SLOTS] =
 {
-    .price = 200,
+    .price = 4000,
     .holdEffect = HOLD_EFFECT_POWER_UP_SPEC,
     .holdEffectParam = 10,
     .pluckEffect = 0,
@@ -16458,7 +16458,7 @@ const ITEMDATA __data[] =
 
 [ITEM_FOCUS_SASH - NUM_UNKNOWN_SLOTS] =
 {
-    .price = 200,
+    .price = 9999,
     .holdEffect = HOLD_EFFECT_ENDURE,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -16523,7 +16523,7 @@ const ITEMDATA __data[] =
 
 [ITEM_ZOOM_LENS - NUM_UNKNOWN_SLOTS] =
 {
-    .price = 200,
+    .price = 2000,
     .holdEffect = HOLD_EFFECT_ACCURACY_UP_SLOWER,
     .holdEffectParam = 20,
     .pluckEffect = 0,
@@ -36608,7 +36608,7 @@ const ITEMDATA __data[] =
 
 [ITEM_AIR_BALLOON - NUM_UNKNOWN_SLOTS_EXPLORER_KIT] =
 {
-    .price = 200,
+    .price = 1000,
     .holdEffect = HOLD_EFFECT_UNGROUND_DESTROYED_ON_HIT,
     .holdEffectParam = 0,
     .pluckEffect = 0,

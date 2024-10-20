@@ -30579,14 +30579,23 @@ routesandcities SPECIES_ORBEETLE, DEX_SPECIAL
 
 
 specialareas SPECIES_NICKIT, DEX_MORNING
+    .word DEX_ROUTE_29
+    .word DEX_ROUTE_46
+    .word DEX_SPROUT_TOWER
     dexendareadata
 
 
 specialareas SPECIES_NICKIT, DEX_DAY
+    .word DEX_ROUTE_29
+    .word DEX_ROUTE_46
+    .word DEX_SPROUT_TOWER
     dexendareadata
 
 
 specialareas SPECIES_NICKIT, DEX_NIGHT
+    .word DEX_ROUTE_29
+    .word DEX_ROUTE_46
+    .word DEX_SPROUT_TOWER
     dexendareadata
 
 

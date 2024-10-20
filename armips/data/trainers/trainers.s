@@ -87,7 +87,7 @@ trainerdata 1, "Silver"
         level 18
         pokemon SPECIES_BAYLEEF
         item ITEM_NONE
-        move MOVE_RAZOR_LEAF
+        move MOVE_TRAILBLAZE
         move MOVE_ANCIENT_POWER
         move MOVE_HEADBUTT
         move MOVE_SLEEP_POWDER
@@ -701,15 +701,15 @@ trainerdata 20, "Falkner"
         abilityslot 0
         level 13
         pokemon SPECIES_HOOTHOOT
-        item ITEM_NONE
+        item ITEM_BERRY_JUICE
         move MOVE_AIR_CUTTER
         move MOVE_SWIFT
         move MOVE_MUD_SLAP
         move MOVE_ROOST
         ability ABILITY_TINTED_LENS
         ball ITEM_MOON_BALL
-        setivs 31, 0, 25, 20, 21, 20 // hp, atk, def, spd, spatk, spdef
-        setevs 48, 0, 32, 0, 0, 0
+        setivs 31, 0, 31, 31, 21, 31 // hp, atk, def, spd, spatk, spdef
+        setevs 48, 0, 36, 0, 0, 0
         nature NATURE_BOLD
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
@@ -755,12 +755,12 @@ trainerdata 21, "Bugsy"
         pokemon SPECIES_JOLTIK
         item ITEM_NONE
         move MOVE_ELECTROWEB
-        move MOVE_ATTACK_ORDER
+        move MOVE_INFESTATION
         move MOVE_THUNDER_WAVE
         move MOVE_BUG_BITE
         ability ABILITY_COMPOUND_EYES
         ball ITEM_NET_BALL
-        setivs 15, 10, 15, 25, 15, 10 // hp, atk, def, spd, spatk, spdef
+        setivs 15, 10, 15, 25, 31, 10 // hp, atk, def, spd, spatk, spdef
         setevs 0, 0, 0, 0, 0, 0
         nature NATURE_TIMID
         shinylock 0
@@ -779,7 +779,7 @@ trainerdata 21, "Bugsy"
         move MOVE_STUN_SPORE
         ability ABILITY_SHIELD_DUST
         ball ITEM_SPORT_BALL
-        setivs 10, 10, 20, 20, 20, 10 // hp, atk, def, spd, spatk, spdef
+        setivs 10, 10, 20, 31, 20, 10 // hp, atk, def, spd, spatk, spdef
         setevs 0, 0, 0, 0, 0, 0
         nature NATURE_NAIVE
         shinylock 0
@@ -817,7 +817,7 @@ trainerdata 21, "Bugsy"
         move MOVE_QUICK_ATTACK
         ability ABILITY_SWIFT_SWIM
         ball ITEM_NET_BALL
-        setivs 15, 15, 0, 31, 15, 10 // hp, atk, def, spd, spatk, spdef
+        setivs 15, 15, 15, 31, 15, 10 // hp, atk, def, spd, spatk, spdef
         setevs 0, 0, 0, 80, 0, 0
         nature NATURE_HASTY
         shinylock 0
@@ -836,7 +836,7 @@ trainerdata 21, "Bugsy"
         move MOVE_FOCUS_ENERGY
         ability ABILITY_IRON_FIST
         ball ITEM_NEST_BALL
-        setivs 10, 20, 10, 20, 10, 31 // hp, atk, def, spd, spatk, spdef
+        setivs 20, 20, 10, 20, 10, 31 // hp, atk, def, spd, spatk, spdef
         setevs 0, 68, 0, 0, 0, 104
         nature NATURE_CAREFUL
         shinylock 0
@@ -1079,7 +1079,7 @@ trainerdata 30, "Whitney"
         // mon 0
         ivs 50
         abilityslot 0
-        level 19
+        level 20
         pokemon SPECIES_TEDDIURSA
         item ITEM_BERRY_JUICE
         move MOVE_COVET
@@ -1098,7 +1098,7 @@ trainerdata 30, "Whitney"
         // mon 1
         ivs 50
         abilityslot 0
-        level 19
+        level 20
         pokemon SPECIES_JIGGLYPUFF
         item ITEM_SALAC_BERRY
         move MOVE_DRAINING_KISS
@@ -1117,7 +1117,7 @@ trainerdata 30, "Whitney"
 		// mon 2
         ivs 50
         abilityslot 0
-        level 21
+        level 22
         pokemon SPECIES_MILTANK
         item ITEM_LUM_BERRY
         move MOVE_BULLDOZE
@@ -1209,7 +1209,7 @@ trainerdata 31, "Morty"
         abilityslot 0
         level 27
         monwithform SPECIES_ORICORIO, 3 // oricorio sensu
-        item ITEM_CHOICE_SCARF
+        item ITEM_FOCUS_SASH
         move MOVE_OMINOUS_WIND
         move MOVE_PETAL_DANCE
         move MOVE_AIR_CUTTER
@@ -1217,7 +1217,7 @@ trainerdata 31, "Morty"
         ability ABILITY_OWN_TEMPO
         ball ITEM_PREMIER_BALL
         setivs 20, 0, 10, 31, 31, 10 // hp, atk, def, spd, spatk, spdef
-        setevs 56, 0, 0, 100, 100, 56
+        setevs 56, 0, 0, 200, 100, 56
         nature NATURE_MODEST
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
@@ -1355,7 +1355,7 @@ trainerdata 32, "Pryce"
 trainerdata 33, "Jasmine"
     trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET | TRAINER_DATA_TYPE_SHINY_LOCK | TRAINER_DATA_TYPE_ADDITIONAL_FLAGS
     trainerclass CLASS_LEADER_2
-    nummons 5
+    nummons 6
     item ITEM_HYPER_POTION
     item ITEM_HYPER_POTION
     item ITEM_NONE
@@ -1391,7 +1391,7 @@ trainerdata 33, "Jasmine"
         pokemon SPECIES_TOGEDEMARU
         item ITEM_AIR_BALLOON
         move MOVE_ZING_ZAP
-        move MOVE_IRON_HEAD
+        move MOVE_SPIKE_CANNON
         move MOVE_U_TURN
         move MOVE_CHARM
         ability ABILITY_IRON_BARBS
@@ -1459,6 +1459,25 @@ trainerdata 33, "Jasmine"
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
         ballseal 0
+
+        // mon 5
+        ivs 50
+        abilityslot 0
+        level 34
+        pokemon SPECIES_CORSOLA
+        item ITEM_NONE
+        move MOVE_IRON_DEFENSE
+        move MOVE_BODY_PRESS
+        move MOVE_SPIKE_CANNON
+        move MOVE_RECOVER
+        ability ABILITY_SKILL_LINK
+        ball ITEM_LURE_BALL
+        setivs 31, 31, 31, 0, 0, 31 // hp, atk, def, spd, spatk, spdef
+        setevs 252, 0, 128, 0, 0, 0
+        nature NATURE_IMPISH
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
+        ballseal 0
     endparty
 
 trainerdata 34, "Chuck"
@@ -1477,7 +1496,7 @@ trainerdata 34, "Chuck"
         // mon 0
         ivs 50
         abilityslot 0
-        level 31
+        level 33
         pokemon SPECIES_BEWEAR
         item ITEM_CHOICE_SCARF
         move MOVE_STRENGTH
@@ -1570,7 +1589,7 @@ trainerdata 35, "Clair"
         level 48
         pokemon SPECIES_KINGDRA
         item ITEM_SITRUS_BERRY
-        move MOVE_RAZOR_WIND
+        move MOVE_HURRICANE
         move MOVE_OCTAZOOKA
         move MOVE_HYDRO_CANNON
         move MOVE_DRAGON_PULSE
@@ -1787,8 +1806,8 @@ trainerdata 40, "Ethan"
         ability ABILITY_SAP_SIPPER
         ball ITEM_NONE
         setivs 31, 0, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 0, 0, 50, 0, 50, 0
-        nature NATURE_BOLD
+        setevs 0, 0, 0, 0, 50, 50
+        nature NATURE_CALM
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
         ballseal 0
@@ -2442,7 +2461,7 @@ trainerdata 63, "Lyra"
         ability ABILITY_HUGE_POWER
         ball ITEM_NONE
         setivs 31, 31, 31, 31, 0, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 0, 0, 0, 0, 0, 110
+        setevs 0, 0, 50, 50, 0, 0
         nature NATURE_ADAMANT
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
@@ -4849,7 +4868,7 @@ trainerdata 138, "Grunt"
         // mon 0
         ivs 0
         abilityslot 0
-        level 34
+        level 32
         pokemon SPECIES_MALAMAR
         ballseal 0
     endparty
@@ -4919,7 +4938,7 @@ trainerdata 141, "Grunt"
         // mon 0
         ivs 0
         abilityslot 0
-        level 34
+        level 32
         pokemon SPECIES_TOEDSCRUEL
         ballseal 0
     endparty
@@ -5729,7 +5748,7 @@ trainerdata 164, "Miki"
         item ITEM_DAMP_ROCK
         move MOVE_OMINOUS_WIND
         move MOVE_BATON_PASS
-        move MOVE_RAZOR_WIND
+        move MOVE_HURRICANE
         move MOVE_RAIN_DANCE
         ability ABILITY_TRACE
         ball ITEM_NONE
@@ -6580,7 +6599,7 @@ trainerdata 174, "Morty"
         abilityslot 0
         level 27
         monwithform SPECIES_ORICORIO, 3 // oricorio sensu
-        item ITEM_CHOICE_SCARF
+        item ITEM_FOCUS_SASH
         move MOVE_OMINOUS_WIND
         move MOVE_PETAL_DANCE
         move MOVE_AIR_CUTTER
@@ -6588,7 +6607,7 @@ trainerdata 174, "Morty"
         ability ABILITY_OWN_TEMPO
         ball ITEM_PREMIER_BALL
         setivs 20, 0, 10, 31, 31, 10 // hp, atk, def, spd, spatk, spdef
-        setevs 56, 0, 0, 100, 100, 56
+        setevs 56, 0, 0, 200, 100, 56
         nature NATURE_MODEST
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
@@ -6670,7 +6689,7 @@ trainerdata 175, "Morty"
         abilityslot 0
         level 27
         monwithform SPECIES_ORICORIO, 3 // oricorio sensu
-        item ITEM_CHOICE_SCARF
+        item ITEM_FOCUS_SASH
         move MOVE_OMINOUS_WIND
         move MOVE_PETAL_DANCE
         move MOVE_AIR_CUTTER
@@ -6678,7 +6697,7 @@ trainerdata 175, "Morty"
         ability ABILITY_OWN_TEMPO
         ball ITEM_PREMIER_BALL
         setivs 20, 0, 10, 31, 31, 10 // hp, atk, def, spd, spatk, spdef
-        setevs 56, 0, 0, 100, 100, 56
+        setevs 56, 0, 0, 200, 100, 56
         nature NATURE_MODEST
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
@@ -6760,7 +6779,7 @@ trainerdata 176, "Morty"
         abilityslot 0
         level 27
         monwithform SPECIES_ORICORIO, 3 // oricorio sensu
-        item ITEM_CHOICE_SCARF
+        item ITEM_FOCUS_SASH
         move MOVE_OMINOUS_WIND
         move MOVE_PETAL_DANCE
         move MOVE_AIR_CUTTER
@@ -6768,7 +6787,7 @@ trainerdata 176, "Morty"
         ability ABILITY_OWN_TEMPO
         ball ITEM_PREMIER_BALL
         setivs 20, 0, 10, 31, 31, 10 // hp, atk, def, spd, spatk, spdef
-        setevs 56, 0, 0, 100, 100, 56
+        setevs 56, 0, 0, 200, 100, 56
         nature NATURE_MODEST
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
@@ -6793,7 +6812,7 @@ trainerdata 177, "Morty"
         abilityslot 0
         level 27
         monwithform SPECIES_ORICORIO, 3 // oricorio sensu
-        item ITEM_CHOICE_SCARF
+        item ITEM_FOCUS_SASH
         move MOVE_OMINOUS_WIND
         move MOVE_PETAL_DANCE
         move MOVE_AIR_CUTTER
@@ -6801,7 +6820,7 @@ trainerdata 177, "Morty"
         ability ABILITY_OWN_TEMPO
         ball ITEM_PREMIER_BALL
         setivs 20, 0, 10, 31, 31, 10 // hp, atk, def, spd, spatk, spdef
-        setevs 56, 0, 0, 100, 100, 56
+        setevs 56, 0, 0, 200, 100, 56
         nature NATURE_MODEST
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
@@ -7010,7 +7029,7 @@ trainerdata 180, "Morty"
         abilityslot 0
         level 27
         monwithform SPECIES_ORICORIO, 3 // oricorio sensu
-        item ITEM_CHOICE_SCARF
+        item ITEM_FOCUS_SASH
         move MOVE_OMINOUS_WIND
         move MOVE_PETAL_DANCE
         move MOVE_AIR_CUTTER
@@ -7018,7 +7037,7 @@ trainerdata 180, "Morty"
         ability ABILITY_OWN_TEMPO
         ball ITEM_PREMIER_BALL
         setivs 20, 0, 10, 31, 31, 10 // hp, atk, def, spd, spatk, spdef
-        setevs 56, 0, 0, 100, 100, 56
+        setevs 56, 0, 0, 200, 100, 56
         nature NATURE_MODEST
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
@@ -7443,24 +7462,74 @@ trainerdata 193, "Grunt"
         ballseal 0
     endparty
 
-trainerdata 194, "Mickey"
-    trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass CLASS_TEAM_ROCKET
-    nummons 1
+trainerdata 194, "Falkner"
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET | TRAINER_DATA_TYPE_SHINY_LOCK | TRAINER_DATA_TYPE_ADDITIONAL_FLAGS
+    trainerclass CLASS_LEADER_M
+    nummons 3
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_EXPERT_ATTACKS | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | 0
     battletype SINGLE_BATTLE
     endentry
 
     party 194
         // mon 0
-        ivs 0
+        ivs 50
         abilityslot 0
-        level 33
-        pokemon SPECIES_HOUNDOUR
+        level 25
+        pokemon SPECIES_NOCTOWL
+        item ITEM_YACHE_BERRY
+        move MOVE_AIR_CUTTER
+        move MOVE_REFLECT
+        move MOVE_COSMIC_POWER
+        move MOVE_ROOST
+        ability ABILITY_TINTED_LENS
+        ball ITEM_MOON_BALL
+        setivs 31, 0, 31, 31, 21, 31 // hp, atk, def, spd, spatk, spdef
+        setevs 252, 0, 100, 0, 0, 0
+        nature NATURE_BOLD
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
+        ballseal 0
+
+        // mon 1
+		ivs 50
+        abilityslot 0
+        level 25
+        pokemon SPECIES_SWELLOW
+        item ITEM_WACAN_BERRY
+        move MOVE_PLUCK
+        move MOVE_FLAME_CHARGE
+        move MOVE_FACADE
+        move MOVE_ROOST
+        ability ABILITY_GUTS
+        ball ITEM_NONE
+        setivs 15, 31, 10, 31, 10, 10 // hp, atk, def, spd, spatk, spdef
+        setevs 0, 100, 0, 252, 0, 0
+        nature NATURE_JOLLY
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
+        ballseal 0
+		
+		// mon 2
+        ivs 50
+        abilityslot 0
+        level 25
+        pokemon SPECIES_KILOWATTREL
+        item ITEM_CHARTI_BERRY
+        move MOVE_SHOCK_WAVE
+        move MOVE_AIR_CUTTER
+        move MOVE_BRINE
+        move MOVE_ROOST
+        ability ABILITY_VOLT_ABSORB
+        ball ITEM_NONE
+        setivs 15, 10, 10, 31, 31, 10 // hp, atk, def, spd, spatk, spdef
+        setevs 0, 0, 0, 252, 100, 0
+        nature NATURE_TIMID
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
         ballseal 0
     endparty
 
@@ -7840,45 +7909,145 @@ trainerdata 206, "Gwen"
         ballseal 0
     endparty
 
-trainerdata 207, "Mickey"
-    trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass CLASS_BEAUTY
-    nummons 1
+trainerdata 207, "Li"
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET | TRAINER_DATA_TYPE_SHINY_LOCK | TRAINER_DATA_TYPE_ADDITIONAL_FLAGS
+    trainerclass CLASS_ELDER
+    nummons 3
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EXPERT_ATTACKS | F_USE_WEATHER | 0
     battletype SINGLE_BATTLE
     endentry
 
     party 207
         // mon 0
-        ivs 0
+        ivs 50
         abilityslot 0
-        level 15
-        pokemon SPECIES_SENTRET
+        level 25
+        pokemon SPECIES_WEEPINBELL
+        item ITEM_BERRY_JUICE
+        move MOVE_LEAF_TORNADO
+        move MOVE_SUNNY_DAY
+        move MOVE_GROWTH
+        move MOVE_HIDDEN_POWER
+        ability ABILITY_CHLOROPHYLL
+        ball ITEM_FRIEND_BALL
+        setivs 15, 16, 13, 13, 16, 14 // hp, atk, def, spd, spatk, spdef
+        setevs 0, 0, 0, 0, 252, 100
+        nature NATURE_MODEST
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
+        ballseal 0
+
+        // mon 1
+        ivs 50
+        abilityslot 0
+        level 25
+        pokemon SPECIES_POLIWHIRL
+        item ITEM_LUM_BERRY
+        move MOVE_BULLDOZE
+        move MOVE_BUBBLE_BEAM
+        move MOVE_BODY_SLAM
+        move MOVE_GROWTH
+        ability ABILITY_WATER_ABSORB
+        ball ITEM_LURE_BALL
+        setivs 31, 31, 0, 31, 15, 0 // hp, atk, def, spd, spatk, spdef
+        setevs 0, 100, 0, 252, 0, 0
+        nature NATURE_HASTY
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
+        ballseal 0
+
+        // mon 2
+        ivs 50
+        abilityslot 0
+        level 25
+        pokemon SPECIES_XATU
+        item ITEM_SITRUS_BERRY
+        move MOVE_AIR_CUTTER
+        move MOVE_PSYCHO_CUT
+        move MOVE_ROOST
+        move MOVE_FUTURE_SIGHT
+        ability ABILITY_MAGIC_BOUNCE
+        ball ITEM_LEVEL_BALL
+        setivs 31, 31, 31, 0, 31, 31 // hp, atk, def, spd, spatk, spdef
+        setevs 0, 0, 100, 0, 0, 252
+        nature NATURE_SASSY
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
         ballseal 0
     endparty
 
-trainerdata 208, "Mickey"
-    trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass CLASS_BEAUTY
-    nummons 1
+trainerdata 208, "Ethan"
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET | TRAINER_DATA_TYPE_SHINY_LOCK | TRAINER_DATA_TYPE_ADDITIONAL_FLAGS
+    trainerclass CLASS_PKMN_TRAINER_0
+    nummons 3
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_PRIORITIZE_DAMAGE | 0
     battletype SINGLE_BATTLE
     endentry
 
     party 208
         // mon 0
-        ivs 0
+        ivs 50
         abilityslot 0
-        level 16
-        pokemon SPECIES_FURRET
+        level 22
+        pokemon SPECIES_AIPOM
+        item ITEM_NONE
+        move MOVE_TAIL_SLAP
+        move MOVE_TICKLE
+        move MOVE_SWIFT
+        move MOVE_SAND_ATTACK
+        ability ABILITY_RUN_AWAY
+        ball ITEM_NONE
+        setivs 15, 15, 15, 31, 15, 15 // hp, atk, def, spd, spatk, spdef
+        setevs 0, 0, 0, 50, 0, 0
+        nature NATURE_JOLLY
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
+        ballseal 0
+
+        // mon 1
+        ivs 50
+        abilityslot 0
+        level 22
+        pokemon SPECIES_SNORUNT
+        item ITEM_NONE
+        move MOVE_CHILLING_WATER
+        move MOVE_LEER
+        move MOVE_ICE_SHARD
+        move MOVE_BITE
+        ability ABILITY_REFRIGERATE
+        ball ITEM_NONE
+        setivs 15, 15, 15, 15, 15, 15 // hp, atk, def, spd, spatk, spdef
+        setevs 50, 0, 0, 0, 0, 0
+        nature NATURE_BASHFUL
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
+        ballseal 0
+
+        // mon 2
+        ivs 50
+        abilityslot 0
+        level 23
+        pokemon SPECIES_MARILL
+        item ITEM_ORAN_BERRY
+        move MOVE_HELPING_HAND
+        move MOVE_TICKLE
+        move MOVE_BUBBLE_BEAM
+        move MOVE_SWIFT
+        ability ABILITY_SAP_SIPPER
+        ball ITEM_NONE
+        setivs 31, 0, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
+        setevs 50, 0, 0, 0, 50, 100
+        nature NATURE_CALM
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
         ballseal 0
     endparty
 
@@ -7910,38 +8079,74 @@ trainerdata 209, "Cassie"
         ballseal 0
     endparty
 
-trainerdata 210, "Caroline"
-    trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass CLASS_BEAUTY
+trainerdata 210, "Lyra"
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET | TRAINER_DATA_TYPE_SHINY_LOCK | TRAINER_DATA_TYPE_ADDITIONAL_FLAGS
+    trainerclass CLASS_PKMN_TRAINER_1
     nummons 3
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_PRIORITIZE_DAMAGE | 0
     battletype SINGLE_BATTLE
     endentry
 
     party 210
         // mon 0
-        ivs 0
+        ivs 50
         abilityslot 0
-        level 38
-        pokemon SPECIES_MARILL
+        level 22
+        pokemon SPECIES_SKITTY
+        item ITEM_NONE
+        move MOVE_TAIL_SLAP
+        move MOVE_CHARM
+        move MOVE_SWIFT
+        move MOVE_YAWN
+        ability ABILITY_NORMALIZE
+        ball ITEM_NONE
+        setivs 15, 15, 15, 31, 15, 15 // hp, atk, def, spd, spatk, spdef
+        setevs 0, 0, 0, 50, 0, 0
+        nature NATURE_JOLLY
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
         ballseal 0
 
         // mon 1
-        ivs 0
+        ivs 50
         abilityslot 0
-        level 40
-        pokemon SPECIES_SEEL
+        level 22
+        pokemon SPECIES_SNORUNT
+        item ITEM_NONE
+        move MOVE_CHILLING_WATER
+        move MOVE_LEER
+        move MOVE_ICE_SHARD
+        move MOVE_BITE
+        ability ABILITY_REFRIGERATE
+        ball ITEM_NONE
+        setivs 15, 15, 15, 15, 15, 15 // hp, atk, def, spd, spatk, spdef
+        setevs 50, 0, 0, 0, 0, 0
+        nature NATURE_BASHFUL
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
         ballseal 0
 
         // mon 2
-        ivs 0
-        abilityslot 2
-        level 38
+        ivs 50
+        abilityslot 0
+        level 23
         pokemon SPECIES_MARILL
+        item ITEM_ORAN_BERRY
+        move MOVE_TRAILBLAZE
+        move MOVE_TICKLE
+        move MOVE_BUBBLE_BEAM
+        move MOVE_ROLLOUT
+        ability ABILITY_HUGE_POWER
+        ball ITEM_NONE
+        setivs 31, 31, 31, 31, 0, 31 // hp, atk, def, spd, spatk, spdef
+        setevs 0, 50, 50, 100, 0, 0
+        nature NATURE_ADAMANT
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
         ballseal 0
     endparty
 
@@ -9798,7 +10003,7 @@ trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_
         move MOVE_TRI_ATTACK
         move MOVE_FOLLOW_ME
         move MOVE_MOONBLAST
-        move MOVE_RAZOR_WIND
+        move MOVE_HURRICANE
         ability ABILITY_SERENE_GRACE
         ball ITEM_HEAL_BALL
         setivs 31, 0, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
@@ -10789,7 +10994,7 @@ trainerdata 263, "Silver"
         level 25
         pokemon SPECIES_BAYLEEF
         item ITEM_NONE
-        move MOVE_RAZOR_LEAF
+        move MOVE_TRAILBLAZE
         move MOVE_ANCIENT_POWER
         move MOVE_SWEET_SCENT
         move MOVE_SLEEP_POWDER
@@ -11099,7 +11304,7 @@ trainerdata 267, "Silver"
         level 25
         pokemon SPECIES_QUILAVA
         item ITEM_NONE
-        move MOVE_FLAME_WHEEL
+        move MOVE_FLAME_CHARGE
         move MOVE_COVET
         move MOVE_SMOKESCREEN
         move MOVE_SWIFT
@@ -11390,7 +11595,7 @@ trainerdata 270, "Silver"
         item ITEM_NONE
         move MOVE_BITE
         move MOVE_METAL_CLAW
-        move MOVE_SURF
+        move MOVE_CHILLING_WATER
         move MOVE_SCARY_FACE
         ability ABILITY_TORRENT
         ball ITEM_NONE
@@ -12980,7 +13185,7 @@ trainerdata 304, "Chuck"
         // mon 0
         ivs 50
         abilityslot 0
-        level 32
+        level 33
         pokemon SPECIES_POLIWRATH
         item ITEM_SITRUS_BERRY
         move MOVE_POISON_JAB
@@ -13017,9 +13222,9 @@ trainerdata 305, "Chuck"
         pokemon SPECIES_HERACROSS
         item ITEM_FLAME_ORB
         move MOVE_MEGAHORN
-        move MOVE_STORM_THROW
+        move MOVE_BULLET_PUNCH
         move MOVE_DRAIN_PUNCH
-        move MOVE_FLING
+        move MOVE_DETECT
         ability ABILITY_GUTS
         ball ITEM_NONE
         setivs 20, 31, 10, 31, 10, 31 // hp, atk, def, spd, spatk, spdef
@@ -13046,17 +13251,17 @@ trainerdata 306, "Chuck"
         // mon 0
         ivs 50
         abilityslot 0
-        level 34
-        pokemon SPECIES_HERACROSS
-        item ITEM_FLAME_ORB
-        move MOVE_MEGAHORN
+        level 33
+        pokemon SPECIES_GRAPPLOCT
+        item ITEM_ROCKY_HELMET
         move MOVE_STORM_THROW
-        move MOVE_DRAIN_PUNCH
-        move MOVE_FLING
-        ability ABILITY_GUTS
+        move MOVE_BULK_UP
+        move MOVE_KNOCK_OFF
+        move MOVE_PAIN_SPLIT
+        ability ABILITY_LIMBER
         ball ITEM_NONE
-        setivs 20, 31, 10, 31, 10, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 0, 252, 0, 252, 0, 0
+        setivs 31, 31, 31, 10, 10, 31 // hp, atk, def, spd, spatk, spdef
+        setevs 0, 252, 0, 0, 0, 252
         nature NATURE_ADAMANT
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
@@ -13079,7 +13284,7 @@ trainerdata 307, "Chuck"
         // mon 0
         ivs 50
         abilityslot 0
-        level 31
+        level 33
         pokemon SPECIES_FLAMIGO
         item ITEM_FOCUS_SASH
         move MOVE_JUMP_KICK
@@ -13096,11 +13301,11 @@ trainerdata 307, "Chuck"
         ballseal 0
     endparty
 
-trainerdata 308, "Chuck"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET | TRAINER_DATA_TYPE_SHINY_LOCK | TRAINER_DATA_TYPE_ADDITIONAL_FLAGS
-    trainerclass CLASS_LEADER_3
+trainerdata 308, "Jerry"
+    trainermontype TRAINER_DATA_TYPE_MOVES
+    trainerclass CLASS_CAMPER
     nummons 1
-    item ITEM_HYPER_POTION
+    item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -13110,22 +13315,14 @@ trainerdata 308, "Chuck"
 
     party 308
         // mon 0
-        ivs 50
+        ivs 80
         abilityslot 0
-        level 31
-        pokemon SPECIES_GRAPPLOCT
-        item ITEM_ROCKY_HELMET
-        move MOVE_STORM_THROW
-        move MOVE_BULK_UP
-        move MOVE_KNOCK_OFF
-        move MOVE_PAIN_SPLIT
-        ability ABILITY_LIMBER
-        ball ITEM_NONE
-        setivs 31, 31, 31, 10, 10, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 0, 252, 0, 0, 0, 252
-        nature NATURE_ADAMANT
-        shinylock 0
-        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
+        level 60
+        pokemon SPECIES_CARBINK
+        move MOVE_MOONBLAST
+        move MOVE_POWER_GEM
+        move MOVE_SKILL_SWAP
+        move MOVE_ROCK_POLISH
         ballseal 0
     endparty
 
@@ -16573,9 +16770,9 @@ trainerdata 418, "Bruno"
         pokemon SPECIES_HITMONCHAN
         item ITEM_NONE
         move MOVE_THUNDER_PUNCH
-        move MOVE_FIRE_PUNCH
+        move MOVE_MACH_PUNCH
         move MOVE_ICE_PUNCH
-        move MOVE_BULLET_PUNCH
+        move MOVE_COMET_PUNCH
         ability ABILITY_IRON_FIST
         ball ITEM_FRIEND_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
@@ -19009,8 +19206,8 @@ trainerdata 486, "Proton"
         move MOVE_DOUBLE_KICK
         ability ABILITY_RECKLESS
         ball ITEM_NONE
-        setivs 15, 25, 15, 15, 0, 0 // hp, atk, def, spd, spatk, spdef
-        setevs 0, 0, 0, 0, 0, 0
+        setivs 15, 31, 15, 31, 0, 0 // hp, atk, def, spd, spatk, spdef
+        setevs 0, 40, 0, 40, 0, 0
         nature NATURE_QUIRKY
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
@@ -19047,8 +19244,8 @@ trainerdata 486, "Proton"
         move MOVE_REVENGE
         ability ABILITY_DRY_SKIN
         ball ITEM_NONE
-        setivs 15, 15, 0, 31, 15, 0 // hp, atk, def, spd, spatk, spdef
-        setevs 0, 0, 0, 0, 0, 0
+        setivs 15, 15, 0, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
+        setevs 0, 0, 0, 40, 0, 40
         nature NATURE_HASTY
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
@@ -20270,7 +20467,7 @@ trainerdata 513, "Arnie"
         move MOVE_ANCIENT_POWER
         move MOVE_PSYCHIC
         move MOVE_BUG_BUZZ
-        move MOVE_RAZOR_WIND
+        move MOVE_HURRICANE
         ballseal 0
     endparty
 
@@ -24277,7 +24474,7 @@ trainerdata 642, "Billy"
         level 75
         pokemon SPECIES_SWANNA
         move MOVE_RAIN_DANCE
-        move MOVE_RAZOR_WIND
+        move MOVE_HURRICANE
         move MOVE_SCALD
         move MOVE_DOUBLE_TEAM
         ballseal 0
@@ -24659,7 +24856,7 @@ trainerdata 653, "Tim & Sue"
         abilityslot 0
         level 70
         pokemon SPECIES_SWANNA
-        move MOVE_RAZOR_WIND
+        move MOVE_HURRICANE
         move MOVE_RAIN_DANCE
         move MOVE_ROOST
         move MOVE_BLIZZARD
@@ -24695,7 +24892,7 @@ trainerdata 654, "Tim & Sue"
         abilityslot 0
         level 75
         pokemon SPECIES_SWANNA
-        move MOVE_RAZOR_WIND
+        move MOVE_HURRICANE
         move MOVE_RAIN_DANCE
         move MOVE_ROOST
         move MOVE_BLIZZARD
@@ -26896,16 +27093,16 @@ trainerdata 706, "Proton"
         ivs 50
         abilityslot 0
         level 41
-        pokemon SPECIES_KRICKETUNE
+        pokemon SPECIES_ZEBSTRIKA
         item ITEM_NONE
-        move MOVE_NIGHT_SLASH
-        move MOVE_PERISH_SONG
-        move MOVE_LEECH_LIFE
-        move MOVE_PROTECT
-        ability ABILITY_SWARM
+        move MOVE_WILD_CHARGE
+        move MOVE_FLAME_CHARGE
+        move MOVE_JUMP_KICK
+        move MOVE_BULLDOZE
+        ability ABILITY_RECKLESS
         ball ITEM_NONE
-        setivs 15, 15, 15, 15, 0, 0 // hp, atk, def, spd, spatk, spdef
-        setevs 0, 252, 0, 0, 0, 252
+        setivs 15, 31, 15, 31, 0, 0 // hp, atk, def, spd, spatk, spdef
+        setevs 0, 252, 0, 40, 0, 0
         nature NATURE_QUIRKY
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
@@ -26914,7 +27111,7 @@ trainerdata 706, "Proton"
         // mon 1
         ivs 100
         abilityslot 0
-        level 40
+        level 41
         pokemon SPECIES_TOXICROAK
         item ITEM_BLACK_SLUDGE
         move MOVE_DRAIN_PUNCH
