@@ -15020,7 +15020,7 @@ mondata SPECIES_SCATTERBUG, "Scatterbug"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHIELD_DUST, ABILITY_COMPOUND_EYES
+    abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_BLACK, 0
     mondexentry SPECIES_SCATTERBUG, "The powder that covers its body\nregulates its temperature, so it\ncan live in any region or climate."
@@ -15041,7 +15041,7 @@ mondata SPECIES_SPEWPA, "Spewpa"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHED_SKIN, ABILITY_NONE
+    abilities ABILITY_SHED_SKIN, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_BLACK, 0
     mondexentry SPECIES_SPEWPA, "The beaks of bird Pokémon can’t begin\nto scratch its stalwart body.\nTo defend itself, it spews powder."
@@ -15051,7 +15051,7 @@ mondata SPECIES_SPEWPA, "Spewpa"
 
 
 mondata SPECIES_VIVILLON, "Vivillon"
-    basestats 80, 52, 50, 89, 90, 50
+    basestats 90, 52, 50, 99, 107, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -15062,9 +15062,9 @@ mondata SPECIES_VIVILLON, "Vivillon"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHIELD_DUST, ABILITY_COMPOUND_EYES
+    abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
-    colorflip BODY_COLOR_WHITE, 0
+    colorflip BODY_COLOR_PINK, 0
     mondexentry SPECIES_VIVILLON, "The patterns on this Pokémon’s wings\ndepend on the climate and topography\nof its habitat. It scatters colorful scales."
     mondexclassification SPECIES_VIVILLON, "Scale Pokémon"
     mondexheight SPECIES_VIVILLON, "3’11”"
@@ -24726,7 +24726,7 @@ mondata SPECIES_GRENINJA_ASH, "-----"
     colorflip BODY_COLOR_BLUE, 1
 
 mondata SPECIES_VIVILLON_POLAR, "-----"
-    basestats 80, 52, 50, 89, 90, 50
+    basestats 90, 52, 50, 99, 107, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
     baseexp 185
@@ -24737,12 +24737,12 @@ mondata SPECIES_VIVILLON_POLAR, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHIELD_DUST,  ABILITY_COMPOUND_EYES
+    abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_BLUE, 0
 
 mondata SPECIES_VIVILLON_TUNDRA, "-----"
-    basestats 80, 52, 50, 89, 90, 50
+    basestats 90, 52, 50, 99, 107, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
     baseexp 185
@@ -24753,12 +24753,12 @@ mondata SPECIES_VIVILLON_TUNDRA, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHIELD_DUST,  ABILITY_COMPOUND_EYES
+    abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_BLUE, 0
 
 mondata SPECIES_VIVILLON_CONTINENTAL, "-----"
-    basestats 80, 52, 50, 89, 90, 50
+    basestats 90, 52, 50, 99, 107, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
     baseexp 185
@@ -24769,12 +24769,12 @@ mondata SPECIES_VIVILLON_CONTINENTAL, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHIELD_DUST,  ABILITY_COMPOUND_EYES
+    abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_YELLOW, 0
 
 mondata SPECIES_VIVILLON_GARDEN, "-----"
-    basestats 80, 52, 50, 89, 90, 50
+    basestats 90, 52, 50, 99, 107, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
     baseexp 185
@@ -24785,12 +24785,12 @@ mondata SPECIES_VIVILLON_GARDEN, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHIELD_DUST,  ABILITY_COMPOUND_EYES
+    abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_GREEN, 0
 
 mondata SPECIES_VIVILLON_ELEGANT, "-----"
-    basestats 80, 52, 50, 89, 90, 50
+    basestats 90, 52, 50, 99, 107, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
     baseexp 185
@@ -24801,12 +24801,12 @@ mondata SPECIES_VIVILLON_ELEGANT, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHIELD_DUST,  ABILITY_COMPOUND_EYES
+    abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_PURPLE, 0
 
 mondata SPECIES_VIVILLON_MEADOW, "-----"
-    basestats 80, 52, 50, 89, 90, 50
+    basestats 90, 52, 50, 99, 107, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
     baseexp 185
@@ -24817,12 +24817,12 @@ mondata SPECIES_VIVILLON_MEADOW, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHIELD_DUST,  ABILITY_COMPOUND_EYES
+    abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
-    colorflip BODY_COLOR_PINK, 0
+    colorflip BODY_COLOR_WHITE, 0
 
 mondata SPECIES_VIVILLON_MODERN, "-----"
-    basestats 80, 52, 50, 89, 90, 50
+    basestats 90, 52, 50, 99, 107, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
     baseexp 185
@@ -24833,12 +24833,12 @@ mondata SPECIES_VIVILLON_MODERN, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHIELD_DUST,  ABILITY_COMPOUND_EYES
+    abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_RED, 0
 
 mondata SPECIES_VIVILLON_MARINE, "-----"
-    basestats 80, 52, 50, 89, 90, 50
+    basestats 90, 52, 50, 99, 107, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
     baseexp 185
@@ -24849,12 +24849,12 @@ mondata SPECIES_VIVILLON_MARINE, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHIELD_DUST,  ABILITY_COMPOUND_EYES
+    abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_BLUE, 0
 
 mondata SPECIES_VIVILLON_ARCHIPELAGO, "-----"
-    basestats 80, 52, 50, 89, 90, 50
+    basestats 90, 52, 50, 99, 107, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
     baseexp 185
@@ -24865,12 +24865,12 @@ mondata SPECIES_VIVILLON_ARCHIPELAGO, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHIELD_DUST,  ABILITY_COMPOUND_EYES
+    abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_BROWN, 0
 
 mondata SPECIES_VIVILLON_HIGH_PLAINS, "-----"
-    basestats 80, 52, 50, 89, 90, 50
+    basestats 90, 52, 50, 99, 107, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
     baseexp 185
@@ -24881,12 +24881,12 @@ mondata SPECIES_VIVILLON_HIGH_PLAINS, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHIELD_DUST,  ABILITY_COMPOUND_EYES
+    abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_BROWN, 0
 
 mondata SPECIES_VIVILLON_SANDSTORM, "-----"
-    basestats 80, 52, 50, 89, 90, 50
+    basestats 90, 52, 50, 99, 107, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
     baseexp 185
@@ -24897,12 +24897,12 @@ mondata SPECIES_VIVILLON_SANDSTORM, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHIELD_DUST,  ABILITY_COMPOUND_EYES
+    abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_BROWN, 0
 
 mondata SPECIES_VIVILLON_RIVER, "-----"
-    basestats 80, 52, 50, 89, 90, 50
+    basestats 90, 52, 50, 99, 107, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
     baseexp 185
@@ -24913,12 +24913,12 @@ mondata SPECIES_VIVILLON_RIVER, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHIELD_DUST,  ABILITY_COMPOUND_EYES
+    abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_BROWN, 0
 
 mondata SPECIES_VIVILLON_MONSOON, "-----"
-    basestats 80, 52, 50, 89, 90, 50
+    basestats 90, 52, 50, 99, 107, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
     baseexp 185
@@ -24929,12 +24929,12 @@ mondata SPECIES_VIVILLON_MONSOON, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHIELD_DUST,  ABILITY_COMPOUND_EYES
+    abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_GRAY, 0
 
 mondata SPECIES_VIVILLON_SAVANNA, "-----"
-    basestats 80, 52, 50, 89, 90, 50
+    basestats 90, 52, 50, 99, 107, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
     baseexp 185
@@ -24945,12 +24945,12 @@ mondata SPECIES_VIVILLON_SAVANNA, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHIELD_DUST,  ABILITY_COMPOUND_EYES
+    abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_GREEN, 0
 
 mondata SPECIES_VIVILLON_SUN, "-----"
-    basestats 80, 52, 50, 89, 90, 50
+    basestats 90, 52, 50, 99, 107, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
     baseexp 185
@@ -24961,12 +24961,12 @@ mondata SPECIES_VIVILLON_SUN, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHIELD_DUST,  ABILITY_COMPOUND_EYES
+    abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_RED, 0
 
 mondata SPECIES_VIVILLON_OCEAN, "-----"
-    basestats 80, 52, 50, 89, 90, 50
+    basestats 90, 52, 50, 99, 107, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
     baseexp 185
@@ -24977,12 +24977,12 @@ mondata SPECIES_VIVILLON_OCEAN, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHIELD_DUST,  ABILITY_COMPOUND_EYES
+    abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_RED, 0
 
 mondata SPECIES_VIVILLON_JUNGLE, "-----"
-    basestats 80, 52, 50, 89, 90, 50
+    basestats 90, 52, 50, 99, 107, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
     baseexp 185
@@ -24993,12 +24993,12 @@ mondata SPECIES_VIVILLON_JUNGLE, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHIELD_DUST,  ABILITY_COMPOUND_EYES
+    abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_GREEN, 0
 
 mondata SPECIES_VIVILLON_FANCY, "-----"
-    basestats 80, 52, 50, 89, 90, 50
+    basestats 90, 52, 50, 99, 107, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
     baseexp 185
@@ -25009,12 +25009,12 @@ mondata SPECIES_VIVILLON_FANCY, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHIELD_DUST,  ABILITY_COMPOUND_EYES
+    abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_PINK, 0
 
 mondata SPECIES_VIVILLON_POKE_BALL, "-----"
-    basestats 80, 52, 50, 89, 90, 50
+    basestats 90, 52, 50, 99, 107, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
     baseexp 185
@@ -25025,7 +25025,7 @@ mondata SPECIES_VIVILLON_POKE_BALL, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SHIELD_DUST,  ABILITY_COMPOUND_EYES
+    abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_RED, 0
 

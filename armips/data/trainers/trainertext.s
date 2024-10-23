@@ -745,7 +745,7 @@ _065C: // Trainer 299
 _0668: // Trainer 152
     trainertextentry 152, TEXT_NOTICE_IN_OVERWORLD, "I have a feeling that I can win.\nLet’s see if I’m right!\r"
     trainertextentry 152, TEXT_DEFEATED_IN_BATTLE, "Aww, you are too strong.\n"
-    trainertextentry 152, TEXT_DEFEATED_IN_OVERWORLD, "I heard CLEFAIRY appear at Mt. Moon.\nBut where could they be?\n"
+    trainertextentry 152, TEXT_DEFEATED_IN_OVERWORLD, "I heard Clefairy appear at Mt. Moon.\nBut where could they be?\n"
 
 _0674: // Trainer 153
     trainertextentry 153, TEXT_NOTICE_IN_OVERWORLD, "Um...\nI...\r"
@@ -753,14 +753,14 @@ _0674: // Trainer 153
     trainertextentry 153, TEXT_DEFEATED_IN_OVERWORLD, "...\r...I’ll go train some more...\n"
 
 _0680: // Trainer 540
-    trainertextentry 540, TEXT_NOTICE_IN_OVERWORLD, "My PHANPY is the cutest in the world.\r"
-    trainertextentry 540, TEXT_DEFEATED_IN_BATTLE, "My PHANPY!\n"
-    trainertextentry 540, TEXT_DEFEATED_IN_OVERWORLD, "Take a look at this--this PHANPY’s\nabsolutely adorable behavior!\rIsn’t it wonderfully cute?\nI just wanna squeeze it!\n"
+    trainertextentry 540, TEXT_NOTICE_IN_OVERWORLD, "My Phanpy is the cutest in the world.\r"
+    trainertextentry 540, TEXT_DEFEATED_IN_BATTLE, "My Phanpy!\n"
+    trainertextentry 540, TEXT_DEFEATED_IN_OVERWORLD, "Take a look at this--this Phanpy’s\nabsolutely adorable behavior!\rIsn’t it wonderfully cute?\nI just wanna squeeze it!\n"
 
 _068C: // Trainer 541
-    trainertextentry 541, TEXT_NOTICE_IN_OVERWORLD, "My TEDDIURSA is the cutest in\nthe world.\r"
-    trainertextentry 541, TEXT_DEFEATED_IN_BATTLE, "My TEDDIURSA!\n"
-    trainertextentry 541, TEXT_DEFEATED_IN_OVERWORLD, "Take a look at this--this TEDDIURSA’s\nabsolutely adorable behavior!\rIsn’t it wonderfully cute?\nI just wanna squeeze it!\n"
+    trainertextentry 541, TEXT_NOTICE_IN_OVERWORLD, "My Teddiursa is the cutest in\nthe world.\r"
+    trainertextentry 541, TEXT_DEFEATED_IN_BATTLE, "My Teddiursa!\n"
+    trainertextentry 541, TEXT_DEFEATED_IN_OVERWORLD, "Take a look at this--this Teddiursa’s\nabsolutely adorable behavior!\rIsn’t it wonderfully cute?\nI just wanna squeeze it!\n"
 
 _0698: // Trainer 309
     trainertextentry 309, TEXT_NOTICE_IN_OVERWORLD, "We’re the Kanto Pokémon Federation\nTrainer group.\fWe’ll drive you under our wheels!\r"
@@ -1435,9 +1435,9 @@ _0D04: // Trainer 93
     trainertextentry  93, TEXT_DEFEATED_IN_OVERWORLD, "I heard roars from deep inside\nthe islands.\n"
 
 _0D10: // Trainer 94
-    trainertextentry  94, TEXT_NOTICE_IN_OVERWORLD, "At night, STARYU gather near the\nwater’s surface.\r"
+    trainertextentry  94, TEXT_NOTICE_IN_OVERWORLD, "At night, Chinchou gather near the\nwater’s surface.\r"
     trainertextentry  94, TEXT_DEFEATED_IN_BATTLE, "Oh, dear...\n"
-    trainertextentry  94, TEXT_DEFEATED_IN_OVERWORLD, "The clusters of STARYU light up at the\nsame time. It’s so beautiful,\fit’s scary.\n"
+    trainertextentry  94, TEXT_DEFEATED_IN_OVERWORLD, "The clusters of Chinchou light up at the\nsame time. It’s so beautiful,\fit’s scary.\n"
 
 _0D1C: // Trainer 123
     trainertextentry 123, TEXT_NOTICE_IN_OVERWORLD, "Let me demonstrate the power of the\nPokémon I caught!\r"
@@ -1447,7 +1447,7 @@ _0D1C: // Trainer 123
 
 _0D2C: // Trainer 129
     trainertextentry 129, TEXT_NOTICE_IN_OVERWORLD, "Hey!\rThis is my secret place!\nGet lost, you outsider!\r"
-    trainertextentry 129, TEXT_DEFEATED_IN_BATTLE, "I should have used my Moon Stone...\n"
+    trainertextentry 129, TEXT_DEFEATED_IN_BATTLE, "I should have caught more Pokémon...\n"
     trainertextentry 129, TEXT_DEFEATED_IN_OVERWORLD, "You’re working on a Pokédex?\rWow, you must know some pretty\nrare Pokémon!\fMay I please see it? Please?\n"
 
 _0D38: // Trainer 134
@@ -2563,12 +2563,12 @@ _17D8: // Trainer 539
 _17E4: // Trainer 538
     trainertextentry 538, TEXT_NOTICE_IN_OVERWORLD, "Yo! Markus!\r"
     trainertextentry 538, TEXT_DEFEATED_IN_BATTLE, "Oops!\nI really mixed you up!\n"
-    trainertextentry 538, TEXT_DEFEATED_IN_OVERWORLD, "I came to explore Mt. Mortar, but I got\nseparated from my partner...\rDid you run into a Trainer who uses a\nSlowpoke? That Slowpoke is really good\fat using Strength.\n"
+    trainertextentry 538, TEXT_DEFEATED_IN_OVERWORLD, "I came to explore Mt. Mortar, but I got\nseparated from my partner...\rDid you run into a Trainer who uses a\nSlowking? That Slowking is really good\fat using Strength.\n"
 
 _17F0: // Trainer 537
     trainertextentry 537, TEXT_NOTICE_IN_OVERWORLD, "I’m not losing this time!\r"
     trainertextentry 537, TEXT_DEFEATED_IN_BATTLE, "I lost to some kid?\n"
-    trainertextentry 537, TEXT_DEFEATED_IN_OVERWORLD, "A while back, this karate guy wanted\nto battle. He was ridiculously good.\rHe just thrashed me silly.\rHe said something about training and\nwent in deeper. I wonder why?\n"
+    trainertextentry 537, TEXT_DEFEATED_IN_OVERWORLD, "I saw this karate guy earlier.\nHe didn't want to battle.\rHe just kept rambling on about treasure\nand Rock Climbing..."
 
 _17FC: // Trainer 728
     trainertextentry 728, TEXT_DEFEATED_IN_BATTLE, "Were you really watching?\n"

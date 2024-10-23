@@ -204,10 +204,48 @@ levelup SPECIES_RAICHU
 
 
 levelup SPECIES_SANDSHREW
+    learnset MOVE_SCRATCH, 1
+    learnset MOVE_DEFENSE_CURL, 1
+    learnset MOVE_POISON_STING, 3
+    learnset MOVE_BIDE, 3
+    learnset MOVE_SAND_ATTACK, 5
+    learnset MOVE_SAND_TOMB, 7
+    learnset MOVE_ROLLOUT, 9
+    learnset MOVE_FURY_CUTTER, 11
+    learnset MOVE_RAPID_SPIN, 12
+    learnset MOVE_BULLDOZE, 16
+    learnset MOVE_SWIFT, 19
+    learnset MOVE_FURY_SWIPES, 22
+    learnset MOVE_AGILITY, 25
+    learnset MOVE_SLASH, 28
+    learnset MOVE_DIG, 31
+    learnset MOVE_GYRO_BALL, 35
+    learnset MOVE_SWORDS_DANCE, 38
+    learnset MOVE_SANDSTORM, 42
+    learnset MOVE_EARTHQUAKE, 45
     terminatelearnset
 
 
 levelup SPECIES_SANDSLASH
+    learnset MOVE_SCRATCH, 1
+    learnset MOVE_DEFENSE_CURL, 1
+    learnset MOVE_POISON_STING, 3
+    learnset MOVE_BIDE, 3
+    learnset MOVE_SAND_ATTACK, 5
+    learnset MOVE_SAND_TOMB, 7
+    learnset MOVE_ROLLOUT, 9
+    learnset MOVE_FURY_CUTTER, 11
+    learnset MOVE_RAPID_SPIN, 12
+    learnset MOVE_BULLDOZE, 16
+    learnset MOVE_SWIFT, 19
+    learnset MOVE_FURY_SWIPES, 22
+    learnset MOVE_AGILITY, 25
+    learnset MOVE_SLASH, 28
+    learnset MOVE_DIG, 31
+    learnset MOVE_GYRO_BALL, 35
+    learnset MOVE_SWORDS_DANCE, 38
+    learnset MOVE_SANDSTORM, 42
+    learnset MOVE_EARTHQUAKE, 45
     terminatelearnset
 
 
@@ -10120,27 +10158,29 @@ levelup SPECIES_SPEWPA
     learnset MOVE_PROTECT, 0
     learnset MOVE_PROTECT, 1
     learnset MOVE_HARDEN, 1
+    learnset MOVE_IRON_DEFENSE, 26
     terminatelearnset
 
 
 levelup SPECIES_VIVILLON
     learnset MOVE_GUST, 0
+    learnset MOVE_SWEET_SCENT, 0
     learnset MOVE_GUST, 1
-    learnset MOVE_POWDER, 1
     learnset MOVE_SLEEP_POWDER, 1
     learnset MOVE_POISON_POWDER, 1
     learnset MOVE_STUN_SPORE, 1
     learnset MOVE_STRUGGLE_BUG, 1
-    learnset MOVE_LIGHT_SCREEN, 12
-    learnset MOVE_PSYBEAM, 17
-    learnset MOVE_SUPERSONIC, 21
-    learnset MOVE_SPLASH, 25
-    learnset MOVE_AROMATHERAPY, 31
-    learnset MOVE_BUG_BUZZ, 35
-    learnset MOVE_SAFEGUARD, 41
-    learnset MOVE_QUIVER_DANCE, 45
+    learnset MOVE_LIGHT_SCREEN, 14
+    learnset MOVE_PSYBEAM, 18
+    learnset MOVE_SILVER_WIND, 22
+    learnset MOVE_DRAINING_KISS, 26
+    learnset MOVE_AROMATHERAPY, 30
+    learnset MOVE_SWEET_SCENT, 30
+    learnset MOVE_BUG_BUZZ, 34
+    learnset MOVE_SAFEGUARD, 38
+    learnset MOVE_QUIVER_DANCE, 42
+    learnset MOVE_ENERGY_BALL, 46
     learnset MOVE_HURRICANE, 50
-    learnset MOVE_POWDER, 55
     terminatelearnset
 
 
@@ -12167,12 +12207,11 @@ levelup SPECIES_SALAZZLE
 	learnset MOVE_TOXIC, 26
     learnset MOVE_NASTY_PLOT, 29
     learnset MOVE_VENOSHOCK, 33
-	learnset MOVE_CAPTIVATE, 33
     learnset MOVE_FLAMETHROWER, 37
 	learnset MOVE_SLUDGE_BOMB, 42
     learnset MOVE_DRAGON_PULSE, 48
-    learnset MOVE_ENDEAVOR, 54
 	learnset MOVE_FIERY_DANCE, 48
+    learnset MOVE_ENDEAVOR, 54
     terminatelearnset
 
 
@@ -12208,15 +12247,14 @@ levelup SPECIES_BEWEAR
     learnset MOVE_STOMP, 19
 	learnset MOVE_BULLDOZE, 22
     learnset MOVE_TAKE_DOWN, 25
-	learnset MOVE_BIND, 27
 	learnset MOVE_DUAL_CHOP, 29
-    learnset MOVE_HAMMER_ARM, 33
-    learnset MOVE_THRASH, 38
-    learnset MOVE_PAIN_SPLIT, 42
-    learnset MOVE_DOUBLE_EDGE, 47
-    learnset MOVE_SUPERPOWER, 51
-	learnset MOVE_GIGA_IMPACT, 55
-	learnset MOVE_EARTHQUAKE, 60
+    learnset MOVE_SKY_UPPERCUT, 31
+    learnset MOVE_HAMMER_ARM, 34
+    learnset MOVE_THRASH, 39
+    learnset MOVE_PAIN_SPLIT, 43
+    learnset MOVE_DOUBLE_EDGE, 48
+    learnset MOVE_SUPERPOWER, 52
+	learnset MOVE_GIGA_IMPACT, 56
     terminatelearnset
 
 
@@ -18692,400 +18730,419 @@ levelup SPECIES_GRENINJA_ASH
 
 levelup SPECIES_VIVILLON_POLAR
     learnset MOVE_GUST, 0
+    learnset MOVE_BLIZZARD, 0
     learnset MOVE_GUST, 1
-    learnset MOVE_POWDER, 1
     learnset MOVE_SLEEP_POWDER, 1
     learnset MOVE_POISON_POWDER, 1
     learnset MOVE_STUN_SPORE, 1
     learnset MOVE_STRUGGLE_BUG, 1
-    learnset MOVE_LIGHT_SCREEN, 12
-    learnset MOVE_PSYBEAM, 17
-    learnset MOVE_SUPERSONIC, 21
-    learnset MOVE_SPLASH, 25
-    learnset MOVE_AROMATHERAPY, 31
-    learnset MOVE_BUG_BUZZ, 35
-    learnset MOVE_SAFEGUARD, 41
-    learnset MOVE_QUIVER_DANCE, 45
+    learnset MOVE_LIGHT_SCREEN, 14
+    learnset MOVE_PSYBEAM, 18
+    learnset MOVE_SILVER_WIND, 22
+    learnset MOVE_DRAINING_KISS, 26
+    learnset MOVE_AROMATHERAPY, 30
+    learnset MOVE_BLIZZARD, 30
+    learnset MOVE_BUG_BUZZ, 34
+    learnset MOVE_SAFEGUARD, 38
+    learnset MOVE_QUIVER_DANCE, 42
+    learnset MOVE_ENERGY_BALL, 46
     learnset MOVE_HURRICANE, 50
-    learnset MOVE_POWDER, 55
     terminatelearnset
 
 
 levelup SPECIES_VIVILLON_TUNDRA
     learnset MOVE_GUST, 0
+    learnset MOVE_MISTY_TERRAIN, 0
     learnset MOVE_GUST, 1
-    learnset MOVE_POWDER, 1
     learnset MOVE_SLEEP_POWDER, 1
     learnset MOVE_POISON_POWDER, 1
     learnset MOVE_STUN_SPORE, 1
     learnset MOVE_STRUGGLE_BUG, 1
-    learnset MOVE_LIGHT_SCREEN, 12
-    learnset MOVE_PSYBEAM, 17
-    learnset MOVE_SUPERSONIC, 21
-    learnset MOVE_SPLASH, 25
-    learnset MOVE_AROMATHERAPY, 31
-    learnset MOVE_BUG_BUZZ, 35
-    learnset MOVE_SAFEGUARD, 41
-    learnset MOVE_QUIVER_DANCE, 45
+    learnset MOVE_LIGHT_SCREEN, 14
+    learnset MOVE_PSYBEAM, 18
+    learnset MOVE_SILVER_WIND, 22
+    learnset MOVE_DRAINING_KISS, 26
+    learnset MOVE_AROMATHERAPY, 30
+    learnset MOVE_MISTY_TERRAIN, 30
+    learnset MOVE_BUG_BUZZ, 34
+    learnset MOVE_SAFEGUARD, 38
+    learnset MOVE_QUIVER_DANCE, 42
+    learnset MOVE_ENERGY_BALL, 46
     learnset MOVE_HURRICANE, 50
-    learnset MOVE_POWDER, 55
     terminatelearnset
 
 
 levelup SPECIES_VIVILLON_CONTINENTAL
     learnset MOVE_GUST, 0
+    learnset MOVE_FISSURE, 0
     learnset MOVE_GUST, 1
-    learnset MOVE_POWDER, 1
     learnset MOVE_SLEEP_POWDER, 1
     learnset MOVE_POISON_POWDER, 1
     learnset MOVE_STUN_SPORE, 1
     learnset MOVE_STRUGGLE_BUG, 1
-    learnset MOVE_LIGHT_SCREEN, 12
-    learnset MOVE_PSYBEAM, 17
-    learnset MOVE_SUPERSONIC, 21
-    learnset MOVE_SPLASH, 25
-    learnset MOVE_AROMATHERAPY, 31
-    learnset MOVE_BUG_BUZZ, 35
-    learnset MOVE_SAFEGUARD, 41
-    learnset MOVE_QUIVER_DANCE, 45
+    learnset MOVE_LIGHT_SCREEN, 14
+    learnset MOVE_PSYBEAM, 18
+    learnset MOVE_SILVER_WIND, 22
+    learnset MOVE_DRAINING_KISS, 26
+    learnset MOVE_AROMATHERAPY, 30
+    learnset MOVE_FISSURE, 30
+    learnset MOVE_BUG_BUZZ, 34
+    learnset MOVE_SAFEGUARD, 38
+    learnset MOVE_QUIVER_DANCE, 42
+    learnset MOVE_ENERGY_BALL, 46
     learnset MOVE_HURRICANE, 50
-    learnset MOVE_POWDER, 55
     terminatelearnset
 
 
 levelup SPECIES_VIVILLON_GARDEN
     learnset MOVE_GUST, 0
+    learnset MOVE_PETAL_DANCE, 0
     learnset MOVE_GUST, 1
-    learnset MOVE_POWDER, 1
     learnset MOVE_SLEEP_POWDER, 1
     learnset MOVE_POISON_POWDER, 1
     learnset MOVE_STUN_SPORE, 1
     learnset MOVE_STRUGGLE_BUG, 1
-    learnset MOVE_LIGHT_SCREEN, 12
-    learnset MOVE_PSYBEAM, 17
-    learnset MOVE_SUPERSONIC, 21
-    learnset MOVE_SPLASH, 25
-    learnset MOVE_AROMATHERAPY, 31
-    learnset MOVE_BUG_BUZZ, 35
-    learnset MOVE_SAFEGUARD, 41
-    learnset MOVE_QUIVER_DANCE, 45
+    learnset MOVE_LIGHT_SCREEN, 14
+    learnset MOVE_PSYBEAM, 18
+    learnset MOVE_SILVER_WIND, 22
+    learnset MOVE_DRAINING_KISS, 26
+    learnset MOVE_AROMATHERAPY, 30
+    learnset MOVE_PETAL_DANCE, 30
+    learnset MOVE_BUG_BUZZ, 34
+    learnset MOVE_SAFEGUARD, 38
+    learnset MOVE_QUIVER_DANCE, 42
+    learnset MOVE_ENERGY_BALL, 46
     learnset MOVE_HURRICANE, 50
-    learnset MOVE_POWDER, 55
     terminatelearnset
 
 
 levelup SPECIES_VIVILLON_ELEGANT
     learnset MOVE_GUST, 0
+    learnset MOVE_PSYSHOCK, 0
     learnset MOVE_GUST, 1
-    learnset MOVE_POWDER, 1
     learnset MOVE_SLEEP_POWDER, 1
     learnset MOVE_POISON_POWDER, 1
     learnset MOVE_STUN_SPORE, 1
     learnset MOVE_STRUGGLE_BUG, 1
-    learnset MOVE_LIGHT_SCREEN, 12
-    learnset MOVE_PSYBEAM, 17
-    learnset MOVE_SUPERSONIC, 21
-    learnset MOVE_SPLASH, 25
-    learnset MOVE_AROMATHERAPY, 31
-    learnset MOVE_BUG_BUZZ, 35
-    learnset MOVE_SAFEGUARD, 41
-    learnset MOVE_QUIVER_DANCE, 45
+    learnset MOVE_LIGHT_SCREEN, 14
+    learnset MOVE_PSYBEAM, 18
+    learnset MOVE_SILVER_WIND, 22
+    learnset MOVE_DRAINING_KISS, 26
+    learnset MOVE_AROMATHERAPY, 30
+    learnset MOVE_PSYSHOCK, 30
+    learnset MOVE_BUG_BUZZ, 34
+    learnset MOVE_SAFEGUARD, 38
+    learnset MOVE_QUIVER_DANCE, 42
+    learnset MOVE_ENERGY_BALL, 46
     learnset MOVE_HURRICANE, 50
-    learnset MOVE_POWDER, 55
     terminatelearnset
 
 
 levelup SPECIES_VIVILLON_MEADOW
     learnset MOVE_GUST, 0
+    learnset MOVE_HAIL, 0
     learnset MOVE_GUST, 1
-    learnset MOVE_POWDER, 1
     learnset MOVE_SLEEP_POWDER, 1
     learnset MOVE_POISON_POWDER, 1
     learnset MOVE_STUN_SPORE, 1
     learnset MOVE_STRUGGLE_BUG, 1
-    learnset MOVE_LIGHT_SCREEN, 12
-    learnset MOVE_PSYBEAM, 17
-    learnset MOVE_SUPERSONIC, 21
-    learnset MOVE_SPLASH, 25
-    learnset MOVE_AROMATHERAPY, 31
-    learnset MOVE_BUG_BUZZ, 35
-    learnset MOVE_SAFEGUARD, 41
-    learnset MOVE_QUIVER_DANCE, 45
+    learnset MOVE_LIGHT_SCREEN, 14
+    learnset MOVE_PSYBEAM, 18
+    learnset MOVE_SILVER_WIND, 22
+    learnset MOVE_DRAINING_KISS, 26
+    learnset MOVE_AROMATHERAPY, 30
+    learnset MOVE_HAIL, 30
+    learnset MOVE_BUG_BUZZ, 34
+    learnset MOVE_SAFEGUARD, 38
+    learnset MOVE_QUIVER_DANCE, 42
+    learnset MOVE_ENERGY_BALL, 46
     learnset MOVE_HURRICANE, 50
-    learnset MOVE_POWDER, 55
     terminatelearnset
 
 
 levelup SPECIES_VIVILLON_MODERN
     learnset MOVE_GUST, 0
+    learnset MOVE_DISCHARGE, 0
     learnset MOVE_GUST, 1
-    learnset MOVE_POWDER, 1
     learnset MOVE_SLEEP_POWDER, 1
     learnset MOVE_POISON_POWDER, 1
     learnset MOVE_STUN_SPORE, 1
     learnset MOVE_STRUGGLE_BUG, 1
-    learnset MOVE_LIGHT_SCREEN, 12
-    learnset MOVE_PSYBEAM, 17
-    learnset MOVE_SUPERSONIC, 21
-    learnset MOVE_SPLASH, 25
-    learnset MOVE_AROMATHERAPY, 31
-    learnset MOVE_BUG_BUZZ, 35
-    learnset MOVE_SAFEGUARD, 41
-    learnset MOVE_QUIVER_DANCE, 45
+    learnset MOVE_LIGHT_SCREEN, 14
+    learnset MOVE_PSYBEAM, 18
+    learnset MOVE_SILVER_WIND, 22
+    learnset MOVE_DRAINING_KISS, 26
+    learnset MOVE_AROMATHERAPY, 30
+    learnset MOVE_DISCHARGE, 30
+    learnset MOVE_BUG_BUZZ, 34
+    learnset MOVE_SAFEGUARD, 38
+    learnset MOVE_QUIVER_DANCE, 42
+    learnset MOVE_ENERGY_BALL, 46
     learnset MOVE_HURRICANE, 50
-    learnset MOVE_POWDER, 55
     terminatelearnset
 
 
 levelup SPECIES_VIVILLON_MARINE
     learnset MOVE_GUST, 0
+    learnset MOVE_SOAK, 0
     learnset MOVE_GUST, 1
-    learnset MOVE_POWDER, 1
     learnset MOVE_SLEEP_POWDER, 1
     learnset MOVE_POISON_POWDER, 1
     learnset MOVE_STUN_SPORE, 1
     learnset MOVE_STRUGGLE_BUG, 1
-    learnset MOVE_LIGHT_SCREEN, 12
-    learnset MOVE_PSYBEAM, 17
-    learnset MOVE_SUPERSONIC, 21
-    learnset MOVE_SPLASH, 25
-    learnset MOVE_AROMATHERAPY, 31
-    learnset MOVE_BUG_BUZZ, 35
-    learnset MOVE_SAFEGUARD, 41
-    learnset MOVE_QUIVER_DANCE, 45
+    learnset MOVE_LIGHT_SCREEN, 14
+    learnset MOVE_PSYBEAM, 18
+    learnset MOVE_SILVER_WIND, 22
+    learnset MOVE_DRAINING_KISS, 26
+    learnset MOVE_AROMATHERAPY, 30
+    learnset MOVE_SOAK, 30
+    learnset MOVE_BUG_BUZZ, 34
+    learnset MOVE_SAFEGUARD, 38
+    learnset MOVE_QUIVER_DANCE, 42
+    learnset MOVE_ENERGY_BALL, 46
     learnset MOVE_HURRICANE, 50
-    learnset MOVE_POWDER, 55
     terminatelearnset
 
 
 levelup SPECIES_VIVILLON_ARCHIPELAGO
     learnset MOVE_GUST, 0
+    learnset MOVE_ANCIENT_POWER, 0
     learnset MOVE_GUST, 1
-    learnset MOVE_POWDER, 1
     learnset MOVE_SLEEP_POWDER, 1
     learnset MOVE_POISON_POWDER, 1
     learnset MOVE_STUN_SPORE, 1
     learnset MOVE_STRUGGLE_BUG, 1
-    learnset MOVE_LIGHT_SCREEN, 12
-    learnset MOVE_PSYBEAM, 17
-    learnset MOVE_SUPERSONIC, 21
-    learnset MOVE_SPLASH, 25
-    learnset MOVE_AROMATHERAPY, 31
-    learnset MOVE_BUG_BUZZ, 35
-    learnset MOVE_SAFEGUARD, 41
-    learnset MOVE_QUIVER_DANCE, 45
+    learnset MOVE_LIGHT_SCREEN, 14
+    learnset MOVE_PSYBEAM, 18
+    learnset MOVE_SILVER_WIND, 22
+    learnset MOVE_DRAINING_KISS, 26
+    learnset MOVE_AROMATHERAPY, 30
+    learnset MOVE_ANCIENT_POWER, 30
+    learnset MOVE_BUG_BUZZ, 34
+    learnset MOVE_SAFEGUARD, 38
+    learnset MOVE_QUIVER_DANCE, 42
+    learnset MOVE_ENERGY_BALL, 46
     learnset MOVE_HURRICANE, 50
-    learnset MOVE_POWDER, 55
     terminatelearnset
 
 
 levelup SPECIES_VIVILLON_HIGH_PLAINS
     learnset MOVE_GUST, 0
+    learnset MOVE_EARTH_POWER, 0
     learnset MOVE_GUST, 1
-    learnset MOVE_POWDER, 1
     learnset MOVE_SLEEP_POWDER, 1
     learnset MOVE_POISON_POWDER, 1
     learnset MOVE_STUN_SPORE, 1
     learnset MOVE_STRUGGLE_BUG, 1
-    learnset MOVE_LIGHT_SCREEN, 12
-    learnset MOVE_PSYBEAM, 17
-    learnset MOVE_SUPERSONIC, 21
-    learnset MOVE_SPLASH, 25
-    learnset MOVE_AROMATHERAPY, 31
-    learnset MOVE_BUG_BUZZ, 35
-    learnset MOVE_SAFEGUARD, 41
-    learnset MOVE_QUIVER_DANCE, 45
+    learnset MOVE_LIGHT_SCREEN, 14
+    learnset MOVE_PSYBEAM, 18
+    learnset MOVE_SILVER_WIND, 22
+    learnset MOVE_DRAINING_KISS, 26
+    learnset MOVE_AROMATHERAPY, 30
+    learnset MOVE_EARTH_POWER, 30
+    learnset MOVE_BUG_BUZZ, 34
+    learnset MOVE_SAFEGUARD, 38
+    learnset MOVE_QUIVER_DANCE, 42
+    learnset MOVE_ENERGY_BALL, 46
     learnset MOVE_HURRICANE, 50
-    learnset MOVE_POWDER, 55
     terminatelearnset
 
 
 levelup SPECIES_VIVILLON_SANDSTORM
     learnset MOVE_GUST, 0
+    learnset MOVE_SANDSTORM, 0
     learnset MOVE_GUST, 1
-    learnset MOVE_POWDER, 1
     learnset MOVE_SLEEP_POWDER, 1
     learnset MOVE_POISON_POWDER, 1
     learnset MOVE_STUN_SPORE, 1
     learnset MOVE_STRUGGLE_BUG, 1
-    learnset MOVE_LIGHT_SCREEN, 12
-    learnset MOVE_PSYBEAM, 17
-    learnset MOVE_SUPERSONIC, 21
-    learnset MOVE_SPLASH, 25
-    learnset MOVE_AROMATHERAPY, 31
-    learnset MOVE_BUG_BUZZ, 35
-    learnset MOVE_SAFEGUARD, 41
-    learnset MOVE_QUIVER_DANCE, 45
+    learnset MOVE_LIGHT_SCREEN, 14
+    learnset MOVE_PSYBEAM, 18
+    learnset MOVE_SILVER_WIND, 22
+    learnset MOVE_DRAINING_KISS, 26
+    learnset MOVE_AROMATHERAPY, 30
+    learnset MOVE_SANDSTORM, 30
+    learnset MOVE_BUG_BUZZ, 34
+    learnset MOVE_SAFEGUARD, 38
+    learnset MOVE_QUIVER_DANCE, 42
+    learnset MOVE_ENERGY_BALL, 46
     learnset MOVE_HURRICANE, 50
-    learnset MOVE_POWDER, 55
     terminatelearnset
 
 
 levelup SPECIES_VIVILLON_RIVER
     learnset MOVE_GUST, 0
+    learnset MOVE_HYDRO_PUMP, 0
     learnset MOVE_GUST, 1
-    learnset MOVE_POWDER, 1
     learnset MOVE_SLEEP_POWDER, 1
     learnset MOVE_POISON_POWDER, 1
     learnset MOVE_STUN_SPORE, 1
     learnset MOVE_STRUGGLE_BUG, 1
-    learnset MOVE_LIGHT_SCREEN, 12
-    learnset MOVE_PSYBEAM, 17
-    learnset MOVE_SUPERSONIC, 21
-    learnset MOVE_SPLASH, 25
-    learnset MOVE_AROMATHERAPY, 31
-    learnset MOVE_BUG_BUZZ, 35
-    learnset MOVE_SAFEGUARD, 41
-    learnset MOVE_QUIVER_DANCE, 45
+    learnset MOVE_LIGHT_SCREEN, 14
+    learnset MOVE_PSYBEAM, 18
+    learnset MOVE_SILVER_WIND, 22
+    learnset MOVE_DRAINING_KISS, 26
+    learnset MOVE_AROMATHERAPY, 30
+    learnset MOVE_HYDRO_PUMP, 30
+    learnset MOVE_BUG_BUZZ, 34
+    learnset MOVE_SAFEGUARD, 38
+    learnset MOVE_QUIVER_DANCE, 42
+    learnset MOVE_ENERGY_BALL, 46
     learnset MOVE_HURRICANE, 50
-    learnset MOVE_POWDER, 55
     terminatelearnset
 
 
 levelup SPECIES_VIVILLON_MONSOON
     learnset MOVE_GUST, 0
+    learnset MOVE_RAIN_DANCE, 0
     learnset MOVE_GUST, 1
-    learnset MOVE_POWDER, 1
     learnset MOVE_SLEEP_POWDER, 1
     learnset MOVE_POISON_POWDER, 1
     learnset MOVE_STUN_SPORE, 1
     learnset MOVE_STRUGGLE_BUG, 1
-    learnset MOVE_LIGHT_SCREEN, 12
-    learnset MOVE_PSYBEAM, 17
-    learnset MOVE_SUPERSONIC, 21
-    learnset MOVE_SPLASH, 25
-    learnset MOVE_AROMATHERAPY, 31
-    learnset MOVE_BUG_BUZZ, 35
-    learnset MOVE_SAFEGUARD, 41
-    learnset MOVE_QUIVER_DANCE, 45
+    learnset MOVE_LIGHT_SCREEN, 14
+    learnset MOVE_PSYBEAM, 18
+    learnset MOVE_SILVER_WIND, 22
+    learnset MOVE_DRAINING_KISS, 26
+    learnset MOVE_AROMATHERAPY, 30
+    learnset MOVE_RAIN_DANCE, 30
+    learnset MOVE_BUG_BUZZ, 34
+    learnset MOVE_SAFEGUARD, 38
+    learnset MOVE_QUIVER_DANCE, 42
+    learnset MOVE_ENERGY_BALL, 46
     learnset MOVE_HURRICANE, 50
-    learnset MOVE_POWDER, 55
     terminatelearnset
 
 
 levelup SPECIES_VIVILLON_SAVANNA
     learnset MOVE_GUST, 0
+    learnset MOVE_SCORCHING_SANDS, 0
     learnset MOVE_GUST, 1
-    learnset MOVE_POWDER, 1
     learnset MOVE_SLEEP_POWDER, 1
     learnset MOVE_POISON_POWDER, 1
     learnset MOVE_STUN_SPORE, 1
     learnset MOVE_STRUGGLE_BUG, 1
-    learnset MOVE_LIGHT_SCREEN, 12
-    learnset MOVE_PSYBEAM, 17
-    learnset MOVE_SUPERSONIC, 21
-    learnset MOVE_SPLASH, 25
-    learnset MOVE_AROMATHERAPY, 31
-    learnset MOVE_BUG_BUZZ, 35
-    learnset MOVE_SAFEGUARD, 41
-    learnset MOVE_QUIVER_DANCE, 45
+    learnset MOVE_LIGHT_SCREEN, 14
+    learnset MOVE_PSYBEAM, 18
+    learnset MOVE_SILVER_WIND, 22
+    learnset MOVE_DRAINING_KISS, 26
+    learnset MOVE_AROMATHERAPY, 30
+    learnset MOVE_SCORCHING_SANDS, 30
+    learnset MOVE_BUG_BUZZ, 34
+    learnset MOVE_SAFEGUARD, 38
+    learnset MOVE_QUIVER_DANCE, 42
+    learnset MOVE_ENERGY_BALL, 46
     learnset MOVE_HURRICANE, 50
-    learnset MOVE_POWDER, 55
     terminatelearnset
 
 
 levelup SPECIES_VIVILLON_SUN
     learnset MOVE_GUST, 0
+    learnset MOVE_SUNNY_DAY, 0
     learnset MOVE_GUST, 1
-    learnset MOVE_POWDER, 1
     learnset MOVE_SLEEP_POWDER, 1
     learnset MOVE_POISON_POWDER, 1
     learnset MOVE_STUN_SPORE, 1
     learnset MOVE_STRUGGLE_BUG, 1
-    learnset MOVE_LIGHT_SCREEN, 12
-    learnset MOVE_PSYBEAM, 17
-    learnset MOVE_SUPERSONIC, 21
-    learnset MOVE_SPLASH, 25
-    learnset MOVE_AROMATHERAPY, 31
-    learnset MOVE_BUG_BUZZ, 35
-    learnset MOVE_SAFEGUARD, 41
-    learnset MOVE_QUIVER_DANCE, 45
+    learnset MOVE_LIGHT_SCREEN, 14
+    learnset MOVE_PSYBEAM, 18
+    learnset MOVE_SILVER_WIND, 22
+    learnset MOVE_DRAINING_KISS, 26
+    learnset MOVE_AROMATHERAPY, 30
+    learnset MOVE_SUNNY_DAY, 30
+    learnset MOVE_BUG_BUZZ, 34
+    learnset MOVE_SAFEGUARD, 38
+    learnset MOVE_QUIVER_DANCE, 42
+    learnset MOVE_ENERGY_BALL, 46
     learnset MOVE_HURRICANE, 50
-    learnset MOVE_POWDER, 55
     terminatelearnset
 
 
 levelup SPECIES_VIVILLON_OCEAN
     learnset MOVE_GUST, 0
+    learnset MOVE_BRINE, 0
     learnset MOVE_GUST, 1
-    learnset MOVE_POWDER, 1
     learnset MOVE_SLEEP_POWDER, 1
     learnset MOVE_POISON_POWDER, 1
     learnset MOVE_STUN_SPORE, 1
     learnset MOVE_STRUGGLE_BUG, 1
-    learnset MOVE_LIGHT_SCREEN, 12
-    learnset MOVE_PSYBEAM, 17
-    learnset MOVE_SUPERSONIC, 21
-    learnset MOVE_SPLASH, 25
-    learnset MOVE_AROMATHERAPY, 31
-    learnset MOVE_BUG_BUZZ, 35
-    learnset MOVE_SAFEGUARD, 41
-    learnset MOVE_QUIVER_DANCE, 45
+    learnset MOVE_LIGHT_SCREEN, 14
+    learnset MOVE_PSYBEAM, 18
+    learnset MOVE_SILVER_WIND, 22
+    learnset MOVE_DRAINING_KISS, 26
+    learnset MOVE_AROMATHERAPY, 30
+    learnset MOVE_BRINE, 30
+    learnset MOVE_BUG_BUZZ, 34
+    learnset MOVE_SAFEGUARD, 38
+    learnset MOVE_QUIVER_DANCE, 42
+    learnset MOVE_ENERGY_BALL, 46
     learnset MOVE_HURRICANE, 50
-    learnset MOVE_POWDER, 55
     terminatelearnset
 
 
 levelup SPECIES_VIVILLON_JUNGLE
     learnset MOVE_GUST, 0
+    learnset MOVE_GRASSY_TERRAIN, 0
     learnset MOVE_GUST, 1
-    learnset MOVE_POWDER, 1
     learnset MOVE_SLEEP_POWDER, 1
     learnset MOVE_POISON_POWDER, 1
     learnset MOVE_STUN_SPORE, 1
     learnset MOVE_STRUGGLE_BUG, 1
-    learnset MOVE_LIGHT_SCREEN, 12
-    learnset MOVE_PSYBEAM, 17
-    learnset MOVE_SUPERSONIC, 21
-    learnset MOVE_SPLASH, 25
-    learnset MOVE_AROMATHERAPY, 31
-    learnset MOVE_BUG_BUZZ, 35
-    learnset MOVE_SAFEGUARD, 41
-    learnset MOVE_QUIVER_DANCE, 45
+    learnset MOVE_LIGHT_SCREEN, 14
+    learnset MOVE_PSYBEAM, 18
+    learnset MOVE_SILVER_WIND, 22
+    learnset MOVE_DRAINING_KISS, 26
+    learnset MOVE_AROMATHERAPY, 30
+    learnset MOVE_GRASSY_TERRAIN, 30
+    learnset MOVE_BUG_BUZZ, 34
+    learnset MOVE_SAFEGUARD, 38
+    learnset MOVE_QUIVER_DANCE, 42
+    learnset MOVE_ENERGY_BALL, 46
     learnset MOVE_HURRICANE, 50
-    learnset MOVE_POWDER, 55
     terminatelearnset
 
 
 levelup SPECIES_VIVILLON_FANCY
     learnset MOVE_GUST, 0
+    learnset MOVE_DAZZLING_GLEAM, 0
     learnset MOVE_GUST, 1
-    learnset MOVE_POWDER, 1
     learnset MOVE_SLEEP_POWDER, 1
     learnset MOVE_POISON_POWDER, 1
     learnset MOVE_STUN_SPORE, 1
     learnset MOVE_STRUGGLE_BUG, 1
-    learnset MOVE_LIGHT_SCREEN, 12
-    learnset MOVE_PSYBEAM, 17
-    learnset MOVE_SUPERSONIC, 21
-    learnset MOVE_SPLASH, 25
-    learnset MOVE_AROMATHERAPY, 31
-    learnset MOVE_BUG_BUZZ, 35
-    learnset MOVE_SAFEGUARD, 41
-    learnset MOVE_QUIVER_DANCE, 45
+    learnset MOVE_LIGHT_SCREEN, 14
+    learnset MOVE_PSYBEAM, 18
+    learnset MOVE_SILVER_WIND, 22
+    learnset MOVE_DRAINING_KISS, 26
+    learnset MOVE_AROMATHERAPY, 30
+    learnset MOVE_DAZZLING_GLEAM, 30
+    learnset MOVE_BUG_BUZZ, 34
+    learnset MOVE_SAFEGUARD, 38
+    learnset MOVE_QUIVER_DANCE, 42
+    learnset MOVE_ENERGY_BALL, 46
     learnset MOVE_HURRICANE, 50
-    learnset MOVE_POWDER, 55
     terminatelearnset
 
 
 levelup SPECIES_VIVILLON_POKE_BALL
     learnset MOVE_GUST, 0
+    learnset MOVE_TRI_ATTACK, 0
     learnset MOVE_GUST, 1
-    learnset MOVE_POWDER, 1
     learnset MOVE_SLEEP_POWDER, 1
     learnset MOVE_POISON_POWDER, 1
     learnset MOVE_STUN_SPORE, 1
     learnset MOVE_STRUGGLE_BUG, 1
-    learnset MOVE_LIGHT_SCREEN, 12
-    learnset MOVE_PSYBEAM, 17
-    learnset MOVE_SUPERSONIC, 21
-    learnset MOVE_SPLASH, 25
-    learnset MOVE_AROMATHERAPY, 31
-    learnset MOVE_BUG_BUZZ, 35
-    learnset MOVE_SAFEGUARD, 41
-    learnset MOVE_QUIVER_DANCE, 45
+    learnset MOVE_LIGHT_SCREEN, 14
+    learnset MOVE_PSYBEAM, 18
+    learnset MOVE_SILVER_WIND, 22
+    learnset MOVE_DRAINING_KISS, 26
+    learnset MOVE_AROMATHERAPY, 30
+    learnset MOVE_TRI_ATTACK, 30
+    learnset MOVE_BUG_BUZZ, 34
+    learnset MOVE_SAFEGUARD, 38
+    learnset MOVE_QUIVER_DANCE, 42
+    learnset MOVE_ENERGY_BALL, 46
     learnset MOVE_HURRICANE, 50
-    learnset MOVE_POWDER, 55
     terminatelearnset
 
 
