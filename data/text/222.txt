@@ -135,18 +135,18 @@ Griseous Orb
 ???
 Adamant Orb
 Lustrous Orb
-Garden Letter
-Autumnal Letter
+Garden Puzzle
+Autumnal Puzzle
 Bubble Mail
-Petal Letter
+Petal Puzzle
 Tunnel Mail
-Final Letter
-Child’s Letter
+Final Puzzle
+Child’s Puzzle
 Snow Mail
 Space Mail
 Air Mail
 Guardian Letter
-Brick Letter
+Brick Puzzle
 Cheri Berry
 Chesto Berry
 Pecha Berry

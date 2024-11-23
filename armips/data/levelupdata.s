@@ -364,6 +364,7 @@ levelup SPECIES_NINETALES
     learnset MOVE_CAPTIVATE, 42
     learnset MOVE_NASTY_PLOT, 45
     learnset MOVE_INFERNO, 50
+    learnset MOVE_SCORCHING_SANDS, 58
     terminatelearnset
 
 
@@ -1987,7 +1988,7 @@ levelup SPECIES_TYPHLOSION
 	learnset MOVE_SHADOW_BALL, 41
     learnset MOVE_FLAMETHROWER, 46
     learnset MOVE_INFERNO, 50
-    learnset MOVE_DOUBLE_EDGE, 54
+    learnset MOVE_SCORCHING_SANDS, 54
     learnset MOVE_ERUPTION, 58
 	learnset MOVE_BLAST_BURN, 58
     terminatelearnset
@@ -9213,14 +9214,15 @@ levelup SPECIES_STUNFISK
     learnset MOVE_CHARGE, 20
     learnset MOVE_MUD_BOMB, 21
     learnset MOVE_SUCKER_PUNCH, 25
+    learnset MOVE_FLAIL, 26
     learnset MOVE_ELECTRIC_TERRAIN, 30
     learnset MOVE_REVENGE, 31
     learnset MOVE_BOUNCE, 35
     learnset MOVE_DISCHARGE, 35
     learnset MOVE_MUDDY_WATER, 40
     learnset MOVE_THUNDERBOLT, 45
-    learnset MOVE_FLAIL, 52
-    learnset MOVE_FISSURE, 57
+    learnset MOVE_SCORCHING_SANDS, 50
+    learnset MOVE_FISSURE, 55
     terminatelearnset
 
 
@@ -13646,6 +13648,7 @@ levelup SPECIES_SILICOBRA
     learnset MOVE_GLARE, 25
     learnset MOVE_DIG, 30
     learnset MOVE_SANDSTORM, 35
+    learnset MOVE_SCORCHING_SANDS, 35
     learnset MOVE_SLAM, 40
     learnset MOVE_COIL, 45
     learnset MOVE_SAND_TOMB, 50
@@ -13663,6 +13666,7 @@ levelup SPECIES_SANDACONDA
     learnset MOVE_GLARE, 25
     learnset MOVE_DIG, 30
     learnset MOVE_SANDSTORM, 35
+    learnset MOVE_SCORCHING_SANDS, 35
     learnset MOVE_SLAM, 42
     learnset MOVE_COIL, 49
     learnset MOVE_SAND_TOMB, 51

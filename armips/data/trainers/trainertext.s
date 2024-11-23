@@ -6,9 +6,11 @@
 
 .open "build/trainer_text_map/7_0", 0
 
-_0000: // Trainer 0
+_0000: // Trainer 495 (Silver first battle)
+       // Trainer 0
        // Trainer 2
        // Trainer 3
+       // Trainer 200
        // Trainer 221
        // Trainer 225
        // Trainer 226
@@ -27,10 +29,6 @@ _0000: // Trainer 0
        // Trainer 344
        // Trainer 345
        // Trainer 347
-       // Trainer 372
-       // Trainer 375
-       // Trainer 376
-       // Trainer 377
        // Trainer 385
        // Trainer 387
        // Trainer 394
@@ -43,7 +41,6 @@ _0000: // Trainer 0
        // Trainer 475
        // Trainer 476
        // Trainer 477
-       // Trainer 495
        // Trainer 504
        // Trainer 506
        // Trainer 508
@@ -1869,9 +1866,6 @@ _1134: // Trainer 192
     trainertextentry 192, TEXT_DEFEATED_IN_BATTLE, "No! Unbelievable!\n"
     trainertextentry 192, TEXT_DEFEATED_IN_OVERWORLD, "I do not believe it! I was beaten!\n"
 
-_1140: // Trainer 200
-    trainertextentry 200, TEXT_DEFEATED_IN_BATTLE, "Oh, no! They’re so useless!\n"
-
 _1144: // Trainer 487
     trainertextentry 487, TEXT_LAST_MON_CRITICAL, "What? Am I losing?\n"
     trainertextentry 487, TEXT_LAST_MON_SENT_OUT, "Hey, wait, are you serious?!\n"
@@ -3191,6 +3185,26 @@ _1BD0: // Trainer 194
 _1BD4: // Trainer 207
     trainertextentry 207, TEXT_DEFEATED_IN_BATTLE, "You've grown tremendously!\n"
 
+_1BD8: // Trainer 372
+    trainertextentry 372, TEXT_NOTICE_IN_OVERWORLD, "I sensed you were coming.\r"
+    trainertextentry 372, TEXT_DEFEATED_IN_BATTLE, "Huh.\nDidn't see that coming."
+    trainertextentry 372, TEXT_DEFEATED_IN_OVERWORLD, "Do you possess psychic powers?\n"
+
+_1BE4: // Trainer 375
+    trainertextentry 375, TEXT_NOTICE_IN_OVERWORLD, "Psychic is the superior type.\r"
+    trainertextentry 375, TEXT_DEFEATED_IN_BATTLE, "Overwhelming!\n"
+    trainertextentry 375, TEXT_DEFEATED_IN_OVERWORLD, "Go forth to Sabrina.\n"
+
+_1BF0: // Trainer 376
+    trainertextentry 376, TEXT_NOTICE_IN_OVERWORLD, "Sabrina will be too powerful for you.\r"
+    trainertextentry 376, TEXT_DEFEATED_IN_BATTLE, "Interesting...\n"
+    trainertextentry 376, TEXT_DEFEATED_IN_OVERWORLD, "Sabrina's powers are much\ngreater than mine."
+
+_1BFC: // Trainer 377
+    trainertextentry 377, TEXT_NOTICE_IN_OVERWORLD, "There is an aura about you...\r"
+    trainertextentry 377, TEXT_DEFEATED_IN_BATTLE, "Your aura is incredible!\n"
+    trainertextentry 377, TEXT_DEFEATED_IN_OVERWORLD, "Yes.\nI see your aura clearly now.\n"
+
 .close
 
 .create "build/trainer_text_offsets/1_0", 0
@@ -3395,7 +3409,7 @@ _1BD4: // Trainer 207
 /* Trainer 197 */ .halfword _13C4
 /* Trainer 198 */ .halfword _10D8
 /* Trainer 199 */ .halfword _13AC
-/* Trainer 200 */ .halfword _1140
+/* Trainer 200 */ .halfword _0000
 /* Trainer 201 */ .halfword _11B8
 /* Trainer 202 */ .halfword _11C4
 /* Trainer 203 */ .halfword _11D0
@@ -3567,12 +3581,12 @@ _1BD4: // Trainer 207
 /* Trainer 369 */ .halfword _05DC
 /* Trainer 370 */ .halfword _08A4
 /* Trainer 371 */ .halfword _08B0
-/* Trainer 372 */ .halfword _0000
+/* Trainer 372 */ .halfword _1BD8
 /* Trainer 373 */ .halfword _08C8
 /* Trainer 374 */ .halfword _08F8
-/* Trainer 375 */ .halfword _0000
-/* Trainer 376 */ .halfword _0000
-/* Trainer 377 */ .halfword _0000
+/* Trainer 375 */ .halfword _1BE4
+/* Trainer 376 */ .halfword _1BF0
+/* Trainer 377 */ .halfword _1BFC
 /* Trainer 378 */ .halfword _0644
 /* Trainer 379 */ .halfword _0650
 /* Trainer 380 */ .halfword _074C
