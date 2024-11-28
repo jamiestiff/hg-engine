@@ -1794,25 +1794,25 @@ pokemon SPECIES_WOOPER
 pokemon SPECIES_TOEDSCOOL
 pokemon SPECIES_SURSKIT
 pokemon SPECIES_SURSKIT
-pokemon SPECIES_FLAMIGO
-pokemon SPECIES_FLAMIGO
+pokemon SPECIES_POLIWAG
+pokemon SPECIES_POLIWAG
 pokemon SPECIES_GOOMY
 pokemon SPECIES_GOOMY
-pokemon SPECIES_FLAMIGO
+pokemon SPECIES_WOOPER
 
 // day encounter slots
 pokemon SPECIES_CROAGUNK
 pokemon SPECIES_TOEDSCOOL
 pokemon SPECIES_SURSKIT
 pokemon SPECIES_SURSKIT
-pokemon SPECIES_SURSKIT
+pokemon SPECIES_POLIWAG
 pokemon SPECIES_CROAGUNK
 pokemon SPECIES_TOEDSCOOL
 pokemon SPECIES_TOEDSCOOL
 pokemon SPECIES_CROAGUNK
 pokemon SPECIES_GOOMY
 pokemon SPECIES_GOOMY
-pokemon SPECIES_FLAMIGO
+pokemon SPECIES_POLIWAG
 
 // night encounter slots
 pokemon SPECIES_CROAGUNK
@@ -1826,7 +1826,7 @@ pokemon SPECIES_TOEDSCOOL
 pokemon SPECIES_CROAGUNK
 pokemon SPECIES_GOOMY
 pokemon SPECIES_GOOMY
-pokemon SPECIES_FLAMIGO
+pokemon SPECIES_POLIWAG
 
 // hoenn encounter slots
 pokemon SPECIES_VOLBEAT
@@ -2899,14 +2899,14 @@ encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_MAGIKARP, 20, 20
 encounter SPECIES_POLIWHIRL, 20, 20
 encounter SPECIES_POLIWHIRL, 20, 20
-encounter SPECIES_POLIWHIRL, 20, 20
+encounter SPECIES_REMORAID, 20, 20
 
 // super rod encounters
 encounter SPECIES_POLIWAG, 40, 40
 encounter SPECIES_POLIWHIRL, 40, 40
 encounter SPECIES_POLITOED, 40, 40
 encounter SPECIES_POLITOED, 40, 40
-encounter SPECIES_POLITOED, 40, 40
+encounter SPECIES_REMORAID, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -5592,25 +5592,25 @@ encounter SPECIES_NONE, 0, 0
 encounter SPECIES_NONE, 0, 0
 
 // old rod encounters
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MARILL, 10, 10
-encounter SPECIES_MARILL, 10, 10
+encounter SPECIES_REMORAID, 10, 10
+encounter SPECIES_REMORAID, 10, 10
+encounter SPECIES_REMORAID, 10, 10
+encounter SPECIES_REMORAID, 10, 10
+encounter SPECIES_REMORAID, 10, 10
 
 // good rod encounters
-encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_MARILL, 20, 20
-encounter SPECIES_MARILL, 20, 20
-encounter SPECIES_MARILL, 20, 20
-encounter SPECIES_AZUMARILL, 20, 20
+encounter SPECIES_REMORAID, 20, 20
+encounter SPECIES_REMORAID, 20, 20
+encounter SPECIES_REMORAID, 20, 20
+encounter SPECIES_REMORAID, 20, 20
+encounter SPECIES_REMORAID, 20, 20
 
 // super rod encounters
-encounter SPECIES_MARILL, 40, 40
-encounter SPECIES_MARILL, 40, 40
-encounter SPECIES_AZUMARILL, 40, 40
-encounter SPECIES_AZUMARILL, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_OCTILLERY, 40, 40
+encounter SPECIES_REMORAID, 40, 40
+encounter SPECIES_REMORAID, 40, 40
+encounter SPECIES_REMORAID, 40, 40
+encounter SPECIES_REMORAID, 40, 40
 
 // swarm grass
 pokemon SPECIES_TYROGUE
@@ -5919,10 +5919,10 @@ encounter SPECIES_REMORAID, 20, 20
 
 // super rod encounters
 encounter SPECIES_OCTILLERY, 40, 40
-encounter SPECIES_OCTILLERY, 40, 40
-encounter SPECIES_OCTILLERY, 40, 40
-encounter SPECIES_OCTILLERY, 40, 40
-encounter SPECIES_OCTILLERY, 40, 40
+encounter SPECIES_REMORAID, 40, 40
+encounter SPECIES_REMORAID, 40, 40
+encounter SPECIES_REMORAID, 40, 40
+encounter SPECIES_REMORAID, 40, 40
 
 // swarm grass
 pokemon SPECIES_TYROGUE

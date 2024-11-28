@@ -3460,8 +3460,8 @@ levelup SPECIES_SWINUB
     learnset MOVE_MUD_BOMB, 18
     learnset MOVE_ICE_SHARD, 19
     learnset MOVE_ENDURE, 19
-    learnset MOVE_FLAIL, 24
-    learnset MOVE_ICY_WIND, 25
+    learnset MOVE_FLAIL, 23
+    learnset MOVE_ICY_WIND, 24
     learnset MOVE_MIST, 27
     learnset MOVE_TAKE_DOWN, 34
     learnset MOVE_AMNESIA, 41
@@ -3471,7 +3471,7 @@ levelup SPECIES_SWINUB
 
 
 levelup SPECIES_PILOSWINE
-    learnset MOVE_AVALANCHE, 0
+    learnset MOVE_AVALANCHE, 1
     learnset MOVE_ICICLE_SPEAR, 0
     learnset MOVE_ICE_FANG, 0
     learnset MOVE_TACKLE, 1
@@ -3490,12 +3490,12 @@ levelup SPECIES_PILOSWINE
     learnset MOVE_ENDURE, 19
     learnset MOVE_ICE_FANG, 24
     learnset MOVE_ICY_WIND, 25
-    learnset MOVE_MIST, 27
+    learnset MOVE_MIST, 28
 	learnset MOVE_HIGH_HORSEPOWER, 34
     learnset MOVE_TAKE_DOWN, 36
+    learnset MOVE_ANCIENT_POWER, 42
     learnset MOVE_AMNESIA, 46
     learnset MOVE_EARTHQUAKE, 48
-	learnset MOVE_ANCIENT_POWER, 50
     learnset MOVE_THRASH, 53
     learnset MOVE_ICICLE_CRASH, 55
     terminatelearnset
