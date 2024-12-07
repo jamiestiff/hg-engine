@@ -8809,21 +8809,21 @@ movedata MOVE_TECHNO_BLAST, "Techno Blast"
     terminatedata
     movedescription MOVE_TECHNO_BLAST, "The user fires a beam\nof light at its foe.\nThe type changes\ndepending on the\nDrive held."
 
-movedata MOVE_RELIC_SONG, "Relic Song"
+movedata MOVE_RELIC_SONG, "Narcomelody"
     battleeffect MOVE_EFFECT_SLEEP_HIT
     pss SPLIT_SPECIAL
     basepower 75
     type TYPE_NORMAL
     accuracy 100
     pp 10
-    effectchance 10
+    effectchance 20
     target MOVE_TARGET_BOTH
     priority 0
     flags FLAG_KEEP_HP_BAR | FLAG_PROTECT | FLAG_MIRROR_MOVE
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_RELIC_SONG, "The user sings an\nancient song and\nattacks the hearts of\nthe listeners. It\nmay induce sleep."
+    movedescription MOVE_RELIC_SONG, "The user sings an\nodd melody, attacking\nthe hearts of\nthe listeners. It\nmay induce sleep."
 
 movedata MOVE_SECRET_SWORD, "Secret Sword"
     battleeffect MOVE_EFFECT_HIT
