@@ -3205,6 +3205,21 @@ _1BFC: // Trainer 377
     trainertextentry 377, TEXT_DEFEATED_IN_BATTLE, "Your aura is incredible!\n"
     trainertextentry 377, TEXT_DEFEATED_IN_OVERWORLD, "Yes.\nI see your aura clearly now.\n"
 
+_1C00: // Trainer 707
+    trainertextentry 707, TEXT_DEFEATED_IN_BATTLE, "Thank you for your tutelage!"
+
+_1C04: // Trainer 708
+    trainertextentry 708, TEXT_DEFEATED_IN_BATTLE, "Thank you for your tutelage!"
+
+_1C08: // Trainer 709
+    trainertextentry 709, TEXT_DEFEATED_IN_BATTLE, "Thank you for your tutelage!"
+
+_1C0C: // Trainer 710
+    trainertextentry 710, TEXT_DEFEATED_IN_BATTLE, "Thank you for your tutelage!"
+
+_1C10: // Trainer 711
+    trainertextentry 711, TEXT_DEFEATED_IN_BATTLE, "Such focus, such determination!"
+
 .close
 
 .create "build/trainer_text_offsets/1_0", 0
@@ -3916,11 +3931,11 @@ _1BFC: // Trainer 377
 /* Trainer 704 */ .halfword _03C4
 /* Trainer 705 */ .halfword _03D0
 /* Trainer 706 */ .halfword _1114
-/* Trainer 707 */ .halfword _0000
-/* Trainer 708 */ .halfword _0000
-/* Trainer 709 */ .halfword _0000
-/* Trainer 710 */ .halfword _0000
-/* Trainer 711 */ .halfword _0000
+/* Trainer 707 */ .halfword _1C00
+/* Trainer 708 */ .halfword _1C04
+/* Trainer 709 */ .halfword _1C08
+/* Trainer 710 */ .halfword _1C0C
+/* Trainer 711 */ .halfword _1C10
 /* Trainer 712 */ .halfword _01AC
 /* Trainer 713 */ .halfword _01B8
 /* Trainer 714 */ .halfword _01C4

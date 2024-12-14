@@ -1472,12 +1472,11 @@ levelup SPECIES_GYARADOS
     learnset MOVE_LEER, 1
     learnset MOVE_TWISTER, 1
     learnset MOVE_THRASH, 1
-    learnset MOVE_BRINE, 12
+    learnset MOVE_LEER, 20
+    learnset MOVE_SCARY_FACE, 20
 	learnset MOVE_THRASH, 20
-	learnset MOVE_BITE, 23
-    learnset MOVE_LEER, 25
-    learnset MOVE_SCARY_FACE, 27
-    learnset MOVE_TWISTER, 29
+    learnset MOVE_TWISTER, 24
+    learnset MOVE_BRINE, 28
     learnset MOVE_CRUNCH, 31
     learnset MOVE_AQUA_TAIL, 33
     learnset MOVE_DRAGON_RAGE, 35
@@ -15126,6 +15125,7 @@ levelup SPECIES_TOEDSCOOL
 
 levelup SPECIES_TOEDSCRUEL
     learnset MOVE_MUD_BOMB, 0
+    learnset MOVE_MIRROR_COAT, 0
 	learnset MOVE_SPORE, 1 
     learnset MOVE_WRAP, 1 
 	learnset MOVE_STUN_SPORE, 5 
