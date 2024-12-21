@@ -2097,7 +2097,7 @@ _1358: // Trainer 233
 _1364: // Trainer 393
     trainertextentry 393, TEXT_NOTICE_IN_OVERWORLD, "Do you consider the Pokémon types\nin battle?\rIf you know about the different types\nof Pokémon, you’ll do better in battle.\r"
     trainertextentry 393, TEXT_DEFEATED_IN_BATTLE, "Ow, ow, ow!\n"
-    trainertextentry 393, TEXT_DEFEATED_IN_OVERWORLD, "I know all the different types\nof Pokémon.\fBut I only use one type.\n"
+    trainertextentry 393, TEXT_DEFEATED_IN_OVERWORLD, "I know all the different types\nof Pokémon.\fBut I only use a few types.\n"
 
 _1370: // Trainer 14
     trainertextentry  14, TEXT_NOTICE_IN_OVERWORLD, "Fork over your goods!\r"
