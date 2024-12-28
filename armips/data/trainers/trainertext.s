@@ -10,37 +10,6 @@ _0000: // Trainer 495 (Silver first battle)
        // Trainer 0
        // Trainer 2
        // Trainer 3
-       // Trainer 200
-       // Trainer 221
-       // Trainer 225
-       // Trainer 226
-       // Trainer 229
-       // Trainer 243
-       // Trainer 262
-       // Trainer 265
-       // Trainer 273
-       // Trainer 292
-       // Trainer 295
-       // Trainer 338
-       // Trainer 340
-       // Trainer 341
-       // Trainer 342
-       // Trainer 343
-       // Trainer 344
-       // Trainer 345
-       // Trainer 347
-       // Trainer 385
-       // Trainer 387
-       // Trainer 394
-       // Trainer 416
-       // Trainer 426
-       // Trainer 442
-       // Trainer 443
-       // Trainer 473
-       // Trainer 474
-       // Trainer 475
-       // Trainer 476
-       // Trainer 477
        // Trainer 504
        // Trainer 506
        // Trainer 508
@@ -67,11 +36,7 @@ _0000: // Trainer 495 (Silver first battle)
        // Trainer 670
        // Trainer 671
        // Trainer 675
-       // Trainer 707
-       // Trainer 708
-       // Trainer 709
-       // Trainer 710
-       // Trainer 711
+
     trainertextentry 495, TEXT_LAST_MON_SENT_OUT, "...Humph!\nYou’re doing OK for someone weak.\n"
     trainertextentry 495, TEXT_DEFEATED_IN_BATTLE, "...Humph!\nAre you happy you won?\n"
     trainertextentry 495, TEXT_PLAYER_LOSES, "...Humph!\nThat was a waste of time.\n"
@@ -2520,14 +2485,14 @@ _177C: // Trainer 595
     trainertextentry 595, TEXT_DEFEATED_IN_OVERWORLD, "To win more, I need to work on\nmy stamina!\n"
 
 _1788: // Trainer 596
-    trainertextentry 596, TEXT_NOTICE_IN_OVERWORLD, "Surrounding yourself with bird Pokémon\ngives you the feeling that someday you\fmight be able to fly, too!\r"
-    trainertextentry 596, TEXT_DEFEATED_IN_BATTLE, "I couldn’t fly...\n"
-    trainertextentry 596, TEXT_DEFEATED_IN_OVERWORLD, "I guess I just need to practice flapping\nmy wings more!\n"
+    trainertextentry 596, TEXT_NOTICE_IN_OVERWORLD, "Have you been to the Seafoam Islands?\r"
+    trainertextentry 596, TEXT_DEFEATED_IN_BATTLE, "Such precision!\n"
+    trainertextentry 596, TEXT_DEFEATED_IN_OVERWORLD, "Frigibax live in the Seafoam Islands.\n"
 
 _1794: // Trainer 597
-    trainertextentry 597, TEXT_NOTICE_IN_OVERWORLD, "Bird Keepers are so wonderful with\ntheir bird Pokémon!\r"
+    trainertextentry 597, TEXT_NOTICE_IN_OVERWORLD, "...Hello.\r"
     trainertextentry 597, TEXT_DEFEATED_IN_BATTLE, "I couldn’t handle it...\n"
-    trainertextentry 597, TEXT_DEFEATED_IN_OVERWORLD, "We Bird Keepers think we’re using bird\nPokémon. But somewhere along the line,\fthe bird Pokémon started using us...\n\n"
+    trainertextentry 597, TEXT_DEFEATED_IN_OVERWORLD, "I couldn’t handle it...\n\n"
 
 _17A0: // Trainer 598
     trainertextentry 598, TEXT_DOUBLE_NOTICE_IN_OVERWORLD_1, "Day: Are you going to beat us?\r"
@@ -2617,9 +2582,9 @@ _1878: // Trainer 238
     trainertextentry 238, TEXT_DEFEATED_IN_BATTLE, "Mmmmph... I just woke up.\nI couldn’t focus...\n"
 
 _187C: // Trainer 700
-    trainertextentry 700, TEXT_LAST_MON_CRITICAL, "What in the world was that? Don’t tell\nme some inexperienced kid can\fpossibly be that strong!\n"
-    trainertextentry 700, TEXT_LAST_MON_SENT_OUT, "What was that?\n"
-    trainertextentry 700, TEXT_DEFEATED_IN_BATTLE, "What in the world are you?\n"
+    trainertextentry 700, TEXT_LAST_MON_CRITICAL, "...\n"
+    trainertextentry 700, TEXT_LAST_MON_SENT_OUT, "It's just like before...\n"
+    trainertextentry 700, TEXT_DEFEATED_IN_BATTLE, "... Hmmm.\n"
 
 _1888: // Trainer 303
     trainertextentry 303, TEXT_DEFEATED_IN_BATTLE, "Tweet!\n"
@@ -3206,19 +3171,100 @@ _1BFC: // Trainer 377
     trainertextentry 377, TEXT_DEFEATED_IN_OVERWORLD, "Yes.\nI see your aura clearly now.\n"
 
 _1C00: // Trainer 707
-    trainertextentry 707, TEXT_DEFEATED_IN_BATTLE, "Thank you for your tutelage!"
+    trainertextentry 707, TEXT_DEFEATED_IN_BATTLE, "Thank you for your tutelage!\n"
 
 _1C04: // Trainer 708
-    trainertextentry 708, TEXT_DEFEATED_IN_BATTLE, "Thank you for your tutelage!"
+    trainertextentry 708, TEXT_DEFEATED_IN_BATTLE, "Thank you for your tutelage!\n"
 
 _1C08: // Trainer 709
-    trainertextentry 709, TEXT_DEFEATED_IN_BATTLE, "Thank you for your tutelage!"
+    trainertextentry 709, TEXT_DEFEATED_IN_BATTLE, "Thank you for your tutelage!\n"
 
 _1C0C: // Trainer 710
-    trainertextentry 710, TEXT_DEFEATED_IN_BATTLE, "Thank you for your tutelage!"
+    trainertextentry 710, TEXT_DEFEATED_IN_BATTLE, "Thank you for your tutelage!\n"
 
 _1C10: // Trainer 711
-    trainertextentry 711, TEXT_DEFEATED_IN_BATTLE, "Such focus, such determination!"
+    trainertextentry 711, TEXT_DEFEATED_IN_BATTLE, "Such focus, such determination!\n"
+
+_1C14: // Trainer 200
+    trainertextentry 200, TEXT_DEFEATED_IN_BATTLE, "You can really throw down!\n"
+
+_1C18: // Trainer 221
+    trainertextentry 221, TEXT_DEFEATED_IN_BATTLE, "Thanks for the battle!\n"
+
+_1C1C: // Trainer 225
+    trainertextentry 225, TEXT_DEFEATED_IN_BATTLE, "An excellent battle.\n"
+
+_1C20: // Trainer 226
+    trainertextentry 226, TEXT_DEFEATED_IN_BATTLE, "You're on fire!\n"
+
+_1C24: // Trainer 229
+    trainertextentry 229, TEXT_DEFEATED_IN_BATTLE, "Ugh, I lost again!\n"
+
+_1C28: // Trainer 243
+    trainertextentry 243, TEXT_DEFEATED_IN_BATTLE, "Wow, you've gotten ever better!\n"
+
+_1C2C: // Trainer 262
+    trainertextentry 262, TEXT_DEFEATED_IN_BATTLE, "Shocking stuff!\n"
+
+_1C30: // Trainer 265
+    trainertextentry 265, TEXT_DEFEATED_IN_BATTLE, "What a graceful display.\n"
+
+_1C34: // Trainer 273
+    trainertextentry 273, TEXT_DEFEATED_IN_BATTLE, "Astonishing power you possess...\n"
+
+_1C38: // Trainer 292
+    trainertextentry 292, TEXT_DEFEATED_IN_BATTLE, "You've raised your Pokémon well.\n"
+
+_1C3C: // Trainer 295
+    trainertextentry 295, TEXT_DEFEATED_IN_BATTLE, "Mindblowing!\n"
+
+_1C40: // Trainer 338
+    trainertextentry 338, TEXT_DEFEATED_IN_BATTLE, "Efficiently done.\n"
+
+_1C44: // Trainer 340
+    trainertextentry 340, TEXT_DEFEATED_IN_BATTLE, "A frustrating loss.\n"
+
+_1C48: // Trainer 341
+    trainertextentry 341, TEXT_DEFEATED_IN_BATTLE, "You have such style.\n"
+
+_1C4C: // Trainer 342
+    trainertextentry 342, TEXT_DEFEATED_IN_BATTLE, "You're in the top 0.1 percent!\n"
+
+_1C50: // Trainer 343
+    trainertextentry 343, TEXT_DEFEATED_IN_BATTLE, "You have grown so much!\n"
+
+_1C54: // Trainer 344
+    trainertextentry 344, TEXT_DEFEATED_IN_BATTLE, "Mastery on display!\n"
+
+_1C58: // Trainer 345
+    trainertextentry 345, TEXT_DEFEATED_IN_BATTLE, "Still throwing down!\n"
+
+_1C5C: // Trainer 347
+    trainertextentry 347, TEXT_DEFEATED_IN_BATTLE, "What will my father say?\n"
+
+_1C60: // Trainer 385
+    trainertextentry 385, TEXT_DEFEATED_IN_BATTLE, "Yup, you're the real deal!\n"
+
+_1C64: // Trainer 387
+    trainertextentry 387, TEXT_DEFEATED_IN_BATTLE, "Umm, thank you for the battle!\n"
+
+_1C68: // Trainer 394
+    trainertextentry 394, TEXT_DEFEATED_IN_BATTLE, "You're just like him...\n"
+
+_1C6C: // Trainer 416
+    trainertextentry 416, TEXT_DEFEATED_IN_BATTLE, "You're so knowledegable!\n"
+
+_1C70: // Trainer 426
+    trainertextentry 426, TEXT_DEFEATED_IN_BATTLE, "Awwww, I lost...\n"
+
+_1C74: // Trainer 442
+    trainertextentry 442, TEXT_DEFEATED_IN_BATTLE, "You were destined to win.\n"
+
+_1C78: // Trainer 443
+    trainertextentry 443, TEXT_DEFEATED_IN_BATTLE, "What will my father say!?!\n"
+
+_1C7C: // Trainer 477
+    trainertextentry 477, TEXT_DEFEATED_IN_BATTLE, "I've learned a valuable lesson!\n"
 
 .close
 
@@ -3424,7 +3470,7 @@ _1C10: // Trainer 711
 /* Trainer 197 */ .halfword _13C4
 /* Trainer 198 */ .halfword _10D8
 /* Trainer 199 */ .halfword _13AC
-/* Trainer 200 */ .halfword _0000
+/* Trainer 200 */ .halfword _1C14
 /* Trainer 201 */ .halfword _11B8
 /* Trainer 202 */ .halfword _11C4
 /* Trainer 203 */ .halfword _11D0
@@ -3445,15 +3491,15 @@ _1C10: // Trainer 711
 /* Trainer 218 */ .halfword _12DC
 /* Trainer 219 */ .halfword _12E8
 /* Trainer 220 */ .halfword _12F4
-/* Trainer 221 */ .halfword _0000
+/* Trainer 221 */ .halfword _1C18
 /* Trainer 222 */ .halfword _1328
 /* Trainer 223 */ .halfword _12C8
 /* Trainer 224 */ .halfword _12CC
-/* Trainer 225 */ .halfword _0000
-/* Trainer 226 */ .halfword _0000
+/* Trainer 225 */ .halfword _1C1C
+/* Trainer 226 */ .halfword _1C20
 /* Trainer 227 */ .halfword _13D0
 /* Trainer 228 */ .halfword _13A0
-/* Trainer 229 */ .halfword _0000
+/* Trainer 229 */ .halfword _1C24
 /* Trainer 230 */ .halfword _05B8
 /* Trainer 231 */ .halfword _0F24
 /* Trainer 232 */ .halfword _054C
@@ -3467,7 +3513,7 @@ _1C10: // Trainer 711
 /* Trainer 240 */ .halfword _0F84
 /* Trainer 241 */ .halfword _0FFC
 /* Trainer 242 */ .halfword _0F00
-/* Trainer 243 */ .halfword _0000
+/* Trainer 243 */ .halfword _1C28
 /* Trainer 244 */ .halfword _03A0
 /* Trainer 245 */ .halfword _0370
 /* Trainer 246 */ .halfword _0394
@@ -3486,10 +3532,10 @@ _1C10: // Trainer 711
 /* Trainer 259 */ .halfword _043C
 /* Trainer 260 */ .halfword _1418
 /* Trainer 261 */ .halfword _03E8
-/* Trainer 262 */ .halfword _0000
+/* Trainer 262 */ .halfword _1C2C
 /* Trainer 263 */ .halfword _0054
 /* Trainer 264 */ .halfword _00B4
-/* Trainer 265 */ .halfword _0000
+/* Trainer 265 */ .halfword _1C30
 /* Trainer 266 */ .halfword _0034
 /* Trainer 267 */ .halfword _0064
 /* Trainer 268 */ .halfword _00C4
@@ -3497,7 +3543,7 @@ _1C10: // Trainer 711
 /* Trainer 270 */ .halfword _0074
 /* Trainer 271 */ .halfword _00A4
 /* Trainer 272 */ .halfword _00D4
-/* Trainer 273 */ .halfword _0000
+/* Trainer 273 */ .halfword _1C34
 /* Trainer 274 */ .halfword _1AA4
 /* Trainer 275 */ .halfword _1AA8
 /* Trainer 276 */ .halfword _18AC
@@ -3516,10 +3562,10 @@ _1C10: // Trainer 711
 /* Trainer 289 */ .halfword _0094
 /* Trainer 290 */ .halfword _1050
 /* Trainer 291 */ .halfword _08BC
-/* Trainer 292 */ .halfword _0000
+/* Trainer 292 */ .halfword _1C38
 /* Trainer 293 */ .halfword _08D4
 /* Trainer 294 */ .halfword _08E0
-/* Trainer 295 */ .halfword _0000
+/* Trainer 295 */ .halfword _1C3C
 /* Trainer 296 */ .halfword _0904
 /* Trainer 297 */ .halfword _051C
 /* Trainer 298 */ .halfword _0528
@@ -3562,16 +3608,16 @@ _1C10: // Trainer 711
 /* Trainer 335 */ .halfword _1894
 /* Trainer 336 */ .halfword _0590
 /* Trainer 337 */ .halfword _0540
-/* Trainer 338 */ .halfword _0000
+/* Trainer 338 */ .halfword _1C40
 /* Trainer 339 */ .halfword _0F6C
-/* Trainer 340 */ .halfword _0000
-/* Trainer 341 */ .halfword _0000
-/* Trainer 342 */ .halfword _0000
-/* Trainer 343 */ .halfword _0000
-/* Trainer 344 */ .halfword _0000
-/* Trainer 345 */ .halfword _0000
+/* Trainer 340 */ .halfword _1C44
+/* Trainer 341 */ .halfword _1C48
+/* Trainer 342 */ .halfword _1C4C
+/* Trainer 343 */ .halfword _1C50
+/* Trainer 344 */ .halfword _1C54
+/* Trainer 345 */ .halfword _1C58
 /* Trainer 346 */ .halfword _059C
-/* Trainer 347 */ .halfword _0000
+/* Trainer 347 */ .halfword _1C5C
 /* Trainer 348 */ .halfword _071C
 /* Trainer 349 */ .halfword _07B0
 /* Trainer 350 */ .halfword _07D8
@@ -3609,16 +3655,16 @@ _1C10: // Trainer 711
 /* Trainer 382 */ .halfword _083C
 /* Trainer 383 */ .halfword _0A4C
 /* Trainer 384 */ .halfword _11AC
-/* Trainer 385 */ .halfword _0000
+/* Trainer 385 */ .halfword _1C60
 /* Trainer 386 */ .halfword _0BD0
-/* Trainer 387 */ .halfword _0000
+/* Trainer 387 */ .halfword _1C64
 /* Trainer 388 */ .halfword _0B60
 /* Trainer 389 */ .halfword _0C40
 /* Trainer 390 */ .halfword _1188
 /* Trainer 391 */ .halfword _1340
 /* Trainer 392 */ .halfword _134C
 /* Trainer 393 */ .halfword _1364
-/* Trainer 394 */ .halfword _0000
+/* Trainer 394 */ .halfword _1C68
 /* Trainer 395 */ .halfword _0BB4
 /* Trainer 396 */ .halfword _0558
 /* Trainer 397 */ .halfword _0C24
@@ -3640,7 +3686,7 @@ _1C10: // Trainer 711
 /* Trainer 413 */ .halfword _09B8
 /* Trainer 414 */ .halfword _09C4
 /* Trainer 415 */ .halfword _05C4
-/* Trainer 416 */ .halfword _0000
+/* Trainer 416 */ .halfword _1C6C
 /* Trainer 417 */ .halfword _0AF8
 /* Trainer 418 */ .halfword _0388
 /* Trainer 419 */ .halfword _0944
@@ -3650,7 +3696,7 @@ _1C10: // Trainer 711
 /* Trainer 423 */ .halfword _0FC0
 /* Trainer 424 */ .halfword _1B5C
 /* Trainer 425 */ .halfword _0EE0
-/* Trainer 426 */ .halfword _0000
+/* Trainer 426 */ .halfword _1C70
 /* Trainer 427 */ .halfword _0FD8
 /* Trainer 428 */ .halfword _0FE4
 /* Trainer 429 */ .halfword _0FF0
@@ -3666,8 +3712,8 @@ _1C10: // Trainer 711
 /* Trainer 439 */ .halfword _1A48
 /* Trainer 440 */ .halfword _1924
 /* Trainer 441 */ .halfword _1928
-/* Trainer 442 */ .halfword _0000
-/* Trainer 443 */ .halfword _0000
+/* Trainer 442 */ .halfword _1C74
+/* Trainer 443 */ .halfword _1C78
 /* Trainer 444 */ .halfword _19D8
 /* Trainer 445 */ .halfword _19DC
 /* Trainer 446 */ .halfword _188C
@@ -3701,7 +3747,7 @@ _1C10: // Trainer 711
 /* Trainer 474 */ .halfword _0000
 /* Trainer 475 */ .halfword _0000
 /* Trainer 476 */ .halfword _0000
-/* Trainer 477 */ .halfword _0000
+/* Trainer 477 */ .halfword _1C78
 /* Trainer 478 */ .halfword _1150
 /* Trainer 479 */ .halfword _12D0
 /* Trainer 480 */ .halfword _02F8

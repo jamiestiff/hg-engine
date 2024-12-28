@@ -39,10 +39,11 @@
 #define WEATHER_SYS_FLASH (11)
 #define WEATHER_SYS_FLASH_2 (12)
 #define WEATHER_SYS_LOW_LIGHT (13)
+#define WEATHER_SYS_TRICK_ROOM (14)
 
 
 #define WEATHER_SYS_x1000         (1000)
 #define WEATHER_SYS_HIGH_SUN      (1001)
-#define WEATHER_SYS_TRICK_ROOM    (1002)
+
 
 #endif
