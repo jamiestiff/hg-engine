@@ -167,12 +167,12 @@ In the Sinnoh region, they like to make\nsweets known as Poffins with this Berry
 In the Sinnoh region, they like to make\nsweets known as Poffins with this Berry\nand feed them to their Pokémon.
 In the Sinnoh region, they like to make\nsweets known as Poffins with this Berry\nand feed them to their Pokémon.
 In the Sinnoh region, they like to make\nsweets known as Poffins with this Berry\nand feed them to their Pokémon.
-Using it on a Pokémon makes it more\nfriendly, but it also lowers its base HP.
-Using it on a Pokémon makes it more\nfriendly, but it also lowers its base\nAttack stat.
-Using it on a Pokémon makes it more\nfriendly, but it also lowers its base\nDefense stat.
-Using it on a Pokémon makes it more\nfriendly, but it also lowers its base\nSp. Atk stat.
-Using it on a Pokémon makes it more\nfriendly, but it also lowers its base\nSp. Def stat.
-Using it on a Pokémon makes it more\nfriendly, but it also lowers its base\nSpeed stat.
+Using it on a Pokémon makes it more\nfriendly, but it also lowers its\nHP EVs to 0.
+Using it on a Pokémon makes it more\nfriendly, but it also lowers its\nAttack EVs to 0.
+Using it on a Pokémon makes it more\nfriendly, but it also lowers its\nDefense EVs to 0.
+Using it on a Pokémon makes it more\nfriendly, but it also lowers its\nSp. Atk EVs to 0.
+Using it on a Pokémon makes it more\nfriendly, but it also lowers its\nSp. Def EVs to 0.
+Using it on a Pokémon makes it more\nfriendly, but it also lowers its\nSpeed EVs to 0.
 In the Sinnoh region, they like to make\nsweets known as Poffins with this Berry\nand feed them to their Pokémon.
 In the Sinnoh region, they like to make\nsweets known as Poffins with this Berry\nand feed them to their Pokémon.
 In the Sinnoh region, they like to make\nsweets known as Poffins with this Berry\nand feed them to their Pokémon.
