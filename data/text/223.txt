@@ -43,14 +43,14 @@ a {COLOR 255}Max Elixir{COLOR 0}
 a {COLOR 255}Lava Cookie{COLOR 0}
 a {COLOR 255}Berry Juice{COLOR 0}
 a {COLOR 255}Sacred Ash{COLOR 0}
-an {COLOR 255}HP Up{COLOR 0}
-a {COLOR 255}Protein{COLOR 0}
-an {COLOR 255}Iron{COLOR 0}
-a {COLOR 255}Carbos{COLOR 0}
-a {COLOR 255}Calcium{COLOR 0}
+an {COLOR 255}Max HP Up{COLOR 0}
+a {COLOR 255}Max Protein{COLOR 0}
+a {COLOR 255}Max Iron{COLOR 0}
+a {COLOR 255}Max Carbos{COLOR 0}
+a {COLOR 255}Max Calcium{COLOR 0}
 a {COLOR 255}Rare Candy{COLOR 0}
 a {COLOR 255}PP Up{COLOR 0}
-a {COLOR 255}Zinc{COLOR 0}
+a {COLOR 255}Max Zinc{COLOR 0}
 a {COLOR 255}PP Max{COLOR 0}
 an {COLOR 255}Old Gateau{COLOR 0}
 a {COLOR 255}Guard Spec.{COLOR 0}

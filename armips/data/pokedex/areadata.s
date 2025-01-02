@@ -891,14 +891,10 @@ routesandcities SPECIES_BEEDRILL, DEX_SPECIAL
 
 
 specialareas SPECIES_PIDGEY, DEX_MORNING
-    .word DEX_NATIONAL_PARK
-    .word DEX_VIRIDIAN_FOREST
     dexendareadata
 
 
 specialareas SPECIES_PIDGEY, DEX_DAY
-    .word DEX_NATIONAL_PARK
-    .word DEX_VIRIDIAN_FOREST
     dexendareadata
 
 
@@ -907,34 +903,10 @@ specialareas SPECIES_PIDGEY, DEX_NIGHT
 
 
 routesandcities SPECIES_PIDGEY, DEX_MORNING
-    .word DEX_ROUTE_29
-    .word DEX_ROUTE_30
-    .word DEX_ROUTE_31
-    .word DEX_ROUTE_35
-    .word DEX_ROUTE_36
-    .word DEX_ROUTE_37
-    .word DEX_ROUTE_1
-    .word DEX_ROUTE_2
-    .word DEX_ROUTE_5
-    .word DEX_ROUTE_6
-    .word DEX_ROUTE_25
-    .word DEX_ROUTE_2_2
     dexendareadata
 
 
 routesandcities SPECIES_PIDGEY, DEX_DAY
-    .word DEX_ROUTE_29
-    .word DEX_ROUTE_30
-    .word DEX_ROUTE_31
-    .word DEX_ROUTE_35
-    .word DEX_ROUTE_36
-    .word DEX_ROUTE_37
-    .word DEX_ROUTE_1
-    .word DEX_ROUTE_2
-    .word DEX_ROUTE_5
-    .word DEX_ROUTE_6
-    .word DEX_ROUTE_25
-    .word DEX_ROUTE_2_2
     dexendareadata
 
 
@@ -30579,35 +30551,39 @@ routesandcities SPECIES_ORBEETLE, DEX_SPECIAL
 
 
 specialareas SPECIES_NICKIT, DEX_MORNING
-    .word DEX_ROUTE_29
-    .word DEX_ROUTE_46
-    .word DEX_SPROUT_TOWER
     dexendareadata
 
 
 specialareas SPECIES_NICKIT, DEX_DAY
-    .word DEX_ROUTE_29
-    .word DEX_ROUTE_46
-    .word DEX_SPROUT_TOWER
     dexendareadata
 
 
 specialareas SPECIES_NICKIT, DEX_NIGHT
-    .word DEX_ROUTE_29
-    .word DEX_ROUTE_46
-    .word DEX_SPROUT_TOWER
+
     dexendareadata
 
 
 routesandcities SPECIES_NICKIT, DEX_MORNING
+    .word DEX_ROUTE_29
+    .word DEX_ROUTE_46
+    .word DEX_SPROUT_TOWER
+    .word DEX_BURNED_TOWER
     dexendareadata
 
 
 routesandcities SPECIES_NICKIT, DEX_DAY
+    .word DEX_ROUTE_29
+    .word DEX_ROUTE_46
+    .word DEX_SPROUT_TOWER
+    .word DEX_BURNED_TOWER
     dexendareadata
 
 
 routesandcities SPECIES_NICKIT, DEX_NIGHT
+    .word DEX_ROUTE_29
+    .word DEX_ROUTE_46
+    .word DEX_SPROUT_TOWER
+    .word DEX_BURNED_TOWER
     dexendareadata
 
 

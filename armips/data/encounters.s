@@ -2630,7 +2630,7 @@ pokemon SPECIES_STUNKY
 pokemon SPECIES_STUNKY
 pokemon SPECIES_IMPIDIMP
 pokemon SPECIES_STANTLER
-pokemon SPECIES_STANTLER
+monwithform SPECIES_VULPIX, 1 // alolan form
 
 // day encounter slots
 pokemon SPECIES_VULPIX
@@ -2734,7 +2734,7 @@ pokemon SPECIES_VULPIX
 pokemon SPECIES_GIRAFARIG
 monwithform SPECIES_ORICORIO, 3 // sensu Oricorio
 pokemon SPECIES_GIRAFARIG
-monwithform SPECIES_ORICORIO, 3 // sensu Oricorio
+monwithform SPECIES_VULPIX, 1 // alolan form
 
 // day encounter slots
 pokemon SPECIES_VULPIX
@@ -9067,8 +9067,8 @@ superrodrate 75
 walklevels 60, 60, 60, 60, 60, 60, 60, 60, 60, 60, 60, 60
 
 // morning encounter slots
-pokemon SPECIES_ONIX
-pokemon SPECIES_LAIRON
+monwithform SPECIES_VULPIX, 1 // alolan
+monwithform SPECIES_SANDSHREW, 1 // alolan
 pokemon SPECIES_PUPITAR
 pokemon SPECIES_DONPHAN
 pokemon SPECIES_PUPITAR
@@ -9081,8 +9081,8 @@ pokemon SPECIES_STEELIX
 pokemon SPECIES_AGGRON
 
 // day encounter slots
-pokemon SPECIES_ONIX
-pokemon SPECIES_LAIRON
+monwithform SPECIES_VULPIX, 1 // alolan
+monwithform SPECIES_SANDSHREW, 1 // alolan
 pokemon SPECIES_PUPITAR
 pokemon SPECIES_DONPHAN
 pokemon SPECIES_PUPITAR
@@ -9095,8 +9095,8 @@ pokemon SPECIES_STEELIX
 pokemon SPECIES_AGGRON
 
 // night encounter slots
-pokemon SPECIES_ONIX
-pokemon SPECIES_LAIRON
+monwithform SPECIES_VULPIX, 1 // alolan
+monwithform SPECIES_SANDSHREW, 1 // alolan
 pokemon SPECIES_PUPITAR
 pokemon SPECIES_DONPHAN
 pokemon SPECIES_PUPITAR
@@ -9275,46 +9275,46 @@ superrodrate 75
 walklevels 60, 60, 60, 60, 60, 60, 60, 60, 60, 60, 60, 60
 
 // morning encounter slots
-pokemon SPECIES_ONIX
-pokemon SPECIES_LAIRON
-pokemon SPECIES_PUPITAR
-pokemon SPECIES_DONPHAN
-pokemon SPECIES_PUPITAR
-pokemon SPECIES_DONPHAN
-pokemon SPECIES_CROBAT
-pokemon SPECIES_CROBAT
-pokemon SPECIES_STEELIX
-pokemon SPECIES_AGGRON
-pokemon SPECIES_STEELIX
-pokemon SPECIES_AGGRON
+monwithform SPECIES_VULPIX, 1 // alolan
+monwithform SPECIES_SANDSHREW, 1 // alolan
+monwithform SPECIES_VULPIX, 1 // alolan
+monwithform SPECIES_SANDSHREW, 1 // alolan
+monwithform SPECIES_VULPIX, 1 // alolan
+monwithform SPECIES_SANDSHREW, 1 // alolan
+pokemon SPECIES_MAMOSWINE
+pokemon SPECIES_WEAVILE
+pokemon SPECIES_MAMOSWINE
+pokemon SPECIES_WEAVILE
+pokemon SPECIES_MAMOSWINE
+pokemon SPECIES_WEAVILE
 
 // day encounter slots
-pokemon SPECIES_ONIX
-pokemon SPECIES_LAIRON
-pokemon SPECIES_PUPITAR
-pokemon SPECIES_DONPHAN
-pokemon SPECIES_PUPITAR
-pokemon SPECIES_DONPHAN
-pokemon SPECIES_CROBAT
-pokemon SPECIES_CROBAT
-pokemon SPECIES_STEELIX
-pokemon SPECIES_AGGRON
-pokemon SPECIES_STEELIX
-pokemon SPECIES_AGGRON
+monwithform SPECIES_VULPIX, 1 // alolan
+monwithform SPECIES_SANDSHREW, 1 // alolan
+monwithform SPECIES_VULPIX, 1 // alolan
+monwithform SPECIES_SANDSHREW, 1 // alolan
+monwithform SPECIES_VULPIX, 1 // alolan
+monwithform SPECIES_SANDSHREW, 1 // alolan
+pokemon SPECIES_MAMOSWINE
+pokemon SPECIES_WEAVILE
+pokemon SPECIES_MAMOSWINE
+pokemon SPECIES_WEAVILE
+pokemon SPECIES_MAMOSWINE
+pokemon SPECIES_WEAVILE
 
 // night encounter slots
-pokemon SPECIES_ONIX
-pokemon SPECIES_LAIRON
-pokemon SPECIES_PUPITAR
-pokemon SPECIES_DONPHAN
-pokemon SPECIES_PUPITAR
-pokemon SPECIES_DONPHAN
-pokemon SPECIES_CROBAT
-pokemon SPECIES_CROBAT
-pokemon SPECIES_STEELIX
-pokemon SPECIES_AGGRON
-pokemon SPECIES_STEELIX
-pokemon SPECIES_AGGRON
+monwithform SPECIES_VULPIX, 1 // alolan
+monwithform SPECIES_SANDSHREW, 1 // alolan
+monwithform SPECIES_VULPIX, 1 // alolan
+monwithform SPECIES_SANDSHREW, 1 // alolan
+monwithform SPECIES_VULPIX, 1 // alolan
+monwithform SPECIES_SANDSHREW, 1 // alolan
+pokemon SPECIES_MAMOSWINE
+pokemon SPECIES_WEAVILE
+pokemon SPECIES_MAMOSWINE
+pokemon SPECIES_WEAVILE
+pokemon SPECIES_MAMOSWINE
+pokemon SPECIES_WEAVILE
 
 // hoenn encounter slots
 pokemon SPECIES_SABLEYE
@@ -12093,7 +12093,7 @@ pokemon SPECIES_MINCCINO
 pokemon SPECIES_MINCCINO
 pokemon SPECIES_PANGORO
 pokemon SPECIES_PSYDUCK
-pokemon SPECIES_DUCKLETT
+monwithform SPECIES_VULPIX, 1 // alolan form
 
 // day encounter slots
 pokemon SPECIES_VULPIX
@@ -12301,7 +12301,7 @@ pokemon SPECIES_NINETALES
 pokemon SPECIES_CHANDELURE
 pokemon SPECIES_NINETALES
 pokemon SPECIES_GRIMMSNARL
-pokemon SPECIES_CHANDELURE
+monwithform SPECIES_VULPIX, 1 // alolan form
 
 // day encounter slots
 pokemon SPECIES_VULPIX
@@ -13548,8 +13548,8 @@ pokemon SPECIES_POLITOED
 pokemon SPECIES_POLIWRATH
 pokemon SPECIES_STUNFISK
 pokemon SPECIES_YANMEGA
-pokemon SPECIES_BIDOOF
-pokemon SPECIES_BIDOOF
+pokemon SPECIES_COMFEY
+pokemon SPECIES_COMFEY
 
 // day encounter slots
 pokemon SPECIES_SUNFLORA
@@ -13562,8 +13562,8 @@ pokemon SPECIES_POLITOED
 pokemon SPECIES_POLIWRATH
 pokemon SPECIES_STUNFISK
 pokemon SPECIES_YANMEGA
-pokemon SPECIES_BIDOOF
-pokemon SPECIES_BIDOOF
+pokemon SPECIES_COMFEY
+pokemon SPECIES_COMFEY
 
 // night encounter slots
 pokemon SPECIES_ARIADOS
@@ -13576,8 +13576,8 @@ pokemon SPECIES_POLITOED
 pokemon SPECIES_POLIWRATH
 pokemon SPECIES_STUNFISK
 pokemon SPECIES_YANMEGA
-pokemon SPECIES_BIDOOF
-pokemon SPECIES_BIDOOF
+pokemon SPECIES_DRIFLOON
+pokemon SPECIES_DRIFLOON
 
 // hoenn encounter slots
 pokemon SPECIES_PSYDUCK

@@ -6410,7 +6410,7 @@ mondata SPECIES_ARON, "Aron"
     basefriendship 35
     growthrate GROWTH_SLOW
     egggroups EGG_GROUP_MONSTER, EGG_GROUP_MONSTER
-    abilities ABILITY_EARTH_EATER, ABILITY_ROCK_HEAD
+    abilities ABILITY_HUSTLE, ABILITY_ROCK_HEAD
     runchance 0
     colorflip BODY_COLOR_GRAY, 0
     mondexentry SPECIES_ARON, "When it evolves, it sheds the steel\ncarapace that covered its whole body\nand develops a new one."
