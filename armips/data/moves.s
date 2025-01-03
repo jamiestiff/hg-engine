@@ -12459,16 +12459,16 @@ movedata MOVE_MAX_STEELSPIKE, "Max Steelspike"
     movedescription MOVE_MAX_STEELSPIKE, "---"
 
 movedata MOVE_CLANGOROUS_SOUL, "Clangorous Soul"
-    battleeffect MOVE_EFFECT_HIT
-    pss SPLIT_STATUS
-    basepower 0
+    battleeffect MOVE_EFFECT_RAISE_ALL_STATS_HIT
+    pss SPLIT_SPECIAL
+    basepower 20
     type TYPE_DRAGON
     accuracy 100
     pp 5
     effectchance 100
-    target MOVE_TARGET_USER
+    target MOVE_TARGET_BOTH
     priority 0
-    flags FLAG_MIRROR_MOVE | FLAG_PROTECT | FLAG_MAGIC_COAT
+    flags FLAG_KEEP_HP_BAR | FLAG_PROTECT | FLAG_MIRROR_MOVE | FLAG_KINGS_ROCK
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata

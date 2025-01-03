@@ -2938,7 +2938,7 @@ const ITEMDATA __data[] =
 
 [ITEM_HP_UP] =
 {
-    .price = 9999,
+    .price = 2560,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -3003,7 +3003,7 @@ const ITEMDATA __data[] =
 
 [ITEM_PROTEIN] =
 {
-    .price = 9999,
+    .price = 2560,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -3053,7 +3053,7 @@ const ITEMDATA __data[] =
         .friendship_mod_med = TRUE,
         .friendship_mod_hi = TRUE,
         .hp_ev_up_param = 0,
-        .atk_ev_up_param = 252,
+        .atk_ev_up_param = 64,
         .def_ev_up_param = 0,
         .speed_ev_up_param = 0,
         .spatk_ev_up_param = 0,
@@ -3068,7 +3068,7 @@ const ITEMDATA __data[] =
 
 [ITEM_IRON] =
 {
-    .price = 9999,
+    .price = 2560,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -3119,7 +3119,7 @@ const ITEMDATA __data[] =
         .friendship_mod_hi = TRUE,
         .hp_ev_up_param = 0,
         .atk_ev_up_param = 0,
-        .def_ev_up_param = 252,
+        .def_ev_up_param = 64,
         .speed_ev_up_param = 0,
         .spatk_ev_up_param = 0,
         .spdef_ev_up_param = 0,
@@ -3133,7 +3133,7 @@ const ITEMDATA __data[] =
 
 [ITEM_CARBOS] =
 {
-    .price = 9999,
+    .price = 2560,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -3185,7 +3185,7 @@ const ITEMDATA __data[] =
         .hp_ev_up_param = 0,
         .atk_ev_up_param = 0,
         .def_ev_up_param = 0,
-        .speed_ev_up_param = 252,
+        .speed_ev_up_param = 64,
         .spatk_ev_up_param = 0,
         .spdef_ev_up_param = 0,
         .hp_restore_param = 0,
@@ -3198,7 +3198,7 @@ const ITEMDATA __data[] =
 
 [ITEM_CALCIUM] =
 {
-    .price = 9999,
+    .price = 2560,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -3251,7 +3251,7 @@ const ITEMDATA __data[] =
         .atk_ev_up_param = 0,
         .def_ev_up_param = 0,
         .speed_ev_up_param = 0,
-        .spatk_ev_up_param = 252,
+        .spatk_ev_up_param = 64,
         .spdef_ev_up_param = 0,
         .hp_restore_param = 0,
         .pp_restore_param = 0,
@@ -3393,7 +3393,7 @@ const ITEMDATA __data[] =
 
 [ITEM_ZINC] =
 {
-    .price = 9999,
+    .price = 2560,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,
@@ -3447,7 +3447,7 @@ const ITEMDATA __data[] =
         .def_ev_up_param = 0,
         .speed_ev_up_param = 0,
         .spatk_ev_up_param = 0,
-        .spdef_ev_up_param = 252,
+        .spdef_ev_up_param = 64,
         .hp_restore_param = 0,
         .pp_restore_param = 0,
         .friendship_mod_lo_param =  5,

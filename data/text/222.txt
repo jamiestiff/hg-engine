@@ -43,14 +43,14 @@ Max Elixir
 Lava Cookie
 Berry Juice
 Sacred Ash
-Max HP Up
-Max Protein
-Max Iron
-Max Carbos
-Max Calcium
+HP Up +
+Protein +
+Iron +
+Carbos +
+Calcium +
 Rare Candy
 PP Up
-Max Zinc
+Zinc +
 PP Max
 Old Gateau
 Guard Spec.

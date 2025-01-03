@@ -207,7 +207,7 @@
 /* SPECIES_MURKROW         */ .halfword 105
 /* SPECIES_SLOWKING        */ .halfword 83
 /* SPECIES_MISDREAVUS      */ .halfword 68
-/* SPECIES_UNOWN           */ .halfword 52
+/* SPECIES_UNOWN           */ .halfword 74
 /* SPECIES_WOBBUFFET       */ .halfword 61
 /* SPECIES_GIRAFARIG       */ .halfword 190
 /* SPECIES_PINECO          */ .halfword 97
@@ -357,7 +357,7 @@
 /* SPECIES_ARMALDO         */ .halfword 0
 /* SPECIES_FEEBAS          */ .halfword 0
 /* SPECIES_MILOTIC         */ .halfword 0
-/* SPECIES_CASTFORM        */ .halfword 0
+/* SPECIES_CASTFORM        */ .halfword 75
 /* SPECIES_KECLEON         */ .halfword 0
 /* SPECIES_SHUPPET         */ .halfword 0
 /* SPECIES_BANETTE         */ .halfword 0
@@ -1005,8 +1005,8 @@
 /* SPECIES_GRAFAIAI        */ .halfword 0
 /* SPECIES_BRAMBLIN        */ .halfword 0
 /* SPECIES_BRAMBLEGHAST    */ .halfword 0
-/* SPECIES_TOEDSCOOL       */ .halfword 74
-/* SPECIES_TOEDSCRUEL      */ .halfword 75
+/* SPECIES_TOEDSCOOL       */ .halfword 0
+/* SPECIES_TOEDSCRUEL      */ .halfword 0
 /* SPECIES_KLAWF           */ .halfword 192
 /* SPECIES_CAPSAKID        */ .halfword 0
 /* SPECIES_SCOVILLAIN      */ .halfword 0
@@ -1037,7 +1037,7 @@
 /* SPECIES_DONDOZO         */ .halfword 0
 /* SPECIES_TATSUGIRI       */ .halfword 0
 /* SPECIES_ANNIHILAPE      */ .halfword 0
-/* SPECIES_CLODSIRE        */ .halfword 0
+/* SPECIES_CLODSIRE        */ .halfword 52
 /* SPECIES_FARIGIRAF       */ .halfword 191
 /* SPECIES_DUDUNSPARCE     */ .halfword 54
 /* SPECIES_KINGAMBIT       */ .halfword 0

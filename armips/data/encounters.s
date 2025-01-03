@@ -1784,49 +1784,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 7, 7, 8, 8, 8, 7, 8, 6, 7, 5, 6, 7
+walklevels 7, 7, 8, 8, 8, 7, 8, 6, 6, 5, 7, 6
 
 // morning encounter slots
 pokemon SPECIES_CROAGUNK
-pokemon SPECIES_TOEDSCOOL
+monwithform SPECIES_WOOPER, 1 // paldean wooper
 pokemon SPECIES_SURSKIT
-pokemon SPECIES_WOOPER
-pokemon SPECIES_TOEDSCOOL
+monwithform SPECIES_WOOPER, 1 // paldean wooper
+monwithform SPECIES_WOOPER, 1 // paldean wooper
 pokemon SPECIES_SURSKIT
 pokemon SPECIES_SURSKIT
 pokemon SPECIES_POLIWAG
-pokemon SPECIES_POLIWAG
 pokemon SPECIES_GOOMY
+pokemon SPECIES_CASTFORM
 pokemon SPECIES_GOOMY
-pokemon SPECIES_WOOPER
+pokemon SPECIES_CASTFORM
 
 // day encounter slots
 pokemon SPECIES_CROAGUNK
-pokemon SPECIES_TOEDSCOOL
+pokemon SPECIES_SURSKIT
 pokemon SPECIES_SURSKIT
 pokemon SPECIES_SURSKIT
 pokemon SPECIES_POLIWAG
 pokemon SPECIES_CROAGUNK
-pokemon SPECIES_TOEDSCOOL
-pokemon SPECIES_TOEDSCOOL
-pokemon SPECIES_CROAGUNK
+monwithform SPECIES_WOOPER, 1 // paldean wooper
+monwithform SPECIES_WOOPER, 1 // paldean wooper
 pokemon SPECIES_GOOMY
+pokemon SPECIES_CASTFORM
 pokemon SPECIES_GOOMY
-pokemon SPECIES_POLIWAG
+pokemon SPECIES_CASTFORM
 
 // night encounter slots
 pokemon SPECIES_CROAGUNK
-pokemon SPECIES_TOEDSCOOL
-pokemon SPECIES_WOOPER
-pokemon SPECIES_WOOPER
-pokemon SPECIES_WOOPER
+monwithform SPECIES_WOOPER, 1 // paldean wooper
 pokemon SPECIES_CROAGUNK
-pokemon SPECIES_TOEDSCOOL
-pokemon SPECIES_TOEDSCOOL
+monwithform SPECIES_WOOPER, 1 // paldean wooper
+monwithform SPECIES_WOOPER, 1 // paldean wooper
 pokemon SPECIES_CROAGUNK
-pokemon SPECIES_GOOMY
-pokemon SPECIES_GOOMY
 pokemon SPECIES_POLIWAG
+pokemon SPECIES_POLIWAG
+pokemon SPECIES_GOOMY
+pokemon SPECIES_CASTFORM
+pokemon SPECIES_GOOMY
+pokemon SPECIES_CASTFORM
 
 // hoenn encounter slots
 pokemon SPECIES_VOLBEAT
@@ -5957,7 +5957,7 @@ pokemon SPECIES_GOOMY
 pokemon SPECIES_FLAMIGO
 pokemon SPECIES_LEDIAN
 monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
-monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
+pokemon SPECIES_CASTFORM
 pokemon SPECIES_DRAMPA
 
 // day encounter slots
@@ -5965,12 +5965,12 @@ pokemon SPECIES_FLAAFFY
 pokemon SPECIES_GIRAFARIG
 pokemon SPECIES_FLAAFFY
 pokemon SPECIES_GIRAFARIG
-pokemon SPECIES_INKAY
+pokemon SPECIES_CASTFORM
 pokemon SPECIES_FLAMIGO
 pokemon SPECIES_GOOMY
 pokemon SPECIES_FLAMIGO
-pokemon SPECIES_FURRET
-monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
+pokemon SPECIES_CASTFORM
+pokemon SPECIES_CASTFORM
 pokemon SPECIES_DRAMPA
 pokemon SPECIES_DRAMPA
 
@@ -5983,9 +5983,9 @@ pokemon SPECIES_INKAY
 pokemon SPECIES_FLAMIGO
 pokemon SPECIES_GOOMY
 pokemon SPECIES_FLAMIGO
-pokemon SPECIES_FURRET
-pokemon SPECIES_DRAMPA
+pokemon SPECIES_CASTFORM
 monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
+pokemon SPECIES_DRAMPA
 pokemon SPECIES_DRAMPA
 
 // hoenn encounter slots
@@ -6156,7 +6156,7 @@ walklevels 30, 31, 31, 32, 30, 31, 32, 32, 32, 31, 34, 32
 
 // morning encounter slots
 pokemon SPECIES_INKAY
-pokemon SPECIES_WEEPINBELL
+pokemon SPECIES_CASTFORM
 pokemon SPECIES_SNORUNT
 pokemon SPECIES_SNORUNT
 pokemon SPECIES_SWINUB
@@ -6165,12 +6165,12 @@ pokemon SPECIES_SWINUB
 pokemon SPECIES_STUNFISK
 monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
 pokemon SPECIES_DRAMPA
-pokemon SPECIES_VICTREEBEL
+pokemon SPECIES_CASTFORM
 pokemon SPECIES_DRAMPA
 
 // day encounter slots
 pokemon SPECIES_INKAY
-pokemon SPECIES_WEEPINBELL
+pokemon SPECIES_CASTFORM
 pokemon SPECIES_SNORUNT
 pokemon SPECIES_SNORUNT
 pokemon SPECIES_SWINUB
@@ -6179,12 +6179,12 @@ pokemon SPECIES_SWINUB
 pokemon SPECIES_STUNFISK
 monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
 pokemon SPECIES_DRAMPA
-pokemon SPECIES_VICTREEBEL
+pokemon SPECIES_CASTFORM
 pokemon SPECIES_DRAMPA
 
 // night encounter slots
 pokemon SPECIES_INKAY
-pokemon SPECIES_WEEPINBELL
+pokemon SPECIES_CASTFORM
 pokemon SPECIES_SNORUNT
 pokemon SPECIES_SNORUNT
 pokemon SPECIES_SWINUB
@@ -6193,7 +6193,7 @@ pokemon SPECIES_SWINUB
 pokemon SPECIES_STUNFISK
 monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
 pokemon SPECIES_DRAMPA
-pokemon SPECIES_VICTREEBEL
+pokemon SPECIES_CASTFORM
 pokemon SPECIES_DRAMPA
 
 // hoenn encounter slots
@@ -12914,9 +12914,9 @@ superrodrate 0
 walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
 
 // morning encounter slots
-pokemon SPECIES_TOEDSCOOL
+monwithform SPECIES_WOOPER, 1 // paldean wooper
 pokemon SPECIES_STUNKY
-pokemon SPECIES_TOEDSCRUEL
+pokemon SPECIES_CLODSIRE
 pokemon SPECIES_SKUNTANK
 pokemon SPECIES_INKAY
 pokemon SPECIES_INKAY
@@ -12924,13 +12924,13 @@ pokemon SPECIES_MALAMAR
 pokemon SPECIES_MALAMAR
 pokemon SPECIES_MALAMAR
 pokemon SPECIES_MALAMAR
-pokemon SPECIES_TOEDSCRUEL
+pokemon SPECIES_CLODSIRE
 pokemon SPECIES_SKUNTANK
 
 // day encounter slots
-pokemon SPECIES_TOEDSCOOL
+monwithform SPECIES_WOOPER, 1 // paldean wooper
 pokemon SPECIES_STUNKY
-pokemon SPECIES_TOEDSCRUEL
+pokemon SPECIES_CLODSIRE
 pokemon SPECIES_SKUNTANK
 pokemon SPECIES_INKAY
 pokemon SPECIES_INKAY
@@ -12938,21 +12938,21 @@ pokemon SPECIES_MALAMAR
 pokemon SPECIES_MALAMAR
 pokemon SPECIES_MALAMAR
 pokemon SPECIES_MALAMAR
-pokemon SPECIES_TOEDSCRUEL
+pokemon SPECIES_CLODSIRE
 pokemon SPECIES_SKUNTANK
 
 // night encounter slots
-pokemon SPECIES_TOEDSCOOL
+monwithform SPECIES_WOOPER, 1 // paldean wooper
 pokemon SPECIES_STUNKY
-pokemon SPECIES_TOEDSCRUEL
+pokemon SPECIES_CLODSIRE
 pokemon SPECIES_SKUNTANK
 pokemon SPECIES_INKAY
 pokemon SPECIES_INKAY
-pokemon SPECIES_QUAGSIRE
-pokemon SPECIES_QUAGSIRE
 pokemon SPECIES_MALAMAR
 pokemon SPECIES_MALAMAR
-pokemon SPECIES_TOEDSCRUEL
+pokemon SPECIES_MALAMAR
+pokemon SPECIES_MALAMAR
+pokemon SPECIES_CLODSIRE
 pokemon SPECIES_SKUNTANK
 
 // hoenn encounter slots
@@ -12996,7 +12996,7 @@ encounter SPECIES_NONE, 0, 0
 encounter SPECIES_NONE, 0, 0
 
 // swarm grass
-pokemon SPECIES_TOEDSCRUEL
+pokemon SPECIES_CLODSIRE
 // swarm surf
 pokemon SPECIES_NONE
 // swarm good rod

@@ -4100,7 +4100,7 @@ mondata SPECIES_WOOPER, "Wooper"
     basefriendship 50
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_WATER_1, EGG_GROUP_FIELD
-    abilities ABILITY_POISON_HEAL, ABILITY_WATER_ABSORB
+    abilities ABILITY_UNAWARE, ABILITY_WATER_ABSORB
     runchance 0
     colorflip BODY_COLOR_BLUE, 0
     mondexentry SPECIES_WOOPER, "This Pokémon lives in cold water.\nIt will leave the water to search\nfor food when it gets cold outside."
@@ -4121,7 +4121,7 @@ mondata SPECIES_QUAGSIRE, "Quagsire"
     basefriendship 50
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_WATER_1, EGG_GROUP_FIELD
-    abilities ABILITY_POISON_HEAL, ABILITY_WATER_ABSORB
+    abilities ABILITY_UNAWARE, ABILITY_WATER_ABSORB
     runchance 0
     colorflip BODY_COLOR_BLUE, 0
     mondexentry SPECIES_QUAGSIRE, "This carefree Pokémon has an\neasy-going nature. While swimming,\nit always bumps into boat hulls."
@@ -8639,7 +8639,7 @@ mondata SPECIES_SHIELDON, "Shieldon"
     abilities ABILITY_STRONG_JAW, ABILITY_ROCK_HEAD
     runchance 0
     colorflip BODY_COLOR_BROWN, 0
-    mondexentry SPECIES_SHIELDON, "A selfish Pokémon, Tyrunt likes being\npampered and doted on by their Trainers.\nTyrunt tantrums are often lethal."
+    mondexentry SPECIES_SHIELDON, "A selfish Pokémon, Tyrunt likes being\npampered and doted on by its Trainer.\nTyrunt tantrums are often lethal."
     mondexclassification SPECIES_SHIELDON, "Royal Heir Pokémon"
     mondexheight SPECIES_SHIELDON, "2’07”"
     mondexweight SPECIES_SHIELDON, "57.3 lbs."
@@ -15506,7 +15506,7 @@ mondata SPECIES_MALAMAR, "Malamar"
     abilities ABILITY_CONTRARY, ABILITY_SUCTION_CUPS
     runchance 0
     colorflip BODY_COLOR_BLUE, 0
-    mondexentry SPECIES_MALAMAR, "It’s said that Malamar’s hypnotic powers\nplayed a role in certain\nhistory-changing events."
+    mondexentry SPECIES_MALAMAR, "It’s said that Malamar’s hypnotic\npowers played a role in certain\nhistory-changing events."
     mondexclassification SPECIES_MALAMAR, "Overturning Pokémon"
     mondexheight SPECIES_MALAMAR, "4’11”"
     mondexweight SPECIES_MALAMAR, "103.6 lbs."
@@ -15569,7 +15569,7 @@ mondata SPECIES_SKRELP, "Skrelp"
     abilities ABILITY_ADAPTABILITY, ABILITY_POISON_TOUCH
     runchance 0
     colorflip BODY_COLOR_BROWN, 0
-    mondexentry SPECIES_SKRELP, "It looks just like rotten kelp. It hides\nfrom foes while storing up power for\nits evolution."
+    mondexentry SPECIES_SKRELP, "It looks just like rotten kelp.\nIt hides from foes while storing up\npower for its evolution."
     mondexclassification SPECIES_SKRELP, "Mock Kelp Pokémon"
     mondexheight SPECIES_SKRELP, "1’08”"
     mondexweight SPECIES_SKRELP, "16.1 lbs."
@@ -15590,7 +15590,7 @@ mondata SPECIES_DRAGALGE, "Dragalge"
     abilities ABILITY_ADAPTABILITY, ABILITY_POISON_TOUCH
     runchance 0
     colorflip BODY_COLOR_BROWN, 0
-    mondexentry SPECIES_DRAGALGE, "Tales are told of ships that wander\ninto seas where Dragalge live, never to\nreturn to port."
+    mondexentry SPECIES_DRAGALGE, "Tales are told of ships that wander\ninto seas where Dragalge live,\nnever to return to port."
     mondexclassification SPECIES_DRAGALGE, "Mock Kelp Pokémon"
     mondexheight SPECIES_DRAGALGE, "5’11”"
     mondexweight SPECIES_DRAGALGE, "179.7 lbs."
@@ -15695,7 +15695,7 @@ mondata SPECIES_TYRUNT, "Tyrunt"
     abilities ABILITY_STRONG_JAW, ABILITY_ROCK_HEAD
     runchance 0
     colorflip BODY_COLOR_BROWN, 0
-    mondexentry SPECIES_TYRUNT, "This Pokémon is selfish and likes to be pampered.\nIt can also inflict grievous wounds on its Trainer\njust by playing around."
+    mondexentry SPECIES_TYRUNT, "A selfish Pokémon, Tyrunt likes being\npampered and doted on by its Trainer.\nTyrunt tantrums are often lethal."
     mondexclassification SPECIES_TYRUNT, "Royal Heir Pokémon"
     mondexheight SPECIES_TYRUNT, "2’07”"
     mondexweight SPECIES_TYRUNT, "57.3 lbs."
@@ -15716,7 +15716,7 @@ mondata SPECIES_TYRANTRUM, "Tyrantrum"
     abilities ABILITY_STRONG_JAW, ABILITY_ROCK_HEAD
     runchance 0
     colorflip BODY_COLOR_RED, 0
-    mondexentry SPECIES_TYRANTRUM, "A single bite of Tyrantrum’s massive jaws will\ndemolish a car. This Pokémon was the king of the\nancient world."
+    mondexentry SPECIES_TYRANTRUM, "A single bite of Tyrantrum’s massive\njaws will demolish a car. This Pokémon\nwas the king of the ancient world."
     mondexclassification SPECIES_TYRANTRUM, "Despot Pokémon"
     mondexheight SPECIES_TYRANTRUM, "8’02”"
     mondexweight SPECIES_TYRANTRUM, "595.2 lbs."
@@ -15737,7 +15737,7 @@ mondata SPECIES_AMAURA, "Amaura"
     abilities ABILITY_REFRIGERATE, ABILITY_SNOW_WARNING
     runchance 0
     colorflip BODY_COLOR_BLUE, 0
-    mondexentry SPECIES_AMAURA, "Amaura is an ancient Pokémon that has gone\nextinct. Specimens of this species can sometimes\nbe found frozen in ice."
+    mondexentry SPECIES_AMAURA, "It lived in cold areas in ancient times.\nIt's said that when Amaura whinnies,\nauroras appear in the night sky."
     mondexclassification SPECIES_AMAURA, "Tundra Pokémon"
     mondexheight SPECIES_AMAURA, "4’03”"
     mondexweight SPECIES_AMAURA, "55.6 lbs."
@@ -15758,7 +15758,7 @@ mondata SPECIES_AURORUS, "Aurorus"
     abilities ABILITY_REFRIGERATE, ABILITY_SNOW_WARNING
     runchance 0
     colorflip BODY_COLOR_BLUE, 0
-    mondexentry SPECIES_AURORUS, "When gripped by rage, Aurorus will emanate\nfreezing air, covering everything around it in ice."
+    mondexentry SPECIES_AURORUS, "When gripped by rage, Aurorus will\nemanate freezing air, covering\neverything around it in ice."
     mondexclassification SPECIES_AURORUS, "Tundra Pokémon"
     mondexheight SPECIES_AURORUS, "8’10”"
     mondexweight SPECIES_AURORUS, "496.0 lbs."
@@ -19958,7 +19958,7 @@ mondata SPECIES_WYRDEER, "Wyrdeer"
     abilities ABILITY_SNOW_CLOAK, ABILITY_SAP_SIPPER
     runchance 0
     colorflip BODY_COLOR_GRAY, 0
-    mondexentry SPECIES_WYRDEER, "The black orbs shine with an uncanny light when the Pokémon is\nerecting invisible barriers. The fur shed from its beard retains\nheat well and is a highly useful material for winter clothing."
+    mondexentry SPECIES_WYRDEER, "Its elegant white fur retains heat well.\nWyrdeer fur was once highly-prized\nas a material for winter clothing."
     mondexclassification SPECIES_WYRDEER, "Big Horn Pokémon"
     mondexheight SPECIES_WYRDEER, "5’11”"
     mondexweight SPECIES_WYRDEER, "209.7 lbs."
@@ -19979,7 +19979,7 @@ mondata SPECIES_KLEAVOR, "Kleavor"
     abilities ABILITY_SWARM, ABILITY_SHEER_FORCE
     runchance 0
     colorflip BODY_COLOR_BROWN, 0
-    mondexentry SPECIES_KLEAVOR, "A violent creature that fells towering trees with its crude axes\nand shields itself with hard stone. If one should chance upon\nthis Pokémon in the wilds, one's only recourse is to flee."
+    mondexentry SPECIES_KLEAVOR, "A violent creature that fells\ntowering trees with its crude axes\nand shields itself with hard stone."
     mondexclassification SPECIES_KLEAVOR, "Axe Pokémon"
     mondexheight SPECIES_KLEAVOR, "5’11”"
     mondexweight SPECIES_KLEAVOR, "196.2 lbs."
@@ -20000,7 +20000,7 @@ mondata SPECIES_URSALUNA, "Ursaluna"
     abilities ABILITY_GUTS, ABILITY_BULLETPROOF
     runchance 0
     colorflip BODY_COLOR_BROWN, 0
-    mondexentry SPECIES_URSALUNA, "I believe it was Hisui's swampy terrain that gave Ursaluna its\nburly physique and newfound capacity to manipulate peat\nat will."
+    mondexentry SPECIES_URSALUNA, "Ursaluna's burly physique comes from its\nspecialised diet of peat moss. It is\nat its strongest under a full moon."
     mondexclassification SPECIES_URSALUNA, "Peat Pokémon"
     mondexheight SPECIES_URSALUNA, "7’10”"
     mondexweight SPECIES_URSALUNA, "639.3 lbs."
@@ -21029,7 +21029,7 @@ mondata SPECIES_KLAWF, "Klawf"
     abilities ABILITY_ANGER_POINT, ABILITY_REGENERATOR
     runchance 0
     colorflip BODY_COLOR_RED, 0
-    mondexentry SPECIES_KLAWF, "This Pokémon lives on sheer cliffs.\nIt sidesteps opponents' attacks, then\nlunges for their weak spots with its claws."
+    mondexentry SPECIES_KLAWF, "This Pokémon lives on sheer cliffs.\nIt sidesteps opponents' attacks, then\nlunges with its claws."
     mondexclassification SPECIES_KLAWF, "Ambush Pokémon"
     mondexheight SPECIES_KLAWF, "4’03”"
     mondexweight SPECIES_KLAWF, "174.2 lbs."
@@ -21646,7 +21646,7 @@ mondata SPECIES_ANNIHILAPE, "Annihilape"
 
 
 mondata SPECIES_CLODSIRE, "Clodsire"
-    basestats 130, 75, 60, 20, 45, 100
+    basestats 130, 80, 85, 20, 45, 100
     types TYPE_POISON, TYPE_GROUND
     catchrate 90
     baseexp 0 // defined in baseexp.s
@@ -21657,10 +21657,10 @@ mondata SPECIES_CLODSIRE, "Clodsire"
     basefriendship 50
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_WATER_1, EGG_GROUP_FIELD
-    abilities ABILITY_POISON_POINT, ABILITY_WATER_ABSORB
+    abilities ABILITY_UNAWARE, ABILITY_WATER_ABSORB
     runchance 0
     colorflip BODY_COLOR_BROWN, 0
-    mondexentry SPECIES_CLODSIRE, "It lives at the bottom of ponds and swamps.\nIt will carry Wooper on its back and ferry\nthem across water from shore to shore."
+    mondexentry SPECIES_CLODSIRE, "It lives in moist, swampy areas.\nIt will carry Wooper on its back and\nferry them across ponds and bogs."
     mondexclassification SPECIES_CLODSIRE, "Spiny Fish Pokémon"
     mondexheight SPECIES_CLODSIRE, "5’11”"
     mondexweight SPECIES_CLODSIRE, "491.6 lbs."
@@ -24230,7 +24230,7 @@ mondata SPECIES_PIKACHU_WORLD_CAP, "-----"
     colorflip BODY_COLOR_YELLOW, 0
 
 mondata SPECIES_CASTFORM_SUNNY, "-----"
-    basestats 70, 70, 70, 70, 70, 70
+    basestats 70, 70, 70, 70, 100, 80
     types TYPE_FIRE, TYPE_FIRE
     catchrate 45
     baseexp 147
@@ -24246,7 +24246,7 @@ mondata SPECIES_CASTFORM_SUNNY, "-----"
     colorflip BODY_COLOR_RED, 0
 
 mondata SPECIES_CASTFORM_RAINY, "-----"
-    basestats 70, 70, 70, 70, 70, 70
+    basestats 70, 70, 70, 80, 100, 70
     types TYPE_WATER, TYPE_WATER
     catchrate 45
     baseexp 147
@@ -24262,7 +24262,7 @@ mondata SPECIES_CASTFORM_RAINY, "-----"
     colorflip BODY_COLOR_BLUE, 0
 
 mondata SPECIES_CASTFORM_SNOWY, "-----"
-    basestats 70, 70, 70, 70, 70, 70
+    basestats 70, 70, 100, 70, 100, 70
     types TYPE_ICE, TYPE_ICE
     catchrate 45
     baseexp 147
@@ -26954,7 +26954,7 @@ mondata SPECIES_TERAPAGOS_TERASTAL, "-----"
     colorflip BODY_COLOR_RED, 0
 
 mondata SPECIES_WOOPER_PALDEAN, "-----"
-    basestats 55, 45, 45, 15, 25, 25
+    basestats 85, 45, 45, 10, 15, 55
     types TYPE_POISON, TYPE_GROUND
     catchrate 255
     baseexp 0 // defined in baseexp.s
@@ -26965,7 +26965,7 @@ mondata SPECIES_WOOPER_PALDEAN, "-----"
     basefriendship 50
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_WATER_1, EGG_GROUP_FIELD
-    abilities ABILITY_DAMP, ABILITY_WATER_ABSORB
+    abilities ABILITY_UNAWARE, ABILITY_WATER_ABSORB
     runchance 0
     colorflip BODY_COLOR_BLUE, 0
 
