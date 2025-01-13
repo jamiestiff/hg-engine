@@ -1603,10 +1603,10 @@ levelup SPECIES_JOLTEON
     learnset MOVE_SHOCK_WAVE, 20
     learnset MOVE_THUNDER_WAVE, 25
 	learnset MOVE_PIN_MISSILE, 30
-    learnset MOVE_DOUBLE_KICK, 35
+    learnset MOVE_JUMP_KICK, 35
     learnset MOVE_DISCHARGE, 40
     learnset MOVE_AGILITY, 45
-    learnset MOVE_THUNDER, 50
+    learnset MOVE_VOLT_TACKLE, 50
     learnset MOVE_SIGNAL_BEAM, 50
     terminatelearnset
 
@@ -18713,7 +18713,7 @@ levelup SPECIES_VIVILLON_MONSOON
 
 levelup SPECIES_VIVILLON_SAVANNA
     learnset MOVE_GUST, 0
-    learnset MOVE_SCORCHING_SANDS, 0
+    learnset MOVE_MORNING_SUN, 0
     learnset MOVE_GUST, 1
     learnset MOVE_SLEEP_POWDER, 1
     learnset MOVE_POISON_POWDER, 1
@@ -18724,7 +18724,7 @@ levelup SPECIES_VIVILLON_SAVANNA
     learnset MOVE_SILVER_WIND, 22
     learnset MOVE_DRAINING_KISS, 26
     learnset MOVE_AROMATHERAPY, 30
-    learnset MOVE_SCORCHING_SANDS, 30
+    learnset MOVE_MORNING_SUN, 30
     learnset MOVE_BUG_BUZZ, 34
     learnset MOVE_SAFEGUARD, 38
     learnset MOVE_QUIVER_DANCE, 42
@@ -20953,7 +20953,6 @@ levelup SPECIES_TATSUGIRI_STRETCHY
     terminatelearnset
 
 levelup SPECIES_DUDUNSPARCE_THREE_SEGMENT
-levelup SPECIES_DUDUNSPARCE
     learnset MOVE_FLAIL, 1
     learnset MOVE_DEFENSE_CURL, 1
     learnset MOVE_RAGE, 1
@@ -20967,7 +20966,6 @@ levelup SPECIES_DUDUNSPARCE
     learnset MOVE_GLARE, 23
     learnset MOVE_BODY_SLAM, 26
     learnset MOVE_HYPER_DRILL, 32
-    learnset MOVE_TRI_ATTACK, 32
     learnset MOVE_ROOST, 33
     learnset MOVE_DIG, 33
     learnset MOVE_COIL, 37

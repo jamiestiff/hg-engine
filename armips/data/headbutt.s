@@ -43,14 +43,14 @@ headbuttheader   9,  20,   0   // Route 1
     headbuttencounter SPECIES_PINECO, 2, 3
     headbuttencounter SPECIES_PINECO, 2, 3
     headbuttencounter SPECIES_PINECO, 2, 3
-    headbuttencounter SPECIES_WURMPLE, 2, 3
-    headbuttencounter SPECIES_WURMPLE, 2, 3
+    headbuttencounter SPECIES_KRICKETOT, 2, 3
+    headbuttencounter SPECIES_KRICKETOT, 2, 3
     headbuttencounter SPECIES_HOOTHOOT, 5, 6
     headbuttencounter SPECIES_SPINARAK, 5, 6
     headbuttencounter SPECIES_SPINARAK, 5, 6
-    headbuttencounter SPECIES_WURMPLE, 5, 6
-    headbuttencounter SPECIES_WURMPLE, 5, 6
-    headbuttencounter SPECIES_WURMPLE, 5, 6
+    headbuttencounter SPECIES_KRICKETOT, 5, 6
+    headbuttencounter SPECIES_KRICKETOT, 5, 6
+    headbuttencounter SPECIES_KRICKETOT, 5, 6
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -86,15 +86,15 @@ headbuttheader  10,  15,   0   // Route 2
     headbuttencounter SPECIES_HOOTHOOT, 3, 4
     headbuttencounter SPECIES_PINECO, 3, 4
     headbuttencounter SPECIES_PINECO, 3, 4
-    headbuttencounter SPECIES_WURMPLE, 3, 4
-    headbuttencounter SPECIES_WURMPLE, 3, 4
-    headbuttencounter SPECIES_WURMPLE, 3, 4
+    headbuttencounter SPECIES_KRICKETOT, 3, 4
+    headbuttencounter SPECIES_KRICKETOT, 3, 4
+    headbuttencounter SPECIES_KRICKETOT, 3, 4
     headbuttencounter SPECIES_HOOTHOOT, 5, 7
     headbuttencounter SPECIES_SPINARAK, 5, 7
     headbuttencounter SPECIES_SPINARAK, 5, 7
-    headbuttencounter SPECIES_WURMPLE, 5, 7
-    headbuttencounter SPECIES_WURMPLE, 5, 7
-    headbuttencounter SPECIES_WURMPLE, 5, 7
+    headbuttencounter SPECIES_KRICKETOT, 5, 7
+    headbuttencounter SPECIES_KRICKETOT, 5, 7
+    headbuttencounter SPECIES_KRICKETOT, 5, 7
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -125,15 +125,15 @@ headbuttheader  11,   4,   0   // Route 3
     headbuttencounter SPECIES_HOOTHOOT, 6, 7
     headbuttencounter SPECIES_PINECO, 6, 7
     headbuttencounter SPECIES_PINECO, 6, 7
-    headbuttencounter SPECIES_WURMPLE, 6, 7
-    headbuttencounter SPECIES_WURMPLE, 6, 7
-    headbuttencounter SPECIES_WURMPLE, 6, 7
+    headbuttencounter SPECIES_KRICKETOT, 6, 7
+    headbuttencounter SPECIES_KRICKETOT, 6, 7
+    headbuttencounter SPECIES_KRICKETOT, 6, 7
     headbuttencounter SPECIES_HOOTHOOT, 9, 10
     headbuttencounter SPECIES_HOOTHOOT, 9, 10
     headbuttencounter SPECIES_HOOTHOOT, 9, 10
-    headbuttencounter SPECIES_WURMPLE, 9, 10
-    headbuttencounter SPECIES_WURMPLE, 9, 10
-    headbuttencounter SPECIES_WURMPLE, 9, 10
+    headbuttencounter SPECIES_KRICKETOT, 9, 10
+    headbuttencounter SPECIES_KRICKETOT, 9, 10
+    headbuttencounter SPECIES_KRICKETOT, 9, 10
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -153,15 +153,15 @@ headbuttheader  12,   9,   0   // Route 4
     headbuttencounter SPECIES_HOOTHOOT, 6, 7
     headbuttencounter SPECIES_PINECO, 6, 7
     headbuttencounter SPECIES_PINECO, 6, 7
-    headbuttencounter SPECIES_WURMPLE, 6, 7
-    headbuttencounter SPECIES_WURMPLE, 6, 7
-    headbuttencounter SPECIES_WURMPLE, 6, 7
+    headbuttencounter SPECIES_KRICKETOT, 6, 7
+    headbuttencounter SPECIES_KRICKETOT, 6, 7
+    headbuttencounter SPECIES_KRICKETOT, 6, 7
     headbuttencounter SPECIES_HOOTHOOT, 9, 10
     headbuttencounter SPECIES_HOOTHOOT, 9, 10
     headbuttencounter SPECIES_HOOTHOOT, 9, 10
-    headbuttencounter SPECIES_WURMPLE, 9, 10
-    headbuttencounter SPECIES_WURMPLE, 9, 10
-    headbuttencounter SPECIES_WURMPLE, 9, 10
+    headbuttencounter SPECIES_KRICKETOT, 9, 10
+    headbuttencounter SPECIES_KRICKETOT, 9, 10
+    headbuttencounter SPECIES_KRICKETOT, 9, 10
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -186,15 +186,15 @@ headbuttheader  13,   4,   0   // Route 5
     headbuttencounter SPECIES_HOOTHOOT, 11, 13
     headbuttencounter SPECIES_PINECO, 11, 13
     headbuttencounter SPECIES_PINECO, 11, 13
-    headbuttencounter SPECIES_COMBEE, 11, 13
-    headbuttencounter SPECIES_COMBEE, 11, 13
-    headbuttencounter SPECIES_COMBEE, 11, 13
+    headbuttencounter SPECIES_CUTIEFLY, 11, 13
+    headbuttencounter SPECIES_CUTIEFLY, 11, 13
+    headbuttencounter SPECIES_CUTIEFLY, 11, 13
     headbuttencounter SPECIES_HOOTHOOT, 14, 16
     headbuttencounter SPECIES_HOOTHOOT, 14, 16
     headbuttencounter SPECIES_HOOTHOOT, 14, 16
-    headbuttencounter SPECIES_COMBEE, 14, 16
-    headbuttencounter SPECIES_COMBEE, 14, 16
-    headbuttencounter SPECIES_COMBEE, 14, 16
+    headbuttencounter SPECIES_CUTIEFLY, 14, 16
+    headbuttencounter SPECIES_CUTIEFLY, 14, 16
+    headbuttencounter SPECIES_CUTIEFLY, 14, 16
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -214,15 +214,15 @@ headbuttheader  14,   6,   0   // Route 6
     headbuttencounter SPECIES_HOOTHOOT, 11, 13
     headbuttencounter SPECIES_PINECO, 11, 13
     headbuttencounter SPECIES_PINECO, 11, 13
-    headbuttencounter SPECIES_COMBEE, 11, 13
-    headbuttencounter SPECIES_COMBEE, 11, 13
-    headbuttencounter SPECIES_COMBEE, 11, 13
+    headbuttencounter SPECIES_CUTIEFLY, 11, 13
+    headbuttencounter SPECIES_CUTIEFLY, 11, 13
+    headbuttencounter SPECIES_CUTIEFLY, 11, 13
     headbuttencounter SPECIES_HOOTHOOT, 14, 16
     headbuttencounter SPECIES_HOOTHOOT, 14, 16
     headbuttencounter SPECIES_HOOTHOOT, 14, 16
-    headbuttencounter SPECIES_COMBEE, 14, 16
-    headbuttencounter SPECIES_COMBEE, 14, 16
-    headbuttencounter SPECIES_COMBEE, 14, 16
+    headbuttencounter SPECIES_CUTIEFLY, 14, 16
+    headbuttencounter SPECIES_CUTIEFLY, 14, 16
+    headbuttencounter SPECIES_CUTIEFLY, 14, 16
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -244,15 +244,15 @@ headbuttheader  15,   8,   0   // Route 7
     headbuttencounter SPECIES_TAILLOW, 15, 17
     headbuttencounter SPECIES_HERACROSS, 15, 17
     headbuttencounter SPECIES_HERACROSS, 15, 17
-    headbuttencounter SPECIES_COMBEE, 15, 17
-    headbuttencounter SPECIES_COMBEE, 15, 17
-    headbuttencounter SPECIES_COMBEE, 15, 17
+    headbuttencounter SPECIES_CUTIEFLY, 15, 17
+    headbuttencounter SPECIES_CUTIEFLY, 15, 17
+    headbuttencounter SPECIES_CUTIEFLY, 15, 17
     headbuttencounter SPECIES_TAILLOW, 18, 20
     headbuttencounter SPECIES_TAILLOW, 18, 20
     headbuttencounter SPECIES_TAILLOW, 18, 20
-    headbuttencounter SPECIES_COMBEE, 18, 20
-    headbuttencounter SPECIES_COMBEE, 18, 20
-    headbuttencounter SPECIES_COMBEE, 18, 20
+    headbuttencounter SPECIES_CUTIEFLY, 18, 20
+    headbuttencounter SPECIES_CUTIEFLY, 18, 20
+    headbuttencounter SPECIES_CUTIEFLY, 18, 20
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -276,15 +276,15 @@ headbuttheader  16,   5,   0   // Route 8
     headbuttencounter SPECIES_HOOTHOOT, 16, 17
     headbuttencounter SPECIES_PINECO, 16, 17
     headbuttencounter SPECIES_PINECO, 16, 17
-    headbuttencounter SPECIES_COMBEE, 16, 17
-    headbuttencounter SPECIES_COMBEE, 16, 17
-    headbuttencounter SPECIES_COMBEE, 16, 17
+    headbuttencounter SPECIES_CUTIEFLY, 16, 17
+    headbuttencounter SPECIES_CUTIEFLY, 16, 17
+    headbuttencounter SPECIES_CUTIEFLY, 16, 17
     headbuttencounter SPECIES_HOOTHOOT, 18, 19
     headbuttencounter SPECIES_HOOTHOOT, 18, 19
     headbuttencounter SPECIES_HOOTHOOT, 18, 19
-    headbuttencounter SPECIES_COMBEE, 18, 19
-    headbuttencounter SPECIES_COMBEE, 18, 19
-    headbuttencounter SPECIES_COMBEE, 18, 19
+    headbuttencounter SPECIES_CUTIEFLY, 18, 19
+    headbuttencounter SPECIES_CUTIEFLY, 18, 19
+    headbuttencounter SPECIES_CUTIEFLY, 18, 19
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -311,15 +311,15 @@ headbuttheader  19,  11,   0   // Route 11
     headbuttencounter SPECIES_TAILLOW, 13, 14
     headbuttencounter SPECIES_HERACROSS, 13, 14
     headbuttencounter SPECIES_HERACROSS, 13, 14
-    headbuttencounter SPECIES_COMBEE, 13, 14
-    headbuttencounter SPECIES_COMBEE, 13, 14
-    headbuttencounter SPECIES_COMBEE, 13, 14
+    headbuttencounter SPECIES_CUTIEFLY, 13, 14
+    headbuttencounter SPECIES_CUTIEFLY, 13, 14
+    headbuttencounter SPECIES_CUTIEFLY, 13, 14
     headbuttencounter SPECIES_TAILLOW, 15, 16
     headbuttencounter SPECIES_TAILLOW, 15, 16
     headbuttencounter SPECIES_TAILLOW, 15, 16
-    headbuttencounter SPECIES_COMBEE, 15, 16
-    headbuttencounter SPECIES_COMBEE, 15, 16
-    headbuttencounter SPECIES_COMBEE, 15, 16
+    headbuttencounter SPECIES_CUTIEFLY, 15, 16
+    headbuttencounter SPECIES_CUTIEFLY, 15, 16
+    headbuttencounter SPECIES_CUTIEFLY, 15, 16
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -346,15 +346,15 @@ headbuttheader  20,  10,   0   // Route 12
     headbuttencounter SPECIES_HOOTHOOT, 22, 23
     headbuttencounter SPECIES_SPINARAK, 22, 23
     headbuttencounter SPECIES_SPINARAK, 22, 23
-    headbuttencounter SPECIES_WURMPLE, 22, 23
-    headbuttencounter SPECIES_WURMPLE, 22, 23
-    headbuttencounter SPECIES_WURMPLE, 22, 23
+    headbuttencounter SPECIES_KRICKETOT, 22, 23
+    headbuttencounter SPECIES_KRICKETOT, 22, 23
+    headbuttencounter SPECIES_KRICKETOT, 22, 23
     headbuttencounter SPECIES_HOOTHOOT, 24, 25
     headbuttencounter SPECIES_CUTIEFLY, 24, 25
     headbuttencounter SPECIES_HOOTHOOT, 24, 25
-    headbuttencounter SPECIES_WURMPLE, 24, 25
-    headbuttencounter SPECIES_WURMPLE, 24, 25
-    headbuttencounter SPECIES_WURMPLE, 24, 25
+    headbuttencounter SPECIES_KRICKETOT, 24, 25
+    headbuttencounter SPECIES_KRICKETOT, 24, 25
+    headbuttencounter SPECIES_KRICKETOT, 24, 25
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -380,15 +380,15 @@ headbuttheader  21,  15,   0   // Route 13
     headbuttencounter SPECIES_HOOTHOOT, 22, 23
     headbuttencounter SPECIES_SPINARAK, 22, 23
     headbuttencounter SPECIES_SPINARAK, 22, 23
-    headbuttencounter SPECIES_WURMPLE, 22, 23
-    headbuttencounter SPECIES_WURMPLE, 22, 23
-    headbuttencounter SPECIES_WURMPLE, 22, 23
+    headbuttencounter SPECIES_KRICKETOT, 22, 23
+    headbuttencounter SPECIES_KRICKETOT, 22, 23
+    headbuttencounter SPECIES_KRICKETOT, 22, 23
     headbuttencounter SPECIES_HOOTHOOT, 24, 25
     headbuttencounter SPECIES_CUTIEFLY, 24, 25
     headbuttencounter SPECIES_HOOTHOOT, 24, 25
-    headbuttencounter SPECIES_WURMPLE, 24, 25
-    headbuttencounter SPECIES_WURMPLE, 24, 25
-    headbuttencounter SPECIES_WURMPLE, 24, 25
+    headbuttencounter SPECIES_KRICKETOT, 24, 25
+    headbuttencounter SPECIES_KRICKETOT, 24, 25
+    headbuttencounter SPECIES_KRICKETOT, 24, 25
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -419,15 +419,15 @@ headbuttheader  22,   3,   0   // Route 14
     headbuttencounter SPECIES_HOOTHOOT, 26, 27
     headbuttencounter SPECIES_SPINARAK, 26, 27
     headbuttencounter SPECIES_SPINARAK, 26, 27
-    headbuttencounter SPECIES_WURMPLE, 26, 27
-    headbuttencounter SPECIES_WURMPLE, 26, 27
-    headbuttencounter SPECIES_WURMPLE, 26, 27
+    headbuttencounter SPECIES_KRICKETOT, 26, 27
+    headbuttencounter SPECIES_KRICKETOT, 26, 27
+    headbuttencounter SPECIES_KRICKETOT, 26, 27
     headbuttencounter SPECIES_HOOTHOOT, 29, 30
     headbuttencounter SPECIES_CUTIEFLY, 29, 30
     headbuttencounter SPECIES_HOOTHOOT, 29, 30
-    headbuttencounter SPECIES_WURMPLE, 29, 30
-    headbuttencounter SPECIES_WURMPLE, 29, 30
-    headbuttencounter SPECIES_WURMPLE, 29, 30
+    headbuttencounter SPECIES_KRICKETOT, 29, 30
+    headbuttencounter SPECIES_KRICKETOT, 29, 30
+    headbuttencounter SPECIES_KRICKETOT, 29, 30
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -446,15 +446,15 @@ headbuttheader  23,  19,   0   // Route 15
     headbuttencounter SPECIES_HOOTHOOT, 21, 23
     headbuttencounter SPECIES_SPINARAK, 21, 23
     headbuttencounter SPECIES_SPINARAK, 21, 23
-    headbuttencounter SPECIES_WURMPLE, 21, 23
-    headbuttencounter SPECIES_WURMPLE, 21, 23
-    headbuttencounter SPECIES_WURMPLE, 21, 23
+    headbuttencounter SPECIES_KRICKETOT, 21, 23
+    headbuttencounter SPECIES_KRICKETOT, 21, 23
+    headbuttencounter SPECIES_KRICKETOT, 21, 23
     headbuttencounter SPECIES_HOOTHOOT, 24, 26
     headbuttencounter SPECIES_CUTIEFLY, 24, 26
     headbuttencounter SPECIES_HOOTHOOT, 24, 26
-    headbuttencounter SPECIES_WURMPLE, 24, 26
-    headbuttencounter SPECIES_WURMPLE, 24, 26
-    headbuttencounter SPECIES_WURMPLE, 24, 26
+    headbuttencounter SPECIES_KRICKETOT, 24, 26
+    headbuttencounter SPECIES_KRICKETOT, 24, 26
+    headbuttencounter SPECIES_KRICKETOT, 24, 26
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -489,15 +489,15 @@ headbuttheader  24,   2,   0   // Route 16
     headbuttencounter SPECIES_TAILLOW, 26, 27
     headbuttencounter SPECIES_HERACROSS, 26, 27
     headbuttencounter SPECIES_HERACROSS, 26, 27
-    headbuttencounter SPECIES_COMBEE, 26, 27
-    headbuttencounter SPECIES_COMBEE, 26, 27
-    headbuttencounter SPECIES_COMBEE, 26, 27
+    headbuttencounter SPECIES_CUTIEFLY, 26, 27
+    headbuttencounter SPECIES_CUTIEFLY, 26, 27
+    headbuttencounter SPECIES_CUTIEFLY, 26, 27
     headbuttencounter SPECIES_TAILLOW, 29, 30
     headbuttencounter SPECIES_TAILLOW, 29, 30
     headbuttencounter SPECIES_TAILLOW, 29, 30
-    headbuttencounter SPECIES_COMBEE, 29, 30
-    headbuttencounter SPECIES_COMBEE, 29, 30
-    headbuttencounter SPECIES_COMBEE, 29, 30
+    headbuttencounter SPECIES_CUTIEFLY, 29, 30
+    headbuttencounter SPECIES_CUTIEFLY, 29, 30
+    headbuttencounter SPECIES_CUTIEFLY, 29, 30
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -518,15 +518,15 @@ headbuttheader  26,   3,   0   // Route 18
     headbuttencounter SPECIES_HOOTHOOT, 26, 27
     headbuttencounter SPECIES_SPINARAK, 26, 27
     headbuttencounter SPECIES_SPINARAK, 26, 27
-    headbuttencounter SPECIES_WURMPLE, 26, 27
-    headbuttencounter SPECIES_WURMPLE, 26, 27
-    headbuttencounter SPECIES_WURMPLE, 26, 27
+    headbuttencounter SPECIES_KRICKETOT, 26, 27
+    headbuttencounter SPECIES_KRICKETOT, 26, 27
+    headbuttencounter SPECIES_KRICKETOT, 26, 27
     headbuttencounter SPECIES_HOOTHOOT, 29, 30
     headbuttencounter SPECIES_CUTIEFLY, 29, 30
     headbuttencounter SPECIES_HOOTHOOT, 29, 30
-    headbuttencounter SPECIES_WURMPLE, 29, 30
-    headbuttencounter SPECIES_WURMPLE, 29, 30
-    headbuttencounter SPECIES_WURMPLE, 29, 30
+    headbuttencounter SPECIES_KRICKETOT, 29, 30
+    headbuttencounter SPECIES_KRICKETOT, 29, 30
+    headbuttencounter SPECIES_KRICKETOT, 29, 30
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -545,15 +545,15 @@ headbuttheader  27,   7,   0   // Route 22
     headbuttencounter SPECIES_HOOTHOOT, 3, 4
     headbuttencounter SPECIES_PINECO, 3, 4
     headbuttencounter SPECIES_PINECO, 3, 4
-    headbuttencounter SPECIES_WURMPLE, 3, 4
-    headbuttencounter SPECIES_WURMPLE, 3, 4
-    headbuttencounter SPECIES_WURMPLE, 3, 4
+    headbuttencounter SPECIES_KRICKETOT, 3, 4
+    headbuttencounter SPECIES_KRICKETOT, 3, 4
+    headbuttencounter SPECIES_KRICKETOT, 3, 4
     headbuttencounter SPECIES_HOOTHOOT, 5, 7
     headbuttencounter SPECIES_SPINARAK, 5, 7
     headbuttencounter SPECIES_SPINARAK, 5, 7
-    headbuttencounter SPECIES_WURMPLE, 5, 7
-    headbuttencounter SPECIES_WURMPLE, 5, 7
-    headbuttencounter SPECIES_WURMPLE, 5, 7
+    headbuttencounter SPECIES_KRICKETOT, 5, 7
+    headbuttencounter SPECIES_KRICKETOT, 5, 7
+    headbuttencounter SPECIES_KRICKETOT, 5, 7
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -574,27 +574,27 @@ headbuttheader  27,   7,   0   // Route 22
 headbuttheader  28,   0,   0   // Route 24
 .close
 
-headbuttheader  29,  11,   4   // Route 25
+headbuttheader  29,  15,   0   // Route 25
     // normal slots
     headbuttencounter SPECIES_HOOTHOOT, 10, 11
     headbuttencounter SPECIES_PINECO, 10, 11
     headbuttencounter SPECIES_PINECO, 10, 11
-    headbuttencounter SPECIES_COMBEE, 10, 11
-    headbuttencounter SPECIES_COMBEE, 10, 11
-    headbuttencounter SPECIES_COMBEE, 10, 11
+    headbuttencounter SPECIES_CUTIEFLY, 10, 11
+    headbuttencounter SPECIES_CUTIEFLY, 10, 11
+    headbuttencounter SPECIES_CUTIEFLY, 10, 11
     headbuttencounter SPECIES_HOOTHOOT, 13, 14
     headbuttencounter SPECIES_HOOTHOOT, 13, 14
     headbuttencounter SPECIES_HOOTHOOT, 13, 14
-    headbuttencounter SPECIES_COMBEE, 13, 14
-    headbuttencounter SPECIES_COMBEE, 13, 14
-    headbuttencounter SPECIES_COMBEE, 13, 14
+    headbuttencounter SPECIES_CUTIEFLY, 13, 14
+    headbuttencounter SPECIES_CUTIEFLY, 13, 14
+    headbuttencounter SPECIES_CUTIEFLY, 13, 14
     // special slots
-    headbuttencounter SPECIES_COMBEE, 10, 14
-    headbuttencounter SPECIES_COMBEE, 10, 14
-    headbuttencounter SPECIES_SLAKOTH, 10, 14
-    headbuttencounter SPECIES_SLAKOTH, 10, 14
-    headbuttencounter SPECIES_SLAKOTH, 10, 14
-    headbuttencounter SPECIES_SLAKOTH, 15, 18
+    headbuttencounter SPECIES_NONE, 0, 0
+    headbuttencounter SPECIES_NONE, 0, 0
+    headbuttencounter SPECIES_NONE, 0, 0
+    headbuttencounter SPECIES_NONE, 0, 0
+    headbuttencounter SPECIES_NONE, 0, 0
+    headbuttencounter SPECIES_NONE, 0, 0
     // normal trees
     treecoords 1388, 47, 1388, 48, 1388, 49, 1387, 47, -1, -1, -1, -1
     treecoords 1385, 43, 1386, 43, 1385, 42, 1385, 41, 1386, 41, -1, -1
@@ -607,7 +607,6 @@ headbuttheader  29,  11,   4   // Route 25
     treecoords 1358, 49, 1358, 48, 1359, 49, 1359, 48, -1, -1, -1, -1
     treecoords 1377, 41, 1377, 40, 1378, 41, -1, -1, -1, -1, -1, -1
     treecoords 1379, 47, 1379, 48, 1379, 49, 1380, 47, -1, -1, -1, -1
-    // special trees
     treecoords 1315, 41, 1316, 41, -1, -1, -1, -1, -1, -1, -1, -1
     treecoords 1317, 41, 1318, 41, -1, -1, -1, -1, -1, -1, -1, -1
     treecoords 1319, 41, 1320, 41, -1, -1, -1, -1, -1, -1, -1, -1
@@ -892,15 +891,15 @@ headbuttheader  36,  35,   0   // Route 32
     headbuttencounter SPECIES_HOOTHOOT, 4, 5
     headbuttencounter SPECIES_PINECO, 4, 5
     headbuttencounter SPECIES_PINECO, 4, 5
-    headbuttencounter SPECIES_KRICKETOT, 4, 5
-    headbuttencounter SPECIES_KRICKETOT, 4, 5
+    headbuttencounter SPECIES_NATU, 4, 5
+    headbuttencounter SPECIES_NATU, 4, 5
     headbuttencounter SPECIES_KRICKETOT, 4, 5
     headbuttencounter SPECIES_HOOTHOOT, 6, 7
     headbuttencounter SPECIES_HOOTHOOT, 6, 7
     headbuttencounter SPECIES_HOOTHOOT, 6, 7
     headbuttencounter SPECIES_KRICKETOT, 6, 7
-    headbuttencounter SPECIES_KRICKETOT, 6, 7
-    headbuttencounter SPECIES_KRICKETOT, 6, 7
+    headbuttencounter SPECIES_NATU, 6, 7
+    headbuttencounter SPECIES_NATU, 6, 7
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -949,8 +948,8 @@ headbuttheader  36,  35,   0   // Route 32
 headbuttheader  37,   4,   0   // Route 33
     // normal slots
     headbuttencounter SPECIES_TAILLOW, 3, 5
-    headbuttencounter SPECIES_HERACROSS, 3, 5
-    headbuttencounter SPECIES_HERACROSS, 3, 5
+    headbuttencounter SPECIES_TAILLOW, 3, 5
+    headbuttencounter SPECIES_TAILLOW, 3, 5
     headbuttencounter SPECIES_AIPOM, 3, 5
     headbuttencounter SPECIES_AIPOM, 3, 5
     headbuttencounter SPECIES_AIPOM, 3, 5
@@ -1153,12 +1152,12 @@ headbuttheader  42,  13,   1   // Route 38
     headbuttencounter SPECIES_KRICKETOT, 15, 16
     headbuttencounter SPECIES_KRICKETOT, 15, 16
     // special slots
-    headbuttencounter SPECIES_KRICKETOT, 18, 25
-    headbuttencounter SPECIES_KRICKETOT, 18, 25
-    headbuttencounter SPECIES_BURMY, 18, 20
-    headbuttencounter SPECIES_BURMY, 18, 20
-    headbuttencounter SPECIES_BURMY, 18, 20
-    headbuttencounter SPECIES_BURMY, 21, 25
+    headbuttencounterwithform SPECIES_VIVILLON, 10, 30, 30
+    headbuttencounterwithform SPECIES_VIVILLON, 10, 30, 30
+    headbuttencounterwithform SPECIES_VIVILLON, 10, 30, 30
+    headbuttencounterwithform SPECIES_VIVILLON, 10, 30, 30
+    headbuttencounterwithform SPECIES_VIVILLON, 10, 30, 30
+    headbuttencounterwithform SPECIES_VIVILLON, 10, 30, 30
     // normal trees
     treecoords 348, 164, 349, 164, -1, -1, -1, -1, -1, -1, -1, -1
     treecoords 340, 165, 341, 165, -1, -1, -1, -1, -1, -1, -1, -1
@@ -1206,18 +1205,18 @@ headbuttheader  43,   3,   0   // Route 39
 
 headbuttheader  44,  10,   0   // Route 42
     // normal slots
-    headbuttencounter SPECIES_TAILLOW, 13, 14
-    headbuttencounter SPECIES_HERACROSS, 13, 14
-    headbuttencounter SPECIES_HERACROSS, 13, 14
-    headbuttencounter SPECIES_AIPOM, 13, 14
-    headbuttencounter SPECIES_AIPOM, 13, 14
-    headbuttencounter SPECIES_AIPOM, 13, 14
-    headbuttencounter SPECIES_TAILLOW, 15, 16
-    headbuttencounter SPECIES_TAILLOW, 15, 16
-    headbuttencounter SPECIES_TAILLOW, 15, 16
-    headbuttencounter SPECIES_AIPOM, 15, 16
-    headbuttencounter SPECIES_AIPOM, 15, 16
-    headbuttencounter SPECIES_AIPOM, 15, 16
+    headbuttencounter SPECIES_TAILLOW, 18, 19
+    headbuttencounter SPECIES_HERACROSS, 18, 19
+    headbuttencounter SPECIES_HERACROSS, 18, 19
+    headbuttencounter SPECIES_AIPOM, 18, 19
+    headbuttencounter SPECIES_AIPOM, 18, 19
+    headbuttencounter SPECIES_AIPOM, 18, 19
+    headbuttencounter SPECIES_TAILLOW, 19, 20
+    headbuttencounter SPECIES_TAILLOW, 19, 20
+    headbuttencounter SPECIES_TAILLOW, 19, 20
+    headbuttencounter SPECIES_AIPOM, 20, 21
+    headbuttencounter SPECIES_AIPOM, 20, 21
+    headbuttencounter SPECIES_AIPOM, 20, 21
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -1383,15 +1382,15 @@ headbuttheader  49,  17,   0   // Pallet Town
     headbuttencounter SPECIES_HOOTHOOT, 2, 3
     headbuttencounter SPECIES_PINECO, 2, 3
     headbuttencounter SPECIES_PINECO, 2, 3
-    headbuttencounter SPECIES_WURMPLE, 2, 3
-    headbuttencounter SPECIES_WURMPLE, 2, 3
-    headbuttencounter SPECIES_WURMPLE, 2, 3
+    headbuttencounter SPECIES_KRICKETOT, 2, 3
+    headbuttencounter SPECIES_KRICKETOT, 2, 3
+    headbuttencounter SPECIES_KRICKETOT, 2, 3
     headbuttencounter SPECIES_HOOTHOOT, 5, 6
     headbuttencounter SPECIES_SPINARAK, 5, 6
     headbuttencounter SPECIES_SPINARAK, 5, 6
-    headbuttencounter SPECIES_WURMPLE, 5, 6
-    headbuttencounter SPECIES_WURMPLE, 5, 6
-    headbuttencounter SPECIES_WURMPLE, 5, 6
+    headbuttencounter SPECIES_KRICKETOT, 5, 6
+    headbuttencounter SPECIES_KRICKETOT, 5, 6
+    headbuttencounter SPECIES_KRICKETOT, 5, 6
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -1424,15 +1423,15 @@ headbuttheader  50,  21,   0   // Viridian City
     headbuttencounter SPECIES_HOOTHOOT, 3, 4
     headbuttencounter SPECIES_PINECO, 3, 4
     headbuttencounter SPECIES_PINECO, 3, 4
-    headbuttencounter SPECIES_WURMPLE, 3, 4
-    headbuttencounter SPECIES_WURMPLE, 3, 4
-    headbuttencounter SPECIES_WURMPLE, 3, 4
+    headbuttencounter SPECIES_KRICKETOT, 3, 4
+    headbuttencounter SPECIES_KRICKETOT, 3, 4
+    headbuttencounter SPECIES_KRICKETOT, 3, 4
     headbuttencounter SPECIES_HOOTHOOT, 5, 7
     headbuttencounter SPECIES_SPINARAK, 5, 7
     headbuttencounter SPECIES_SPINARAK, 5, 7
-    headbuttencounter SPECIES_WURMPLE, 5, 7
-    headbuttencounter SPECIES_WURMPLE, 5, 7
-    headbuttencounter SPECIES_WURMPLE, 5, 7
+    headbuttencounter SPECIES_KRICKETOT, 5, 7
+    headbuttencounter SPECIES_KRICKETOT, 5, 7
+    headbuttencounter SPECIES_KRICKETOT, 5, 7
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -1464,27 +1463,27 @@ headbuttheader  50,  21,   0   // Viridian City
     treecoords 1040, 231, 1041, 231, -1, -1, -1, -1, -1, -1, -1, -1
 .close
 
-headbuttheader  51,  21,   2   // Pewter City
+headbuttheader  51,  23,   0   // Pewter City
     // normal slots
     headbuttencounter SPECIES_HOOTHOOT, 3, 5
     headbuttencounter SPECIES_PINECO, 3, 5
     headbuttencounter SPECIES_PINECO, 3, 5
-    headbuttencounter SPECIES_WURMPLE, 3, 5
-    headbuttencounter SPECIES_WURMPLE, 3, 5
-    headbuttencounter SPECIES_WURMPLE, 3, 5
+    headbuttencounter SPECIES_KRICKETOT, 3, 5
+    headbuttencounter SPECIES_KRICKETOT, 3, 5
+    headbuttencounter SPECIES_KRICKETOT, 3, 5
     headbuttencounter SPECIES_HOOTHOOT, 7, 9
     headbuttencounter SPECIES_HOOTHOOT, 7, 9
     headbuttencounter SPECIES_HOOTHOOT, 7, 9
-    headbuttencounter SPECIES_WURMPLE, 7, 9
-    headbuttencounter SPECIES_WURMPLE, 7, 9
-    headbuttencounter SPECIES_WURMPLE, 7, 9
+    headbuttencounter SPECIES_KRICKETOT, 7, 9
+    headbuttencounter SPECIES_KRICKETOT, 7, 9
+    headbuttencounter SPECIES_KRICKETOT, 7, 9
     // special slots
-    headbuttencounter SPECIES_WURMPLE, 5, 9
-    headbuttencounter SPECIES_WURMPLE, 5, 9
-    headbuttencounter SPECIES_STARLY, 5, 9
-    headbuttencounter SPECIES_STARLY, 5, 9
-    headbuttencounter SPECIES_STARLY, 5, 9
-    headbuttencounter SPECIES_STARLY, 8, 12
+    headbuttencounter SPECIES_NONE, 0, 0
+    headbuttencounter SPECIES_NONE, 0, 0
+    headbuttencounter SPECIES_NONE, 0, 0
+    headbuttencounter SPECIES_NONE, 0, 0
+    headbuttencounter SPECIES_NONE, 0, 0
+    headbuttencounter SPECIES_NONE, 0, 0
     // normal trees
     treecoords 1052, 117, 1053, 117, -1, -1, -1, -1, -1, -1, -1, -1
     treecoords 1060, 117, 1061, 117, -1, -1, -1, -1, -1, -1, -1, -1
@@ -1507,7 +1506,6 @@ headbuttheader  51,  21,   2   // Pewter City
     treecoords 1030, 85, 1030, 84, -1, -1, -1, -1, -1, -1, -1, -1
     treecoords 1030, 81, 1030, 80, -1, -1, -1, -1, -1, -1, -1, -1
     treecoords 1030, 79, 1030, 78, 1030, 77, 1031, 77, -1, -1, -1, -1
-    // special trees
     treecoords 1037, 119, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1
     treecoords 1037, 120, 1037, 121, -1, -1, -1, -1, -1, -1, -1, -1
 .close
@@ -1517,15 +1515,15 @@ headbuttheader  52,  11,   0   // Cerulean City
     headbuttencounter SPECIES_HOOTHOOT, 11, 13
     headbuttencounter SPECIES_PINECO, 11, 13
     headbuttencounter SPECIES_PINECO, 11, 13
-    headbuttencounter SPECIES_COMBEE, 11, 13
-    headbuttencounter SPECIES_COMBEE, 11, 13
-    headbuttencounter SPECIES_COMBEE, 11, 13
+    headbuttencounter SPECIES_CUTIEFLY, 11, 13
+    headbuttencounter SPECIES_CUTIEFLY, 11, 13
+    headbuttencounter SPECIES_CUTIEFLY, 11, 13
     headbuttencounter SPECIES_HOOTHOOT, 14, 16
     headbuttencounter SPECIES_HOOTHOOT, 14, 16
     headbuttencounter SPECIES_HOOTHOOT, 14, 16
-    headbuttencounter SPECIES_COMBEE, 14, 16
-    headbuttencounter SPECIES_COMBEE, 14, 16
-    headbuttencounter SPECIES_COMBEE, 14, 16
+    headbuttencounter SPECIES_CUTIEFLY, 14, 16
+    headbuttencounter SPECIES_CUTIEFLY, 14, 16
+    headbuttencounter SPECIES_CUTIEFLY, 14, 16
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -1555,15 +1553,15 @@ headbuttheader  54,  10,   0   // Vermilion City
     headbuttencounter SPECIES_TAILLOW, 11, 13
     headbuttencounter SPECIES_HERACROSS, 11, 13
     headbuttencounter SPECIES_HERACROSS, 11, 13
-    headbuttencounter SPECIES_COMBEE, 11, 13
-    headbuttencounter SPECIES_COMBEE, 11, 13
-    headbuttencounter SPECIES_COMBEE, 11, 13
+    headbuttencounter SPECIES_CUTIEFLY, 11, 13
+    headbuttencounter SPECIES_CUTIEFLY, 11, 13
+    headbuttencounter SPECIES_CUTIEFLY, 11, 13
     headbuttencounter SPECIES_TAILLOW, 14, 16
     headbuttencounter SPECIES_TAILLOW, 14, 16
     headbuttencounter SPECIES_TAILLOW, 14, 16
-    headbuttencounter SPECIES_COMBEE, 14, 16
-    headbuttencounter SPECIES_COMBEE, 14, 16
-    headbuttencounter SPECIES_COMBEE, 14, 16
+    headbuttencounter SPECIES_CUTIEFLY, 14, 16
+    headbuttencounter SPECIES_CUTIEFLY, 14, 16
+    headbuttencounter SPECIES_CUTIEFLY, 14, 16
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -1589,15 +1587,15 @@ headbuttheader  55,  32,   0   // Celadon City
     headbuttencounter SPECIES_TAILLOW, 15, 17
     headbuttencounter SPECIES_HERACROSS, 15, 17
     headbuttencounter SPECIES_HERACROSS, 15, 17
-    headbuttencounter SPECIES_COMBEE, 15, 17
-    headbuttencounter SPECIES_COMBEE, 15, 17
-    headbuttencounter SPECIES_COMBEE, 15, 17
+    headbuttencounter SPECIES_CUTIEFLY, 15, 17
+    headbuttencounter SPECIES_CUTIEFLY, 15, 17
+    headbuttencounter SPECIES_CUTIEFLY, 15, 17
     headbuttencounter SPECIES_TAILLOW, 18, 20
     headbuttencounter SPECIES_TAILLOW, 18, 20
     headbuttencounter SPECIES_TAILLOW, 18, 20
-    headbuttencounter SPECIES_COMBEE, 18, 20
-    headbuttencounter SPECIES_COMBEE, 18, 20
-    headbuttencounter SPECIES_COMBEE, 18, 20
+    headbuttencounter SPECIES_CUTIEFLY, 18, 20
+    headbuttencounter SPECIES_CUTIEFLY, 18, 20
+    headbuttencounter SPECIES_CUTIEFLY, 18, 20
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -1645,15 +1643,15 @@ headbuttheader  56,  18,   0   // Fuchsia City
     headbuttencounter SPECIES_HOOTHOOT, 21, 23
     headbuttencounter SPECIES_SPINARAK, 21, 23
     headbuttencounter SPECIES_SPINARAK, 21, 23
-    headbuttencounter SPECIES_WURMPLE, 21, 23
-    headbuttencounter SPECIES_WURMPLE, 21, 23
-    headbuttencounter SPECIES_WURMPLE, 21, 23
+    headbuttencounter SPECIES_KRICKETOT, 21, 23
+    headbuttencounter SPECIES_KRICKETOT, 21, 23
+    headbuttencounter SPECIES_KRICKETOT, 21, 23
     headbuttencounter SPECIES_HOOTHOOT, 26, 34
     headbuttencounter SPECIES_CUTIEFLY, 26, 34
     headbuttencounter SPECIES_HOOTHOOT, 26, 34
-    headbuttencounter SPECIES_WURMPLE, 26, 34
-    headbuttencounter SPECIES_WURMPLE, 26, 34
-    headbuttencounter SPECIES_WURMPLE, 26, 34
+    headbuttencounter SPECIES_KRICKETOT, 26, 34
+    headbuttencounter SPECIES_KRICKETOT, 26, 34
+    headbuttencounter SPECIES_KRICKETOT, 26, 34
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -1759,12 +1757,12 @@ headbuttheader  67,   7,   4   // Cherrygrove City
     headbuttencounter SPECIES_KRICKETOT, 4, 5
     headbuttencounter SPECIES_KRICKETOT, 4, 5
     // special slots
-    headbuttencounter SPECIES_KRICKETOT, 18, 20
-    headbuttencounter SPECIES_KRICKETOT, 18, 20
-    headbuttencounter SPECIES_TAILLOW, 18, 20
-    headbuttencounter SPECIES_TAILLOW, 18, 20
-    headbuttencounter SPECIES_TAILLOW, 18, 20
-    headbuttencounter SPECIES_TAILLOW, 21, 25
+    headbuttencounterwithform SPECIES_VIVILLON, 16, 30, 30
+    headbuttencounterwithform SPECIES_VIVILLON, 16, 30, 30
+    headbuttencounterwithform SPECIES_VIVILLON, 16, 30, 30
+    headbuttencounterwithform SPECIES_VIVILLON, 16, 30, 30
+    headbuttencounterwithform SPECIES_VIVILLON, 16, 30, 30
+    headbuttencounterwithform SPECIES_VIVILLON, 16, 30, 30
     // normal trees
     treecoords 570, 408, 570, 409, -1, -1, -1, -1, -1, -1, -1, -1
     treecoords 564, 411, 565, 411, -1, -1, -1, -1, -1, -1, -1, -1
@@ -1780,10 +1778,10 @@ headbuttheader  67,   7,   4   // Cherrygrove City
     treecoords 526, 389, 526, 388, -1, -1, -1, -1, -1, -1, -1, -1
 .close
 
-headbuttheader  68,   0,   0   // Cherrygrove City Pokémart
+headbuttheader  68,   0,   0   // Cherrygrove City Pokï¿½mart
 .close
 
-headbuttheader  69,   0,   0   // Cherrygrove City Pokémon Centre
+headbuttheader  69,   0,   0   // Cherrygrove City Pokï¿½mon Centre
 .close
 
 headbuttheader  70,   0,   0   // Cherrygrove City House
@@ -1846,11 +1844,11 @@ headbuttheader  73,  27,   0   // Violet City
     treecoords 461, 227, 462, 227, -1, -1, -1, -1, -1, -1, -1, -1
 .close
 
-headbuttheader  74,  15,   0   // Azalea Town
+headbuttheader  74,  13,   3   // Azalea Town
     // normal slots
     headbuttencounter SPECIES_TAILLOW, 3, 5
-    headbuttencounter SPECIES_HERACROSS, 3, 5
-    headbuttencounter SPECIES_HERACROSS, 3, 5
+    headbuttencounter SPECIES_JOLTIK, 3, 5
+    headbuttencounter SPECIES_JOLTIK, 3, 5
     headbuttencounter SPECIES_AIPOM, 3, 5
     headbuttencounter SPECIES_AIPOM, 3, 5
     headbuttencounter SPECIES_AIPOM, 3, 5
@@ -1861,19 +1859,17 @@ headbuttheader  74,  15,   0   // Azalea Town
     headbuttencounter SPECIES_AIPOM, 6, 8
     headbuttencounter SPECIES_AIPOM, 6, 8
     // special slots
-    headbuttencounter SPECIES_NONE, 0, 0
-    headbuttencounter SPECIES_NONE, 0, 0
-    headbuttencounter SPECIES_NONE, 0, 0
-    headbuttencounter SPECIES_NONE, 0, 0
-    headbuttencounter SPECIES_NONE, 0, 0
-    headbuttencounter SPECIES_NONE, 0, 0
+    headbuttencounterwithform SPECIES_VIVILLON, 19, 12, 12
+    headbuttencounterwithform SPECIES_VIVILLON, 19, 12, 12
+    headbuttencounterwithform SPECIES_VIVILLON, 19, 12, 12
+    headbuttencounterwithform SPECIES_VIVILLON, 19, 12, 12
+    headbuttencounterwithform SPECIES_VIVILLON, 19, 12, 12
+    headbuttencounterwithform SPECIES_VIVILLON, 19, 12, 12
     // normal trees
     treecoords 426, 465, 427, 465, -1, -1, -1, -1, -1, -1, -1, -1
     treecoords 424, 459, 425, 459, -1, -1, -1, -1, -1, -1, -1, -1
     treecoords 414, 455, 415, 455, -1, -1, -1, -1, -1, -1, -1, -1
-    treecoords 406, 455, 407, 455, -1, -1, -1, -1, -1, -1, -1, -1
     treecoords 396, 449, 397, 449, -1, -1, -1, -1, -1, -1, -1, -1
-    treecoords 393, 452, 393, 453, -1, -1, -1, -1, -1, -1, -1, -1
     treecoords 394, 467, 395, 467, 395, 468, 395, 469, -1, -1, -1, -1
     treecoords 395, 470, 395, 471, -1, -1, -1, -1, -1, -1, -1, -1
     treecoords 395, 472, 395, 473, -1, -1, -1, -1, -1, -1, -1, -1
@@ -1883,6 +1879,10 @@ headbuttheader  74,  15,   0   // Azalea Town
     treecoords 404, 477, 405, 477, -1, -1, -1, -1, -1, -1, -1, -1
     treecoords 410, 477, 411, 477, -1, -1, -1, -1, -1, -1, -1, -1
     treecoords 412, 477, 413, 477, -1, -1, -1, -1, -1, -1, -1, -1
+    // special trees newly introduced or changed
+    treecoords 394, 456, 395, 456, 395, 457, -1, -1, -1, -1, -1, -1
+    treecoords 393, 452, 393, 453, -1, -1, -1, -1, -1, -1, -1, -1
+    treecoords 404, 454, 404, 455, -1, -1, -1, -1, -1, -1, -1, -1        
 .close
 
 headbuttheader  75,   0,   0   // Cianwood City
@@ -1936,13 +1936,13 @@ headbuttheader  78,  18,   0   // Ecruteak City
     treecoords 378, 173, 379, 173, 379, 172, -1, -1, -1, -1, -1, -1
 .close
 
-headbuttheader  79,   0,   0   // Ecruteak City Pokémart
+headbuttheader  79,   0,   0   // Ecruteak City Pokï¿½mart
 .close
 
 headbuttheader  80,   0,   0   // Ecruteak City Gym
 .close
 
-headbuttheader  81,   0,   0   // Ecruteak Pokémon Centre
+headbuttheader  81,   0,   0   // Ecruteak Pokï¿½mon Centre
 .close
 
 headbuttheader  82,   0,   0   // Jubilife City ? (Unused)
@@ -2052,15 +2052,15 @@ headbuttheader  93,   3,   0   // Route 21
     headbuttencounter SPECIES_HOOTHOOT, 24, 26
     headbuttencounter SPECIES_SPINARAK, 24, 26
     headbuttencounter SPECIES_SPINARAK, 24, 26
-    headbuttencounter SPECIES_WURMPLE, 24, 26
-    headbuttencounter SPECIES_WURMPLE, 24, 26
-    headbuttencounter SPECIES_WURMPLE, 24, 26
+    headbuttencounter SPECIES_KRICKETOT, 24, 26
+    headbuttencounter SPECIES_KRICKETOT, 24, 26
+    headbuttencounter SPECIES_KRICKETOT, 24, 26
     headbuttencounter SPECIES_HOOTHOOT, 27, 30
     headbuttencounter SPECIES_CUTIEFLY, 27, 30
     headbuttencounter SPECIES_HOOTHOOT, 27, 30
-    headbuttencounter SPECIES_WURMPLE, 27, 30
-    headbuttencounter SPECIES_WURMPLE, 27, 30
-    headbuttencounter SPECIES_WURMPLE, 27, 30
+    headbuttencounter SPECIES_KRICKETOT, 27, 30
+    headbuttencounter SPECIES_KRICKETOT, 27, 30
+    headbuttencounter SPECIES_KRICKETOT, 27, 30
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -2095,12 +2095,12 @@ headbuttheader  96,  22,   5   // National Park
     headbuttencounter SPECIES_KRICKETOT, 13, 15
     headbuttencounter SPECIES_KRICKETOT, 13, 15
     // special slots
-    headbuttencounter SPECIES_KRICKETOT, 18, 20
-    headbuttencounter SPECIES_KRICKETOT, 18, 20
-    headbuttencounter SPECIES_CHERUBI, 18, 20
-    headbuttencounter SPECIES_CHERUBI, 18, 20
-    headbuttencounter SPECIES_CHERUBI, 18, 20
-    headbuttencounter SPECIES_CHERUBI, 21, 25
+    headbuttencounterwithform SPECIES_VIVILLON, 4, 30, 30
+    headbuttencounterwithform SPECIES_VIVILLON, 4, 30, 30
+    headbuttencounterwithform SPECIES_VIVILLON, 4, 30, 30
+    headbuttencounterwithform SPECIES_VIVILLON, 4, 30, 30
+    headbuttencounterwithform SPECIES_VIVILLON, 4, 30, 30
+    headbuttencounterwithform SPECIES_VIVILLON, 4, 30, 30
     // normal trees
     treecoords 34, 63, 35, 63, -1, -1, -1, -1, -1, -1, -1, -1
     treecoords 32, 61, 33, 61, 33, 62, -1, -1, -1, -1, -1, -1
@@ -2195,8 +2195,8 @@ headbuttheader 116,   0,   0   // Mahogany Town Souvenir Shop
 headbuttheader 117,  56,   0   // Ilex Forest
     // normal slots
     headbuttencounter SPECIES_HOOTHOOT, 3, 5
-    headbuttencounter SPECIES_LEDYBA, 3, 5
-    headbuttencounter SPECIES_LEDYBA, 3, 5
+    headbuttencounter SPECIES_JOLTIK, 3, 5
+    headbuttencounter SPECIES_JOLTIK, 3, 5
     headbuttencounter SPECIES_HOOTHOOT, 3, 5
     headbuttencounter SPECIES_SPINARAK, 3, 5
     headbuttencounter SPECIES_SPINARAK, 3, 5
@@ -2311,7 +2311,7 @@ headbuttheader 129,   0,   0   // Ecruteak City ? (Union Room ?)
 headbuttheader 130,   0,   0   // Ecruteak City ? (Union Room ?)
 .close
 
-headbuttheader 131,   0,   0   // Ecruteak City Pokémon Centre (Lower) 
+headbuttheader 131,   0,   0   // Ecruteak City Pokï¿½mon Centre (Lower) 
 .close
 
 headbuttheader 132,   0,   0   // Ecruteak City & Route 42 Gate
@@ -2347,10 +2347,10 @@ headbuttheader 141,   0,   0   // Blackthorn City Gym
 headbuttheader 142,   0,   0   // Route 43 Gate
 .close
 
-headbuttheader 143,   0,   0   // Mr Pokémons House
+headbuttheader 143,   0,   0   // Mr Pokï¿½mons House
 .close
 
-headbuttheader 144,   0,   0   // Cherrygrove City Pokémon Centre (Lower)
+headbuttheader 144,   0,   0   // Cherrygrove City Pokï¿½mon Centre (Lower)
 .close
 
 headbuttheader 145,   0,   0   // Cerulean Cave (1F)
@@ -2361,18 +2361,18 @@ headbuttheader 146,   0,   0   // Seafoam Islands (1F)
 
 headbuttheader 147,  24,   0   // Viridian Forest
     // normal slots
-    headbuttencounter SPECIES_HOOTHOOT, 3, 4
-    headbuttencounter SPECIES_SEEDOT, 3, 4
-    headbuttencounter SPECIES_SEEDOT, 3, 4
-    headbuttencounter SPECIES_SPINARAK, 3, 4
-    headbuttencounter SPECIES_HOOTHOOT, 3, 4
-    headbuttencounter SPECIES_SHROOMISH, 3, 4
-    headbuttencounter SPECIES_HOOTHOOT, 5, 7
-    headbuttencounter SPECIES_SEEDOT, 5, 7
-    headbuttencounter SPECIES_SEEDOT, 5, 7
-    headbuttencounter SPECIES_ARIADOS, 5, 7
-    headbuttencounter SPECIES_NOCTOWL, 5, 7
-    headbuttencounter SPECIES_SHROOMISH, 5, 7
+    headbuttencounter SPECIES_HOOTHOOT, 40, 50
+    headbuttencounter SPECIES_SHROOMISH, 40, 50
+    headbuttencounter SPECIES_SHROOMISH, 40, 50
+    headbuttencounter SPECIES_SPINARAK, 40, 50
+    headbuttencounter SPECIES_VOLBEAT, 40, 50
+    headbuttencounter SPECIES_ILLUMISE, 40, 50
+    headbuttencounter SPECIES_HOOTHOOT, 40, 50
+    headbuttencounter SPECIES_SHROOMISH, 40, 50
+    headbuttencounter SPECIES_SHROOMISH, 40, 50
+    headbuttencounter SPECIES_ARIADOS, 40, 50
+    headbuttencounter SPECIES_NOCTOWL, 40, 50
+    headbuttencounter SPECIES_SHROOMISH, 40, 50
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -2413,7 +2413,7 @@ headbuttheader 148,   0,   0   // Power Plant ? (Unused)
 headbuttheader 149,   0,   0   // Route 36 & Violet City Inbetween
 .close
 
-headbuttheader 150,   0,   0   // Route 35 & Pokéathlon Dome Inbetween
+headbuttheader 150,   0,   0   // Route 35 & Pokï¿½athlon Dome Inbetween
 .close
 
 headbuttheader 151,  10,   4   // Route 47
@@ -2497,13 +2497,13 @@ headbuttheader 155,   0,   0   // Sprout Tower (2F)
 headbuttheader 156,   0,   0   // Sprout Tower (3F)
 .close
 
-headbuttheader 157,   0,   0   // Violet City Pokémart
+headbuttheader 157,   0,   0   // Violet City Pokï¿½mart
 .close
 
-headbuttheader 158,   0,   0   // Violet City Pokémon Centre
+headbuttheader 158,   0,   0   // Violet City Pokï¿½mon Centre
 .close
 
-headbuttheader 159,   0,   0   // Violet City Pokémon School
+headbuttheader 159,   0,   0   // Violet City Pokï¿½mon School
 .close
 
 headbuttheader 160,   0,   0   // Violet City House
@@ -2521,22 +2521,22 @@ headbuttheader 163,   0,   0   // Azalea Town Charcoal Kiln
 headbuttheader 164,   0,   0   // Azalea Town Kurts House
 .close
 
-headbuttheader 165,   0,   0   // Azalea Town Pokémart
+headbuttheader 165,   0,   0   // Azalea Town Pokï¿½mart
 .close
 
-headbuttheader 166,   0,   0   // Azalea Town Pokémon Centre
+headbuttheader 166,   0,   0   // Azalea Town Pokï¿½mon Centre
 .close
 
-headbuttheader 167,   0,   0   // Violet City Pokémon Centre (Lower)
+headbuttheader 167,   0,   0   // Violet City Pokï¿½mon Centre (Lower)
 .close
 
-headbuttheader 168,   0,   0   // Azalea Town Pokémon Centre (Lower)
+headbuttheader 168,   0,   0   // Azalea Town Pokï¿½mon Centre (Lower)
 .close
 
-headbuttheader 169,   0,   0   // Route 32 Pokémon Centre
+headbuttheader 169,   0,   0   // Route 32 Pokï¿½mon Centre
 .close
 
-headbuttheader 170,   0,   0   // Route 32 Pokémon Centre (Lower)
+headbuttheader 170,   0,   0   // Route 32 Pokï¿½mon Centre (Lower)
 .close
 
 headbuttheader 171,   0,   0   // Ilex Forest & Route 34 Gate
@@ -2619,7 +2619,7 @@ headbuttheader 183,   0,   0   // Goldenrod City Game Corner (JAP)
 headbuttheader 184,   0,   0   // Goldenrod City Flower Shop
 .close
 
-headbuttheader 185,   0,   0   // Goldenrod City Pokémon Centre
+headbuttheader 185,   0,   0   // Goldenrod City Pokï¿½mon Centre
 .close
 
 headbuttheader 186,   0,   0   // Goldenrod Radio Tower (2F)
@@ -2721,7 +2721,7 @@ headbuttheader 217,   0,   0   // Burned Tower B1F
 headbuttheader 218,   0,   0   // Ruins of Alph (Inside)
 .close
 
-headbuttheader 219,   0,   0   // Goldenrod City Pokémon Centre (Lower)
+headbuttheader 219,   0,   0   // Goldenrod City Pokï¿½mon Centre (Lower)
 .close
 
 headbuttheader 220,   0,   0   // Glitter Lighthouse (2F)
@@ -2742,10 +2742,10 @@ headbuttheader 224,   0,   0   // Glitter Lighthouse (5F)
 headbuttheader 225,   0,   0   // Glitter Lighthouse Light Room
 .close
 
-headbuttheader 226,   0,   0   // Olivine City Pokémon Centre
+headbuttheader 226,   0,   0   // Olivine City Pokï¿½mon Centre
 .close
 
-headbuttheader 227,   0,   0   // Olivine City Pokémart
+headbuttheader 227,   0,   0   // Olivine City Pokï¿½mart
 .close
 
 headbuttheader 228,   0,   0   // Olivine City House
@@ -2757,7 +2757,7 @@ headbuttheader 229,   0,   0   // Olivine City House
 headbuttheader 230,   0,   0   // Olivine City House
 .close
 
-headbuttheader 231,   0,   0   // Olivine City Café
+headbuttheader 231,   0,   0   // Olivine City Cafï¿½
 .close
 
 headbuttheader 232,   0,   0   // Cianwood City House
@@ -2772,7 +2772,7 @@ headbuttheader 234,   0,   0   // Cianwood City House
 headbuttheader 235,   0,   0   // Cianwood City House
 .close
 
-headbuttheader 236,   0,   0   // Cianwood City Pokémon Centre
+headbuttheader 236,   0,   0   // Cianwood City Pokï¿½mon Centre
 .close
 
 headbuttheader 237,   0,   0   // (Ice Path B1F)
@@ -2787,7 +2787,7 @@ headbuttheader 239,   0,   0   // Ice Path (B3F)
 headbuttheader 240,   0,   0   // Olivine City House
 .close
 
-headbuttheader 241,   0,   0   // Cianwood City Pokémon Centre (Lower)
+headbuttheader 241,   0,   0   // Cianwood City Pokï¿½mon Centre (Lower)
 .close
 
 headbuttheader 242,   0,   0   // Whirl Islands (B1F)
@@ -2802,7 +2802,7 @@ headbuttheader 244,   0,   0   // Whirl Islands (B3F)
 headbuttheader 245,   0,   0   // Route 43 Gate
 .close
 
-headbuttheader 246,   0,   0   // Mahogany Town Pokémon Centre
+headbuttheader 246,   0,   0   // Mahogany Town Pokï¿½mon Centre
 .close
 
 headbuttheader 247,   0,   0   // Team Rocket HQ (B1F)
@@ -2904,28 +2904,28 @@ headbuttheader 278,   0,   0   // Battle Arcade
 headbuttheader 279,   0,   0   // Cliff Edge Gate
 .close
 
-headbuttheader 280,   0,   0   // Pokéathlon Dome (Outside)
+headbuttheader 280,   0,   0   // Pokï¿½athlon Dome (Outside)
 .close
 
-headbuttheader 281,   0,   0   // Pokéathlon Dome (Inside)
+headbuttheader 281,   0,   0   // Pokï¿½athlon Dome (Inside)
 .close
 
-headbuttheader 282,   0,   0   // Pokéathlon Dome (Inside)
+headbuttheader 282,   0,   0   // Pokï¿½athlon Dome (Inside)
 .close
 
-headbuttheader 283,   0,   0   // Pokéathlon Dome (Inside)
+headbuttheader 283,   0,   0   // Pokï¿½athlon Dome (Inside)
 .close
 
-headbuttheader 284,   0,   0   // Pokéathlon Dome (Inside)
+headbuttheader 284,   0,   0   // Pokï¿½athlon Dome (Inside)
 .close
 
-headbuttheader 285,   0,   0   // Pokéathlon Dome (Inside)
+headbuttheader 285,   0,   0   // Pokï¿½athlon Dome (Inside)
 .close
 
-headbuttheader 286,   0,   0   // Pokéathlon Dome (Inside)
+headbuttheader 286,   0,   0   // Pokï¿½athlon Dome (Inside)
 .close
 
-headbuttheader 287,   0,   0   // Pokéathlon Dome (Inside)
+headbuttheader 287,   0,   0   // Pokï¿½athlon Dome (Inside)
 .close
 
 headbuttheader 288,   0,   0   // Dragons Den (Shrine)
@@ -2940,10 +2940,10 @@ headbuttheader 290,   0,   0   // Blackthorn City House
 headbuttheader 291,   0,   0   // Blackthorn City House
 .close
 
-headbuttheader 292,   0,   0   // Blackthorn City Pokémart
+headbuttheader 292,   0,   0   // Blackthorn City Pokï¿½mart
 .close
 
-headbuttheader 293,   0,   0   // Blackthorn City Pokémon Centre
+headbuttheader 293,   0,   0   // Blackthorn City Pokï¿½mon Centre
 .close
 
 headbuttheader 294,   0,   0   // Lake of Rage House
@@ -2961,28 +2961,28 @@ headbuttheader 297,   0,   0   // Route 26 Week Siblings House
 headbuttheader 298,   0,   0   // Tohjo Falls Hidden Room
 .close
 
-headbuttheader 299,   0,   0   // Pokémon League Reception Gate
+headbuttheader 299,   0,   0   // Pokï¿½mon League Reception Gate
 .close
 
-headbuttheader 300,   0,   0   // Pokémon League
+headbuttheader 300,   0,   0   // Pokï¿½mon League
 .close
 
-headbuttheader 301,   0,   0   // Pokémon League (Wills Room)
+headbuttheader 301,   0,   0   // Pokï¿½mon League (Wills Room)
 .close
 
-headbuttheader 302,   0,   0   // Pokémon League (Kogas Room)
+headbuttheader 302,   0,   0   // Pokï¿½mon League (Kogas Room)
 .close
 
-headbuttheader 303,   0,   0   // Pokémon League (Brunos Room)
+headbuttheader 303,   0,   0   // Pokï¿½mon League (Brunos Room)
 .close
 
-headbuttheader 304,   0,   0   // Pokémon League (Karens Room)
+headbuttheader 304,   0,   0   // Pokï¿½mon League (Karens Room)
 .close
 
-headbuttheader 305,   0,   0   // Pokémon League (Lances Room)
+headbuttheader 305,   0,   0   // Pokï¿½mon League (Lances Room)
 .close
 
-headbuttheader 306,   0,   0   // Pokémon League (Hall of Fame)
+headbuttheader 306,   0,   0   // Pokï¿½mon League (Hall of Fame)
 .close
 
 headbuttheader 307,   0,   0   // S.S Aqua
@@ -3057,7 +3057,7 @@ headbuttheader 329,   0,   0   // S.S Aqua
 headbuttheader 330,   0,   0   // Olivine Port
 .close
 
-headbuttheader 331,   0,   0   // Pokémon Daycare
+headbuttheader 331,   0,   0   // Pokï¿½mon Daycare
 .close
 
 headbuttheader 332,   0,   0   // Bell Tower (2F)
@@ -3138,19 +3138,19 @@ headbuttheader 356,   0,   0   // Safari Zone
 headbuttheader 357,   0,   0   // Safari Zone
 .close
 
-headbuttheader 358,   0,   0   // Vermilion City Pokémon Centre
+headbuttheader 358,   0,   0   // Vermilion City Pokï¿½mon Centre
 .close
 
-headbuttheader 359,   0,   0   // Vermilion City Pokémon Centre (Lower)
+headbuttheader 359,   0,   0   // Vermilion City Pokï¿½mon Centre (Lower)
 .close
 
-headbuttheader 360,   0,   0   // Vermilion City Pokémart
+headbuttheader 360,   0,   0   // Vermilion City Pokï¿½mart
 .close
 
-headbuttheader 361,   0,   0   // Vermilion City Pokémon Centre
+headbuttheader 361,   0,   0   // Vermilion City Pokï¿½mon Centre
 .close
 
-headbuttheader 362,   0,   0   // Vermilion City Pokémon Fan Club
+headbuttheader 362,   0,   0   // Vermilion City Pokï¿½mon Fan Club
 .close
 
 headbuttheader 363,   0,   0   // Vermilion City House
@@ -3165,13 +3165,13 @@ headbuttheader 365,   0,   0   // Vermilion City Gym
 headbuttheader 366,   0,   0   // Route 40 & Frontier Access Gate
 .close
 
-headbuttheader 367,   0,   0   // Olivine City Pokémon Center (Lower)
+headbuttheader 367,   0,   0   // Olivine City Pokï¿½mon Center (Lower)
 .close
 
-headbuttheader 368,   0,   0   // Mahogany Town Pokémon Center (Lower)
+headbuttheader 368,   0,   0   // Mahogany Town Pokï¿½mon Center (Lower)
 .close
 
-headbuttheader 369,   0,   0   // Blackthorn Town Pokémon Center (Lower)
+headbuttheader 369,   0,   0   // Blackthorn Town Pokï¿½mon Center (Lower)
 .close
 
 headbuttheader 370,   0,   0   // Celadon City Department Store (1F)
@@ -3243,10 +3243,10 @@ headbuttheader 391,   0,   0   // Route 5 & Saffron City Gate
 headbuttheader 392,   0,   0   // Route 15 & Fushsia City Gate
 .close
 
-headbuttheader 393,   0,   0   // Celadon City Pokémon Centre
+headbuttheader 393,   0,   0   // Celadon City Pokï¿½mon Centre
 .close
 
-headbuttheader 394,   0,   0   // Celadon City Pokémon Centre (Lower)
+headbuttheader 394,   0,   0   // Celadon City Pokï¿½mon Centre (Lower)
 .close
 
 headbuttheader 395,   0,   0   // Celadon City Gym
@@ -3285,13 +3285,13 @@ headbuttheader 405,   0,   0   // Saffron City House
 headbuttheader 406,   0,   0   // Saffron City House
 .close
 
-headbuttheader 407,   0,   0   // Saffron City Pokémon Center
+headbuttheader 407,   0,   0   // Saffron City Pokï¿½mon Center
 .close
 
-headbuttheader 408,   0,   0   // Saffron City Pokémon Center (Lower)
+headbuttheader 408,   0,   0   // Saffron City Pokï¿½mon Center (Lower)
 .close
 
-headbuttheader 409,   0,   0   // Saffron City Pokémart
+headbuttheader 409,   0,   0   // Saffron City Pokï¿½mart
 .close
 
 headbuttheader 410,   0,   0   // Saffron City Gym
@@ -3311,15 +3311,15 @@ headbuttheader 414,  13,   0   // Route 2
     headbuttencounter SPECIES_HOOTHOOT, 3, 4
     headbuttencounter SPECIES_PINECO, 3, 4
     headbuttencounter SPECIES_PINECO, 3, 4
-    headbuttencounter SPECIES_WURMPLE, 3, 4
-    headbuttencounter SPECIES_WURMPLE, 3, 4
-    headbuttencounter SPECIES_WURMPLE, 3, 4
+    headbuttencounter SPECIES_KRICKETOT, 3, 4
+    headbuttencounter SPECIES_KRICKETOT, 3, 4
+    headbuttencounter SPECIES_KRICKETOT, 3, 4
     headbuttencounter SPECIES_HOOTHOOT, 5, 7
     headbuttencounter SPECIES_SPINARAK, 5, 7
     headbuttencounter SPECIES_SPINARAK, 5, 7
-    headbuttencounter SPECIES_WURMPLE, 5, 7
-    headbuttencounter SPECIES_WURMPLE, 5, 7
-    headbuttencounter SPECIES_WURMPLE, 5, 7
+    headbuttencounter SPECIES_KRICKETOT, 5, 7
+    headbuttencounter SPECIES_KRICKETOT, 5, 7
+    headbuttencounter SPECIES_KRICKETOT, 5, 7
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -3369,15 +3369,15 @@ headbuttheader 422,   5,   0   // Route 16
     headbuttencounter SPECIES_TAILLOW, 26, 27
     headbuttencounter SPECIES_HERACROSS, 26, 27
     headbuttencounter SPECIES_HERACROSS, 26, 27
-    headbuttencounter SPECIES_COMBEE, 26, 27
-    headbuttencounter SPECIES_COMBEE, 26, 27
-    headbuttencounter SPECIES_COMBEE, 26, 27
+    headbuttencounter SPECIES_CUTIEFLY, 26, 27
+    headbuttencounter SPECIES_CUTIEFLY, 26, 27
+    headbuttencounter SPECIES_CUTIEFLY, 26, 27
     headbuttencounter SPECIES_TAILLOW, 29, 30
     headbuttencounter SPECIES_TAILLOW, 29, 30
     headbuttencounter SPECIES_TAILLOW, 29, 30
-    headbuttencounter SPECIES_COMBEE, 29, 30
-    headbuttencounter SPECIES_COMBEE, 29, 30
-    headbuttencounter SPECIES_COMBEE, 29, 30
+    headbuttencounter SPECIES_CUTIEFLY, 29, 30
+    headbuttencounter SPECIES_CUTIEFLY, 29, 30
+    headbuttencounter SPECIES_CUTIEFLY, 29, 30
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -3402,13 +3402,13 @@ headbuttheader 424,   0,   0   // Route 19 & Fushsia City Gate
 headbuttheader 425,   0,   0   // Route 11 & Route 12 Gate
 .close
 
-headbuttheader 426,   0,   0   // Cerulean City Pokémart
+headbuttheader 426,   0,   0   // Cerulean City Pokï¿½mart
 .close
 
 headbuttheader 427,   0,   0   // Cerulean City Gym
 .close
 
-headbuttheader 428,   0,   0   // Cerulean City Pokémon Centre
+headbuttheader 428,   0,   0   // Cerulean City Pokï¿½mon Centre
 .close
 
 headbuttheader 429,   0,   0   // Cerulean City House
@@ -3423,10 +3423,10 @@ headbuttheader 431,   0,   0   // Cerulean City House
 headbuttheader 432,   0,   0   // Cerulean City Bike Shop
 .close
 
-headbuttheader 433,   0,   0   // Lavender Town Pokémart
+headbuttheader 433,   0,   0   // Lavender Town Pokï¿½mart
 .close
 
-headbuttheader 434,   0,   0   // Lavender Town Pokémon Centre
+headbuttheader 434,   0,   0   // Lavender Town Pokï¿½mon Centre
 .close
 
 headbuttheader 435,   0,   0   // Lavender Town House
@@ -3546,7 +3546,7 @@ headbuttheader 464,   0,   0   // Mt. Silver Cave (3F)
 headbuttheader 465,   0,   0   // Mt. Silver Cave (Summit)
 .close
 
-headbuttheader 466,   0,   0   // Route 10 Pokémon Centre
+headbuttheader 466,   0,   0   // Route 10 Pokï¿½mon Centre
 .close
 
 headbuttheader 467,   0,   0   // Power Plant
@@ -3570,19 +3570,19 @@ headbuttheader 472,   0,   0   // Pewter City House
 headbuttheader 473,   0,   0   // Pewter City Gym
 .close
 
-headbuttheader 474,   0,   0   // Pewter City Pokémart
+headbuttheader 474,   0,   0   // Pewter City Pokï¿½mart
 .close
 
-headbuttheader 475,   0,   0   // Pewter City Pokémon Centre
+headbuttheader 475,   0,   0   // Pewter City Pokï¿½mon Centre
 .close
 
-headbuttheader 476,   0,   0   // Pewter City Pokémon Centre (Lower)
+headbuttheader 476,   0,   0   // Pewter City Pokï¿½mon Centre (Lower)
 .close
 
 headbuttheader 477,   0,   0   // Pewter City House
 .close
 
-headbuttheader 478,   0,   0   // Fushsia City Pokémart
+headbuttheader 478,   0,   0   // Fushsia City Pokï¿½mart
 .close
 
 headbuttheader 479,   0,   0   // Pal Park (Inside)
@@ -3594,16 +3594,16 @@ headbuttheader 480,   0,   0   // Fushsia City Gym
 headbuttheader 481,   0,   0   // Fushsia City House
 .close
 
-headbuttheader 482,   0,   0   // Fushsia City Pokémon Centre
+headbuttheader 482,   0,   0   // Fushsia City Pokï¿½mon Centre
 .close
 
 headbuttheader 483,   0,   0   // Fushsia City House
 .close
 
-headbuttheader 484,   0,   0   // Route 10 Pokémon Centre (Lower)
+headbuttheader 484,   0,   0   // Route 10 Pokï¿½mon Centre (Lower)
 .close
 
-headbuttheader 485,   0,   0   // Fuchsia City Pokémon Centre (Lower)
+headbuttheader 485,   0,   0   // Fuchsia City Pokï¿½mon Centre (Lower)
 .close
 
 headbuttheader 486,   0,   0   // Whirl Islands (Lugias Room)
@@ -3630,10 +3630,10 @@ headbuttheader 492,   0,   0   // Ruins of Alph (Underground Hall)
 headbuttheader 493,   0,   0   // Route 7 & Saffron City Gate
 .close
 
-headbuttheader 494,   0,   0   // Lavender Town Pokémon Centre (Lower)
+headbuttheader 494,   0,   0   // Lavender Town Pokï¿½mon Centre (Lower)
 .close
 
-headbuttheader 495,   0,   0   // Cerulean City Pokémon Centre (Lower)
+headbuttheader 495,   0,   0   // Cerulean City Pokï¿½mon Centre (Lower)
 .close
 
 headbuttheader 496,   0,   0   // Viridian City Gym
@@ -3648,13 +3648,13 @@ headbuttheader 498,   0,   0   // Viridian City Trainer House
 headbuttheader 499,   0,   0   // Viridian City Trainer House 2F
 .close
 
-headbuttheader 500,   0,   0   // Viridian City Pokémart
+headbuttheader 500,   0,   0   // Viridian City Pokï¿½mart
 .close
 
-headbuttheader 501,   0,   0   // Viridian City Pokémon Centre 
+headbuttheader 501,   0,   0   // Viridian City Pokï¿½mon Centre 
 .close
 
-headbuttheader 502,   0,   0   // Viridian City Pokémon Centre (Lower)
+headbuttheader 502,   0,   0   // Viridian City Pokï¿½mon Centre (Lower)
 .close
 
 headbuttheader 503,   0,   0   // Pallet Town Reds House 1F
@@ -3672,28 +3672,28 @@ headbuttheader 506,   0,   0   // Pallet Town Reds House 2F
 headbuttheader 507,   0,   0   // Pallet Town Blues House 2F
 .close
 
-headbuttheader 508,   0,   0   // Cinnabar Island Pokémon Centre
+headbuttheader 508,   0,   0   // Cinnabar Island Pokï¿½mon Centre
 .close
 
-headbuttheader 509,   0,   0   // Cinnabar Island Pokémon Centre (Lower)
+headbuttheader 509,   0,   0   // Cinnabar Island Pokï¿½mon Centre (Lower)
 .close
 
 headbuttheader 510,   0,   0   // Route 28 House
 .close
 
-headbuttheader 511,   0,   0   // Route 3 Pokémon Centre
+headbuttheader 511,   0,   0   // Route 3 Pokï¿½mon Centre
 .close
 
-headbuttheader 512,   0,   0   // Route 3 Pokémon Centre (Lower)
+headbuttheader 512,   0,   0   // Route 3 Pokï¿½mon Centre (Lower)
 .close
 
 headbuttheader 513,   0,   0   // Mt. Moon Square
 .close
 
-headbuttheader 514,   0,   0   // Mt. Silver Pokémon Centre
+headbuttheader 514,   0,   0   // Mt. Silver Pokï¿½mon Centre
 .close
 
-headbuttheader 515,   0,   0   // Mt. Silver Pokémon Centre (Lower)
+headbuttheader 515,   0,   0   // Mt. Silver Pokï¿½mon Centre (Lower)
 .close
 
 headbuttheader 516,   0,   0   // HIROBA
@@ -3732,13 +3732,13 @@ headbuttheader 526,   0,   0   // Embedded Tower (Rayquaza)
 headbuttheader 527,   0,   0   // Route 1 & Viridian City Gate
 .close
 
-headbuttheader 528,   0,   0   // Frontier Access Pokémon Center
+headbuttheader 528,   0,   0   // Frontier Access Pokï¿½mon Center
 .close
 
-headbuttheader 529,   0,   0   // Frontier Access Pokémon Center (Lower)
+headbuttheader 529,   0,   0   // Frontier Access Pokï¿½mon Center (Lower)
 .close
 
-headbuttheader 530,   0,   0   // Frontier Access Pokémart
+headbuttheader 530,   0,   0   // Frontier Access Pokï¿½mart
 .close
 
 headbuttheader 531,   0,   0   // Frontier Access House
@@ -3750,10 +3750,10 @@ headbuttheader 532,   0,   0   // Underground Path
 headbuttheader 533,   0,   0   // Route 12 House
 .close
 
-headbuttheader 534,   0,   0   // Safari Zone Gate Pokémon Center
+headbuttheader 534,   0,   0   // Safari Zone Gate Pokï¿½mon Center
 .close
 
-headbuttheader 535,   0,   0   // Safari Zone Gate Pokémon Centre (Lower)
+headbuttheader 535,   0,   0   // Safari Zone Gate Pokï¿½mon Centre (Lower)
 .close
 
 headbuttheader 536,   0,   0   // Goldenrod City Game Corner
@@ -3765,5 +3765,5 @@ headbuttheader 537,   0,   0   // Celadon City Game Corner
 headbuttheader 538,   0,   0   // Mystery Zone
 .close
 
-headbuttheader 539,   0,   0   // Pokémon League Pokémon Centre (Lower)
+headbuttheader 539,   0,   0   // Pokï¿½mon League Pokï¿½mon Centre (Lower)
 .close

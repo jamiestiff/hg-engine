@@ -1432,7 +1432,7 @@ trainerdata 33, "Jasmine"
         move MOVE_STONE_EDGE
         move MOVE_IRON_HEAD
         move MOVE_AUTOTOMIZE
-        ability ABILITY_STURDY
+        ability ABILITY_EARTH_EATER
         ball ITEM_HEAVY_BALL
         setivs 20, 31, 20, 20, 0, 31 // hp, atk, def, spd, spatk, spdef
         setevs 100, 128, 0, 0, 0, 128
@@ -5782,7 +5782,7 @@ trainerdata 164, "Miki"
         move MOVE_HIDDEN_POWER
         move MOVE_SIGNAL_BEAM
         move MOVE_DISCHARGE
-        ability ABILITY_VOLT_ABSORB
+        ability ABILITY_MOTOR_DRIVE
         ball ITEM_LOVE_BALL
         setivs 31, 31, 31, 30, 30, 31 // hp, atk, def, spd, spatk, spdef
         setevs 0, 0, 0, 252, 252, 0
@@ -10895,7 +10895,7 @@ trainerdata 258, "Sabrina"
         item ITEM_TWISTED_SPOON
         move MOVE_PSYSHOCK
         move MOVE_PROTECT
-        move MOVE_EXPANDING_FORCE
+        move MOVE_MYSTICAL_FIRE
         move MOVE_THUNDERBOLT
         ability ABILITY_SHADOW_TAG
         ball ITEM_MOON_BALL
@@ -12416,7 +12416,7 @@ trainerdata 273, "Sabrina"
         item ITEM_TWISTED_SPOON
         move MOVE_PSYSHOCK
         move MOVE_PROTECT
-        move MOVE_EXPANDING_FORCE
+        move MOVE_MYSTICAL_FIRE
         move MOVE_THUNDERBOLT
         ability ABILITY_SHADOW_TAG
         ball ITEM_MOON_BALL
@@ -29421,7 +29421,7 @@ trainerdata 711, "Shuchu"
         move MOVE_SPORE
         move MOVE_TRAILBLAZE
         move MOVE_DETECT
-        ability ABILITY_EFFECT_SPORE
+        ability ABILITY_TECHNICIAN
         ball ITEM_NONE
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
         setevs 0, 252, 0, 252, 0, 0

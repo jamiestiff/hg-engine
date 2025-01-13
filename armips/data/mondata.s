@@ -2829,7 +2829,7 @@ mondata SPECIES_EEVEE, "Eevee"
 
 
 mondata SPECIES_VAPOREON, "Vaporeon"
-    basestats 130, 65, 60, 65, 110, 95
+    basestats 130, 65, 75, 50, 95, 110
     types TYPE_WATER, TYPE_WATER
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -2850,7 +2850,7 @@ mondata SPECIES_VAPOREON, "Vaporeon"
 
 
 mondata SPECIES_JOLTEON, "Jolteon"
-    basestats 65, 65, 60, 130, 110, 95
+    basestats 50, 110, 75, 130, 95, 65
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -2861,7 +2861,7 @@ mondata SPECIES_JOLTEON, "Jolteon"
     basefriendship 50
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_FIELD, EGG_GROUP_FIELD
-    abilities ABILITY_VOLT_ABSORB, ABILITY_MOTOR_DRIVE
+    abilities ABILITY_MOTOR_DRIVE, ABILITY_QUICK_FEET
     runchance 0
     colorflip BODY_COLOR_YELLOW, 0
     mondexentry SPECIES_JOLTEON, "It concentrates the weak electric\ncharges emitted by its cells and\nlaunches wicked lightning bolts."
@@ -2871,7 +2871,7 @@ mondata SPECIES_JOLTEON, "Jolteon"
 
 
 mondata SPECIES_FLAREON, "Flareon"
-    basestats 65, 130, 60, 95, 65, 110
+    basestats 110, 130, 50, 95, 65, 75
     types TYPE_FIRE, TYPE_FIRE
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -3039,7 +3039,7 @@ mondata SPECIES_SNORLAX, "Snorlax"
 
 
 mondata SPECIES_ARTICUNO, "Articuno"
-    basestats 110, 65, 135, 85, 105, 135
+    basestats 110, 55, 135, 85, 105, 135
     types TYPE_ICE, TYPE_FLYING
     catchrate 3
     baseexp 0 // defined in baseexp.s
@@ -3081,7 +3081,7 @@ mondata SPECIES_ZAPDOS, "Zapdos"
 
 
 mondata SPECIES_MOLTRES, "Moltres"
-    basestats 90, 100, 90, 90, 125, 85
+    basestats 105, 110, 85, 105, 135, 55
     types TYPE_FIRE, TYPE_FLYING
     catchrate 3
     baseexp 0 // defined in baseexp.s
@@ -4131,7 +4131,7 @@ mondata SPECIES_QUAGSIRE, "Quagsire"
 
 
 mondata SPECIES_ESPEON, "Espeon"
-    basestats 65, 65, 60, 110, 130, 95
+    basestats 65, 50, 75, 110, 130, 95
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -4152,7 +4152,7 @@ mondata SPECIES_ESPEON, "Espeon"
 
 
 mondata SPECIES_UMBREON, "Umbreon"
-    basestats 95, 65, 110, 65, 60, 130
+    basestats 95, 75, 110, 50, 65, 130
     types TYPE_DARK, TYPE_DARK
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -9885,7 +9885,7 @@ mondata SPECIES_YANMEGA, "Yanmega"
 
 
 mondata SPECIES_LEAFEON, "Leafeon"
-    basestats 65, 110, 130, 95, 60, 65
+    basestats 75, 130, 110, 95, 50, 65
     types TYPE_GRASS, TYPE_GRASS
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -9906,7 +9906,7 @@ mondata SPECIES_LEAFEON, "Leafeon"
 
 
 mondata SPECIES_GLACEON, "Glaceon"
-    basestats 65, 60, 135, 65, 130, 95
+    basestats 95, 50, 150, 65, 110, 75
     types TYPE_ICE, TYPE_ICE
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -15765,7 +15765,7 @@ mondata SPECIES_AURORUS, "Aurorus"
 
 
 mondata SPECIES_SYLVEON, "Sylveon"
-    basestats 95, 65, 65, 60, 110, 130
+    basestats 95, 65, 50, 75, 110, 130
     types (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -21652,7 +21652,7 @@ mondata SPECIES_CLODSIRE, "Clodsire"
     baseexp 0 // defined in baseexp.s
     evyields 2, 0, 0, 0, 0, 0
     items ITEM_NONE, ITEM_NONE
-    genderratio 127
+    genderratio 0
     eggcycles 20
     basefriendship 50
     growthrate GROWTH_MEDIUM_FAST
@@ -21993,7 +21993,7 @@ mondata SPECIES_FRIGIBAX, "Frigibax"
     basefriendship 50
     growthrate GROWTH_SLOW
     egggroups EGG_GROUP_DRAGON, EGG_GROUP_MINERAL
-    abilities ABILITY_SHEER_FORCE, ABILITY_ICE_BODY
+    abilities ABILITY_THERMAL_EXCHANGE, ABILITY_ICE_BODY
     runchance 0
     colorflip BODY_COLOR_GRAY, 0
     mondexentry SPECIES_FRIGIBAX, "This Pokémon lives in craggy areas.\nUsing its dorsal fin, it cools the\ninside of its nest like a refrigerator."
@@ -22014,7 +22014,7 @@ mondata SPECIES_ARCTIBAX, "Arctibax"
     basefriendship 50
     growthrate GROWTH_SLOW
     egggroups EGG_GROUP_DRAGON, EGG_GROUP_MINERAL
-    abilities ABILITY_SHEER_FORCE, ABILITY_ICE_BODY
+    abilities ABILITY_THERMAL_EXCHANGE, ABILITY_ICE_BODY
     runchance 0
     colorflip BODY_COLOR_GRAY, 0
     mondexentry SPECIES_ARCTIBAX, "It attacks with the blade of its\nfrozen dorsal fin by doing a\nfront flip in the air."
@@ -22035,7 +22035,7 @@ mondata SPECIES_BAXCALIBUR, "Baxcalibur"
     basefriendship 50
     growthrate GROWTH_SLOW
     egggroups EGG_GROUP_DRAGON, EGG_GROUP_MINERAL
-    abilities ABILITY_SHEER_FORCE, ABILITY_ICE_BODY
+    abilities ABILITY_THERMAL_EXCHANGE, ABILITY_ICE_BODY
     runchance 0
     colorflip BODY_COLOR_GRAY, 0
     mondexentry SPECIES_BAXCALIBUR, "It battles by flipping upside down and\nspewing frigid air from its mouth.\nIts dorsal blade finishes foes off."
@@ -26960,7 +26960,7 @@ mondata SPECIES_WOOPER_PALDEAN, "-----"
     baseexp 0 // defined in baseexp.s
     evyields 1, 0, 0, 0, 0, 0
     items ITEM_NONE, ITEM_NONE
-    genderratio 127
+    genderratio 0
     eggcycles 20
     basefriendship 50
     growthrate GROWTH_MEDIUM_FAST
