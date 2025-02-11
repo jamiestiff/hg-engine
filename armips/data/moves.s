@@ -3807,7 +3807,7 @@ movedata MOVE_HIDDEN_POWER, "Hidden Power"
     basepower 60
     type TYPE_NORMAL
     accuracy 100
-    pp 15
+    pp 5
     effectchance 0
     target MOVE_TARGET_SELECTED
     priority 0
@@ -5501,7 +5501,7 @@ movedata MOVE_COVET, "Covet"
     battleeffect MOVE_EFFECT_STEAL_HELD_ITEM
     pss SPLIT_PHYSICAL
     basepower 60
-    type TYPE_NORMAL
+    type (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL
     accuracy 100
     pp 25
     effectchance 0
@@ -7439,7 +7439,7 @@ movedata MOVE_DARK_VOID, "Lights Out"
     basepower 0
     type TYPE_DARK
     accuracy 100
-    pp 10
+    pp 5
     effectchance 0
     target MOVE_TARGET_SELECTED
     priority 0
@@ -9800,7 +9800,7 @@ movedata MOVE_BABY_DOLL_EYES, "Baby-Doll Eyes"
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_BABY_DOLL_EYES, "---"
+    movedescription MOVE_BABY_DOLL_EYES, "The user pleads with\nits baby-doll eyes,\nlowering the foe’s\nAttack. This move\nalways goes first."
 
 movedata MOVE_NUZZLE, "Nuzzle"
     battleeffect MOVE_EFFECT_PARALYZE_HIT

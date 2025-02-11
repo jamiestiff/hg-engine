@@ -3266,6 +3266,9 @@ _1C78: // Trainer 443
 _1C7C: // Trainer 477
     trainertextentry 477, TEXT_DEFEATED_IN_BATTLE, "I've learned a valuable lesson!\n"
 
+_1C80: // Trainer 504
+    trainertextentry 504, TEXT_DEFEATED_IN_BATTLE, "Okay, okay! I give up!\n"
+
 .close
 
 .create "build/trainer_text_offsets/1_0", 0
@@ -3774,7 +3777,7 @@ _1C7C: // Trainer 477
 /* Trainer 501 */ .halfword _13EC
 /* Trainer 502 */ .halfword _13F8
 /* Trainer 503 */ .halfword _1950
-/* Trainer 504 */ .halfword _0000
+/* Trainer 504 */ .halfword _1C80
 /* Trainer 505 */ .halfword _1A40
 /* Trainer 506 */ .halfword _0000
 /* Trainer 507 */ .halfword _1920

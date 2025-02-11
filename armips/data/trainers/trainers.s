@@ -21786,10 +21786,10 @@ trainerdata 503, "Jack"
         ballseal 0
     endparty
 
-trainerdata 504, "Mickey"
+trainerdata 504, "Connor"
     trainermontype TRAINER_DATA_TYPE_MOVES
-    trainerclass CLASS_SCHOOL_KID_M
-    nummons 3
+    trainerclass CLASS_BURGLAR
+    nummons 6
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -21800,36 +21800,69 @@ trainerdata 504, "Mickey"
 
     party 504
         // mon 0
-        ivs 0
+        ivs 50
         abilityslot 0
-        level 35
-        pokemon SPECIES_ELECTRODE
-        move MOVE_SCREECH
-        move MOVE_SONIC_BOOM
-        move MOVE_ROLLOUT
-        move MOVE_LIGHT_SCREEN
+        level 18
+        pokemon SPECIES_MURKROW
+        move MOVE_SWIFT
+        move MOVE_PURSUIT
+        move MOVE_GUST
+        move MOVE_NIGHT_SHADE
         ballseal 0
 
         // mon 1
-        ivs 0
-        abilityslot 0
-        level 35
-        pokemon SPECIES_GROWLITHE
-        move MOVE_SUNNY_DAY
-        move MOVE_LEER
-        move MOVE_TAKE_DOWN
-        move MOVE_FLAME_WHEEL
+        ivs 50
+        abilityslot 32
+        level 18
+        pokemon SPECIES_MURKROW
+        move MOVE_SWIFT
+        move MOVE_PURSUIT
+        move MOVE_TAUNT
+        move MOVE_NIGHT_SHADE
         ballseal 0
 
         // mon 2
-        ivs 0
+        ivs 50
         abilityslot 0
-        level 37
-        pokemon SPECIES_VILEPLUME
-        move MOVE_SOLAR_BEAM
-        move MOVE_SLEEP_POWDER
-        move MOVE_ACID
-        move MOVE_MOONLIGHT
+        level 18
+        pokemon SPECIES_MURKROW
+        move MOVE_SWIFT
+        move MOVE_PURSUIT
+        move MOVE_SNARL
+        move MOVE_NIGHT_SHADE
+        ballseal 0
+
+        // mon 3
+        ivs 50
+        abilityslot 32
+        level 19
+        pokemon SPECIES_MURKROW
+        move MOVE_SWIFT
+        move MOVE_SNARL
+        move MOVE_WING_ATTACK
+        move MOVE_HIDDEN_POWER
+        ballseal 0
+
+        // mon 4
+        ivs 50
+        abilityslot 32
+        level 18
+        pokemon SPECIES_MURKROW
+        move MOVE_SWIFT
+        move MOVE_SNARL
+        move MOVE_AIR_CUTTER
+        move MOVE_HIDDEN_POWER
+        ballseal 0
+
+        // mon 5
+        ivs 100
+        abilityslot 0
+        level 19
+        pokemon SPECIES_MURKROW
+        move MOVE_SWIFT
+        move MOVE_PUNISHMENT
+        move MOVE_WING_ATTACK
+        move MOVE_STEEL_WING
         ballseal 0
     endparty
 

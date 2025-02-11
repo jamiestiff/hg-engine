@@ -4553,7 +4553,7 @@ mondata SPECIES_SNEASEL, "Sneasel"
 mondata SPECIES_TEDDIURSA, "Teddiursa"
     basestats 60, 80, 50, 40, 50, 50
     types TYPE_NORMAL, TYPE_NORMAL
-    catchrate 120
+    catchrate 170
     baseexp 0 // defined in baseexp.s
     evyields 0, 1, 0, 0, 0, 0
     items ITEM_ORAN_BERRY, ITEM_SITRUS_BERRY
@@ -4868,7 +4868,7 @@ mondata SPECIES_KINGDRA, "Kingdra"
 mondata SPECIES_PHANPY, "Phanpy"
     basestats 90, 60, 60, 40, 40, 40
     types TYPE_GROUND, TYPE_GROUND
-    catchrate 120
+    catchrate 170
     baseexp 0 // defined in baseexp.s
     evyields 1, 0, 0, 0, 0, 0
     items ITEM_NONE, ITEM_PASSHO_BERRY
@@ -15044,7 +15044,7 @@ mondata SPECIES_SPEWPA, "Spewpa"
     abilities ABILITY_SHED_SKIN, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_BLACK, 0
-    mondexentry SPECIES_SPEWPA, "The beaks of bird Pokémon can’t begin\nto scratch its stalwart body.\nTo defend itself, it spews powder."
+    mondexentry SPECIES_SPEWPA, "The beaks of bird Pokémon can’t\nbegin to scratch its stalwart body.\nTo defend itself, it spews powder."
     mondexclassification SPECIES_SPEWPA, "Scatterdust Pokémon"
     mondexheight SPECIES_SPEWPA, "1’00”"
     mondexweight SPECIES_SPEWPA, "18.5 lbs."
@@ -15065,7 +15065,7 @@ mondata SPECIES_VIVILLON, "Vivillon"
     abilities ABILITY_COMPOUND_EYES, ABILITY_FRIEND_GUARD
     runchance 0
     colorflip BODY_COLOR_PINK, 0
-    mondexentry SPECIES_VIVILLON, "The patterns on this Pokémon’s wings\ndepend on the climate and topography\nof its habitat. It scatters colorful scales."
+    mondexentry SPECIES_VIVILLON, "The patterns on this Pokémon’s\nwings depend on the climate and\ntopography of its habitat."
     mondexclassification SPECIES_VIVILLON, "Scale Pokémon"
     mondexheight SPECIES_VIVILLON, "3’11”"
     mondexweight SPECIES_VIVILLON, "37.5 lbs."
@@ -18446,7 +18446,7 @@ mondata SPECIES_NICKIT, "Nickit"
     abilities ABILITY_PICKUP, ABILITY_UNBURDEN
     runchance 0
     colorflip BODY_COLOR_BROWN, 0
-    mondexentry SPECIES_NICKIT, "Cunning and cautious, this Pokémon\nsurvives by stealing food from the naive\nand unsuspecting."
+    mondexentry SPECIES_NICKIT, "Cunning and cautious, this Pokémon\nsurvives by stealing food from\nthe naive and unsuspecting."
     mondexclassification SPECIES_NICKIT, "Fox Pokémon"
     mondexheight SPECIES_NICKIT, "2’00”"
     mondexweight SPECIES_NICKIT, "19.6 lbs."
@@ -18782,7 +18782,7 @@ mondata SPECIES_SILICOBRA, "Silicobra"
     abilities ABILITY_SAND_FORCE, ABILITY_SHED_SKIN
     runchance 0
     colorflip BODY_COLOR_GREEN, 0
-    mondexentry SPECIES_SILICOBRA, "It spews sand from its nostrils. While the enemy\nis blinded, it burrows into the ground to hide."
+    mondexentry SPECIES_SILICOBRA, "It spews sand from its nostrils.\nWhile the enemy is blinded,\nit burrows into the ground to hide."
     mondexclassification SPECIES_SILICOBRA, "Sand Snake Pokémon"
     mondexheight SPECIES_SILICOBRA, "7’03”"
     mondexweight SPECIES_SILICOBRA, "16.8 lbs."
@@ -18803,7 +18803,7 @@ mondata SPECIES_SANDACONDA, "Sandaconda"
     abilities ABILITY_SAND_FORCE, ABILITY_SAND_STREAM
     runchance 0
     colorflip BODY_COLOR_GREEN, 0
-    mondexentry SPECIES_SANDACONDA, "Its unique style of coiling allows it to blast sand\nout of its sand sac more efficiently."
+    mondexentry SPECIES_SANDACONDA, "Its unique style of coiling\nallows it to blast sand out of its\nsand sac more efficiently."
     mondexclassification SPECIES_SANDACONDA, "Sand Snake Pokémon"
     mondexheight SPECIES_SANDACONDA, "12’06”"
     mondexweight SPECIES_SANDACONDA, "144.4 lbs."
@@ -18887,7 +18887,7 @@ mondata SPECIES_TOXEL, "Toxel"
     abilities ABILITY_RATTLED, ABILITY_STATIC
     runchance 0
     colorflip BODY_COLOR_PURPLE, 0
-    mondexentry SPECIES_TOXEL, "It manipulates the chemical makeup of its poison\nto produce electricity. The voltage is weak, but it\ncan cause a tingling paralysis."
+    mondexentry SPECIES_TOXEL, "It manipulates the chemical makeup\nof its poison to produce electricity.\n"
     mondexclassification SPECIES_TOXEL, "Baby Pokémon"
     mondexheight SPECIES_TOXEL, "1’04”"
     mondexweight SPECIES_TOXEL, "24.3 lbs."
@@ -18908,7 +18908,7 @@ mondata SPECIES_TOXTRICITY, "Toxtricity"
     abilities ABILITY_TECHNICIAN, ABILITY_PLUS
     runchance 0
     colorflip BODY_COLOR_PURPLE, 0
-    mondexentry SPECIES_TOXTRICITY, "This short-tempered and aggressive Pokémon\nchugs stagnant water to absorb any toxins it\nmight contain."
+    mondexentry SPECIES_TOXTRICITY, "This short-tempered and aggressive\nPokémon chugs stagnant water to\nabsorb any toxins it might contain."
     mondexclassification SPECIES_TOXTRICITY, "Punk Pokémon"
     mondexheight SPECIES_TOXTRICITY, "5’03”"
     mondexweight SPECIES_TOXTRICITY, "88.2 lbs."
@@ -19139,7 +19139,7 @@ mondata SPECIES_MORGREM, "Morgrem"
     abilities ABILITY_PRANKSTER, ABILITY_FRISK
     runchance 0
     colorflip BODY_COLOR_PINK, 0
-    mondexentry SPECIES_MORGREM, "With sly cunning, it tries to lure\npeople into the woods.\nThere, it pounces."
+    mondexentry SPECIES_MORGREM, "Morgrem feign niceties with their prey\nto get them to lower their guards.\nWhen least suspecting, Morgrem pounces."
     mondexclassification SPECIES_MORGREM, "Devious Pokémon"
     mondexheight SPECIES_MORGREM, "2’07”"
     mondexweight SPECIES_MORGREM, "27.6 lbs."
@@ -20819,7 +20819,7 @@ mondata SPECIES_WATTREL, "Wattrel"
     abilities ABILITY_COMPETITIVE, ABILITY_VOLT_ABSORB
     runchance 0
     colorflip BODY_COLOR_BLACK, 0
-    mondexentry SPECIES_WATTREL, "These Pokémon make their nests on coastal\ncliffs. The nests have a strange, crackling\ntexture, and they're a popular delicacy."
+    mondexentry SPECIES_WATTREL, "Wattrel make nests on coastal cliffs.\nThese nests deter predators seeking\nWattrel Eggs with nasty static shocks."
     mondexclassification SPECIES_WATTREL, "Storm Petrel Pokémon"
     mondexheight SPECIES_WATTREL, "1’04”"
     mondexweight SPECIES_WATTREL, "7.9 lbs."
@@ -20840,7 +20840,7 @@ mondata SPECIES_KILOWATTREL, "Kilowatrel"
     abilities ABILITY_COMPETITIVE, ABILITY_VOLT_ABSORB
     runchance 0
     colorflip BODY_COLOR_YELLOW, 0
-    mondexentry SPECIES_KILOWATTREL, "Kilowattrel inflates its throat sac to\namplify its electricity. By riding the wind,\nthis Pokémon can fly over 430 miles in a day."
+    mondexentry SPECIES_KILOWATTREL, "Kilowattrel inflates its throat sac to\namplify its power. By riding the wind,\nit can fly over 430 miles in a day."
     mondexclassification SPECIES_KILOWATTREL, "Frigatebird Pokémon"
     mondexheight SPECIES_KILOWATTREL, "4’07”"
     mondexweight SPECIES_KILOWATTREL, "85.1 lbs."
@@ -21513,7 +21513,7 @@ mondata SPECIES_FLAMIGO, "Flamigo"
     abilities ABILITY_SCRAPPY, ABILITY_TANGLED_FEET
     runchance 0
     colorflip BODY_COLOR_PINK, 0
-    mondexentry SPECIES_FLAMIGO, "This Pokémon apparently ties the base of its\nneck into a knot so that the energy stored\nin its belly does not escape from its beak."
+    mondexentry SPECIES_FLAMIGO, "This Pokémon ties the base of its neck\ninto a knot so that energy in its\nbelly does not escape from its beak."
     mondexclassification SPECIES_FLAMIGO, "Synchronize Pokémon"
     mondexheight SPECIES_FLAMIGO, "5’03”"
     mondexweight SPECIES_FLAMIGO, "81.6 lbs."
@@ -21681,7 +21681,7 @@ mondata SPECIES_FARIGIRAF, "Farigiraf"
     abilities ABILITY_SAP_SIPPER, ABILITY_ADAPTABILITY
     runchance 0
     colorflip BODY_COLOR_BROWN, 0
-    mondexentry SPECIES_FARIGIRAF, "The hardened head from the tail protects\nthe head of the main body as Farigiraf whips\nits long neck around to headbutt enemies."
+    mondexentry SPECIES_FARIGIRAF, "The hardened head from the tail\nprotects the head of the main body as\nit attacks foes with its long neck."
     mondexclassification SPECIES_FARIGIRAF, "Long Neck Pokémon"
     mondexheight SPECIES_FARIGIRAF, "10’06”"
     mondexweight SPECIES_FARIGIRAF, "352.7 lbs."
@@ -21702,7 +21702,7 @@ mondata SPECIES_DUDUNSPARCE, "Dudunspars"
     abilities ABILITY_SERENE_GRACE, ABILITY_NONE
     runchance 0
     colorflip BODY_COLOR_YELLOW, 0
-    mondexentry SPECIES_DUDUNSPARCE, "It drives enemies out of its nest by sucking\nin enough air to fill its long, narrow lungs,\nthen releasing the air in an intense blast."
+    mondexentry SPECIES_DUDUNSPARCE, "It drives enemies out of its nest\nby rapidly sucking in and then\nexpelling air in an intense blast."
     mondexclassification SPECIES_DUDUNSPARCE, "Land Snake Pokémon"
     mondexheight SPECIES_DUDUNSPARCE, "11’10”"
     mondexweight SPECIES_DUDUNSPARCE, "86.4 lbs."
