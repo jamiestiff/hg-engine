@@ -600,7 +600,7 @@ A mysterious scale that causes\na certain Pokémon to evolve.\nIt shines in rain
 An item to be held by a Pokémon.\nWhen the holder is hit by an attack, the\nattacker is removed from battle.
 An item to be held by a Pokémon.\nMoves that normally have no effect will land\non a Pokémon holding it.
 An item to be held by a Pokémon.\nIf the holder is hit, the attacker will\nalso be damaged upon contact.
-A piece of cloyingly sweet chocolate.\nIt can be used to restore 20 HP to a\nPokémon.
+A piece of cloyingly sweet chocolate.\nIt can be held and consumed by a\nPokémon to restore 50 HP in battle.
 A capsule that allows a Pokémon to\nswitch its current Ability to the other\nAbility its species can have.
 An item to be held by a Pokémon.\nThis offensive vest raises Sp. Def but\nprevents the use of status moves.
 An item to be held by a Pokémon. It\nboosts Sp. Def if hit with a Water-type\nattack. It can only be used once.

@@ -1476,6 +1476,7 @@ levelup SPECIES_TAUROS
 
 levelup SPECIES_MAGIKARP
     learnset MOVE_SPLASH, 1
+    learnset MOVE_DECORATE, 10
     learnset MOVE_TACKLE, 10
     learnset MOVE_FLAIL, 15
     terminatelearnset
@@ -1483,8 +1484,8 @@ levelup SPECIES_MAGIKARP
 
 levelup SPECIES_GYARADOS
     learnset MOVE_BITE, 0
-    learnset MOVE_BITE, 1
     learnset MOVE_FLAIL, 1
+    learnset MOVE_DECORATE, 1
     learnset MOVE_SPLASH, 1
     learnset MOVE_TACKLE, 1
     learnset MOVE_LEER, 1
@@ -2586,6 +2587,7 @@ levelup SPECIES_BELLOSSOM
 
 
 levelup SPECIES_MARILL
+    learnset MOVE_DECORATE, 1
     learnset MOVE_TACKLE, 1
     learnset MOVE_TICKLE, 1
 	learnset MOVE_WATER_SPORT, 3
@@ -2612,6 +2614,7 @@ levelup SPECIES_MARILL
 levelup SPECIES_AZUMARILL
     learnset MOVE_SOAK, 1
 	learnset MOVE_PERISH_SONG, 1
+    learnset MOVE_DECORATE, 1
 	learnset MOVE_TACKLE, 1
     learnset MOVE_TICKLE, 1
 	learnset MOVE_WATER_SPORT, 3
@@ -2662,6 +2665,7 @@ levelup SPECIES_SUDOWOODO
 levelup SPECIES_POLITOED
     learnset MOVE_BOUNCE, 0
     learnset MOVE_PERISH_SONG, 0
+    learnset MOVE_DECORATE, 1
     learnset MOVE_SWAGGER, 1
     learnset MOVE_HYPER_VOICE, 1
     learnset MOVE_BUBBLE, 1
@@ -2685,7 +2689,7 @@ levelup SPECIES_POLITOED
 
 
 levelup SPECIES_HOPPIP
-    learnset MOVE_SPLASH, 1
+    learnset MOVE_DECORATE, 1
 	learnset MOVE_ABSORB, 5
 	learnset MOVE_SYNTHESIS, 8
 	learnset MOVE_LEAF_TORNADO, 11
@@ -2709,7 +2713,7 @@ levelup SPECIES_HOPPIP
 
 
 levelup SPECIES_SKIPLOOM
-    learnset MOVE_SPLASH, 1
+    learnset MOVE_DECORATE, 1
 	learnset MOVE_ABSORB, 5
 	learnset MOVE_SYNTHESIS, 8
 	learnset MOVE_LEAF_TORNADO, 11
@@ -2734,7 +2738,7 @@ levelup SPECIES_SKIPLOOM
 
 levelup SPECIES_JUMPLUFF
 	learnset MOVE_COTTON_GUARD, 0
-    learnset MOVE_SPLASH, 1
+    learnset MOVE_DECORATE, 1
 	learnset MOVE_ABSORB, 5
 	learnset MOVE_SYNTHESIS, 8
 	learnset MOVE_LEAF_TORNADO, 11
@@ -3598,6 +3602,7 @@ levelup SPECIES_DELIBIRD
 
 
 levelup SPECIES_MANTINE
+    learnset MOVE_DECORATE, 1
     learnset MOVE_PSYBEAM, 1
     learnset MOVE_BULLET_SEED, 1
     learnset MOVE_ROOST, 1

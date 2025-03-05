@@ -1015,14 +1015,14 @@ headbuttheader  38,  15,   1   // Route 34
 headbuttheader  39,  14,   0   // Route 35
     // normal slots
     headbuttencounter SPECIES_HOOTHOOT, 10, 11
-    headbuttencounter SPECIES_PINECO, 10, 11
-    headbuttencounter SPECIES_PINECO, 10, 11
+    headbuttencounter SPECIES_TAILLOW, 10, 11
+    headbuttencounter SPECIES_TAILLOW, 10, 11
     headbuttencounter SPECIES_KRICKETOT, 10, 11
     headbuttencounter SPECIES_KRICKETOT, 10, 11
     headbuttencounter SPECIES_KRICKETOT, 10, 11
     headbuttencounter SPECIES_HOOTHOOT, 13, 14
-    headbuttencounter SPECIES_SPINARAK, 13, 14
-    headbuttencounter SPECIES_SPINARAK, 13, 14
+    headbuttencounter SPECIES_LEDYBA, 13, 14
+    headbuttencounter SPECIES_LEDYBA, 13, 14
     headbuttencounter SPECIES_KRICKETOT, 13, 14
     headbuttencounter SPECIES_KRICKETOT, 13, 14
     headbuttencounter SPECIES_KRICKETOT, 13, 14
@@ -1053,14 +1053,14 @@ headbuttheader  39,  14,   0   // Route 35
 headbuttheader  40,  26,   0   // Route 36
     // normal slots
     headbuttencounter SPECIES_HOOTHOOT, 4, 5
-    headbuttencounter SPECIES_PINECO, 4, 5
-    headbuttencounter SPECIES_PINECO, 4, 5
+    headbuttencounter SPECIES_TAILLOW, 4, 5
+    headbuttencounter SPECIES_TAILLOW, 4, 5
     headbuttencounter SPECIES_KRICKETOT, 4, 5
     headbuttencounter SPECIES_KRICKETOT, 4, 5
     headbuttencounter SPECIES_KRICKETOT, 4, 5
     headbuttencounter SPECIES_HOOTHOOT, 6, 7
-    headbuttencounter SPECIES_SPINARAK, 6, 7
-    headbuttencounter SPECIES_SPINARAK, 6, 7
+    headbuttencounter SPECIES_LEDYBA, 6, 7
+    headbuttencounter SPECIES_LEDYBA, 6, 7
     headbuttencounter SPECIES_KRICKETOT, 6, 7
     headbuttencounter SPECIES_KRICKETOT, 6, 7
     headbuttencounter SPECIES_KRICKETOT, 6, 7
@@ -1103,14 +1103,14 @@ headbuttheader  40,  26,   0   // Route 36
 headbuttheader  41,  13,   0   // Route 37
     // normal slots
     headbuttencounter SPECIES_HOOTHOOT, 12, 14
-    headbuttencounter SPECIES_PINECO, 12, 14
-    headbuttencounter SPECIES_PINECO, 12, 14
+    headbuttencounter SPECIES_TAILLOW, 12, 14
+    headbuttencounter SPECIES_TAILLOW, 12, 14
     headbuttencounter SPECIES_KRICKETOT, 12, 14
     headbuttencounter SPECIES_KRICKETOT, 12, 14
     headbuttencounter SPECIES_KRICKETOT, 12, 14
     headbuttencounter SPECIES_HOOTHOOT, 15, 17
-    headbuttencounter SPECIES_SPINARAK, 15, 17
-    headbuttencounter SPECIES_SPINARAK, 15, 17
+    headbuttencounter SPECIES_LEDYBA, 15, 17
+    headbuttencounter SPECIES_LEDYBA, 15, 17
     headbuttencounter SPECIES_KRICKETOT, 15, 17
     headbuttencounter SPECIES_KRICKETOT, 15, 17
     headbuttencounter SPECIES_KRICKETOT, 15, 17
@@ -1346,8 +1346,8 @@ headbuttheader  47,   3,   0   // Route 45
 headbuttheader  48,  10,   0   // Route 46
     // normal slots
     headbuttencounter SPECIES_TAILLOW, 2, 3
-    headbuttencounter SPECIES_HERACROSS, 2, 3
-    headbuttencounter SPECIES_HERACROSS, 2, 3
+    headbuttencounter SPECIES_TAILLOW, 2, 3
+    headbuttencounter SPECIES_AIPOM, 2, 3
     headbuttencounter SPECIES_AIPOM, 2, 3
     headbuttencounter SPECIES_AIPOM, 2, 3
     headbuttencounter SPECIES_AIPOM, 2, 3
@@ -1753,7 +1753,7 @@ headbuttheader  67,   7,   4   // Cherrygrove City
     headbuttencounter SPECIES_HOOTHOOT, 4, 5
     headbuttencounter SPECIES_SPINARAK, 4, 5
     headbuttencounter SPECIES_SPINARAK, 4, 5
-    headbuttencounter SPECIES_KRICKETOT, 4, 5
+    headbuttencounter SPECIES_KRICKETOT, 3, 5
     headbuttencounter SPECIES_KRICKETOT, 4, 5
     headbuttencounter SPECIES_KRICKETOT, 4, 5
     // special slots
@@ -1856,7 +1856,7 @@ headbuttheader  74,  13,   3   // Azalea Town
     headbuttencounter SPECIES_TAILLOW, 6, 8
     headbuttencounter SPECIES_TAILLOW, 6, 8
     headbuttencounter SPECIES_AIPOM, 6, 8
-    headbuttencounter SPECIES_AIPOM, 6, 8
+    headbuttencounter SPECIES_JOLTIK, 6, 8
     headbuttencounter SPECIES_AIPOM, 6, 8
     // special slots
     headbuttencounterwithform SPECIES_VIVILLON, 19, 12, 12
@@ -2083,14 +2083,14 @@ headbuttheader  95,   0,   0   // Route 41
 headbuttheader  96,  22,   5   // National Park
     // normal slots
     headbuttencounter SPECIES_HOOTHOOT, 10, 12
-    headbuttencounter SPECIES_PINECO, 10, 12
-    headbuttencounter SPECIES_PINECO, 10, 12
+    headbuttencounter SPECIES_TAILLOW, 10, 12
+    headbuttencounter SPECIES_TAILLOW, 10, 12
     headbuttencounter SPECIES_KRICKETOT, 10, 12
     headbuttencounter SPECIES_KRICKETOT, 10, 12
     headbuttencounter SPECIES_KRICKETOT, 10, 12
     headbuttencounter SPECIES_HOOTHOOT, 13, 15
-    headbuttencounter SPECIES_SPINARAK, 13, 15
-    headbuttencounter SPECIES_SPINARAK, 13, 15
+    headbuttencounter SPECIES_LEDYBA, 13, 15
+    headbuttencounter SPECIES_LEDYBA, 13, 15
     headbuttencounter SPECIES_KRICKETOT, 13, 15
     headbuttencounter SPECIES_KRICKETOT, 13, 15
     headbuttencounter SPECIES_KRICKETOT, 13, 15

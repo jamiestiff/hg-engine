@@ -2808,7 +2808,7 @@ const ITEMDATA __data[] =
 
 [ITEM_BERRY_JUICE] =
 {
-    .price = 500,
+    .price = 300,
     .holdEffect = HOLD_EFFECT_HP_RESTORE,
     .holdEffectParam = 20,
     .pluckEffect = 0,
@@ -37648,9 +37648,9 @@ const ITEMDATA __data[] =
 
 [ITEM_SWEET_HEART - NUM_UNKNOWN_SLOTS_EXPLORER_KIT] =
 {
-    .price = 100,
-    .holdEffect = 0,
-    .holdEffectParam = 20,
+    .price = 2000,
+    .holdEffect = HOLD_EFFECT_HP_RESTORE,
+    .holdEffectParam = 50,
     .pluckEffect = 0,
     .flingEffect = 0,
     .flingPower = 30,
@@ -48438,7 +48438,7 @@ const ITEMDATA __data[] =
 
 [ITEM_PEWTER_CRUNCHIES - NUM_UNKNOWN_SLOTS_EXPLORER_KIT] =
 {
-    .price = 500,
+    .price = 1000,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,

@@ -4728,7 +4728,7 @@ movedata MOVE_TAIL_GLOW, "Tail Glow"
     appeal 0x0B
     contesttype CONTEST_BEAUTY
     terminatedata
-    movedescription MOVE_TAIL_GLOW, "The user stares at\nflashing lights to\nfocus its mind,\nsharply raising its\nSp. Atk stat."
+    movedescription MOVE_TAIL_GLOW, "The user stares at\nflashing lights to\nfocus its mind,\ndrastically raising\nits Sp. Atk stat."
 
 movedata MOVE_LUSTER_PURGE, "Luster Purge"
     battleeffect MOVE_EFFECT_LOWER_SP_DEF_HIT
@@ -8680,7 +8680,7 @@ movedata MOVE_COTTON_GUARD, "Cotton Guard"
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata
-    movedescription MOVE_COTTON_GUARD, "The user protects\nitself with cotton,\nsharply raising\nits Defense."
+    movedescription MOVE_COTTON_GUARD, "The user protects\nitself with cotton,\ndrastically raising\nits Defense."
 
 movedata MOVE_NIGHT_DAZE, "Night Daze"
     battleeffect MOVE_EFFECT_LOWER_ACCURACY_HIT
@@ -9410,7 +9410,7 @@ movedata MOVE_FAIRY_WIND, "Fairy Wind"
     type (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL
     accuracy 100
     pp 10
-    effectchance 50
+    effectchance 30
     target RANGE_SINGLE_TARGET
     priority 0
     flags FLAG_KEEP_HP_BAR | FLAG_PROTECT | FLAG_MIRROR_MOVE | FLAG_KINGS_ROCK
@@ -12491,21 +12491,21 @@ movedata MOVE_BODY_PRESS, "Body Press"
     terminatedata
     movedescription MOVE_BODY_PRESS, "The user slams down\non the foe. The\nhigher the user's\nDefense, the more\npowerful the attack."
 
-movedata MOVE_DECORATE, "Decorate"
-    battleeffect MOVE_EFFECT_HIT
-    pss SPLIT_STATUS
-    basepower 0
-    type (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL
-    accuracy 0
-    pp 15
-    effectchance 100
+movedata MOVE_DECORATE, "Chaotic Flop"
+    battleeffect MOVE_EFFECT_ONE_HIT_KO
+    pss SPLIT_PHYSICAL
+    basepower 1
+    type TYPE_NORMAL
+    accuracy 10
+    pp 20
+    effectchance 0
     target RANGE_SINGLE_TARGET
     priority 0
-    flags FLAG_MIRROR_MOVE | FLAG_MAGIC_COAT
-    appeal 0x00
-    contesttype CONTEST_COOL
+    flags FLAG_HIDE_SHADOW | FLAG_MIRROR_MOVE | FLAG_PROTECT
+    appeal 0x09
+    contesttype CONTEST_TOUGH
     terminatedata
-    movedescription MOVE_DECORATE, "---"
+    movedescription MOVE_DECORATE, "The user just flops\naround randomly.\nRarely, it unleashes\ngreat power, causing\na one-hit-KO."
 
 movedata MOVE_DRUM_BEATING, "Drum Beating"
     battleeffect MOVE_EFFECT_LOWER_SPEED_HIT

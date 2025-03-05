@@ -1790,7 +1790,7 @@ walklevels 7, 7, 8, 8, 8, 7, 8, 6, 6, 5, 7, 6
 pokemon SPECIES_CROAGUNK
 monwithform SPECIES_WOOPER, 1 // paldean wooper
 pokemon SPECIES_SURSKIT
-monwithform SPECIES_WOOPER, 1 // paldean wooper
+pokemon SPECIES_POLIWAG
 monwithform SPECIES_WOOPER, 1 // paldean wooper
 pokemon SPECIES_SURSKIT
 pokemon SPECIES_SURSKIT
@@ -1801,11 +1801,11 @@ pokemon SPECIES_GOOMY
 pokemon SPECIES_CASTFORM
 
 // day encounter slots
-pokemon SPECIES_CROAGUNK
-pokemon SPECIES_SURSKIT
-pokemon SPECIES_SURSKIT
-pokemon SPECIES_SURSKIT
 pokemon SPECIES_POLIWAG
+pokemon SPECIES_SURSKIT
+pokemon SPECIES_SURSKIT
+pokemon SPECIES_SURSKIT
+pokemon SPECIES_CROAGUNK
 pokemon SPECIES_CROAGUNK
 monwithform SPECIES_WOOPER, 1 // paldean wooper
 monwithform SPECIES_WOOPER, 1 // paldean wooper
@@ -1824,9 +1824,9 @@ pokemon SPECIES_CROAGUNK
 pokemon SPECIES_POLIWAG
 pokemon SPECIES_POLIWAG
 pokemon SPECIES_GOOMY
-pokemon SPECIES_CASTFORM
+pokemon SPECIES_POLIWAG
 pokemon SPECIES_GOOMY
-pokemon SPECIES_CASTFORM
+pokemon SPECIES_POLIWAG
 
 // hoenn encounter slots
 pokemon SPECIES_RATTATA
@@ -2136,9 +2136,9 @@ pokemon SPECIES_KRICKETOT
 pokemon SPECIES_MURKROW
 pokemon SPECIES_MURKROW
 pokemon SPECIES_HOOTHOOT
-pokemon SPECIES_GOTHITA
-pokemon SPECIES_GOTHITA
-pokemon SPECIES_GOTHITA
+pokemon SPECIES_KRICKETOT
+pokemon SPECIES_MURKROW
+pokemon SPECIES_MURKROW
 
 // hoenn encounter slots
 pokemon SPECIES_RATTATA
@@ -2273,9 +2273,9 @@ encounter SPECIES_CORSOLA, 10, 10
 // good rod encounters
 encounter SPECIES_CORSOLA, 20, 20
 encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_CORSOLA, 20, 20
-encounter SPECIES_CORSOLA, 20, 20
-encounter SPECIES_CORSOLA, 20, 20
+encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 20, 20
 
 // super rod encounters
 encounter SPECIES_CORSOLA, 40, 40
@@ -2327,12 +2327,12 @@ pokemon SPECIES_TAILLOW
 pokemon SPECIES_SENTRET
 pokemon SPECIES_PHANPY
 pokemon SPECIES_PHANPY
-pokemon SPECIES_TAILLOW
 pokemon SPECIES_CUTIEFLY
-pokemon SPECIES_SENTRET
+pokemon SPECIES_CUTIEFLY
+pokemon SPECIES_DITTO
 pokemon SPECIES_DITTO
 pokemon SPECIES_YANMA
-pokemon SPECIES_DITTO
+pokemon SPECIES_IMPIDIMP
 
 // night encounter slots
 pokemon SPECIES_NICKIT
@@ -2616,7 +2616,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 12, 12, 12, 13, 13, 13, 13, 13, 13, 15, 14, 16
+walklevels 12, 14, 12, 14, 13, 13, 15, 13, 13, 15, 14, 13
 
 // morning encounter slots
 pokemon SPECIES_VULPIX
@@ -2636,7 +2636,7 @@ monwithform SPECIES_VULPIX, 1 // alolan form
 pokemon SPECIES_VULPIX
 pokemon SPECIES_VULPIX
 pokemon SPECIES_HOUNDOUR
-pokemon SPECIES_IMPIDIMP
+pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_EKANS
 pokemon SPECIES_EKANS
@@ -2647,7 +2647,7 @@ pokemon SPECIES_STANTLER
 pokemon SPECIES_STANTLER
 
 // night encounter slots
-pokemon SPECIES_IMPIDIMP
+pokemon SPECIES_NICKIT
 pokemon SPECIES_STUNKY
 pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_IMPIDIMP
@@ -2656,7 +2656,7 @@ pokemon SPECIES_EKANS
 pokemon SPECIES_EKANS
 pokemon SPECIES_STUNKY
 pokemon SPECIES_VULPIX
-pokemon SPECIES_VULPIX
+pokemon SPECIES_IMPIDIMP
 pokemon SPECIES_STANTLER
 pokemon SPECIES_STANTLER
 
@@ -2724,7 +2724,7 @@ walklevels 14, 14, 14, 15, 15, 14, 16, 14, 14, 14, 15, 15
 
 // morning encounter slots
 pokemon SPECIES_VULPIX
-pokemon SPECIES_STANTLER
+pokemon SPECIES_VULPIX
 pokemon SPECIES_EKANS
 pokemon SPECIES_TAILLOW
 pokemon SPECIES_STANTLER
@@ -2890,7 +2890,7 @@ encounter SPECIES_NONE, 0, 0
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
 encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
+encounter SPECIES_POLIWAG, 10, 10
 encounter SPECIES_POLIWAG, 10, 10
 encounter SPECIES_POLIWAG, 10, 10
 
@@ -2940,8 +2940,8 @@ pokemon SPECIES_SALANDIT
 pokemon SPECIES_SALANDIT
 pokemon SPECIES_LITWICK
 pokemon SPECIES_THIEVUL
-pokemon SPECIES_MAGBY
-pokemon SPECIES_MAGBY
+pokemon SPECIES_THIEVUL
+pokemon SPECIES_SALAZZLE
 pokemon SPECIES_LAMPENT
 
 // day encounter slots
@@ -2954,8 +2954,8 @@ pokemon SPECIES_SALANDIT
 pokemon SPECIES_SALANDIT
 pokemon SPECIES_LITWICK
 pokemon SPECIES_THIEVUL
-pokemon SPECIES_MAGBY
-pokemon SPECIES_MAGBY
+pokemon SPECIES_THIEVUL
+pokemon SPECIES_SALAZZLE
 pokemon SPECIES_LAMPENT
 
 // night encounter slots
@@ -2968,8 +2968,8 @@ pokemon SPECIES_SALANDIT
 pokemon SPECIES_SALANDIT
 pokemon SPECIES_LITWICK
 pokemon SPECIES_THIEVUL
-pokemon SPECIES_MAGBY
-pokemon SPECIES_MAGBY
+pokemon SPECIES_THIEVUL
+pokemon SPECIES_SALAZZLE
 pokemon SPECIES_LAMPENT
 
 // hoenn encounter slots
@@ -7271,9 +7271,9 @@ encounter SPECIES_WOOPER, 20, 20
 
 // super rod encounters
 encounter SPECIES_WOOPER, 40, 40
-encounter SPECIES_WOOPER, 40, 40
 encounter SPECIES_QUAGSIRE, 40, 40
 encounter SPECIES_QUAGSIRE, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
 encounter SPECIES_GYARADOS, 40, 40
 
 // swarm grass

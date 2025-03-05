@@ -467,7 +467,7 @@ a {COLOR 255}Vs. Recorder{COLOR 0}
 a {COLOR 255}Gracidea{COLOR 0}
 a {COLOR 255}Secret Key{COLOR 0}
 an {COLOR 255}Apricorn Box{COLOR 0}
-an {COLOR 255}UNOWN Report{COLOR 0}
+an {COLOR 255}Unown Report{COLOR 0}
 the {COLOR 255}Berry Pots{COLOR 0}
 a {COLOR 255}Dowsing Machine{COLOR 0}
 a {COLOR 255}Blue Card{COLOR 0}
