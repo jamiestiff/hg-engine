@@ -2720,7 +2720,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 14, 14, 14, 15, 15, 14, 16, 14, 14, 14, 15, 15
+walklevels 14, 14, 14, 15, 15, 14, 16, 16, 14, 14, 20, 15
 
 // morning encounter slots
 pokemon SPECIES_VULPIX
@@ -2733,7 +2733,7 @@ pokemon SPECIES_STANTLER
 pokemon SPECIES_VULPIX
 pokemon SPECIES_GIRAFARIG
 monwithform SPECIES_ORICORIO, 3 // sensu Oricorio
-pokemon SPECIES_GIRAFARIG
+pokemon SPECIES_SUDOWOODO
 monwithform SPECIES_VULPIX, 1 // alolan form
 
 // day encounter slots
@@ -2747,7 +2747,7 @@ pokemon SPECIES_STANTLER
 pokemon SPECIES_TAILLOW
 pokemon SPECIES_GIRAFARIG
 pokemon SPECIES_GIRAFARIG
-pokemon SPECIES_GIRAFARIG
+pokemon SPECIES_SUDOWOODO
 pokemon SPECIES_GIRAFARIG
 
 // night encounter slots
@@ -2760,9 +2760,9 @@ pokemon SPECIES_STANTLER
 pokemon SPECIES_STANTLER
 pokemon SPECIES_VULPIX
 monwithform SPECIES_ORICORIO, 3 // sensu Oricorio
-pokemon SPECIES_STANTLER
 pokemon SPECIES_GIRAFARIG
-pokemon SPECIES_GIRAFARIG
+pokemon SPECIES_SUDOWOODO
+monwithform SPECIES_ORICORIO, 3 // sensu Oricorio
 
 // hoenn encounter slots
 pokemon SPECIES_RATTATA
@@ -3974,7 +3974,7 @@ walklevels 18, 19, 18, 19, 18, 18, 19, 20, 19, 18, 20, 20
 pokemon SPECIES_SNUBBULL
 pokemon SPECIES_FARFETCHD
 pokemon SPECIES_BLITZLE
-pokemon SPECIES_PANCHAM
+pokemon SPECIES_STUFFUL
 pokemon SPECIES_MILTANK
 pokemon SPECIES_STUFFUL
 pokemon SPECIES_MILTANK
@@ -3986,13 +3986,13 @@ pokemon SPECIES_STUNFISK
 
 // day encounter slots
 pokemon SPECIES_SNUBBULL
+pokemon SPECIES_FARFETCHD
 pokemon SPECIES_BLITZLE
-pokemon SPECIES_PANCHAM
 pokemon SPECIES_PANCHAM
 pokemon SPECIES_MILTANK
 pokemon SPECIES_STUFFUL
 pokemon SPECIES_MILTANK
-pokemon SPECIES_FARFETCHD
+pokemon SPECIES_MEOWTH
 pokemon SPECIES_SNUBBULL
 pokemon SPECIES_BLITZLE
 pokemon SPECIES_SNUBBULL
@@ -4000,13 +4000,13 @@ pokemon SPECIES_STUNFISK
 
 // night encounter slots
 pokemon SPECIES_MEOWTH
-pokemon SPECIES_MEOWTH
 pokemon SPECIES_PANCHAM
+pokemon SPECIES_MEOWTH
 pokemon SPECIES_PANCHAM
 pokemon SPECIES_MILTANK
 pokemon SPECIES_STUFFUL
-pokemon SPECIES_PANCHAM
-pokemon SPECIES_PANCHAM
+pokemon SPECIES_SNUBBULL
+pokemon SPECIES_MEOWTH
 pokemon SPECIES_SNUBBULL
 pokemon SPECIES_BLITZLE
 pokemon SPECIES_SNUBBULL
@@ -4072,33 +4072,33 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 18, 19, 18, 19, 18, 18, 19, 20, 19, 19, 20, 20
+walklevels 18, 19, 18, 19, 18, 18, 19, 20, 19, 21, 20, 22
 
 // morning encounter slots
 pokemon SPECIES_SHELLOS
 pokemon SPECIES_MILTANK
-pokemon SPECIES_MEOWTH
-pokemon SPECIES_FARFETCHD
-pokemon SPECIES_MEOWTH
+pokemon SPECIES_BLITZLE
+pokemon SPECIES_TOGEDEMARU
+pokemon SPECIES_BLITZLE
 pokemon SPECIES_TOGEDEMARU
 pokemon SPECIES_MILTANK
 pokemon SPECIES_TOGEDEMARU
-pokemon SPECIES_BLITZLE
-pokemon SPECIES_BLITZLE
+pokemon SPECIES_MEOWTH
+pokemon SPECIES_MILTANK
 pokemon SPECIES_STUNFISK
 pokemon SPECIES_STUNFISK
 
 // day encounter slots
 pokemon SPECIES_SHELLOS
 pokemon SPECIES_MILTANK
-pokemon SPECIES_MEOWTH
+pokemon SPECIES_BLITZLE
 pokemon SPECIES_PANCHAM
 pokemon SPECIES_MEOWTH
 pokemon SPECIES_TOGEDEMARU
 pokemon SPECIES_MILTANK
-pokemon SPECIES_TOGEDEMARU
+pokemon SPECIES_VOLTORB
 pokemon SPECIES_BLITZLE
-pokemon SPECIES_BLITZLE
+pokemon SPECIES_MILTANK
 pokemon SPECIES_STUNFISK
 pokemon SPECIES_STUNFISK
 
@@ -4108,9 +4108,9 @@ pokemon SPECIES_MILTANK
 pokemon SPECIES_MEOWTH
 pokemon SPECIES_PANCHAM
 pokemon SPECIES_MEOWTH
-pokemon SPECIES_TOGEDEMARU
+pokemon SPECIES_VOLTORB
 pokemon SPECIES_MILTANK
-pokemon SPECIES_TOGEDEMARU
+pokemon SPECIES_VOLTORB
 pokemon SPECIES_BLITZLE
 pokemon SPECIES_BLITZLE
 pokemon SPECIES_STUNFISK
@@ -4242,7 +4242,7 @@ encounter SPECIES_NONE, 0, 0
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
 encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
+encounter SPECIES_CLOBBOPUS, 10, 10
 encounter SPECIES_CLOBBOPUS, 10, 10
 encounter SPECIES_CLOBBOPUS, 10, 10
 
@@ -4346,7 +4346,7 @@ encounter SPECIES_NONE, 0, 0
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
 encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
+encounter SPECIES_CLOBBOPUS, 10, 10
 encounter SPECIES_CLOBBOPUS, 10, 10
 encounter SPECIES_CLOBBOPUS, 10, 10
 
@@ -4369,11 +4369,9 @@ pokemon SPECIES_NONE
 // swarm surf
 pokemon SPECIES_FRILLISH
 // swarm good rod
-pokemon SPECIES_CORSOLA
+pokemon SPECIES_CLOBBOPUS
 // swarm super rod
 pokemon SPECIES_MAGIKARP
-
-.close
 
 
 encounterdata  42   // Route 41
@@ -4438,10 +4436,10 @@ pokemon SPECIES_NONE
 
 // surf encounters
 encounter SPECIES_FRILLISH, 15, 25
-encounter SPECIES_MANTINE, 15, 25
-encounter SPECIES_FRILLISH, 20, 25
-encounter SPECIES_MANTINE, 20, 30
-encounter SPECIES_MANTINE, 25, 30
+encounter SPECIES_MANTINE, 15, 30
+encounter SPECIES_FRILLISH, 25, 30
+encounter SPECIES_JELLICENT, 25, 30
+encounter SPECIES_JELLICENT, 25, 35
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -4450,34 +4448,32 @@ encounter SPECIES_NONE, 0, 0
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
 encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_CHINCHOU, 10, 10
-encounter SPECIES_CHINCHOU, 10, 10
+encounter SPECIES_CLOBBOPUS, 10, 10
+encounter SPECIES_CLOBBOPUS, 10, 10
+encounter SPECIES_CLOBBOPUS, 10, 10
 
 // good rod encounters
-encounter SPECIES_CHINCHOU, 20, 20
+encounter SPECIES_CLOBBOPUS, 20, 20
 encounter SPECIES_CORSOLA, 20, 20
 encounter SPECIES_MAGIKARP, 20, 20
 encounter SPECIES_MAGIKARP, 20, 20
 encounter SPECIES_MAGIKARP, 20, 20
 
 // super rod encounters
-encounter SPECIES_CHINCHOU, 40, 40
+encounter SPECIES_CLOBBOPUS, 40, 40
 encounter SPECIES_CORSOLA, 40, 40
-encounter SPECIES_LANTURN, 40, 40
-encounter SPECIES_LANTURN, 40, 40
-encounter SPECIES_LANTURN, 40, 40
+encounter SPECIES_GRAPPLOCT, 40, 40
+encounter SPECIES_GRAPPLOCT, 40, 40
+encounter SPECIES_GRAPPLOCT, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
 // swarm surf
 pokemon SPECIES_FRILLISH
 // swarm good rod
-pokemon SPECIES_CORSOLA
+pokemon SPECIES_CLOBBOPUS
 // swarm super rod
 pokemon SPECIES_MAGIKARP
-
-.close
 
 
 encounterdata  43   // Whirl Islands 1F
@@ -5374,19 +5370,19 @@ pokemon SPECIES_NONE
 
 // surf encounters
 encounter SPECIES_FRILLISH, 15, 25
-encounter SPECIES_FRILLISH, 10, 20
-encounter SPECIES_MANTINE, 15, 25
-encounter SPECIES_MANTINE, 20, 30
+encounter SPECIES_MANTINE, 15, 30
+encounter SPECIES_FRILLISH, 25, 30
+encounter SPECIES_JELLICENT, 25, 30
 encounter SPECIES_JELLICENT, 25, 35
 
 // rock smash encounters
-encounter SPECIES_DWEBBLE, 25, 28
-encounter SPECIES_SHUCKLE, 25, 28
+encounter SPECIES_DWEBBLE, 25, 30
+encounter SPECIES_SHUCKLE, 25, 30
 
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
 encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
+encounter SPECIES_CLOBBOPUS, 10, 10
 encounter SPECIES_CLOBBOPUS, 10, 10
 encounter SPECIES_CLOBBOPUS, 10, 10
 
@@ -5409,7 +5405,7 @@ pokemon SPECIES_NONE
 // swarm surf
 pokemon SPECIES_FRILLISH
 // swarm good rod
-pokemon SPECIES_CORSOLA
+pokemon SPECIES_CLOBBOPUS
 // swarm super rod
 pokemon SPECIES_MAGIKARP
 
@@ -7455,9 +7451,9 @@ pokemon SPECIES_RATTATA
 // surf encounters
 encounter SPECIES_FRILLISH, 20, 30
 encounter SPECIES_SEEL, 20, 30
-encounter SPECIES_CORSOLA, 20, 30
-encounter SPECIES_CORSOLA, 20, 30
-encounter SPECIES_CORSOLA, 20, 30
+encounter SPECIES_SEEL, 20, 30
+encounter SPECIES_SEEL, 25, 35
+encounter SPECIES_DEWGONG, 30, 35
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -7466,23 +7462,23 @@ encounter SPECIES_NONE, 0, 0
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
 encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_CHINCHOU, 10, 10
-encounter SPECIES_CHINCHOU, 10, 10
+encounter SPECIES_CLOBBOPUS, 10, 10
+encounter SPECIES_CLOBBOPUS, 10, 10
+encounter SPECIES_CLOBBOPUS, 10, 10
 
 // good rod encounters
+encounter SPECIES_CLOBBOPUS, 20, 20
+encounter SPECIES_CORSOLA, 20, 20
 encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_CHINCHOU, 20, 20
-encounter SPECIES_CHINCHOU, 20, 20
-encounter SPECIES_CORSOLA, 20, 20
-encounter SPECIES_CORSOLA, 20, 20
+encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_MAGIKARP, 20, 20
 
 // super rod encounters
-encounter SPECIES_CHINCHOU, 40, 40
+encounter SPECIES_CLOBBOPUS, 40, 40
 encounter SPECIES_CORSOLA, 40, 40
-encounter SPECIES_CORSOLA, 40, 40
-encounter SPECIES_LANTURN, 40, 40
-encounter SPECIES_LANTURN, 40, 40
+encounter SPECIES_GRAPPLOCT, 40, 40
+encounter SPECIES_GRAPPLOCT, 40, 40
+encounter SPECIES_GRAPPLOCT, 40, 40
 
 // swarm grass
 pokemon SPECIES_DITTO
@@ -8608,25 +8604,25 @@ encounter SPECIES_NONE, 0, 0
 encounter SPECIES_NONE, 0, 0
 
 // old rod encounters
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
+encounter SPECIES_HORSEA, 10, 10
+encounter SPECIES_HORSEA, 10, 10
+encounter SPECIES_HORSEA, 10, 10
+encounter SPECIES_HORSEA, 10, 10
+encounter SPECIES_SEADRA, 10, 10
 
 // good rod encounters
-encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_POLIWAG, 20, 20
-encounter SPECIES_POLIWAG, 20, 20
+encounter SPECIES_HORSEA, 20, 20
+encounter SPECIES_HORSEA, 20, 20
+encounter SPECIES_SEADRA, 20, 20
+encounter SPECIES_SEADRA, 20, 20
+encounter SPECIES_SEADRA, 20, 20
 
 // super rod encounters
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
+encounter SPECIES_HORSEA, 40, 40
+encounter SPECIES_SEADRA, 40, 40
+encounter SPECIES_SEADRA, 40, 40
+encounter SPECIES_SEADRA, 40, 40
+encounter SPECIES_KINGDRA, 40, 40
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -14772,6 +14768,111 @@ pokemon SPECIES_POLIWAG
 pokemon SPECIES_POLIWAG
 // swarm super rod
 pokemon SPECIES_MAGIKARP
+
+
+
+encounterdata   142   // Olivine Lighthouse
+
+walkrate 5
+surfrate 0
+rocksmashrate 0
+oldrodrate 0
+goodrodrate 0
+superrodrate 0
+walklevels 21, 21, 21, 21, 24, 23, 23, 21, 25, 23, 25, 25
+
+// morning encounter slots
+pokemon SPECIES_WATTREL
+pokemon SPECIES_VOLTORB
+pokemon SPECIES_BRONZOR
+pokemon SPECIES_TOGEDEMARU
+pokemon SPECIES_THIEVUL
+pokemon SPECIES_WATTREL
+pokemon SPECIES_BRONZOR
+pokemon SPECIES_TOGEDEMARU
+pokemon SPECIES_KILOWATTREL
+pokemon SPECIES_SKARMORY
+pokemon SPECIES_KILOWATTREL
+pokemon SPECIES_SKARMORY
+
+// day encounter slots
+pokemon SPECIES_WATTREL
+pokemon SPECIES_VOLTORB
+pokemon SPECIES_BRONZOR
+pokemon SPECIES_TOGEDEMARU
+pokemon SPECIES_THIEVUL
+pokemon SPECIES_WATTREL
+pokemon SPECIES_BRONZOR
+pokemon SPECIES_TOGEDEMARU
+pokemon SPECIES_KILOWATTREL
+pokemon SPECIES_SKARMORY
+pokemon SPECIES_KILOWATTREL
+pokemon SPECIES_SKARMORY
+
+// night encounter slots
+pokemon SPECIES_WATTREL
+pokemon SPECIES_VOLTORB
+pokemon SPECIES_BRONZOR
+pokemon SPECIES_TOGEDEMARU
+pokemon SPECIES_THIEVUL
+pokemon SPECIES_WATTREL
+pokemon SPECIES_BRONZOR
+pokemon SPECIES_TOGEDEMARU
+pokemon SPECIES_KILOWATTREL
+pokemon SPECIES_SKARMORY
+pokemon SPECIES_KILOWATTREL
+pokemon SPECIES_SKARMORY
+
+// hoenn encounter slots
+pokemon SPECIES_RATTATA
+pokemon SPECIES_RATTATA
+
+// sinnoh encounter slots
+pokemon SPECIES_RATTATA
+pokemon SPECIES_RATTATA
+
+// surf encounters
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
+
+// rock smash encounters
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
+
+// old rod encounters
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
+
+// good rod encounters
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
+
+// super rod encounters
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
+
+// swarm grass
+pokemon SPECIES_TOGEDEMARU
+// swarm surf
+pokemon SPECIES_NONE
+// swarm good rod
+pokemon SPECIES_NONE
+// swarm super rod
+pokemon SPECIES_NONE
+
+.close
 
 .close
 

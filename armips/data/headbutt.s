@@ -1139,15 +1139,15 @@ headbuttheader  41,  13,   0   // Route 37
 
 headbuttheader  42,  13,   1   // Route 38
     // normal slots
-    headbuttencounter SPECIES_HOOTHOOT, 13, 14
+    headbuttencounter SPECIES_TAILLOW, 13, 14
     headbuttencounter SPECIES_PINECO, 13, 14
     headbuttencounter SPECIES_PINECO, 13, 14
     headbuttencounter SPECIES_KRICKETOT, 13, 14
     headbuttencounter SPECIES_KRICKETOT, 13, 14
     headbuttencounter SPECIES_KRICKETOT, 13, 14
-    headbuttencounter SPECIES_HOOTHOOT, 15, 16
-    headbuttencounter SPECIES_SPINARAK, 15, 16
-    headbuttencounter SPECIES_SPINARAK, 15, 16
+    headbuttencounter SPECIES_TAILLOW, 15, 16
+    headbuttencounter SPECIES_LEDYBA, 15, 16
+    headbuttencounter SPECIES_LEDYBA, 15, 16
     headbuttencounter SPECIES_KRICKETOT, 15, 16
     headbuttencounter SPECIES_KRICKETOT, 15, 16
     headbuttencounter SPECIES_KRICKETOT, 15, 16
@@ -1178,18 +1178,18 @@ headbuttheader  42,  13,   1   // Route 38
 
 headbuttheader  43,   3,   0   // Route 39
     // normal slots
-    headbuttencounter SPECIES_HOOTHOOT, 14, 15
-    headbuttencounter SPECIES_PINECO, 14, 15
-    headbuttencounter SPECIES_PINECO, 14, 15
-    headbuttencounter SPECIES_KRICKETOT, 14, 15
-    headbuttencounter SPECIES_KRICKETOT, 14, 15
-    headbuttencounter SPECIES_KRICKETOT, 14, 15
-    headbuttencounter SPECIES_HOOTHOOT, 16, 17
-    headbuttencounter SPECIES_SPINARAK, 16, 17
-    headbuttencounter SPECIES_SPINARAK, 16, 17
-    headbuttencounter SPECIES_KRICKETOT, 16, 17
-    headbuttencounter SPECIES_KRICKETOT, 16, 17
-    headbuttencounter SPECIES_KRICKETOT, 16, 17
+    headbuttencounter SPECIES_TAILLOW, 18, 21
+    headbuttencounter SPECIES_PINECO, 18, 21
+    headbuttencounter SPECIES_PINECO, 18, 21
+    headbuttencounter SPECIES_KRICKETOT, 18, 21
+    headbuttencounter SPECIES_KRICKETOT, 18, 21
+    headbuttencounter SPECIES_KRICKETOT, 18, 21
+    headbuttencounter SPECIES_TAILLOW, 18, 21
+    headbuttencounter SPECIES_LEDYBA, 18, 21
+    headbuttencounter SPECIES_LEDYBA, 18, 21
+    headbuttencounter SPECIES_KRICKETOT, 18, 21
+    headbuttencounter SPECIES_KRICKETOT, 18, 21
+    headbuttencounter SPECIES_KRICKETOT, 18, 21
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -2418,22 +2418,22 @@ headbuttheader 150,   0,   0   // Route 35 & Pok�athlon Dome Inbetween
 
 headbuttheader 151,  10,   4   // Route 47
     // normal slots
-    headbuttencounter SPECIES_HOOTHOOT, 15, 16
-    headbuttencounter SPECIES_PINECO, 15, 16
-    headbuttencounter SPECIES_PINECO, 15, 16
-    headbuttencounter SPECIES_KRICKETOT, 15, 16
-    headbuttencounter SPECIES_KRICKETOT, 15, 16
-    headbuttencounter SPECIES_KRICKETOT, 15, 16
-    headbuttencounter SPECIES_HOOTHOOT, 17, 18
-    headbuttencounter SPECIES_SPINARAK, 17, 18
-    headbuttencounter SPECIES_SPINARAK, 17, 18
-    headbuttencounter SPECIES_KRICKETOT, 17, 18
-    headbuttencounter SPECIES_KRICKETOT, 17, 18
-    headbuttencounter SPECIES_KRICKETOT, 17, 18
+    headbuttencounter SPECIES_SCATTERBUG, 30, 30
+    headbuttencounter SPECIES_SCATTERBUG, 30, 30
+    headbuttencounter SPECIES_SCATTERBUG, 30, 30
+    headbuttencounter SPECIES_SCATTERBUG, 30, 30
+    headbuttencounter SPECIES_SCATTERBUG, 30, 30
+    headbuttencounter SPECIES_SPEWPA, 30, 30
+    headbuttencounter SPECIES_SPEWPA, 30, 30
+    headbuttencounter SPECIES_SPEWPA, 30, 30
+    headbuttencounter SPECIES_SPEWPA, 30, 30
+    headbuttencounter SPECIES_AIPOM, 30, 30
+    headbuttencounter SPECIES_AIPOM, 30, 30
+    headbuttencounter SPECIES_AIPOM, 30, 30
     // special slots
-    headbuttencounter SPECIES_SPINARAK, 25, 28
-    headbuttencounter SPECIES_MURKROW, 25, 28
-    headbuttencounter SPECIES_MURKROW, 25, 28
+    headbuttencounter SPECIES_HERACROSS, 25, 28
+    headbuttencounter SPECIES_HERACROSS, 25, 28
+    headbuttencounter SPECIES_HERACROSS, 25, 28
     headbuttencounter SPECIES_HERACROSS, 25, 28
     headbuttencounter SPECIES_HERACROSS, 25, 28
     headbuttencounter SPECIES_HERACROSS, 27, 30
