@@ -4173,7 +4173,7 @@ mondata SPECIES_UMBREON, "Umbreon"
 
 
 mondata SPECIES_MURKROW, "Murkrow"
-    basestats 42, 85, 42, 91, 85, 42
+    basestats 42, 80, 42, 71, 63, 42
     types TYPE_DARK, TYPE_FLYING
     catchrate 30
     baseexp 0 // defined in baseexp.s
@@ -4215,7 +4215,7 @@ mondata SPECIES_SLOWKING, "Slowking"
 
 
 mondata SPECIES_MISDREAVUS, "Misdreavus"
-    basestats 50, 45, 30, 75, 65, 85
+    basestats 45, 45, 30, 70, 65, 85
     types TYPE_GHOST, TYPE_GHOST
     catchrate 120
     baseexp 0 // defined in baseexp.s
@@ -9024,7 +9024,7 @@ mondata SPECIES_LOPUNNY, "Lopunny"
 
 
 mondata SPECIES_MISMAGIUS, "Mismagius"
-    basestats 50, 60, 60, 105, 105, 105
+    basestats 70, 70, 50, 105, 100, 110
     types TYPE_GHOST, TYPE_GHOST
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -9045,7 +9045,7 @@ mondata SPECIES_MISMAGIUS, "Mismagius"
 
 
 mondata SPECIES_HONCHKROW, "Honchkrow"
-    basestats 100, 125, 52, 71, 105, 52
+    basestats 100, 125, 72, 71, 85, 52
     types TYPE_DARK, TYPE_FLYING
     catchrate 30
     baseexp 0 // defined in baseexp.s
