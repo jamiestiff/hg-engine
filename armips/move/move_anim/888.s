@@ -13,6 +13,8 @@
 // Trailblaze
 // Quick Attack animation with some Leaf Blade leaves
 
+// edit: adapted from #098 (Quick Attack?)
+
 a010_888:
     initspriteresource
     loadspriteresource 0
@@ -41,18 +43,15 @@ a010_888:
     loadspritemaybe 2, 0, 4, 4
     cmd52 2, 0, 4
     callfunction 8, 0, "NaN", "NaN", "NaN", "NaN", "NaN", "NaN", "NaN", "NaN", "NaN", "NaN"
-
-
-    // leaves
-    loadparticle 0, 366
-    addparticle 0, 0, 4
-
-    wait 20
+    wait 15
     playsepan 1827, 117
+    resetsprite 0
+    resetsprite 1
+    unloadspriteresource
     cmd53 0
     resetsprite 4
-
-
+    addparticle 0, 1, 4
+    addparticle 0, 0, 4
     callfunction 36, 5, 2, 0, 1, 1, 264, "NaN", "NaN", "NaN", "NaN", "NaN"
     waitstate
     waitparticle
