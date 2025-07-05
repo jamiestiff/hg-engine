@@ -197,7 +197,7 @@
 .halfword ITEM_BIG_MUSHROOM
 
 .org 0x02000000 + 0xFA750 //Bellchime Trail
-.halfword ITEM_BIG_MUSHROOM
+.halfword ITEM_GRASS_MAIL
 
 .org 0x02000000 + 0xFA758 //Bellchime Trail
 .halfword ITEM_TINY_MUSHROOM
