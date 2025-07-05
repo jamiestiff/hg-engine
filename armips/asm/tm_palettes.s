@@ -30,17 +30,17 @@ PALETTE_FAIRY equ 401
 // Start of TM Palette Table
 .org 0x02100BD6
 
-// TM001 FOCUS_PUNCH
+// TM001 STORM THROW
 .skip 2
 .halfword PALETTE_FIGHTING
 .skip 4
 
-// TM002 DRAGON_CLAW
+// TM002 DRAGON_BREATH
 .skip 2
 .halfword PALETTE_DRAGON
 .skip 4
 
-// TM003 WATER_PULSE
+// TM003 SCALD
 .skip 2
 .halfword PALETTE_WATER
 .skip 4
@@ -50,9 +50,9 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_PSYCHIC
 .skip 4
 
-// TM005 ROAR
+// TM005 SNARL
 .skip 2
-.halfword PALETTE_NORMAL
+.halfword PALETTE_DARK
 .skip 4
 
 // TM006 TOXIC
@@ -125,14 +125,14 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_GRASS
 .skip 4
 
-// TM020 SAFEGUARD
+// TM020 BODY PRESS
 .skip 2
-.halfword PALETTE_NORMAL
+.halfword PALETTE_FIGHTING
 .skip 4
 
-// TM021 FRUSTRATION
+// TM021 PUNISHMENT
 .skip 2
-.halfword PALETTE_NORMAL
+.halfword PALETTE_DARK
 .skip 4
 
 // TM022 SOLARBEAM
@@ -140,7 +140,7 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_GRASS
 .skip 4
 
-// TM023 IRON_TAIL
+// TM023 IRON_HEAD
 .skip 2
 .halfword PALETTE_STEEL
 .skip 4
@@ -160,12 +160,12 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_GROUND
 .skip 4
 
-// TM027 RETURN
+// TM027 TRI ATTACK
 .skip 2
 .halfword PALETTE_NORMAL
 .skip 4
 
-// TM028 DIG
+// TM028 BULLDOZE
 .skip 2
 .halfword PALETTE_GROUND
 .skip 4
@@ -180,7 +180,7 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_GHOST
 .skip 4
 
-// TM031 BRICK_BREAK
+// TM031 VACUUM WAVE
 .skip 2
 .halfword PALETTE_FIGHTING
 .skip 4
@@ -195,7 +195,7 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_PSYCHIC
 .skip 4
 
-// TM034 SHOCK_WAVE
+// TM034 VOLT SWITCH
 .skip 2
 .halfword PALETTE_ELECTRIC
 .skip 4
@@ -220,17 +220,17 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_FIRE
 .skip 4
 
-// TM039 ROCK_TOMB
+// TM039 ANCIENT POWER
 .skip 2
 .halfword PALETTE_ROCK
 .skip 4
 
-// TM040 AERIAL_ACE
+// TM040 AIR CUTTER
 .skip 2
 .halfword PALETTE_FLYING
 .skip 4
 
-// TM041 TORMENT
+// TM041 HONE CLAWS
 .skip 2
 .halfword PALETTE_DARK
 .skip 4
@@ -240,9 +240,9 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_NORMAL
 .skip 4
 
-// TM043 SECRET_POWER
+// TM043 LUNAR WALTZ
 .skip 2
-.halfword PALETTE_NORMAL
+.halfword PALETTE_FAIRY
 .skip 4
 
 // TM044 REST
@@ -255,9 +255,9 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_NORMAL
 .skip 4
 
-// TM046 THIEF
+// TM046 PHANTOM FORCE
 .skip 2
-.halfword PALETTE_DARK
+.halfword PALETTE_GHOST
 .skip 4
 
 // TM047 STEEL_WING
@@ -265,17 +265,17 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_STEEL
 .skip 4
 
-// TM048 SKILL_SWAP
+// TM048 PSYCHIC FANGS
 .skip 2
 .halfword PALETTE_PSYCHIC
 .skip 4
 
-// TM049 SNATCH
+// TM049 PLAY ROUGH
 .skip 2
-.halfword PALETTE_DARK
+.halfword PALETTE_FAIRY
 .skip 4
 
-// TM050 OVERHEAT
+// TM050 FLAME CHARGE
 .skip 2
 .halfword PALETTE_FIRE
 .skip 4
@@ -290,24 +290,24 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_FIGHTING
 .skip 4
 
-// TM053 ENERGY_BALL
-.skip 2
-.halfword PALETTE_GRASS
-.skip 4
-
-// TM054 FALSE_SWIPE
+// TM053 SWIFT
 .skip 2
 .halfword PALETTE_NORMAL
 .skip 4
 
-// TM055 BRINE
+// TM054 MYSTICAL FIRE
+.skip 2
+.halfword PALETTE_FIRE
+.skip 4
+
+// TM055 CHILLING WATER
 .skip 2
 .halfword PALETTE_WATER
 .skip 4
 
-// TM056 FLING
+// TM056 COVET
 .skip 2
-.halfword PALETTE_DARK
+.halfword PALETTE_FAIRY
 .skip 4
 
 // TM057 CHARGE_BEAM
@@ -315,9 +315,9 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_ELECTRIC
 .skip 4
 
-// TM058 ENDURE
+// TM058 INFESTATION
 .skip 2
-.halfword PALETTE_NORMAL
+.halfword PALETTE_BUG
 .skip 4
 
 // TM059 DRAGON_PULSE
@@ -340,9 +340,9 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_BUG
 .skip 4
 
-// TM063 EMBARGO
+// TM063 HEX
 .skip 2
-.halfword PALETTE_DARK
+.halfword PALETTE_GHOST
 .skip 4
 
 // TM064 EXPLOSION
@@ -355,14 +355,14 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_GHOST
 .skip 4
 
-// TM066 PAYBACK
+// TM066 POISON FANG
 .skip 2
-.halfword PALETTE_DARK
+.halfword PALETTE_POISON
 .skip 4
 
-// TM067 RECYCLE
+// TM067 VENOSHOCK
 .skip 2
-.halfword PALETTE_NORMAL
+.halfword PALETTE_POISON
 .skip 4
 
 // TM068 GIGA_IMPACT
@@ -370,9 +370,9 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_NORMAL
 .skip 4
 
-// TM069 ROCK_POLISH
+// TM069 MUD-SLAP
 .skip 2
-.halfword PALETTE_ROCK
+.halfword PALETTE_GROUND
 .skip 4
 
 // TM070 FLASH
@@ -385,7 +385,7 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_ROCK
 .skip 4
 
-// TM072 AVALANCHE
+// TM072 TRIPLE AXEL
 .skip 2
 .halfword PALETTE_ICE
 .skip 4
@@ -395,29 +395,29 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_ELECTRIC
 .skip 4
 
-// TM074 GYRO_BALL
+// TM074 THUNDER PUNCH
 .skip 2
-.halfword PALETTE_STEEL
+.halfword PALETTE_ELECTRIC
 .skip 4
 
-// TM075 SWORDS_DANCE
+// TM075 FIRE PUNCH
 .skip 2
-.halfword PALETTE_NORMAL
+.halfword PALETTE_FIRE
 .skip 4
 
-// TM076 STEALTH_ROCK
+// TM076 ICE PUNCH
 .skip 2
-.halfword PALETTE_ROCK
+.halfword PALETTE_ICE
 .skip 4
 
-// TM077 PSYCH_UP
+// TM077 DAZZLING GLEAM
 .skip 2
-.halfword PALETTE_NORMAL
+.halfword PALETTE_FAIRY
 .skip 4
 
-// TM078 CAPTIVATE
+// TM078 ACROBATICS
 .skip 2
-.halfword PALETTE_NORMAL
+.halfword PALETTE_FLYING
 .skip 4
 
 // TM079 DARK_PULSE
@@ -425,22 +425,22 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_DARK
 .skip 4
 
-// TM080 ROCK_SLIDE
+// TM080 EARTH POWER
 .skip 2
-.halfword PALETTE_ROCK
+.halfword PALETTE_GROUND
 .skip 4
 
-// TM081 X_SCISSOR
+// TM081 LEECH LIFE
 .skip 2
 .halfword PALETTE_BUG
 .skip 4
 
-// TM082 SLEEP_TALK
+// TM082 FLIP TURN
 .skip 2
-.halfword PALETTE_NORMAL
+.halfword PALETTE_WATER
 .skip 4
 
-// TM083 NATURAL_GIFT
+// TM083 GROWTH
 .skip 2
 .halfword PALETTE_NORMAL
 .skip 4
@@ -450,22 +450,22 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_POISON
 .skip 4
 
-// TM085 DREAM_EATER
+// TM085 PSYCHO CUT
 .skip 2
 .halfword PALETTE_PSYCHIC
 .skip 4
 
-// TM086 GRASS_KNOT
+// TM086 TRAILBLAZE
 .skip 2
 .halfword PALETTE_GRASS
 .skip 4
 
-// TM087 SWAGGER
+// TM087 WILD CHARGE
 .skip 2
-.halfword PALETTE_NORMAL
+.halfword PALETTE_ELECTRIC
 .skip 4
 
-// TM088 PLUCK
+// TM088 HURRICANE
 .skip 2
 .halfword PALETTE_FLYING
 .skip 4
@@ -475,9 +475,9 @@ PALETTE_FAIRY equ 401
 .halfword PALETTE_BUG
 .skip 4
 
-// TM090 SUBSTITUTE
+// TM090 OUTRAGE
 .skip 2
-.halfword PALETTE_NORMAL
+.halfword PALETTE_DRAGON
 .skip 4
 
 // TM091 FLASH_CANNON
@@ -527,7 +527,7 @@ PALETTE_FAIRY equ 401
 
 // HM008 ROCK_CLIMB
 .skip 2
-.halfword PALETTE_NORMAL
+.halfword PALETTE_ROCK
 .skip 4
 
 .close

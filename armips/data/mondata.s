@@ -3606,7 +3606,7 @@ mondata SPECIES_CHINCHOU, "Chinchou"
 
 
 mondata SPECIES_LANTURN, "Lanturn"
-    basestats 155, 58, 58, 67, 76, 76
+    basestats 155, 58, 48, 67, 86, 76
     types TYPE_WATER, TYPE_ELECTRIC
     catchrate 75
     baseexp 0 // defined in baseexp.s
@@ -4677,7 +4677,7 @@ mondata SPECIES_PILOSWINE, "Piloswine"
 
 
 mondata SPECIES_CORSOLA, "Corsola"
-    basestats 65, 65, 125, 35, 65, 125
+    basestats 95, 65, 125, 35, 65, 75
     types TYPE_WATER, TYPE_ROCK
     catchrate 60
     baseexp 0 // defined in baseexp.s
@@ -10053,7 +10053,7 @@ mondata SPECIES_DUSKNOIR, "Dusknoir"
 
 
 mondata SPECIES_FROSLASS, "Froslass"
-    basestats 70, 80, 95, 110, 95, 70
+    basestats 60, 90, 60, 125, 95, 60
     types TYPE_ICE, TYPE_GHOST
     catchrate 75
     baseexp 0 // defined in baseexp.s
@@ -20816,7 +20816,7 @@ mondata SPECIES_WATTREL, "Wattrel"
     basefriendship 50
     growthrate GROWTH_MEDIUM_SLOW
     egggroups EGG_GROUP_WATER_1, EGG_GROUP_FLYING
-    abilities ABILITY_COMPETITIVE, ABILITY_VOLT_ABSORB
+    abilities ABILITY_WIND_POWER, ABILITY_VOLT_ABSORB
     runchance 0
     colorflip BODY_COLOR_BLACK, 0
     mondexentry SPECIES_WATTREL, "Wattrel make nests on coastal cliffs.\nThese nests deter predators seeking\nWattrel Eggs with nasty static shocks."
@@ -20837,7 +20837,7 @@ mondata SPECIES_KILOWATTREL, "Kilowatrel"
     basefriendship 50
     growthrate GROWTH_MEDIUM_SLOW
     egggroups EGG_GROUP_WATER_1, EGG_GROUP_FLYING
-    abilities ABILITY_COMPETITIVE, ABILITY_VOLT_ABSORB
+    abilities ABILITY_WIND_POWER, ABILITY_VOLT_ABSORB
     runchance 0
     colorflip BODY_COLOR_YELLOW, 0
     mondexentry SPECIES_KILOWATTREL, "Kilowattrel inflates its throat sac to\namplify its power. By riding the wind,\nit can fly over 430 miles in a day."
