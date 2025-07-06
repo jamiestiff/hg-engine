@@ -10349,7 +10349,7 @@ trainerdata 251, "Nob"
         // mon 0
         ivs 40
         abilityslot 32
-        level 26
+        level 28
         pokemon SPECIES_PANCHAM
         move MOVE_SLASH
         move MOVE_BITE
@@ -10360,7 +10360,7 @@ trainerdata 251, "Nob"
         // mon 1
         ivs 40
         abilityslot 32
-        level 26
+        level 28
         pokemon SPECIES_MEDITITE
         move MOVE_CONFUSION
         move MOVE_FORCE_PALM

@@ -379,7 +379,7 @@ The user cloaks itself with flame and\nattacks. Building up more power,\nit rais
 The user lands and rests its body.\nIt restores the user’s HP by up to\nhalf of its max HP.
 The user attacks at full power.\nIt may also lower the foe’s Sp. Def\nstat if it hits.
 Star-shaped rays are shot at opposing\nPokémon. This attack never misses.\n
-The user attacks by summoning a\nspecial, hot fire. This also\nlowers the target's Sp. Atk stat.
+The user attacks by summoning a\nspecial, hot fire. This also\nlowers the target’s Sp. Atk stat.
 The user attacks by showering the foe\nwith water so cold that it lowers the\ntarget’s Attack stat.
 The user endearingly approaches\nthe foe, then steals the item\nthe foe is holding.
 The user attacks with an electric\ncharge. The user may use any remaining\nelectricity to raise its Sp. Atk stat.

@@ -135,18 +135,18 @@ a {COLOR 255}Griseous Orb{COLOR 0}
 ???
 an {COLOR 255}Adamant Orb{COLOR 0}
 a {COLOR 255}Lustrous Orb{COLOR 0}
-a {COLOR 255}Grass Mail{COLOR 0}
-a {COLOR 255}Flame Mail{COLOR 0}
+a {COLOR 255}Garden Puzzle{COLOR 0}
+an {COLOR 255}Autumnal Puzzle{COLOR 0}
 a {COLOR 255}Bubble Mail{COLOR 0}
-a {COLOR 255}Bloom Mail{COLOR 0}
+a {COLOR 255}Petal Puzzle Mail{COLOR 0}
 a {COLOR 255}Tunnel Mail{COLOR 0}
-a {COLOR 255}Steel Mail{COLOR 0}
-a {COLOR 255}Heart Mail{COLOR 0}
+a {COLOR 255}Final Puzzle{COLOR 0}
+a {COLOR 255}Child’s Puzzle{COLOR 0}
 a {COLOR 255}Snow Mail{COLOR 0}
 a {COLOR 255}Space Mail{COLOR 0}
 an {COLOR 255}Air Mail{COLOR 0}
-a {COLOR 255}Mosaic Mail{COLOR 0}
-a {COLOR 255}Brick Mail{COLOR 0}
+a {COLOR 255}Guardian Letter{COLOR 0}
+a {COLOR 255}Brick Puzzle{COLOR 0}
 a {COLOR 255}Cheri Berry{COLOR 0}
 a {COLOR 255}Chesto Berry{COLOR 0}
 a {COLOR 255}Pecha Berry{COLOR 0}

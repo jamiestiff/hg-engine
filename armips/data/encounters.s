@@ -14771,7 +14771,7 @@ pokemon SPECIES_MAGIKARP
 
 
 
-encounterdata   142   // Olivine Lighthouse
+encounterdata 142   // Olivine Lighthouse
 
 walkrate 5
 surfrate 0
@@ -14871,8 +14871,6 @@ pokemon SPECIES_NONE
 pokemon SPECIES_NONE
 // swarm super rod
 pokemon SPECIES_NONE
-
-.close
 
 .close
 
