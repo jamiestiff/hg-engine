@@ -135,18 +135,18 @@ A glowing orb to be held by GIRATINA.\nIt boosts the power of Dragon- and\nGhost
 -----
 A brightly gleaming orb to be held by\nDIALGA. It boosts the power of Dragon-\nand Steel-type moves.
 A beautifully glowing orb to be held by\nPALKIA. It boosts the power of Dragon-\nand Water-type moves.
-Found at the base of the Violet Bonsai.\nIt reads:\nI nourish that which gives nourishment.
+Found at the base of the Violet Bonsai.\nIt reads:\nI nourish those that nourish others.
 Found on the Bellchime Trail.\nIt shows a picture of a large\nbonsai tree surrounded by water.
 Stationery featuring a print of a blue\nworld underwater.\nLet a Pokémon hold it for delivery.
 Found in a flower bed in National Park.\nThere’s a code at the bottom:\n42. PGY_!
 Not used, error.\n\n
 A simple letter. It reads:\nPlease look after my friend.\n
-An old puzzle written by a child.\nMostly faded, the bottom reads:\nA - T - M - / P _ T H.
+An old puzzle written by a child.\nMostly faded, the bottom reads:\nDOWSE. A - T - M - / P - - H.
 Stationery featuring a print of a\nchilly, snow-covered world.\nLet a Pokémon hold it for delivery.
 A futuristic looking letter. It reads:\nIt looks to the past. Show it the future.
 Stationery featuring a print of\ncolorful letter sets.\nLet a Pokémon hold it for delivery.
-An ancient rainbow-hued letter with a\nmessage in child’s handwriting:\nIt reads: Friends 4Ever! Be BACK soon!
-It reads: Follow the path where bugs\ngather in number. Search the spot where\npink flowers slumber.
+An ancient rainbow-hued letter with a\nmessage in child’s handwriting:\nIt reads: Friends 4Ever Celebi! BACK soon!
+It reads: Seek the place where bugs\ngather in number. Search the spot where\npink flowers slumber.
 It may be used or held by a Pokémon to\nrecover from paralysis.
 It may be used or held by a Pokémon to\nrecover from sleep.
 It may be used or held by a Pokémon to\nrecover from poison.
@@ -254,7 +254,7 @@ A transparent device filled with all\nsorts of data.\nIt was produced by Silph C
 An item to be held by a Pokémon.\nThe holder’s HP is restored a little\nevery time it inflicts damage.
 An item to be held by a Pokémon. It is\nincense with a curious aroma that\nboosts the power of Water-type moves.
 An item to be held by a Pokémon. The\ntricky aroma of this incense lowers the\nfoe’s accuracy.
-An item to be held by Chansey. It is a\npair of gloves that boosts CHANSEY’s\ncritical-hit ratio.
+An item to be held by Chansey. It is a\npair of gloves that boosts Chansey’s\ncritical-hit ratio.
 An item to be held by Ditto.\nExtremely fine yet hard, this odd\npowder boosts the Defense stat.
 An item to be held by Cubone or\nMarowak. It is a hard bone of some\nsort that boosts the Attack stat.
 An item to be held by Farfetch’d. It is\na very long and stiff stalk of leek\nthat boosts the critical-hit ratio.
@@ -446,7 +446,7 @@ A case for holding coins obtained at\nthe Game Corner.\nIt holds up to 50,000 co
 An old and beat-up fishing rod.\nUse it by any body of water to fish for\nwild aquatic Pokémon.
 A new, good-quality fishing rod.\nUse it by any body of water to fish for\nwild aquatic Pokémon.
 An awesome, high-tech fishing rod.\nUse it by any body of water to fish for\nwild aquatic Pokémon.
-A watering can shaped like a PSYDUCK.\nIt helps promote healthy growth of\nBerries planted in soft soil.
+A watering can shaped like a Psyduck.\nIt helps promote healthy growth of\nBerries planted in soft soil.
 A case for storing Poffin cooked from\nBerries.\n
 A folding Bicycle that enables much\nfaster movement than the Running\nShoes.
 A key to one of the suites at the\nluxury hotel by a lake. For some odd\nreason, it often disappears.

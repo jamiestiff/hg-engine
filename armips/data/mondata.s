@@ -12038,7 +12038,7 @@ mondata SPECIES_BLITZLE, "Blitzle"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_FIELD, EGG_GROUP_FIELD
-    abilities ABILITY_MOTOR_DRIVE, ABILITY_RECKLESS
+    abilities ABILITY_LIGHTNING_ROD, ABILITY_RECKLESS
     runchance 0
     colorflip BODY_COLOR_BLACK, 0
     mondexentry SPECIES_BLITZLE, "Its mane shines when it discharges\nelectricity. They use the frequency and\nrhythm of these flashes to communicate."
@@ -12059,7 +12059,7 @@ mondata SPECIES_ZEBSTRIKA, "Zebstrika"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_FIELD, EGG_GROUP_FIELD
-    abilities ABILITY_MOTOR_DRIVE, ABILITY_RECKLESS
+    abilities ABILITY_LIGHTNING_ROD, ABILITY_RECKLESS
     runchance 0
     colorflip BODY_COLOR_BLACK, 0
     mondexentry SPECIES_ZEBSTRIKA, "When this ill-tempered Pokémon\nruns wild, it shoots lightning\nfrom its mane in all directions."
@@ -17393,7 +17393,7 @@ mondata SPECIES_TOGEDEMARU, "Togedemaru"
     basefriendship 50
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_FIELD, EGG_GROUP_FAIRY
-    abilities ABILITY_IRON_BARBS, ABILITY_MOTOR_DRIVE
+    abilities ABILITY_IRON_BARBS, ABILITY_LIGHTNING_ROD
     runchance 0
     colorflip BODY_COLOR_GRAY, 0
     mondexentry SPECIES_TOGEDEMARU, "When in trouble, it curls up into a\nball, and discharges electricity\nindiscriminately."
