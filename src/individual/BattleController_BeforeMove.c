@@ -1729,10 +1729,10 @@ BOOL BattleController_CheckMoveFailures1(struct BattleSystem *bsys, struct Battl
     }
 
     // TODO: client Transformed into the correct species can use the move as well
-    // Dark Void when user isn't Darkrai
-    if ((currentMoveIndex == MOVE_DARK_VOID && attackClient.species != SPECIES_DARKRAI)
     // Hyperspace Fury when user isn't Hoopa
-    || (currentMoveIndex == MOVE_HYPERSPACE_FURY && attackClient.species != SPECIES_HOOPA)
+    if ((currentMoveIndex == MOVE_HYPERSPACE_FURY && attackClient.species != SPECIES_HOOPA)
+        // Dark Void when user isn't Darkrai - REMOVED FOR RESPLENDENT HG
+    // (currentMoveIndex == MOVE_DARK_VOID && attackClient.species != SPECIES_DARKRAI)
     // Aura Wheel when user isn't Morpeko
     || (currentMoveIndex == MOVE_AURA_WHEEL && attackClient.species != SPECIES_MORPEKO)) {
         ctx->oneTurnFlag[ctx->attack_client].parental_bond_flag = 0;

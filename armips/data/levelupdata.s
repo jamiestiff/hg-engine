@@ -10538,9 +10538,8 @@ levelup SPECIES_CARBINK
     learnset MOVE_TACKLE, 1
     learnset MOVE_HARDEN, 1
     learnset MOVE_ROCK_THROW, 5
-    learnset MOVE_SHARPEN, 8
-    learnset MOVE_SMACK_DOWN, 10
-    learnset MOVE_GUARD_SPLIT, 15
+    learnset MOVE_SHARPEN, 9
+    learnset MOVE_GUARD_SPLIT, 14
     learnset MOVE_REFLECT, 18
     learnset MOVE_FLAIL, 24
     learnset MOVE_ANCIENT_POWER, 25
