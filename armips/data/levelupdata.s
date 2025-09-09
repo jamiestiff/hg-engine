@@ -14982,6 +14982,22 @@ levelup SPECIES_IRON_VALIANT
     terminatelearnset
 
 levelup SPECIES_KORAIDON
+    learnset MOVE_BREAKING_SWIPE, 1
+    learnset MOVE_SUNNY_DAY, 1
+    learnset MOVE_ROCK_SMASH, 7
+    learnset MOVE_ANCIENT_POWER, 14
+    learnset MOVE_DRAIN_PUNCH, 21
+    learnset MOVE_BRICK_BREAK, 28
+    learnset MOVE_AGILITY, 35
+    learnset MOVE_DRAGON_CLAW, 42
+    learnset MOVE_FLAMETHROWER, 49
+    learnset MOVE_COLLISION_COURSE, 56
+    learnset MOVE_SCREECH, 63
+    learnset MOVE_COUNTER, 70
+    learnset MOVE_OUTRAGE, 77
+    learnset MOVE_CLOSE_COMBAT, 84
+    learnset MOVE_FLARE_BLITZ, 91
+    learnset MOVE_GIGA_IMPACT, 98
     terminatelearnset
 
 levelup SPECIES_MIRAIDON
@@ -21064,7 +21080,7 @@ levelup SPECIES_KORAIDON_LIMITED_BUILD
     learnset MOVE_OUTRAGE, 77
     learnset MOVE_CLOSE_COMBAT, 84
     learnset MOVE_FLARE_BLITZ, 91
-    learnset MOVE_GIGA_IMPACT, 981
+    learnset MOVE_GIGA_IMPACT, 98
     terminatelearnset
 
 levelup SPECIES_KORAIDON_SPRINTING_BUILD
@@ -21083,7 +21099,7 @@ levelup SPECIES_KORAIDON_SPRINTING_BUILD
     learnset MOVE_OUTRAGE, 77
     learnset MOVE_CLOSE_COMBAT, 84
     learnset MOVE_FLARE_BLITZ, 91
-    learnset MOVE_GIGA_IMPACT, 981
+    learnset MOVE_GIGA_IMPACT, 98
     terminatelearnset
 
 levelup SPECIES_KORAIDON_SWIMMING_BUILD
@@ -21102,7 +21118,7 @@ levelup SPECIES_KORAIDON_SWIMMING_BUILD
     learnset MOVE_OUTRAGE, 77
     learnset MOVE_CLOSE_COMBAT, 84
     learnset MOVE_FLARE_BLITZ, 91
-    learnset MOVE_GIGA_IMPACT, 981
+    learnset MOVE_GIGA_IMPACT, 98
     terminatelearnset
 
 levelup SPECIES_KORAIDON_GLIDING_BUILD
@@ -21121,7 +21137,7 @@ levelup SPECIES_KORAIDON_GLIDING_BUILD
     learnset MOVE_OUTRAGE, 77
     learnset MOVE_CLOSE_COMBAT, 84
     learnset MOVE_FLARE_BLITZ, 91
-    learnset MOVE_GIGA_IMPACT, 981
+    learnset MOVE_GIGA_IMPACT, 98
     terminatelearnset
 
 levelup SPECIES_MIRAIDON_LOW_POWER_MODE
