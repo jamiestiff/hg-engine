@@ -28,8 +28,8 @@
 // commenting this line out essentially disables hidden abilities to maintain default behavior, while leaving this as-is will introduce hidden abilities and all of their handling.
 // just need to set the HIDDEN_ABILITIES_FLAG from the save and then every mon should be generated with its hidden ability until the flag is cleared from another script
 #define HIDDEN_ABILITIES
-#define HIDDEN_ABILITIES_FLAG 2600
-#define HIDDEN_ABILITIES_STARTERS_FLAG 2601
+#define HIDDEN_ABILITIES_FLAG 2698
+#define HIDDEN_ABILITIES_STARTERS_FLAG 2699
 
 // MEGA_EVOLUTIONS defines whether or not Pokémon that are able to mega evolve will be able to do so.
 // commenting this line out essentially disables mega evolutions and maintains default behavior with respect to them.  leaving this as-is will introduce mega evolutions when applied to the game.
@@ -80,10 +80,10 @@
 #define ALLOW_LEVEL_CAP_EVOLVE
 
 // System flags that need to be enabled for the player to use the gimmick. If you want to change them, remember to change them in flags.s as well for consistency
-#define FLAG_MEGA_EVOLUTION_ENABLED 2518
-#define FLAG_Z_MOVE_ENABLED 2519
-#define FLAG_DYNAMAX_ENABLED 2520
-#define FLAG_TERASTALIZATION_ENABLED 2521
+//#define FLAG_MEGA_EVOLUTION_ENABLED 2518
+//#define FLAG_Z_MOVE_ENABLED 2519
+//#define FLAG_DYNAMAX_ENABLED 2520
+//#define FLAG_TERASTALIZATION_ENABLED 2521
 
 // UPDATE_OVERWORLD_POISON will remove overworld poison if enabled
 // comment the line out below to retain overworld poison

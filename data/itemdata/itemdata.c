@@ -2987,7 +2987,7 @@ const ITEMDATA __data[] =
         .friendship_mod_lo = TRUE,
         .friendship_mod_med = TRUE,
         .friendship_mod_hi = TRUE,
-        .hp_ev_up_param = 252,
+        .hp_ev_up_param = 64,
         .atk_ev_up_param = 0,
         .def_ev_up_param = 0,
         .speed_ev_up_param = 0,
@@ -37713,7 +37713,7 @@ const ITEMDATA __data[] =
 
 [ITEM_ABILITY_CAPSULE - NUM_UNKNOWN_SLOTS_EXPLORER_KIT] =
 {
-    .price = 10000,
+    .price = 9999,
     .holdEffect = 0,
     .holdEffectParam = 0,
     .pluckEffect = 0,

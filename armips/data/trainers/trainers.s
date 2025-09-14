@@ -7831,7 +7831,7 @@ trainerdata 196, "Grunt"
 trainerdata 197, "Grunt"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_TEAM_ROCKET
-    nummons 2
+    nummons 3
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -8182,7 +8182,7 @@ trainerdata 205, "Nick"
         // mon 0
         ivs 50
         abilityslot 0
-        level 26
+        level 32
         pokemon SPECIES_QUILAVA
         move MOVE_FLAME_WHEEL
         move MOVE_SWIFT
@@ -8193,7 +8193,7 @@ trainerdata 205, "Nick"
         // mon 1
         ivs 50
         abilityslot 0
-        level 26
+        level 32
         pokemon SPECIES_CROCONAW
         move MOVE_SCARY_FACE
         move MOVE_WATER_GUN
@@ -8204,7 +8204,7 @@ trainerdata 205, "Nick"
         // mon 2
         ivs 50
         abilityslot 0
-        level 26
+        level 32
         pokemon SPECIES_BAYLEEF
         move MOVE_SWEET_SCENT
         move MOVE_ANCIENT_POWER
@@ -8227,30 +8227,30 @@ trainerdata 206, "Gwen"
 
     party 206
         // mon 0
-        ivs 50
+        ivs 250
         abilityslot 32
-        level 30
+        level 35
         pokemon SPECIES_EEVEE
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 25
+        level 30
         pokemon SPECIES_LEAFEON
         ballseal 0
 
         // mon 2
         ivs 50
         abilityslot 0
-        level 25
+        level 30
         pokemon SPECIES_GLACEON
         ballseal 0
 
         // mon 3
         ivs 50
         abilityslot 0
-        level 25
+        level 30
         pokemon SPECIES_SYLVEON
         ballseal 0
     endparty
@@ -9130,7 +9130,7 @@ trainerdata 226, "Blaine"
 trainerdata 227, "Grunt"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_TEAM_ROCKET
-    nummons 2
+    nummons 3
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -16366,9 +16366,9 @@ trainerdata 363, "Emma"
 
     party 363
         // mon 0
-        ivs 50
+        ivs 150
         abilityslot 0
-        level 30
+        level 35
         pokemon SPECIES_SLIGGOO
         ballseal 0
     endparty

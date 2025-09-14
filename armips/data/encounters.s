@@ -1680,48 +1680,48 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 22, 22, 22, 22, 22, 22, 21, 21, 20, 23, 20, 23
+walklevels 28, 28, 29, 30, 28, 30, 30, 30, 34, 30, 35, 31
 
 // morning encounter slots
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GLIMMET
 pokemon SPECIES_DWEBBLE
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ARON
+pokemon SPECIES_CLEFAIRY
+pokemon SPECIES_GLIMMET
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_GOLBAT
-pokemon SPECIES_DWEBBLE
-pokemon SPECIES_ARON
-pokemon SPECIES_ARON
+pokemon SPECIES_LAIRON
+pokemon SPECIES_LAIRON
+pokemon SPECIES_CRUSTLE
 pokemon SPECIES_ONIX
-pokemon SPECIES_DWEBBLE
+pokemon SPECIES_CRUSTLE
 pokemon SPECIES_ONIX
 
 // day encounter slots
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GLIMMET
 pokemon SPECIES_DWEBBLE
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ARON
+pokemon SPECIES_CLEFAIRY
+pokemon SPECIES_GLIMMET
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_GOLBAT
-pokemon SPECIES_DWEBBLE
-pokemon SPECIES_ARON
-pokemon SPECIES_ARON
+pokemon SPECIES_LAIRON
+pokemon SPECIES_LAIRON
+pokemon SPECIES_CRUSTLE
 pokemon SPECIES_ONIX
-pokemon SPECIES_DWEBBLE
+pokemon SPECIES_CRUSTLE
 pokemon SPECIES_ONIX
 
 // night encounter slots
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GLIMMET
 pokemon SPECIES_DWEBBLE
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ARON
+pokemon SPECIES_CLEFAIRY
+pokemon SPECIES_GLIMMET
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_GOLBAT
-pokemon SPECIES_DWEBBLE
-pokemon SPECIES_ARON
-pokemon SPECIES_ARON
+pokemon SPECIES_LAIRON
+pokemon SPECIES_LAIRON
+pokemon SPECIES_CRUSTLE
 pokemon SPECIES_ONIX
-pokemon SPECIES_DWEBBLE
+pokemon SPECIES_CRUSTLE
 pokemon SPECIES_ONIX
 
 // hoenn encounter slots
@@ -1765,7 +1765,7 @@ encounter SPECIES_SLOWKING, 40, 40
 encounter SPECIES_SLOWKING, 40, 40
 
 // swarm grass
-pokemon SPECIES_CLEFFA
+pokemon SPECIES_CLEFAIRY
 // swarm surf
 pokemon SPECIES_WOOPER
 // swarm good rod
@@ -1992,48 +1992,48 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 21, 23, 21, 23, 19, 19, 21, 21, 23, 23, 23, 23
+walklevels 30, 30, 31, 30, 30, 33, 35, 35, 34, 34, 35, 35
 
 // morning encounter slots
+pokemon SPECIES_SLOWPOKE
 pokemon SPECIES_DWEBBLE
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_SLOWPOKE
 pokemon SPECIES_GOLBAT
+pokemon SPECIES_GOOMY
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_GOLBAT
+pokemon SPECIES_SLOWBRO
+pokemon SPECIES_SLOWKING
+pokemon SPECIES_SLIGGOO
+pokemon SPECIES_CRUSTLE
+pokemon SPECIES_SLIGGOO
 pokemon SPECIES_CRUSTLE
 
 // day encounter slots
+pokemon SPECIES_SLOWPOKE
 pokemon SPECIES_DWEBBLE
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_SLOWPOKE
 pokemon SPECIES_GOLBAT
+pokemon SPECIES_GOOMY
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_GOLBAT
+pokemon SPECIES_SLOWBRO
+pokemon SPECIES_SLOWKING
+pokemon SPECIES_SLIGGOO
+pokemon SPECIES_CRUSTLE
+pokemon SPECIES_SLIGGOO
 pokemon SPECIES_CRUSTLE
 
 // night encounter slots
+pokemon SPECIES_SLOWPOKE
 pokemon SPECIES_DWEBBLE
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_SLOWPOKE
 pokemon SPECIES_GOLBAT
+pokemon SPECIES_GOOMY
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_GOLBAT
+pokemon SPECIES_SLOWBRO
+pokemon SPECIES_SLOWKING
+pokemon SPECIES_SLIGGOO
+pokemon SPECIES_CRUSTLE
+pokemon SPECIES_SLIGGOO
 pokemon SPECIES_CRUSTLE
 
 // hoenn encounter slots
@@ -2045,11 +2045,11 @@ pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
 
 // surf encounters
-encounter SPECIES_SLOWPOKE, 10, 20
-encounter SPECIES_SLOWPOKE, 15, 25
-encounter SPECIES_SLOWPOKE, 20, 30
-encounter SPECIES_SLOWPOKE, 25, 35
-encounter SPECIES_SLOWPOKE, 30, 35
+encounter SPECIES_SLOWPOKE, 20, 25
+encounter SPECIES_SLOWPOKE, 20, 35
+encounter SPECIES_SLOWBRO, 35, 35
+encounter SPECIES_SLOWKING, 35, 35
+encounter SPECIES_SLOWKING, 35, 35
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -4474,6 +4474,8 @@ pokemon SPECIES_FRILLISH
 pokemon SPECIES_CLOBBOPUS
 // swarm super rod
 pokemon SPECIES_MAGIKARP
+
+.close
 
 
 encounterdata  43   // Whirl Islands 1F
@@ -7242,14 +7244,14 @@ pokemon SPECIES_RATTATA
 
 // surf encounters
 encounter SPECIES_MAGIKARP, 10, 20
-encounter SPECIES_MAGIKARP, 5, 15
-encounter SPECIES_MAGIKARP, 2, 10
-encounter SPECIES_MAGIKARP, 2, 10
-encounter SPECIES_MAGIKARP, 2, 10
+encounter SPECIES_MAGIKARP, 10, 25
+encounter SPECIES_MAGIKARP, 15, 30
+encounter SPECIES_MAGIKARP, 15, 35
+encounter SPECIES_MAGIKARP, 25, 40
 
 // rock smash encounters
-encounter SPECIES_DUNSPARCE, 4, 8
 encounter SPECIES_GLIMMET, 4, 8
+encounter SPECIES_DUNSPARCE, 4, 8
 
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
@@ -7292,7 +7294,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 28, 28, 28, 29, 30, 28, 29, 30, 28, 29, 30, 20
+walklevels 30, 30, 32, 32, 32, 30, 31, 32, 30, 30, 35, 20
 
 // morning encounter slots
 pokemon SPECIES_LAIRON
@@ -7346,14 +7348,14 @@ pokemon SPECIES_RATTATA
 
 // surf encounters
 encounter SPECIES_MAGIKARP, 10, 20
-encounter SPECIES_MAGIKARP, 5, 15
-encounter SPECIES_MAGIKARP, 2, 10
-encounter SPECIES_MAGIKARP, 2, 10
-encounter SPECIES_MAGIKARP, 2, 10
+encounter SPECIES_MAGIKARP, 10, 25
+encounter SPECIES_MAGIKARP, 15, 30
+encounter SPECIES_MAGIKARP, 15, 35
+encounter SPECIES_MAGIKARP, 25, 40
 
 // rock smash encounters
-encounter SPECIES_DUNSPARCE, 24, 28
-encounter SPECIES_GLIMMET, 28, 34
+encounter SPECIES_GLIMMET, 27, 34
+encounter SPECIES_DUNSPARCE, 27, 34
 
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
@@ -14768,6 +14770,8 @@ pokemon SPECIES_POLIWAG
 pokemon SPECIES_POLIWAG
 // swarm super rod
 pokemon SPECIES_MAGIKARP
+
+.close
 
 
 
