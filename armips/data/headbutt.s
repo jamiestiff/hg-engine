@@ -656,7 +656,7 @@ headbuttheader  30,  17,   0   // Route 26
 
 headbuttheader  31,  17,   0   // Route 27
     // normal slots
-    headbuttencounter SPECIES_HOOTHOOT, 28, 29
+    headbuttencounter SPECIES_HOOTHOOT , 28, 29
     headbuttencounter SPECIES_PINECO, 28, 29
     headbuttencounter SPECIES_PINECO, 28, 29
     headbuttencounter SPECIES_KRICKETOT, 28, 29

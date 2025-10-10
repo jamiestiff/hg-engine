@@ -22726,7 +22726,7 @@ mondata SPECIES_MEGA_ALAKAZAM, "-----"
 mondata SPECIES_MEGA_SLOWBRO, "-----"
     basestats 95, 75, 180, 30, 130, 80
     types TYPE_WATER, TYPE_PSYCHIC
-    catchrate 75
+    catchrate 74
     baseexp 164
     evyields 0, 0, 0, 0, 0, 0
     items ITEM_NONE, ITEM_NONE

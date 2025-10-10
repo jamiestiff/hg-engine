@@ -1035,7 +1035,7 @@ _0968: // Trainer 366
 _0974: // Trainer 28
     trainertextentry  28, TEXT_NOTICE_IN_OVERWORLD, "I’m making my final preparations for the\nPokémon League.\r"
     trainertextentry  28, TEXT_DEFEATED_IN_BATTLE, "I blew it!\n"
-    trainertextentry  28, TEXT_DEFEATED_IN_OVERWORLD, "It’s going to be tough to win at the\nLeague. I need to do some more\rtraining. I hear that the League’s Elite\nFour are tougher than Gym Leaders.\n"
+    trainertextentry  28, TEXT_DEFEATED_IN_OVERWORLD, "It’s going to be tough to win at the\nLeague. I need to train more.\rI hear that the League’s Elite\nFour are tougher than Gym Leaders.\n"
 
 _0980: // Trainer 102
     trainertextentry 102, TEXT_NOTICE_IN_OVERWORLD, "By experiencing tough battles, you\ngain power.\r"
@@ -3277,6 +3277,21 @@ _1C80: // Trainer 504
 _1C84: // Trainer 511
     trainertextentry 511, TEXT_DEFEATED_IN_BATTLE, "But all those Feathers!\n"
 
+_1C88: // Trainer 506
+    trainertextentry 506, TEXT_NOTICE_IN_OVERWORLD, "Aha! My next opponent!\r"
+    trainertextentry 506, TEXT_DEFEATED_IN_BATTLE, "What a setback...\n"
+    trainertextentry 506, TEXT_DEFEATED_IN_OVERWORLD, "Clearly I'm not ready for the\nPokémon League just yet..."
+
+_1C94: // Trainer 508
+    trainertextentry 508, TEXT_NOTICE_IN_OVERWORLD, "I've trained my Pokémon especially to take on the Elite Four!\r"
+    trainertextentry 508, TEXT_DEFEATED_IN_BATTLE, "You've got to be joking!\n"
+    trainertextentry 508, TEXT_DEFEATED_IN_OVERWORLD, "Maybe my EV spreads were wrong..."
+
+_1CA0: // Trainer 514
+    trainertextentry 514, TEXT_NOTICE_IN_OVERWORLD, "Instincts have got me this far.\nThey'll take me all the way!\r"
+    trainertextentry 514, TEXT_DEFEATED_IN_BATTLE, "My instincts let me down...\n"
+    trainertextentry 514, TEXT_DEFEATED_IN_OVERWORLD, "I guess I need to plan better\nagainst the better trainers..."
+
 .close
 
 .create "build/trainer_text_offsets/1_0", 0
@@ -3787,15 +3802,15 @@ _1C84: // Trainer 511
 /* Trainer 503 */ .halfword _1950
 /* Trainer 504 */ .halfword _1C80
 /* Trainer 505 */ .halfword _1A40
-/* Trainer 506 */ .halfword _0000
+/* Trainer 506 */ .halfword _1C88
 /* Trainer 507 */ .halfword _1920
-/* Trainer 508 */ .halfword _0000
+/* Trainer 508 */ .halfword _1C94
 /* Trainer 509 */ .halfword _192C
 /* Trainer 510 */ .halfword _1944
 /* Trainer 511 */ .halfword _1C84
 /* Trainer 512 */ .halfword _1938
 /* Trainer 513 */ .halfword _1AB8
-/* Trainer 514 */ .halfword _0000
+/* Trainer 514 */ .halfword _1CA0
 /* Trainer 515 */ .halfword _1A94
 /* Trainer 516 */ .halfword _0000
 /* Trainer 517 */ .halfword _1A70

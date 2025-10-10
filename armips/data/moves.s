@@ -2370,7 +2370,7 @@ movedata MOVE_SPORE, "Spore Burst"
     accuracy 70
     pp 5
     effectchance 0
-    target RANGE_ADJACENT_OPPONENTS
+    target RANGE_ALL_ADJACENT
     priority 0
     flags FLAG_MIRROR_MOVE | FLAG_MAGIC_COAT | FLAG_PROTECT
     appeal 0x0A
@@ -7439,10 +7439,10 @@ movedata MOVE_DARK_VOID, "Lights Out"
     pss SPLIT_STATUS
     basepower 0
     type TYPE_DARK
-    accuracy 100
+    accuracy 50
     pp 5
     effectchance 0
-    target RANGE_SINGLE_TARGET
+    target RANGE_ADJACENT_OPPONENTS
     priority 0
     flags FLAG_HIDE_SHADOW | FLAG_MIRROR_MOVE | FLAG_MAGIC_COAT | FLAG_PROTECT
     appeal 0x13

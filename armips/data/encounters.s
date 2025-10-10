@@ -72,7 +72,7 @@ pokemon SPECIES_NONE
 encounter SPECIES_FRILLISH, 15, 25
 encounter SPECIES_FRILLISH, 10, 20
 encounter SPECIES_FRILLISH, 15, 25
-encounter SPECIES_FRILLISH, 15, 25
+encounter SPECIES_JELLICENT, 25, 30
 encounter SPECIES_JELLICENT, 25, 35
 
 // rock smash encounters
@@ -3136,47 +3136,47 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 20, 21, 21, 21, 22, 25, 22, 23, 24, 24, 25, 30
+walklevels 42, 42, 43, 40, 42, 45, 42, 43, 43, 44, 40, 50
 
 // morning encounter slots
-pokemon SPECIES_NICKIT
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_CHIMECHO
+pokemon SPECIES_VULPIX
+pokemon SPECIES_BRONZONG
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_VULPIX
+pokemon SPECIES_VULPIX
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+pokemon SPECIES_MISMAGIUS
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
 monwithform SPECIES_VIVILLON, 5 // elegant
 
 // day encounter slots
-pokemon SPECIES_NICKIT
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
+pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
-monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_BRONZONG
+pokemon SPECIES_VULPIX
+pokemon SPECIES_VULPIX
+pokemon SPECIES_LAMPENT
+pokemon SPECIES_BRONZONG
+pokemon SPECIES_BRONZONG
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_VIVILLON, 5 // elegant
 
 // night encounter slots
-pokemon SPECIES_NICKIT
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_MISMAGIUS
+pokemon SPECIES_CHIMECHO
+pokemon SPECIES_LAMPENT
+pokemon SPECIES_LAMPENT
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_VIVILLON, 5 // elegant
 
@@ -3221,7 +3221,7 @@ encounter SPECIES_NONE, 0, 0
 encounter SPECIES_NONE, 0, 0
 
 // swarm grass
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_BRONZONG
 // swarm surf
 pokemon SPECIES_NONE
 // swarm good rod
@@ -3240,47 +3240,47 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 20, 21, 21, 21, 22, 25, 22, 23, 24, 24, 25, 30
+walklevels 42, 42, 43, 40, 42, 45, 42, 43, 43, 44, 40, 50
 
 // morning encounter slots
-pokemon SPECIES_NICKIT
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_CHIMECHO
+pokemon SPECIES_VULPIX
+pokemon SPECIES_BRONZONG
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_VULPIX
+pokemon SPECIES_VULPIX
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+pokemon SPECIES_MISMAGIUS
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
 monwithform SPECIES_VIVILLON, 5 // elegant
 
 // day encounter slots
-pokemon SPECIES_NICKIT
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
+pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
-monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_BRONZONG
+pokemon SPECIES_VULPIX
+pokemon SPECIES_VULPIX
+pokemon SPECIES_LAMPENT
+pokemon SPECIES_BRONZONG
+pokemon SPECIES_BRONZONG
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_VIVILLON, 5 // elegant
 
 // night encounter slots
-pokemon SPECIES_NICKIT
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_MISMAGIUS
+pokemon SPECIES_CHIMECHO
+pokemon SPECIES_LAMPENT
+pokemon SPECIES_LAMPENT
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_VIVILLON, 5 // elegant
 
@@ -3325,7 +3325,7 @@ encounter SPECIES_NONE, 0, 0
 encounter SPECIES_NONE, 0, 0
 
 // swarm grass
-pokemon SPECIES_RATTATA
+pokemon SPECIES_BRONZONG
 // swarm surf
 pokemon SPECIES_NONE
 // swarm good rod
@@ -3344,47 +3344,47 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 20, 21, 21, 21, 22, 25, 22, 23, 24, 24, 25, 30
+walklevels 42, 42, 43, 40, 42, 45, 42, 43, 43, 44, 40, 50
 
 // morning encounter slots
-pokemon SPECIES_NICKIT
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_CHIMECHO
+pokemon SPECIES_VULPIX
+pokemon SPECIES_BRONZONG
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_VULPIX
+pokemon SPECIES_VULPIX
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+pokemon SPECIES_MISMAGIUS
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
 monwithform SPECIES_VIVILLON, 5 // elegant
 
 // day encounter slots
-pokemon SPECIES_NICKIT
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
+pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
-monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_BRONZONG
+pokemon SPECIES_VULPIX
+pokemon SPECIES_VULPIX
+pokemon SPECIES_LAMPENT
+pokemon SPECIES_BRONZONG
+pokemon SPECIES_BRONZONG
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_VIVILLON, 5 // elegant
 
 // night encounter slots
-pokemon SPECIES_NICKIT
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_MISMAGIUS
+pokemon SPECIES_CHIMECHO
+pokemon SPECIES_LAMPENT
+pokemon SPECIES_LAMPENT
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_VIVILLON, 5 // elegant
 
@@ -3429,7 +3429,7 @@ encounter SPECIES_NONE, 0, 0
 encounter SPECIES_NONE, 0, 0
 
 // swarm grass
-pokemon SPECIES_RATTATA
+pokemon SPECIES_BRONZONG
 // swarm surf
 pokemon SPECIES_NONE
 // swarm good rod
@@ -3448,47 +3448,47 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 22, 23, 23, 23, 24, 27, 24, 25, 26, 26, 27, 30
+walklevels 42, 42, 43, 40, 42, 45, 42, 43, 43, 44, 40, 50
 
 // morning encounter slots
-pokemon SPECIES_NICKIT
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_CHIMECHO
+pokemon SPECIES_VULPIX
+pokemon SPECIES_BRONZONG
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_VULPIX
+pokemon SPECIES_VULPIX
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+pokemon SPECIES_MISMAGIUS
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
 monwithform SPECIES_VIVILLON, 5 // elegant
 
 // day encounter slots
-pokemon SPECIES_NICKIT
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
+pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
-monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_BRONZONG
+pokemon SPECIES_VULPIX
+pokemon SPECIES_VULPIX
+pokemon SPECIES_LAMPENT
+pokemon SPECIES_BRONZONG
+pokemon SPECIES_BRONZONG
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_VIVILLON, 5 // elegant
 
 // night encounter slots
-pokemon SPECIES_NICKIT
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_MISMAGIUS
+pokemon SPECIES_CHIMECHO
+pokemon SPECIES_LAMPENT
+pokemon SPECIES_LAMPENT
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_VIVILLON, 5 // elegant
 
@@ -3533,7 +3533,7 @@ encounter SPECIES_NONE, 0, 0
 encounter SPECIES_NONE, 0, 0
 
 // swarm grass
-pokemon SPECIES_RATTATA
+pokemon SPECIES_BRONZONG
 // swarm surf
 pokemon SPECIES_NONE
 // swarm good rod
@@ -3552,47 +3552,47 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 22, 23, 23, 23, 24, 27, 24, 25, 26, 26, 27, 30
+walklevels 42, 42, 43, 40, 42, 45, 42, 43, 43, 44, 40, 50
 
 // morning encounter slots
-pokemon SPECIES_NICKIT
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_CHIMECHO
+pokemon SPECIES_VULPIX
+pokemon SPECIES_BRONZONG
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_VULPIX
+pokemon SPECIES_VULPIX
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+pokemon SPECIES_MISMAGIUS
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
 monwithform SPECIES_VIVILLON, 5 // elegant
 
 // day encounter slots
-pokemon SPECIES_NICKIT
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
+pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
-monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_BRONZONG
+pokemon SPECIES_VULPIX
+pokemon SPECIES_VULPIX
+pokemon SPECIES_LAMPENT
+pokemon SPECIES_BRONZONG
+pokemon SPECIES_BRONZONG
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_VIVILLON, 5 // elegant
 
 // night encounter slots
-pokemon SPECIES_NICKIT
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_MISMAGIUS
+pokemon SPECIES_CHIMECHO
+pokemon SPECIES_LAMPENT
+pokemon SPECIES_LAMPENT
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_VIVILLON, 5 // elegant
 
@@ -3637,7 +3637,7 @@ encounter SPECIES_NONE, 0, 0
 encounter SPECIES_NONE, 0, 0
 
 // swarm grass
-pokemon SPECIES_RATTATA
+pokemon SPECIES_BRONZONG
 // swarm surf
 pokemon SPECIES_NONE
 // swarm good rod
@@ -3656,47 +3656,47 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 22, 23, 23, 23, 24, 27, 24, 25, 26, 26, 27, 27
+walklevels 42, 42, 43, 40, 42, 45, 42, 43, 43, 44, 40, 50
 
 // morning encounter slots
-pokemon SPECIES_NICKIT
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_CHIMECHO
+pokemon SPECIES_VULPIX
+pokemon SPECIES_BRONZONG
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_VULPIX
+pokemon SPECIES_VULPIX
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+pokemon SPECIES_MISMAGIUS
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
 monwithform SPECIES_VIVILLON, 5 // elegant
 
 // day encounter slots
-pokemon SPECIES_NICKIT
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
+pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
-monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_BRONZONG
+pokemon SPECIES_VULPIX
+pokemon SPECIES_VULPIX
+pokemon SPECIES_LAMPENT
+pokemon SPECIES_BRONZONG
+pokemon SPECIES_BRONZONG
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_VIVILLON, 5 // elegant
 
 // night encounter slots
-pokemon SPECIES_NICKIT
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_MISMAGIUS
+pokemon SPECIES_CHIMECHO
+pokemon SPECIES_LAMPENT
+pokemon SPECIES_LAMPENT
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_VIVILLON, 5 // elegant
 
@@ -3741,7 +3741,7 @@ encounter SPECIES_NONE, 0, 0
 encounter SPECIES_NONE, 0, 0
 
 // swarm grass
-pokemon SPECIES_RATTATA
+pokemon SPECIES_BRONZONG
 // swarm surf
 pokemon SPECIES_NONE
 // swarm good rod
@@ -3760,47 +3760,47 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 22, 23, 23, 23, 24, 27, 24, 25, 26, 26, 27, 27
+walklevels 42, 42, 43, 40, 42, 45, 42, 43, 43, 44, 40, 50
 
 // morning encounter slots
-pokemon SPECIES_NICKIT
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_CHIMECHO
+pokemon SPECIES_VULPIX
+pokemon SPECIES_BRONZONG
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_VULPIX
+pokemon SPECIES_VULPIX
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+pokemon SPECIES_MISMAGIUS
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
 monwithform SPECIES_VIVILLON, 5 // elegant
 
 // day encounter slots
-pokemon SPECIES_NICKIT
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
+pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
-monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_BRONZONG
+pokemon SPECIES_VULPIX
+pokemon SPECIES_VULPIX
+pokemon SPECIES_LAMPENT
+pokemon SPECIES_BRONZONG
+pokemon SPECIES_BRONZONG
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_VIVILLON, 5 // elegant
 
 // night encounter slots
-pokemon SPECIES_NICKIT
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_MISMAGIUS
+pokemon SPECIES_CHIMECHO
+pokemon SPECIES_LAMPENT
+pokemon SPECIES_LAMPENT
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_VIVILLON, 5 // elegant
 
@@ -3845,7 +3845,7 @@ encounter SPECIES_NONE, 0, 0
 encounter SPECIES_NONE, 0, 0
 
 // swarm grass
-pokemon SPECIES_RATTATA
+pokemon SPECIES_BRONZONG
 // swarm surf
 pokemon SPECIES_NONE
 // swarm good rod
@@ -3864,47 +3864,47 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 22, 23, 23, 23, 24, 27, 24, 25, 26, 26, 27, 27
+walklevels 42, 42, 43, 40, 42, 45, 42, 43, 43, 44, 40, 50
 
 // morning encounter slots
-monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_CHIMECHO
+pokemon SPECIES_VULPIX
+pokemon SPECIES_BRONZONG
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_VULPIX
+pokemon SPECIES_VULPIX
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+pokemon SPECIES_MISMAGIUS
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
 monwithform SPECIES_VIVILLON, 5 // elegant
 
 // day encounter slots
-monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
+pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
-monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_BRONZONG
+pokemon SPECIES_VULPIX
+pokemon SPECIES_VULPIX
+pokemon SPECIES_LAMPENT
+pokemon SPECIES_BRONZONG
+pokemon SPECIES_BRONZONG
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_VIVILLON, 5 // elegant
 
 // night encounter slots
-monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_MISMAGIUS
+pokemon SPECIES_CHIMECHO
+pokemon SPECIES_LAMPENT
+pokemon SPECIES_LAMPENT
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
 monwithform SPECIES_VIVILLON, 5 // elegant
 
@@ -3949,7 +3949,7 @@ encounter SPECIES_NONE, 0, 0
 encounter SPECIES_NONE, 0, 0
 
 // swarm grass
-pokemon SPECIES_RATTATA
+pokemon SPECIES_BRONZONG
 // swarm surf
 pokemon SPECIES_NONE
 // swarm good rod
@@ -4486,49 +4486,49 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 24, 25, 24, 25, 26, 26, 25, 25, 26, 26, 26, 27
+walklevels 42, 42, 43, 43, 44, 44, 42, 43, 44, 40, 40, 50
 
 // morning encounter slots
-pokemon SPECIES_CLOBBOPUS
-pokemon SPECIES_ZUBAT
 pokemon SPECIES_SEEL
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_SEEL
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
+pokemon SPECIES_CLOBBOPUS
+pokemon SPECIES_DEWGONG
+pokemon SPECIES_GRAPPLOCT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VIVILLON, 9 // archipelago
 
 // day encounter slots
-pokemon SPECIES_CLOBBOPUS
-pokemon SPECIES_ZUBAT
 pokemon SPECIES_SEEL
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_SEEL
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
+pokemon SPECIES_CLOBBOPUS
+pokemon SPECIES_DEWGONG
+pokemon SPECIES_GRAPPLOCT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VIVILLON, 9 // archipelago
 
 // night encounter slots
-pokemon SPECIES_CLOBBOPUS
-pokemon SPECIES_ZUBAT
 pokemon SPECIES_SEEL
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_SEEL
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
+pokemon SPECIES_CLOBBOPUS
+pokemon SPECIES_DEWGONG
+pokemon SPECIES_GRAPPLOCT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VIVILLON, 9 // archipelago
 
 // hoenn encounter slots
 pokemon SPECIES_RATTATA
@@ -4539,11 +4539,11 @@ pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
 
 // surf encounters
-encounter SPECIES_SEEL, 15, 25
-encounter SPECIES_HORSEA, 10, 20
-encounter SPECIES_SEEL, 10, 30
-encounter SPECIES_HORSEA, 10, 30
-encounter SPECIES_DEWGONG, 30, 35
+encounter SPECIES_SEEL, 35, 45
+encounter SPECIES_HORSEA, 30, 40
+encounter SPECIES_HORSEA, 35, 45
+encounter SPECIES_HORSEA, 40, 45
+encounter SPECIES_HORSEA, 40, 45
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -4551,8 +4551,8 @@ encounter SPECIES_NONE, 0, 0
 
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
+encounter SPECIES_HORSEA, 10, 10
+encounter SPECIES_HORSEA, 10, 10
 encounter SPECIES_HORSEA, 10, 10
 encounter SPECIES_HORSEA, 10, 10
 
@@ -4567,7 +4567,7 @@ encounter SPECIES_DHELMISE, 20, 20
 encounter SPECIES_DHELMISE, 40, 40
 encounter SPECIES_SEADRA, 40, 40
 encounter SPECIES_SEADRA, 40, 40
-encounter SPECIES_SEADRA, 40, 40
+encounter SPECIES_KINGDRA, 40, 40
 encounter SPECIES_KINGDRA, 40, 40
 
 // swarm grass
@@ -4590,49 +4590,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 24, 25, 24, 25, 26, 26, 25, 25, 26, 26, 26, 27
+walklevels 42, 42, 43, 43, 44, 44, 42, 43, 44, 40, 40, 50
 
 // morning encounter slots
-pokemon SPECIES_CLOBBOPUS
-pokemon SPECIES_ZUBAT
 pokemon SPECIES_SEEL
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_SEEL
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
+pokemon SPECIES_CLOBBOPUS
+pokemon SPECIES_DEWGONG
+pokemon SPECIES_GRAPPLOCT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VIVILLON, 9 // archipelago
 
 // day encounter slots
-pokemon SPECIES_CLOBBOPUS
-pokemon SPECIES_ZUBAT
 pokemon SPECIES_SEEL
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_SEEL
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
+pokemon SPECIES_CLOBBOPUS
+pokemon SPECIES_DEWGONG
+pokemon SPECIES_GRAPPLOCT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VIVILLON, 9 // archipelago
 
 // night encounter slots
-pokemon SPECIES_CLOBBOPUS
-pokemon SPECIES_ZUBAT
 pokemon SPECIES_SEEL
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_SEEL
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
+pokemon SPECIES_CLOBBOPUS
+pokemon SPECIES_DEWGONG
+pokemon SPECIES_GRAPPLOCT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VIVILLON, 9 // archipelago
 
 // hoenn encounter slots
 pokemon SPECIES_RATTATA
@@ -4643,11 +4643,11 @@ pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
 
 // surf encounters
-encounter SPECIES_SEEL, 15, 25
-encounter SPECIES_HORSEA, 10, 20
-encounter SPECIES_SEEL, 10, 30
-encounter SPECIES_HORSEA, 10, 30
-encounter SPECIES_DEWGONG, 30, 35
+encounter SPECIES_SEEL, 35, 45
+encounter SPECIES_HORSEA, 30, 40
+encounter SPECIES_HORSEA, 35, 45
+encounter SPECIES_HORSEA, 40, 45
+encounter SPECIES_HORSEA, 40, 45
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -4655,8 +4655,8 @@ encounter SPECIES_NONE, 0, 0
 
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
+encounter SPECIES_HORSEA, 10, 10
+encounter SPECIES_HORSEA, 10, 10
 encounter SPECIES_HORSEA, 10, 10
 encounter SPECIES_HORSEA, 10, 10
 
@@ -4671,7 +4671,7 @@ encounter SPECIES_DHELMISE, 20, 20
 encounter SPECIES_DHELMISE, 40, 40
 encounter SPECIES_SEADRA, 40, 40
 encounter SPECIES_SEADRA, 40, 40
-encounter SPECIES_SEADRA, 40, 40
+encounter SPECIES_KINGDRA, 40, 40
 encounter SPECIES_KINGDRA, 40, 40
 
 // swarm grass
@@ -4798,49 +4798,49 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 24, 25, 24, 25, 26, 26, 25, 25, 26, 26, 26, 27
+walklevels 42, 42, 43, 43, 44, 44, 42, 43, 44, 40, 40, 50
 
 // morning encounter slots
-pokemon SPECIES_CLOBBOPUS
-pokemon SPECIES_ZUBAT
 pokemon SPECIES_SEEL
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_SEEL
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
+pokemon SPECIES_CLOBBOPUS
+pokemon SPECIES_DEWGONG
+pokemon SPECIES_GRAPPLOCT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VIVILLON, 9 // archipelago
 
 // day encounter slots
-pokemon SPECIES_CLOBBOPUS
-pokemon SPECIES_ZUBAT
 pokemon SPECIES_SEEL
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_SEEL
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
+pokemon SPECIES_CLOBBOPUS
+pokemon SPECIES_DEWGONG
+pokemon SPECIES_GRAPPLOCT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VIVILLON, 9 // archipelago
 
 // night encounter slots
-pokemon SPECIES_CLOBBOPUS
-pokemon SPECIES_ZUBAT
 pokemon SPECIES_SEEL
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_SEEL
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
+pokemon SPECIES_CLOBBOPUS
+pokemon SPECIES_DEWGONG
+pokemon SPECIES_GRAPPLOCT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VIVILLON, 9 // archipelago
 
 // hoenn encounter slots
 pokemon SPECIES_RATTATA
@@ -4851,11 +4851,11 @@ pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
 
 // surf encounters
-encounter SPECIES_SEEL, 15, 25
-encounter SPECIES_HORSEA, 10, 20
-encounter SPECIES_SEEL, 10, 30
-encounter SPECIES_HORSEA, 10, 30
-encounter SPECIES_DEWGONG, 30, 35
+encounter SPECIES_SEEL, 35, 45
+encounter SPECIES_HORSEA, 30, 40
+encounter SPECIES_HORSEA, 35, 45
+encounter SPECIES_HORSEA, 40, 45
+encounter SPECIES_HORSEA, 40, 45
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -4863,8 +4863,8 @@ encounter SPECIES_NONE, 0, 0
 
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
+encounter SPECIES_HORSEA, 10, 10
+encounter SPECIES_HORSEA, 10, 10
 encounter SPECIES_HORSEA, 10, 10
 encounter SPECIES_HORSEA, 10, 10
 
@@ -4879,7 +4879,7 @@ encounter SPECIES_DHELMISE, 20, 20
 encounter SPECIES_DHELMISE, 40, 40
 encounter SPECIES_SEADRA, 40, 40
 encounter SPECIES_SEADRA, 40, 40
-encounter SPECIES_SEADRA, 40, 40
+encounter SPECIES_KINGDRA, 40, 40
 encounter SPECIES_KINGDRA, 40, 40
 
 // swarm grass
@@ -5006,49 +5006,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 23, 24, 23, 24, 25, 25, 23, 23, 24, 25, 24, 25
+walklevels 42, 42, 43, 43, 44, 44, 42, 43, 44, 40, 40, 50
 
 // morning encounter slots
-pokemon SPECIES_CLOBBOPUS
-pokemon SPECIES_ZUBAT
 pokemon SPECIES_SEEL
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_SEEL
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
+pokemon SPECIES_CLOBBOPUS
+pokemon SPECIES_DEWGONG
+pokemon SPECIES_GRAPPLOCT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VIVILLON, 9 // archipelago
 
 // day encounter slots
-pokemon SPECIES_CLOBBOPUS
-pokemon SPECIES_ZUBAT
 pokemon SPECIES_SEEL
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_SEEL
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
+pokemon SPECIES_CLOBBOPUS
+pokemon SPECIES_DEWGONG
+pokemon SPECIES_GRAPPLOCT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VIVILLON, 9 // archipelago
 
 // night encounter slots
-pokemon SPECIES_CLOBBOPUS
-pokemon SPECIES_ZUBAT
 pokemon SPECIES_SEEL
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_CLOBBOPUS
 pokemon SPECIES_SEEL
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
-pokemon SPECIES_GOLBAT
-pokemon SPECIES_SEEL
+pokemon SPECIES_CLOBBOPUS
+pokemon SPECIES_DEWGONG
+pokemon SPECIES_GRAPPLOCT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_CROBAT
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VIVILLON, 9 // archipelago
 
 // hoenn encounter slots
 pokemon SPECIES_RATTATA
@@ -5059,11 +5059,11 @@ pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
 
 // surf encounters
-encounter SPECIES_SEEL, 15, 25
-encounter SPECIES_HORSEA, 10, 20
-encounter SPECIES_SEEL, 10, 30
-encounter SPECIES_HORSEA, 10, 30
-encounter SPECIES_DEWGONG, 30, 35
+encounter SPECIES_SEEL, 35, 45
+encounter SPECIES_HORSEA, 30, 40
+encounter SPECIES_HORSEA, 35, 45
+encounter SPECIES_HORSEA, 40, 45
+encounter SPECIES_HORSEA, 40, 45
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -5071,8 +5071,8 @@ encounter SPECIES_NONE, 0, 0
 
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
+encounter SPECIES_HORSEA, 10, 10
+encounter SPECIES_HORSEA, 10, 10
 encounter SPECIES_HORSEA, 10, 10
 encounter SPECIES_HORSEA, 10, 10
 
@@ -5087,7 +5087,7 @@ encounter SPECIES_DHELMISE, 20, 20
 encounter SPECIES_DHELMISE, 40, 40
 encounter SPECIES_SEADRA, 40, 40
 encounter SPECIES_SEADRA, 40, 40
-encounter SPECIES_SEADRA, 40, 40
+encounter SPECIES_KINGDRA, 40, 40
 encounter SPECIES_KINGDRA, 40, 40
 
 // swarm grass
@@ -6254,33 +6254,33 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 34, 35, 31, 31, 33, 33, 33, 33, 32, 33, 35, 35
+walklevels 34, 34, 35, 35, 35, 35, 35, 35, 36, 36, 36, 36
 
 // morning encounter slots
 pokemon SPECIES_SWINUB
+monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
 pokemon SPECIES_SWINUB
-monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
 monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
 pokemon SPECIES_SNEASEL
 pokemon SPECIES_DELIBIRD
-monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
+pokemon SPECIES_JYNX
 monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
 pokemon SPECIES_JYNX
-pokemon SPECIES_JYNX
+monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
 pokemon SPECIES_DELIBIRD
 pokemon SPECIES_SNEASEL
 
 // day encounter slots
 pokemon SPECIES_SWINUB
+monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
 pokemon SPECIES_SWINUB
-monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
 monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
 pokemon SPECIES_SNEASEL
 pokemon SPECIES_DELIBIRD
-monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
+pokemon SPECIES_JYNX
 monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
 pokemon SPECIES_JYNX
-pokemon SPECIES_JYNX
+monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
 pokemon SPECIES_DELIBIRD
 pokemon SPECIES_SNEASEL
 
@@ -6358,47 +6358,47 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 33, 34, 30, 30, 32, 32, 32, 32, 31, 32, 34, 34
+walklevels 34, 34, 35, 35, 35, 35, 37, 37, 36, 36, 36, 36
 
 // morning encounter slots
 pokemon SPECIES_SWINUB
+pokemon SPECIES_SNORUNT
 pokemon SPECIES_SWINUB
-monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
-monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
+pokemon SPECIES_SNORUNT
 pokemon SPECIES_SNEASEL
 pokemon SPECIES_DELIBIRD
-monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
-monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
-pokemon SPECIES_JYNX
-pokemon SPECIES_JYNX
+pokemon SPECIES_PILOSWINE
+pokemon SPECIES_PILOSWINE
+pokemon SPECIES_GLALIE
+pokemon SPECIES_FROSLASS
 pokemon SPECIES_DELIBIRD
 pokemon SPECIES_SNEASEL
 
 // day encounter slots
 pokemon SPECIES_SWINUB
+pokemon SPECIES_SNORUNT
 pokemon SPECIES_SWINUB
-monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
-monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
+pokemon SPECIES_SNORUNT
 pokemon SPECIES_SNEASEL
 pokemon SPECIES_DELIBIRD
-monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
-monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
-pokemon SPECIES_JYNX
-pokemon SPECIES_JYNX
+pokemon SPECIES_PILOSWINE
+pokemon SPECIES_PILOSWINE
+pokemon SPECIES_GLALIE
+pokemon SPECIES_FROSLASS
 pokemon SPECIES_DELIBIRD
 pokemon SPECIES_SNEASEL
 
 // night encounter slots
 pokemon SPECIES_SWINUB
+pokemon SPECIES_SNORUNT
 pokemon SPECIES_SWINUB
-monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
-monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
+pokemon SPECIES_SNORUNT
 pokemon SPECIES_SNEASEL
 pokemon SPECIES_DELIBIRD
-monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
-monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
-pokemon SPECIES_JYNX
-pokemon SPECIES_JYNX
+pokemon SPECIES_PILOSWINE
+pokemon SPECIES_PILOSWINE
+pokemon SPECIES_GLALIE
+pokemon SPECIES_FROSLASS
 pokemon SPECIES_DELIBIRD
 pokemon SPECIES_SNEASEL
 
@@ -6462,35 +6462,35 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 33, 34, 30, 30, 32, 32, 32, 32, 31, 32, 34, 34
+walklevels 34, 34, 35, 35, 35, 35, 35, 35, 36, 36, 36, 36
 
 // morning encounter slots
 pokemon SPECIES_SWINUB
+monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
 pokemon SPECIES_SWINUB
-monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
 monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
 pokemon SPECIES_SNEASEL
 pokemon SPECIES_DELIBIRD
-monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
+pokemon SPECIES_JYNX
 monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
 pokemon SPECIES_JYNX
-pokemon SPECIES_JYNX
-pokemon SPECIES_PILOSWINE
-pokemon SPECIES_GLALIE
+monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
+pokemon SPECIES_DELIBIRD
+pokemon SPECIES_SNEASEL
 
 // day encounter slots
 pokemon SPECIES_SWINUB
+monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
 pokemon SPECIES_SWINUB
-monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
 monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
 pokemon SPECIES_SNEASEL
 pokemon SPECIES_DELIBIRD
-monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
+pokemon SPECIES_JYNX
 monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
 pokemon SPECIES_JYNX
-pokemon SPECIES_JYNX
-pokemon SPECIES_PILOSWINE
-pokemon SPECIES_GLALIE
+monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
+pokemon SPECIES_DELIBIRD
+pokemon SPECIES_SNEASEL
 
 // night encounter slots
 pokemon SPECIES_SWINUB
@@ -6503,8 +6503,8 @@ monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
 monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
 pokemon SPECIES_JYNX
 pokemon SPECIES_JYNX
-pokemon SPECIES_FROSLASS
-pokemon SPECIES_GLALIE
+pokemon SPECIES_DELIBIRD
+pokemon SPECIES_SNEASEL
 
 // hoenn encounter slots
 pokemon SPECIES_RATTATA
@@ -6566,49 +6566,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 34, 35, 31, 31, 33, 33, 33, 33, 32, 33, 35, 35
+walklevels 34, 34, 35, 35, 35, 35, 37, 37, 36, 36, 36, 36
 
 // morning encounter slots
 pokemon SPECIES_SWINUB
+pokemon SPECIES_SNORUNT
 pokemon SPECIES_SWINUB
-monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
-monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
+pokemon SPECIES_SNORUNT
 pokemon SPECIES_SNEASEL
 pokemon SPECIES_DELIBIRD
-monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
-monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
-pokemon SPECIES_JYNX
-pokemon SPECIES_JYNX
+pokemon SPECIES_PILOSWINE
 pokemon SPECIES_PILOSWINE
 pokemon SPECIES_GLALIE
+pokemon SPECIES_FROSLASS
+pokemon SPECIES_DELIBIRD
+pokemon SPECIES_SNEASEL
 
 // day encounter slots
 pokemon SPECIES_SWINUB
+pokemon SPECIES_SNORUNT
 pokemon SPECIES_SWINUB
-monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
-monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
+pokemon SPECIES_SNORUNT
 pokemon SPECIES_SNEASEL
 pokemon SPECIES_DELIBIRD
-monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
-monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
-pokemon SPECIES_JYNX
-pokemon SPECIES_JYNX
+pokemon SPECIES_PILOSWINE
 pokemon SPECIES_PILOSWINE
 pokemon SPECIES_GLALIE
+pokemon SPECIES_FROSLASS
+pokemon SPECIES_DELIBIRD
+pokemon SPECIES_SNEASEL
 
 // night encounter slots
 pokemon SPECIES_SWINUB
+pokemon SPECIES_SNORUNT
 pokemon SPECIES_SWINUB
-monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
-monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
+pokemon SPECIES_SNORUNT
 pokemon SPECIES_SNEASEL
 pokemon SPECIES_DELIBIRD
-monwithform SPECIES_SANDSHREW, 1 // alolan Sandshrew
-monwithform SPECIES_MR_MIME, 1 // galarian Mr Mime
-pokemon SPECIES_JYNX
-pokemon SPECIES_JYNX
-pokemon SPECIES_FROSLASS
+pokemon SPECIES_PILOSWINE
+pokemon SPECIES_PILOSWINE
 pokemon SPECIES_GLALIE
+pokemon SPECIES_FROSLASS
+pokemon SPECIES_DELIBIRD
+pokemon SPECIES_SNEASEL
 
 // hoenn encounter slots
 pokemon SPECIES_RATTATA
@@ -6827,11 +6827,11 @@ pokemon SPECIES_NONE
 pokemon SPECIES_NONE
 
 // surf encounters
-encounter SPECIES_MAGIKARP, 10, 20
-encounter SPECIES_MAGIKARP, 5, 15
-encounter SPECIES_DRATINI, 2, 10
-encounter SPECIES_DRATINI, 2, 10
-encounter SPECIES_DRATINI, 2, 10
+encounter SPECIES_MAGIKARP, 10, 25
+encounter SPECIES_MAGIKARP, 25, 40
+encounter SPECIES_DRATINI, 10, 20
+encounter SPECIES_DRATINI, 15, 30
+encounter SPECIES_DRATINI, 25, 40
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -6840,7 +6840,7 @@ encounter SPECIES_NONE, 0, 0
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
 encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
+encounter SPECIES_DRATINI, 10, 10
 encounter SPECIES_DRATINI, 10, 10
 encounter SPECIES_DRATINI, 10, 10
 
@@ -6855,7 +6855,7 @@ encounter SPECIES_DRATINI, 20, 20
 encounter SPECIES_DRATINI, 40, 40
 encounter SPECIES_DRATINI, 40, 40
 encounter SPECIES_DRAGONAIR, 40, 40
-encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_DRAGONAIR, 40, 40
 encounter SPECIES_DRAGONAIR, 40, 40
 
 // swarm grass
@@ -6931,11 +6931,11 @@ pokemon SPECIES_NONE
 pokemon SPECIES_NONE
 
 // surf encounters
-encounter SPECIES_MAGIKARP, 10, 20
-encounter SPECIES_MAGIKARP, 5, 40
-encounter SPECIES_DRATINI, 2, 30
-encounter SPECIES_DRAGONAIR, 30, 35
-encounter SPECIES_DRAGONAIR, 35, 40
+encounter SPECIES_MAGIKARP, 10, 25
+encounter SPECIES_MAGIKARP, 25, 40
+encounter SPECIES_DRATINI, 10, 20
+encounter SPECIES_DRATINI, 15, 30
+encounter SPECIES_DRATINI, 25, 40
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -6944,7 +6944,7 @@ encounter SPECIES_NONE, 0, 0
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
 encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
+encounter SPECIES_DRATINI, 10, 10
 encounter SPECIES_DRATINI, 10, 10
 encounter SPECIES_DRATINI, 10, 10
 
@@ -6959,7 +6959,7 @@ encounter SPECIES_DRATINI, 20, 20
 encounter SPECIES_DRATINI, 40, 40
 encounter SPECIES_DRATINI, 40, 40
 encounter SPECIES_DRAGONAIR, 40, 40
-encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_DRAGONAIR, 40, 40
 encounter SPECIES_DRAGONAIR, 40, 40
 
 // swarm grass
@@ -6982,48 +6982,48 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 40, 40, 41, 40, 40, 40, 38, 39, 40, 40, 41, 45
+walklevels 40, 40, 39, 39, 40, 40, 42, 42, 40, 40, 39, 45
 
 // morning encounter slots
 pokemon SPECIES_GLIGAR
 pokemon SPECIES_SKARMORY
-pokemon SPECIES_GLIGAR
+pokemon SPECIES_SLUGMA
 pokemon SPECIES_JIGGLYPUFF
 pokemon SPECIES_DONPHAN
 pokemon SPECIES_URSARING
-pokemon SPECIES_SLUGMA
-pokemon SPECIES_SLUGMA
-pokemon SPECIES_WIGGLYTUFF
+pokemon SPECIES_GLIGAR
+pokemon SPECIES_SKARMORY
 pokemon SPECIES_WIGGLYTUFF
 pokemon SPECIES_MAGCARGO
+pokemon SPECIES_SLUGMA
 monwithform SPECIES_VIVILLON, 12
 
 // day encounter slots
 pokemon SPECIES_GLIGAR
 pokemon SPECIES_SKARMORY
-pokemon SPECIES_GLIGAR
+pokemon SPECIES_SLUGMA
 pokemon SPECIES_JIGGLYPUFF
 pokemon SPECIES_DONPHAN
 pokemon SPECIES_URSARING
-pokemon SPECIES_SLUGMA
-pokemon SPECIES_SLUGMA
-pokemon SPECIES_MAGCARGO
-pokemon SPECIES_MAGCARGO
+pokemon SPECIES_GLIGAR
+pokemon SPECIES_SKARMORY
 pokemon SPECIES_WIGGLYTUFF
+pokemon SPECIES_MAGCARGO
+pokemon SPECIES_SLUGMA
 monwithform SPECIES_VIVILLON, 12
 
 // night encounter slots
 pokemon SPECIES_GLIGAR
 pokemon SPECIES_SKARMORY
-pokemon SPECIES_GLIGAR
+pokemon SPECIES_SLUGMA
 pokemon SPECIES_JIGGLYPUFF
 pokemon SPECIES_DONPHAN
 pokemon SPECIES_URSARING
-pokemon SPECIES_SLUGMA
-pokemon SPECIES_SLUGMA
-pokemon SPECIES_MAGCARGO
-pokemon SPECIES_MAGCARGO
+pokemon SPECIES_GLIGAR
+pokemon SPECIES_SKARMORY
 pokemon SPECIES_WIGGLYTUFF
+pokemon SPECIES_MAGCARGO
+pokemon SPECIES_SLUGMA
 monwithform SPECIES_VIVILLON, 12
 
 // hoenn encounter slots
@@ -7035,11 +7035,11 @@ pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
 
 // surf encounters
-encounter SPECIES_MAGIKARP, 15, 25
-encounter SPECIES_MAGIKARP, 10, 20
-encounter SPECIES_MAGIKARP, 2, 10
-encounter SPECIES_MAGIKARP, 2, 10
-encounter SPECIES_MAGIKARP, 2, 10
+encounter SPECIES_PSYDUCK, 5, 5
+encounter SPECIES_PSYDUCK, 5, 5
+encounter SPECIES_PSYDUCK, 5, 5
+encounter SPECIES_PSYDUCK, 5, 5
+encounter SPECIES_PSYDUCK, 5, 5
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -7048,23 +7048,23 @@ encounter SPECIES_NONE, 0, 0
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
 encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
+encounter SPECIES_POLIWAG, 10, 10
 encounter SPECIES_POLIWAG, 10, 10
 encounter SPECIES_POLIWAG, 10, 10
 
 // good rod encounters
-encounter SPECIES_MAGIKARP, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
-encounter SPECIES_POLIWAG, 20, 20
-encounter SPECIES_POLIWAG, 20, 20
+encounter SPECIES_POLIWHIRL, 20, 20
+encounter SPECIES_POLIWHIRL, 20, 20
+encounter SPECIES_POLIWHIRL, 20, 20
 
 // super rod encounters
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLITOED, 40, 40
+encounter SPECIES_POLITOED, 40, 40
+encounter SPECIES_POLITOED, 40, 40
 
 // swarm grass
 pokemon SPECIES_SKARMORY
@@ -7412,7 +7412,7 @@ pokemon SPECIES_CHANSEY
 pokemon SPECIES_BLISSEY
 pokemon SPECIES_BLISSEY
 pokemon SPECIES_BLISSEY
-monwithform SPECIES_VIVILLON, 9
+pokemon SPECIES_BLISSEY
 
 // day encounter slots
 pokemon SPECIES_CHANSEY
@@ -7426,7 +7426,7 @@ pokemon SPECIES_CHANSEY
 pokemon SPECIES_BLISSEY
 pokemon SPECIES_BLISSEY
 pokemon SPECIES_BLISSEY
-monwithform SPECIES_VIVILLON, 9
+pokemon SPECIES_BLISSEY
 
 // night encounter slots
 pokemon SPECIES_CHANSEY
@@ -7440,7 +7440,7 @@ pokemon SPECIES_CHANSEY
 pokemon SPECIES_BLISSEY
 pokemon SPECIES_BLISSEY
 pokemon SPECIES_BLISSEY
-monwithform SPECIES_VIVILLON, 9
+pokemon SPECIES_BLISSEY
 
 // hoenn encounter slots
 pokemon SPECIES_RATTATA
@@ -8750,49 +8750,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 20, 21, 20, 21, 22, 22, 22, 22, 23, 24, 23, 24
+walklevels 42, 42, 43, 40, 42, 45, 42, 43, 43, 44, 40, 50
 
 // morning encounter slots
-monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_CHIMECHO
+pokemon SPECIES_VULPIX
+pokemon SPECIES_BRONZONG
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_VULPIX
+pokemon SPECIES_VULPIX
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_MISMAGIUS
+monwithform SPECIES_VULPIX, 1 // alolan vulpix
+monwithform SPECIES_VIVILLON, 5 // elegant
 
 // day encounter slots
-monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
+pokemon SPECIES_CHIMECHO
 pokemon SPECIES_BRONZOR
+pokemon SPECIES_BRONZONG
+pokemon SPECIES_VULPIX
+pokemon SPECIES_VULPIX
+pokemon SPECIES_LAMPENT
+pokemon SPECIES_BRONZONG
+pokemon SPECIES_BRONZONG
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
-monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+monwithform SPECIES_VIVILLON, 5 // elegant
 
 // night encounter slots
-monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_NICKIT
-pokemon SPECIES_CHINGLING
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_CHINGLING
 pokemon SPECIES_CHIMECHO
-pokemon SPECIES_BRONZOR
-pokemon SPECIES_BRONZOR
+pokemon SPECIES_MISMAGIUS
+pokemon SPECIES_CHIMECHO
+pokemon SPECIES_LAMPENT
+pokemon SPECIES_LAMPENT
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
 monwithform SPECIES_ORICORIO, 3 // sensu oricorio
-pokemon SPECIES_BRONZOR
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_ORICORIO, 3 // sensu oricorio
+monwithform SPECIES_VIVILLON, 5 // elegant
 
 // hoenn encounter slots
 pokemon SPECIES_RATTATA
@@ -10726,47 +10726,47 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 38, 38, 40, 40, 40, 40, 41, 41, 40, 41, 40, 40
+walklevels 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45
 
 // morning encounter slots
-pokemon SPECIES_CROAGUNK
-pokemon SPECIES_FURRET
-pokemon SPECIES_QUAGSIRE
-pokemon SPECIES_TOXICROAK
+pokemon SPECIES_ARBOK
+pokemon SPECIES_SKUNTANK
 pokemon SPECIES_BEWEAR
 pokemon SPECIES_PANGORO
 pokemon SPECIES_BEWEAR
 pokemon SPECIES_PANGORO
-pokemon SPECIES_ARBOK
-pokemon SPECIES_ARBOK
+pokemon SPECIES_ELECTABUZZ
+pokemon SPECIES_MAGMAR
+pokemon SPECIES_ELECTABUZZ
+pokemon SPECIES_MAGMAR
 pokemon SPECIES_ELECTABUZZ
 pokemon SPECIES_MAGMAR
 
 // day encounter slots
-pokemon SPECIES_CROAGUNK
-pokemon SPECIES_FURRET
-pokemon SPECIES_QUAGSIRE
-pokemon SPECIES_TOXICROAK
+pokemon SPECIES_ARBOK
+pokemon SPECIES_SKUNTANK
 pokemon SPECIES_BEWEAR
 pokemon SPECIES_PANGORO
 pokemon SPECIES_BEWEAR
 pokemon SPECIES_PANGORO
-pokemon SPECIES_ARBOK
-pokemon SPECIES_ARBOK
+pokemon SPECIES_ELECTABUZZ
+pokemon SPECIES_MAGMAR
+pokemon SPECIES_ELECTABUZZ
+pokemon SPECIES_MAGMAR
 pokemon SPECIES_ELECTABUZZ
 pokemon SPECIES_MAGMAR
 
 // night encounter slots
-pokemon SPECIES_CROAGUNK
-pokemon SPECIES_THIEVUL
-pokemon SPECIES_QUAGSIRE
-pokemon SPECIES_TOXICROAK
+pokemon SPECIES_ARBOK
+pokemon SPECIES_SKUNTANK
 pokemon SPECIES_BEWEAR
 pokemon SPECIES_PANGORO
 pokemon SPECIES_BEWEAR
 pokemon SPECIES_PANGORO
-pokemon SPECIES_ARBOK
-pokemon SPECIES_ARBOK
+pokemon SPECIES_ELECTABUZZ
+pokemon SPECIES_MAGMAR
+pokemon SPECIES_ELECTABUZZ
+pokemon SPECIES_MAGMAR
 pokemon SPECIES_ELECTABUZZ
 pokemon SPECIES_MAGMAR
 
@@ -10799,23 +10799,23 @@ encounter SPECIES_CHINCHOU, 10, 10
 // good rod encounters
 encounter SPECIES_CHINCHOU, 20, 20
 encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_LANTURN, 20, 20
-encounter SPECIES_LANTURN, 20, 20
-encounter SPECIES_LANTURN, 20, 20
+encounter SPECIES_CORSOLA, 20, 20
+encounter SPECIES_CORSOLA, 20, 20
+encounter SPECIES_CORSOLA, 20, 20
 
 // super rod encounters
 encounter SPECIES_CHINCHOU, 40, 40
-encounter SPECIES_LANTURN, 40, 40
+encounter SPECIES_CORSOLA, 40, 40
 encounter SPECIES_LANTURN, 40, 40
 encounter SPECIES_LANTURN, 40, 40
 encounter SPECIES_LANTURN, 40, 40
 
 // swarm grass
-pokemon SPECIES_ARBOK
+pokemon SPECIES_NONE
 // swarm surf
-pokemon SPECIES_JELLICENT
+pokemon SPECIES_FRILLISH
 // swarm good rod
-pokemon SPECIES_CHINCHOU
+pokemon SPECIES_CORSOLA
 // swarm super rod
 pokemon SPECIES_MAGIKARP
 
@@ -10830,47 +10830,47 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 38, 38, 40, 40, 40, 40, 41, 41, 40, 41, 40, 40
+walklevels 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45, 45
 
 // morning encounter slots
-pokemon SPECIES_CROAGUNK
-pokemon SPECIES_FURRET
 pokemon SPECIES_QUAGSIRE
+pokemon SPECIES_CLODSIRE
+pokemon SPECIES_TOXICROAK
 pokemon SPECIES_TOXICROAK
 pokemon SPECIES_BEWEAR
 pokemon SPECIES_PANGORO
-pokemon SPECIES_BEWEAR
-pokemon SPECIES_PANGORO
-pokemon SPECIES_ARBOK
-pokemon SPECIES_ARBOK
+pokemon SPECIES_ELECTABUZZ
+pokemon SPECIES_MAGMAR
+pokemon SPECIES_ELECTABUZZ
+pokemon SPECIES_MAGMAR
 pokemon SPECIES_ELECTABUZZ
 pokemon SPECIES_MAGMAR
 
 // day encounter slots
-pokemon SPECIES_CROAGUNK
-pokemon SPECIES_FURRET
 pokemon SPECIES_QUAGSIRE
+pokemon SPECIES_CLODSIRE
+pokemon SPECIES_TOXICROAK
 pokemon SPECIES_TOXICROAK
 pokemon SPECIES_BEWEAR
 pokemon SPECIES_PANGORO
-pokemon SPECIES_BEWEAR
-pokemon SPECIES_PANGORO
-pokemon SPECIES_ARBOK
-pokemon SPECIES_ARBOK
+pokemon SPECIES_ELECTABUZZ
+pokemon SPECIES_MAGMAR
+pokemon SPECIES_ELECTABUZZ
+pokemon SPECIES_MAGMAR
 pokemon SPECIES_ELECTABUZZ
 pokemon SPECIES_MAGMAR
 
 // night encounter slots
-pokemon SPECIES_CROAGUNK
-pokemon SPECIES_THIEVUL
 pokemon SPECIES_QUAGSIRE
+pokemon SPECIES_CLODSIRE
+pokemon SPECIES_TOXICROAK
 pokemon SPECIES_TOXICROAK
 pokemon SPECIES_BEWEAR
 pokemon SPECIES_PANGORO
-pokemon SPECIES_BEWEAR
-pokemon SPECIES_PANGORO
-pokemon SPECIES_ARBOK
-pokemon SPECIES_ARBOK
+pokemon SPECIES_ELECTABUZZ
+pokemon SPECIES_MAGMAR
+pokemon SPECIES_ELECTABUZZ
+pokemon SPECIES_MAGMAR
 pokemon SPECIES_ELECTABUZZ
 pokemon SPECIES_MAGMAR
 
@@ -10903,23 +10903,23 @@ encounter SPECIES_CHINCHOU, 10, 10
 // good rod encounters
 encounter SPECIES_CHINCHOU, 20, 20
 encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_LANTURN, 20, 20
-encounter SPECIES_LANTURN, 20, 20
-encounter SPECIES_LANTURN, 20, 20
+encounter SPECIES_CORSOLA, 20, 20
+encounter SPECIES_CORSOLA, 20, 20
+encounter SPECIES_CORSOLA, 20, 20
 
 // super rod encounters
 encounter SPECIES_CHINCHOU, 40, 40
-encounter SPECIES_LANTURN, 40, 40
+encounter SPECIES_CORSOLA, 40, 40
 encounter SPECIES_LANTURN, 40, 40
 encounter SPECIES_LANTURN, 40, 40
 encounter SPECIES_LANTURN, 40, 40
 
 // swarm grass
-pokemon SPECIES_ARBOK
+pokemon SPECIES_NONE
 // swarm surf
-pokemon SPECIES_JELLICENT
+pokemon SPECIES_FRILLISH
 // swarm good rod
-pokemon SPECIES_CHINCHOU
+pokemon SPECIES_CORSOLA
 // swarm super rod
 pokemon SPECIES_MAGIKARP
 
@@ -11454,7 +11454,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 42, 42, 42, 42, 45, 45, 40, 42, 44, 44, 45, 45
+walklevels 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47
 
 // morning encounter slots
 pokemon SPECIES_LAIRON
@@ -13742,48 +13742,48 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 27, 27, 27, 27, 27, 27, 26, 26, 25, 28, 25, 30
+walklevels 32, 32, 33, 33, 34, 32, 33, 34, 35, 35, 36, 38
 
 // morning encounter slots
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_THIEVUL
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_THIEVUL
 pokemon SPECIES_GOLBAT
+pokemon SPECIES_THIEVUL
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_SLOWPOKE
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_NICKIT
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_NICKIT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_SLOWPOKE
+pokemon SPECIES_CROBAT
 monwithform SPECIES_VIVILLON, 3 // continental
 
 // day encounter slots
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_THIEVUL
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_THIEVUL
 pokemon SPECIES_GOLBAT
+pokemon SPECIES_THIEVUL
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_SLOWPOKE
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_NICKIT
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_NICKIT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_SLOWPOKE
+pokemon SPECIES_CROBAT
 monwithform SPECIES_VIVILLON, 3 // continental
 
 // night encounter slots
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_THIEVUL
-pokemon SPECIES_ZUBAT
+pokemon SPECIES_GOLBAT
 pokemon SPECIES_THIEVUL
 pokemon SPECIES_GOLBAT
+pokemon SPECIES_THIEVUL
 pokemon SPECIES_GOLBAT
 pokemon SPECIES_SLOWPOKE
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_NICKIT
 pokemon SPECIES_SLOWPOKE
-pokemon SPECIES_NICKIT
+pokemon SPECIES_CROBAT
+pokemon SPECIES_SLOWPOKE
+pokemon SPECIES_CROBAT
 monwithform SPECIES_VIVILLON, 3 // continental
 
 // hoenn encounter slots
@@ -13796,10 +13796,10 @@ pokemon SPECIES_RATTATA
 
 // surf encounters
 encounter SPECIES_SLOWPOKE, 20, 20
-encounter SPECIES_SLOWPOKE, 20, 20
-encounter SPECIES_SLOWPOKE, 20, 20
-encounter SPECIES_SLOWPOKE, 20, 20
-encounter SPECIES_SLOWKING, 20, 20
+encounter SPECIES_SLOWPOKE, 20, 25
+encounter SPECIES_SLOWPOKE, 25, 30
+encounter SPECIES_SLOWPOKE, 30, 35
+encounter SPECIES_SLOWKING, 35, 35
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -13807,24 +13807,24 @@ encounter SPECIES_NONE, 0, 0
 
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_WOOPER, 10, 10
-encounter SPECIES_WOOPER, 10, 10
+encounter SPECIES_SLOWPOKE, 10, 10
+encounter SPECIES_SLOWPOKE, 10, 10
+encounter SPECIES_SLOWPOKE, 10, 10
+encounter SPECIES_SLOWPOKE, 10, 10
 
 // good rod encounters
-encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_WOOPER, 20, 20
-encounter SPECIES_WOOPER, 20, 20
-encounter SPECIES_WOOPER, 20, 20
-encounter SPECIES_QUAGSIRE, 20, 20
+encounter SPECIES_SLOWPOKE, 20, 20
+encounter SPECIES_SLOWPOKE, 20, 20
+encounter SPECIES_SLOWPOKE, 20, 20
+encounter SPECIES_SLOWKING, 20, 20
+encounter SPECIES_SLOWKING, 20, 20
 
 // super rod encounters
-encounter SPECIES_WOOPER, 40, 40
-encounter SPECIES_WOOPER, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_QUAGSIRE, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_SLOWPOKE, 40, 40
+encounter SPECIES_SLOWKING, 40, 40
+encounter SPECIES_SLOWKING, 40, 40
+encounter SPECIES_SLOWKING, 40, 40
+encounter SPECIES_SLOWKING, 40, 40
 
 // swarm grass
 pokemon SPECIES_ZUBAT
@@ -13950,7 +13950,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 42, 42, 42, 42, 45, 45, 40, 42, 44, 44, 45, 45
+walklevels 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47
 
 // morning encounter slots
 pokemon SPECIES_LAIRON
@@ -14054,7 +14054,7 @@ rocksmashrate 40
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 42, 42, 42, 42, 45, 45, 40, 42, 44, 44, 45, 45
+walklevels 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47
 
 // morning encounter slots
 pokemon SPECIES_LAIRON

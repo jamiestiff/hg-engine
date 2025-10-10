@@ -194,6 +194,15 @@ const u16 *_0210FA3C[] = {
 
 /* const u16 _020FBB84[] = {ITEM_ULTRA_BALL, ITEM_MAX_REPEL, ITEM_HYPER_POTION, ITEM_MAX_POTION, ITEM_FULL_RESTORE, ITEM_REVIVE, ITEM_FULL_HEAL, 0xFFFF}; */
 /* Indigo Plateau -> Indigo Plateau */
+.org 0x020FBB84
+.halfword ITEM_RARE_CANDY
+.halfword ITEM_HYPER_POTION
+.halfword ITEM_MAX_POTION
+.halfword ITEM_FULL_RESTORE
+.halfword ITEM_FULL_HEAL
+.halfword ITEM_REVIVE
+.halfword ITEM_ETHER
+.halfword 0xFFFF
 
 /* const u16 _020FBBB4[] = {ITEM_X_SPEED, ITEM_X_ATTACK, ITEM_X_DEFENSE, ITEM_GUARD_SPEC_, ITEM_DIRE_HIT, ITEM_X_ACCURACY, ITEM_X_SPECIAL, ITEM_X_SP__DEF, 0xFFFF}; */
 /* Script 5 - Goldenrod Dept Store 3F & Celadon Dept Store 5F -> Goldenrod Dept Store 3F */ 
