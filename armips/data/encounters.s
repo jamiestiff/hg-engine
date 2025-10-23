@@ -10259,10 +10259,10 @@ pokemon SPECIES_NONE
 pokemon SPECIES_NONE
 
 // surf encounters
-encounter SPECIES_WATTREL, 30, 35
 encounter SPECIES_WATTREL, 30, 40
 encounter SPECIES_KILOWATTREL, 35, 40
-encounter SPECIES_KILOWATTREL, 35, 45
+encounter SPECIES_KILOWATTREL, 40, 45
+encounter SPECIES_KILOWATTREL, 40, 45
 encounterwithform SPECIES_VIVILLON, 8, 50, 50 // marine form
 
 // rock smash encounters
@@ -10363,10 +10363,10 @@ pokemon SPECIES_NONE
 pokemon SPECIES_NONE
 
 // surf encounters
-encounter SPECIES_DUCKLETT, 5, 20
-encounter SPECIES_DUCKLETT, 21, 34
-encounter SPECIES_DUCKLETT, 35, 39
-encounter SPECIES_SWANNA, 40, 49
+encounter SPECIES_DUCKLETT, 40, 45
+encounter SPECIES_DUCKLETT, 40, 50
+encounter SPECIES_SWANNA, 50, 50
+encounter SPECIES_SWANNA, 50, 50
 encounter SPECIES_SWANNA, 50, 50
 
 // rock smash encounters
@@ -10388,11 +10388,11 @@ encounter SPECIES_NONE, 0, 0
 encounter SPECIES_NONE, 0, 0
 
 // super rod encounters
-encounter SPECIES_REMORAID, 5, 5
-encounter SPECIES_REMORAID, 5, 5
-encounter SPECIES_REMORAID, 5, 5
-encounter SPECIES_REMORAID, 5, 5
-encounter SPECIES_REMORAID, 5, 5
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -10487,16 +10487,16 @@ encounter SPECIES_MAGIKARP, 10, 10
 // good rod encounters
 encounter SPECIES_MAGIKARP, 20, 20
 encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_MAGIKARP, 20, 20
 encounter SPECIES_GYARADOS, 20, 20
-encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_GYARADOS, 20, 20
+encounter SPECIES_GYARADOS, 20, 20
 
 // super rod encounters
-encounter SPECIES_MAGIKARP, 40, 40
 encounter SPECIES_GYARADOS, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_GYARADOS, 40, 40
+encounter SPECIES_MAGIKARP, 65, 65
+encounter SPECIES_MAGIKARP, 65, 65
 
 // swarm grass
 pokemon SPECIES_NONE
@@ -11662,7 +11662,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 pokemon SPECIES_LEDIAN
@@ -11766,7 +11766,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 pokemon SPECIES_JIGGLYPUFF
@@ -11870,7 +11870,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 pokemon SPECIES_SANDILE
@@ -11974,7 +11974,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 pokemon SPECIES_MEOWTH
@@ -12078,20 +12078,20 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 pokemon SPECIES_VULPIX
 pokemon SPECIES_PANCHAM
-pokemon SPECIES_PANCHAM
+pokemon SPECIES_VULPIX
 pokemon SPECIES_VULPIX
 pokemon SPECIES_TOGEDEMARU
 pokemon SPECIES_TOGEDEMARU
-pokemon SPECIES_PANGORO
+pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_MINCCINO
 pokemon SPECIES_MINCCINO
-pokemon SPECIES_PANGORO
-pokemon SPECIES_PSYDUCK
+pokemon SPECIES_MINCCINO
+pokemon SPECIES_MINCCINO
 monwithform SPECIES_VULPIX, 1 // alolan form
 
 // day encounter slots
@@ -12101,10 +12101,10 @@ pokemon SPECIES_PANCHAM
 pokemon SPECIES_VULPIX
 pokemon SPECIES_TOGEDEMARU
 pokemon SPECIES_TOGEDEMARU
-pokemon SPECIES_PANGORO
+pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_MINCCINO
+pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_MINCCINO
-pokemon SPECIES_PANGORO
 pokemon SPECIES_PSYDUCK
 pokemon SPECIES_DUCKLETT
 
@@ -12112,13 +12112,13 @@ pokemon SPECIES_DUCKLETT
 pokemon SPECIES_VULPIX
 pokemon SPECIES_PANCHAM
 pokemon SPECIES_PANCHAM
-pokemon SPECIES_VULPIX
+pokemon SPECIES_PANCHAM
 pokemon SPECIES_TOGEDEMARU
 pokemon SPECIES_TOGEDEMARU
-pokemon SPECIES_PANGORO
+pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_MINCCINO
-pokemon SPECIES_MINCCINO
-pokemon SPECIES_PANGORO
+pokemon SPECIES_HOUNDOUR
+pokemon SPECIES_HOUNDOUR
 pokemon SPECIES_PSYDUCK
 pokemon SPECIES_DUCKLETT
 
@@ -12131,11 +12131,11 @@ pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
 
 // surf encounters
-encounter SPECIES_PSYDUCK, 10, 10
-encounter SPECIES_PSYDUCK, 5, 5
-encounter SPECIES_GOLDUCK, 10, 10
-encounter SPECIES_GOLDUCK, 10, 10
-encounter SPECIES_GOLDUCK, 10, 10
+encounter SPECIES_PSYDUCK, 40, 50
+encounter SPECIES_DUCKLETT, 40, 50
+encounter SPECIES_DUCKLETT, 40, 50
+encounter SPECIES_DUCKLETT, 40, 50
+encounter SPECIES_DUCKLETT, 40, 50
 
 // rock smash encounters
 encounter SPECIES_NONE, 0, 0
@@ -12143,27 +12143,27 @@ encounter SPECIES_NONE, 0, 0
 
 // old rod encounters
 encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
-encounter SPECIES_MAGIKARP, 10, 10
+encounter SPECIES_POLIWAG, 10, 10
+encounter SPECIES_POLIWAG, 10, 10
 encounter SPECIES_POLIWAG, 10, 10
 encounter SPECIES_POLIWAG, 10, 10
 
 // good rod encounters
-encounter SPECIES_MAGIKARP, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
 encounter SPECIES_POLIWAG, 20, 20
-encounter SPECIES_POLIWAG, 20, 20
-encounter SPECIES_POLIWAG, 20, 20
+encounter SPECIES_POLIWHIRL, 20, 20
+encounter SPECIES_POLIWHIRL, 20, 20
+encounter SPECIES_POLIWHIRL, 20, 20
 
 // super rod encounters
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
-encounter SPECIES_POLIWAG, 40, 40
-encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWHIRL, 40, 40
+encounter SPECIES_POLIWRATH, 40, 40
+encounter SPECIES_POLITOED, 40, 40
+encounter SPECIES_POLITOED, 40, 40
 
 // swarm grass
-pokemon SPECIES_PANGORO
+pokemon SPECIES_PSYDUCK
 // swarm surf
 pokemon SPECIES_PSYDUCK
 // swarm good rod
@@ -12182,7 +12182,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 pokemon SPECIES_HOUNDOUR
@@ -12286,7 +12286,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 pokemon SPECIES_LITWICK
@@ -12390,7 +12390,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 pokemon SPECIES_CROAGUNK
@@ -12598,7 +12598,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 pokemon SPECIES_WATTREL
@@ -12702,7 +12702,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 pokemon SPECIES_SKIPLOOM
@@ -12806,7 +12806,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 pokemon SPECIES_SKIPLOOM
@@ -12910,7 +12910,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 monwithform SPECIES_WOOPER, 1 // paldean wooper
@@ -13014,49 +13014,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 pokemon SPECIES_BLITZLE
 pokemon SPECIES_GLIGAR
-pokemon SPECIES_PANGORO
+pokemon SPECIES_STUFFUL
 pokemon SPECIES_BEWEAR
-pokemon SPECIES_ZEBSTRIKA
+pokemon SPECIES_STUFFUL
 pokemon SPECIES_ZEBSTRIKA
 pokemon species_SKUNTANK
 pokemon SPECIES_GLIGAR
 pokemon SPECIES_BLITZLE
 pokemon species_SKUNTANK
-pokemon SPECIES_THIEVUL
-pokemon SPECIES_THIEVUL
+pokemon SPECIES_GLISCOR
+pokemon SPECIES_GLISCOR
 
 // day encounter slots
 pokemon SPECIES_BLITZLE
 pokemon SPECIES_GLIGAR
-pokemon SPECIES_PANGORO
+pokemon SPECIES_STUFFUL
 pokemon SPECIES_BEWEAR
-pokemon SPECIES_ZEBSTRIKA
+pokemon SPECIES_STUFFUL
 pokemon SPECIES_ZEBSTRIKA
 pokemon species_SKUNTANK
 pokemon SPECIES_GLIGAR
 pokemon SPECIES_BLITZLE
 pokemon species_SKUNTANK
-pokemon SPECIES_THIEVUL
-pokemon SPECIES_THIEVUL
+pokemon SPECIES_GLISCOR
+pokemon SPECIES_GLISCOR
 
 // night encounter slots
 pokemon SPECIES_BLITZLE
 pokemon SPECIES_GLIGAR
-pokemon SPECIES_PANGORO
+pokemon SPECIES_STUFFUL
 pokemon SPECIES_BEWEAR
-pokemon SPECIES_ZEBSTRIKA
+pokemon SPECIES_STUFFUL
 pokemon SPECIES_ZEBSTRIKA
 pokemon species_SKUNTANK
 pokemon SPECIES_GLIGAR
 pokemon SPECIES_BLITZLE
 pokemon species_SKUNTANK
-pokemon SPECIES_THIEVUL
-pokemon SPECIES_THIEVUL
+pokemon SPECIES_GLISCOR
+pokemon SPECIES_GLISCOR
 
 // hoenn encounter slots
 pokemon SPECIES_RATTATA
@@ -13099,7 +13099,7 @@ encounter SPECIES_NONE, 0, 0
 encounter SPECIES_NONE, 0, 0
 
 // swarm grass
-pokemon SPECIES_MAGCARGO
+pokemon SPECIES_ZEBSTRIKA
 // swarm surf
 pokemon SPECIES_NONE
 // swarm good rod
@@ -13118,7 +13118,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 pokemon SPECIES_SLUGMA
@@ -13222,46 +13222,46 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 pokemon SPECIES_SLUGMA
-pokemon SPECIES_SKARMORY
-pokemon SPECIES_PANGORO
-pokemon SPECIES_BEWEAR
+monwithform SPECIES_SHELLOS, 1 // east-sea
+pokemon SPECIES_ARBOK
+pokemon SPECIES_MALAMAR
 pokemon SPECIES_MAGCARGO
 pokemon SPECIES_MAGCARGO
 monwithform SPECIES_GASTRODON, 1 // east-sea
-pokemon SPECIES_PANGORO
-pokemon SPECIES_SKARMORY
+pokemon SPECIES_ARBOK
+monwithform SPECIES_SHELLOS, 1 // east-sea
 monwithform SPECIES_GASTRODON, 1 // east-sea
 pokemon SPECIES_VULLABY
 pokemon SPECIES_VULLABY
 
 // day encounter slots
 pokemon SPECIES_SLUGMA
-pokemon SPECIES_SKARMORY
-pokemon SPECIES_PANGORO
-pokemon SPECIES_BEWEAR
+monwithform SPECIES_SHELLOS, 1 // east-sea
+pokemon SPECIES_ARBOK
+pokemon SPECIES_MALAMAR
 pokemon SPECIES_MAGCARGO
 pokemon SPECIES_MAGCARGO
 monwithform SPECIES_GASTRODON, 1 // east-sea
-pokemon SPECIES_PANGORO
-pokemon SPECIES_SKARMORY
+pokemon SPECIES_ARBOK
+monwithform SPECIES_SHELLOS, 1 // east-sea
 monwithform SPECIES_GASTRODON, 1 // east-sea
 pokemon SPECIES_VULLABY
 pokemon SPECIES_VULLABY
 
 // night encounter slots
 pokemon SPECIES_SLUGMA
-pokemon SPECIES_SKARMORY
-pokemon SPECIES_PANGORO
-pokemon SPECIES_BEWEAR
+monwithform SPECIES_SHELLOS, 1 // east-sea
+pokemon SPECIES_ARBOK
+pokemon SPECIES_MALAMAR
 pokemon SPECIES_MAGCARGO
 pokemon SPECIES_MAGCARGO
 monwithform SPECIES_GASTRODON, 1 // east-sea
-pokemon SPECIES_PANGORO
-pokemon SPECIES_SKARMORY
+pokemon SPECIES_ARBOK
+monwithform SPECIES_SHELLOS, 1 // east-sea
 monwithform SPECIES_GASTRODON, 1 // east-sea
 pokemon SPECIES_VULLABY
 pokemon SPECIES_VULLABY
@@ -13326,7 +13326,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 pokemon SPECIES_INKAY
@@ -13430,7 +13430,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 pokemon SPECIES_HAKAMO_O
@@ -13534,7 +13534,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 pokemon SPECIES_LEDIAN
@@ -13638,7 +13638,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 pokemon SPECIES_LEDIAN
@@ -13846,7 +13846,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 pokemon SPECIES_DIGLETT
@@ -14158,7 +14158,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 pokemon SPECIES_LEDIAN
@@ -14262,7 +14262,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40
+walklevels 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50
 
 // morning encounter slots
 pokemon SPECIES_PIKACHU

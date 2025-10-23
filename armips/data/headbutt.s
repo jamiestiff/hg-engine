@@ -211,18 +211,18 @@ headbuttheader  13,   4,   0   // Route 5
 
 headbuttheader  14,   6,   0   // Route 6
     // normal slots
-    headbuttencounter SPECIES_HOOTHOOT, 11, 13
-    headbuttencounter SPECIES_PINECO, 11, 13
-    headbuttencounter SPECIES_PINECO, 11, 13
-    headbuttencounter SPECIES_CUTIEFLY, 11, 13
-    headbuttencounter SPECIES_CUTIEFLY, 11, 13
-    headbuttencounter SPECIES_CUTIEFLY, 11, 13
-    headbuttencounter SPECIES_HOOTHOOT, 14, 16
-    headbuttencounter SPECIES_HOOTHOOT, 14, 16
-    headbuttencounter SPECIES_HOOTHOOT, 14, 16
-    headbuttencounter SPECIES_CUTIEFLY, 14, 16
-    headbuttencounter SPECIES_CUTIEFLY, 14, 16
-    headbuttencounter SPECIES_CUTIEFLY, 14, 16
+    headbuttencounter SPECIES_TAILLOW, 40, 40
+    headbuttencounter SPECIES_HERACROSS, 40, 40
+    headbuttencounter SPECIES_HERACROSS, 40, 40
+    headbuttencounter SPECIES_AIPOM, 40, 40
+    headbuttencounter SPECIES_CUTIEFLY, 40, 40
+    headbuttencounter SPECIES_CUTIEFLY, 40, 40
+    headbuttencounter SPECIES_TAILLOW, 40, 40
+    headbuttencounter SPECIES_AIPOM, 40, 40
+    headbuttencounter SPECIES_TAILLOW, 40, 40
+    headbuttencounter SPECIES_CUTIEFLY, 40, 40
+    headbuttencounter SPECIES_AIPOM, 40, 40
+    headbuttencounter SPECIES_CUTIEFLY, 40, 40
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -241,18 +241,18 @@ headbuttheader  14,   6,   0   // Route 6
 
 headbuttheader  15,   8,   0   // Route 7
     // normal slots
-    headbuttencounter SPECIES_TAILLOW, 15, 17
-    headbuttencounter SPECIES_HERACROSS, 15, 17
-    headbuttencounter SPECIES_HERACROSS, 15, 17
-    headbuttencounter SPECIES_CUTIEFLY, 15, 17
-    headbuttencounter SPECIES_CUTIEFLY, 15, 17
-    headbuttencounter SPECIES_CUTIEFLY, 15, 17
-    headbuttencounter SPECIES_TAILLOW, 18, 20
-    headbuttencounter SPECIES_TAILLOW, 18, 20
-    headbuttencounter SPECIES_TAILLOW, 18, 20
-    headbuttencounter SPECIES_CUTIEFLY, 18, 20
-    headbuttencounter SPECIES_CUTIEFLY, 18, 20
-    headbuttencounter SPECIES_CUTIEFLY, 18, 20
+    headbuttencounter SPECIES_MURKROW, 40, 40
+    headbuttencounter SPECIES_HERACROSS, 40, 40
+    headbuttencounter SPECIES_HERACROSS, 40, 40
+    headbuttencounter SPECIES_AIPOM, 40, 40
+    headbuttencounter SPECIES_PINECO, 40, 40
+    headbuttencounter SPECIES_PINECO, 40, 40
+    headbuttencounter SPECIES_MURKROW, 40, 40
+    headbuttencounter SPECIES_AIPOM, 40, 40
+    headbuttencounter SPECIES_MURKROW, 40, 40
+    headbuttencounter SPECIES_PINECO, 40, 40
+    headbuttencounter SPECIES_AIPOM, 40, 40
+    headbuttencounter SPECIES_PINECO, 40, 40
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -486,18 +486,18 @@ headbuttheader  23,  19,   0   // Route 15
 
 headbuttheader  24,   2,   0   // Route 16
     // normal slots
-    headbuttencounter SPECIES_TAILLOW, 26, 27
-    headbuttencounter SPECIES_HERACROSS, 26, 27
-    headbuttencounter SPECIES_HERACROSS, 26, 27
-    headbuttencounter SPECIES_CUTIEFLY, 26, 27
-    headbuttencounter SPECIES_CUTIEFLY, 26, 27
-    headbuttencounter SPECIES_CUTIEFLY, 26, 27
-    headbuttencounter SPECIES_TAILLOW, 29, 30
-    headbuttencounter SPECIES_TAILLOW, 29, 30
-    headbuttencounter SPECIES_TAILLOW, 29, 30
-    headbuttencounter SPECIES_CUTIEFLY, 29, 30
-    headbuttencounter SPECIES_CUTIEFLY, 29, 30
-    headbuttencounter SPECIES_CUTIEFLY, 29, 30
+    headbuttencounter SPECIES_MURKROW, 40, 40
+    headbuttencounter SPECIES_SPINARAK, 40, 40
+    headbuttencounter SPECIES_SPINARAK, 40, 40
+    headbuttencounter SPECIES_KRICKETOT, 40, 40
+    headbuttencounter SPECIES_PINECO, 40, 40
+    headbuttencounter SPECIES_PINECO, 40, 40
+    headbuttencounter SPECIES_MURKROW, 40, 40
+    headbuttencounter SPECIES_KRICKETOT, 40, 40
+    headbuttencounter SPECIES_MURKROW, 40, 40
+    headbuttencounter SPECIES_PINECO, 40, 40
+    headbuttencounter SPECIES_KRICKETOT, 40, 40
+    headbuttencounter SPECIES_KRICKETOT, 40, 40
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -515,18 +515,18 @@ headbuttheader  25,   0,   0   // Route 17
 
 headbuttheader  26,   3,   0   // Route 18
     // normal slots
-    headbuttencounter SPECIES_HOOTHOOT, 26, 27
-    headbuttencounter SPECIES_SPINARAK, 26, 27
-    headbuttencounter SPECIES_SPINARAK, 26, 27
-    headbuttencounter SPECIES_KRICKETOT, 26, 27
-    headbuttencounter SPECIES_KRICKETOT, 26, 27
-    headbuttencounter SPECIES_KRICKETOT, 26, 27
-    headbuttencounter SPECIES_HOOTHOOT, 29, 30
-    headbuttencounter SPECIES_CUTIEFLY, 29, 30
-    headbuttencounter SPECIES_HOOTHOOT, 29, 30
-    headbuttencounter SPECIES_KRICKETOT, 29, 30
-    headbuttencounter SPECIES_KRICKETOT, 29, 30
-    headbuttencounter SPECIES_KRICKETOT, 29, 30
+    headbuttencounter SPECIES_MURKROW, 40, 40
+    headbuttencounter SPECIES_SPINARAK, 40, 40
+    headbuttencounter SPECIES_SPINARAK, 40, 40
+    headbuttencounter SPECIES_KRICKETOT, 40, 40
+    headbuttencounter SPECIES_PINECO, 40, 40
+    headbuttencounter SPECIES_PINECO, 40, 40
+    headbuttencounter SPECIES_MURKROW, 40, 40
+    headbuttencounter SPECIES_KRICKETOT, 40, 40
+    headbuttencounter SPECIES_MURKROW, 40, 40
+    headbuttencounter SPECIES_PINECO, 40, 40
+    headbuttencounter SPECIES_KRICKETOT, 40, 40
+    headbuttencounter SPECIES_KRICKETOT, 40, 40
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -1550,18 +1550,18 @@ headbuttheader  53,   0,   0   // Lavender Town
 
 headbuttheader  54,  10,   0   // Vermilion City
     // normal slots
-    headbuttencounter SPECIES_TAILLOW, 11, 13
-    headbuttencounter SPECIES_HERACROSS, 11, 13
-    headbuttencounter SPECIES_HERACROSS, 11, 13
-    headbuttencounter SPECIES_CUTIEFLY, 11, 13
-    headbuttencounter SPECIES_CUTIEFLY, 11, 13
-    headbuttencounter SPECIES_CUTIEFLY, 11, 13
-    headbuttencounter SPECIES_TAILLOW, 14, 16
-    headbuttencounter SPECIES_TAILLOW, 14, 16
-    headbuttencounter SPECIES_TAILLOW, 14, 16
-    headbuttencounter SPECIES_CUTIEFLY, 14, 16
-    headbuttencounter SPECIES_CUTIEFLY, 14, 16
-    headbuttencounter SPECIES_CUTIEFLY, 14, 16
+    headbuttencounter SPECIES_TAILLOW, 40, 40
+    headbuttencounter SPECIES_HERACROSS, 40, 40
+    headbuttencounter SPECIES_HERACROSS, 40, 40
+    headbuttencounter SPECIES_AIPOM, 40, 40
+    headbuttencounter SPECIES_CUTIEFLY, 40, 40
+    headbuttencounter SPECIES_CUTIEFLY, 40, 40
+    headbuttencounter SPECIES_TAILLOW, 40, 40
+    headbuttencounter SPECIES_AIPOM, 40, 40
+    headbuttencounter SPECIES_TAILLOW, 40, 40
+    headbuttencounter SPECIES_CUTIEFLY, 40, 40
+    headbuttencounter SPECIES_AIPOM, 40, 40
+    headbuttencounter SPECIES_CUTIEFLY, 40, 40
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -1584,18 +1584,18 @@ headbuttheader  54,  10,   0   // Vermilion City
 
 headbuttheader  55,  32,   0   // Celadon City
     // normal slots
-    headbuttencounter SPECIES_TAILLOW, 15, 17
-    headbuttencounter SPECIES_HERACROSS, 15, 17
-    headbuttencounter SPECIES_HERACROSS, 15, 17
-    headbuttencounter SPECIES_CUTIEFLY, 15, 17
-    headbuttencounter SPECIES_CUTIEFLY, 15, 17
-    headbuttencounter SPECIES_CUTIEFLY, 15, 17
-    headbuttencounter SPECIES_TAILLOW, 18, 20
-    headbuttencounter SPECIES_TAILLOW, 18, 20
-    headbuttencounter SPECIES_TAILLOW, 18, 20
-    headbuttencounter SPECIES_CUTIEFLY, 18, 20
-    headbuttencounter SPECIES_CUTIEFLY, 18, 20
-    headbuttencounter SPECIES_CUTIEFLY, 18, 20
+    headbuttencounter SPECIES_TAILLOW, 40, 40
+    headbuttencounter SPECIES_HOOTHOOT, 40, 40
+    headbuttencounter SPECIES_HOOTHOOT, 40, 40
+    headbuttencounter SPECIES_LEDYBA, 40, 40
+    headbuttencounter SPECIES_CUTIEFLY, 40, 40
+    headbuttencounter SPECIES_CUTIEFLY, 40, 40
+    headbuttencounter SPECIES_TAILLOW, 40, 40
+    headbuttencounter SPECIES_LEDYBA, 40, 40
+    headbuttencounter SPECIES_TAILLOW, 40, 40
+    headbuttencounter SPECIES_CUTIEFLY, 40, 40
+    headbuttencounter SPECIES_LEDYBA, 40, 40
+    headbuttencounter SPECIES_CUTIEFLY, 40, 40
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0
@@ -1640,18 +1640,18 @@ headbuttheader  55,  32,   0   // Celadon City
 
 headbuttheader  56,  18,   0   // Fuchsia City
     // normal slots
-    headbuttencounter SPECIES_HOOTHOOT, 21, 23
-    headbuttencounter SPECIES_SPINARAK, 21, 23
-    headbuttencounter SPECIES_SPINARAK, 21, 23
-    headbuttencounter SPECIES_KRICKETOT, 21, 23
-    headbuttencounter SPECIES_KRICKETOT, 21, 23
-    headbuttencounter SPECIES_KRICKETOT, 21, 23
-    headbuttencounter SPECIES_HOOTHOOT, 26, 34
-    headbuttencounter SPECIES_CUTIEFLY, 26, 34
-    headbuttencounter SPECIES_HOOTHOOT, 26, 34
-    headbuttencounter SPECIES_KRICKETOT, 26, 34
-    headbuttencounter SPECIES_KRICKETOT, 26, 34
-    headbuttencounter SPECIES_KRICKETOT, 26, 34
+    headbuttencounter SPECIES_MURKROW, 40, 40
+    headbuttencounter SPECIES_SPINARAK, 40, 40
+    headbuttencounter SPECIES_SPINARAK, 40, 40
+    headbuttencounter SPECIES_KRICKETOT, 40, 40
+    headbuttencounter SPECIES_PINECO, 40, 40
+    headbuttencounter SPECIES_PINECO, 40, 40
+    headbuttencounter SPECIES_MURKROW, 40, 40
+    headbuttencounter SPECIES_KRICKETOT, 40, 40
+    headbuttencounter SPECIES_MURKROW, 40, 40
+    headbuttencounter SPECIES_PINECO, 40, 40
+    headbuttencounter SPECIES_KRICKETOT, 40, 40
+    headbuttencounter SPECIES_KRICKETOT, 40, 40
     // special slots
     headbuttencounter SPECIES_NONE, 0, 0
     headbuttencounter SPECIES_NONE, 0, 0

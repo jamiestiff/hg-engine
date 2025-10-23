@@ -10,7 +10,7 @@
 .include "asm/include/species.inc"
 
 
-// all the mon personal data.  tm learnsets are specifically in tmlearnset.txt
+// all the mon personal data.  learnsets are specifically in data/mon/learnsets.json
 // basestats and evyields fields are formatted as such:  hp atk def speed spatk spdef
 
 
@@ -7617,7 +7617,7 @@ mondata SPECIES_SNORUNT, "Snorunt"
 
 
 mondata SPECIES_GLALIE, "Glalie"
-    basestats 80, 80, 110, 80, 80, 80
+    basestats 80, 80, 80, 80, 80, 80
     types TYPE_ICE, TYPE_ICE
     catchrate 75
     baseexp 0 // defined in baseexp.s
@@ -10053,7 +10053,7 @@ mondata SPECIES_DUSKNOIR, "Dusknoir"
 
 
 mondata SPECIES_FROSLASS, "Froslass"
-    basestats 60, 90, 60, 125, 95, 60
+    basestats 50, 90, 60, 125, 95, 60
     types TYPE_ICE, TYPE_GHOST
     catchrate 75
     baseexp 0 // defined in baseexp.s
@@ -24004,7 +24004,7 @@ mondata SPECIES_WEEZING_GALARIAN, "-----"
     colorflip BODY_COLOR_GRAY, 0
 
 mondata SPECIES_MR_MIME_GALARIAN, "-----"
-    basestats 50, 65, 80, 100, 90, 90
+    basestats 50, 65, 65, 100, 90, 90
     types TYPE_ICE, TYPE_PSYCHIC
     catchrate 45
     baseexp 161

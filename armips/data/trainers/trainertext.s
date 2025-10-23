@@ -445,7 +445,7 @@ _03DC: // Trainer 701
 _03E8: // Trainer 261
     trainertextentry 261, TEXT_LAST_MON_SENT_OUT, "Heh heh heh... You’re unprepared\nfor this. We’ll knock you down!\n"
     trainertextentry 261, TEXT_LAST_MON_CRITICAL, "Perhaps I’m the one who was\nunprepared?\n"
-    trainertextentry 261, TEXT_DEFEATED_IN_BATTLE, "This is the real power of Johto...\n"
+    trainertextentry 261, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "This is the real power of Johto...\n"
 
 _03F4: // Trainer 253
     trainertextentry 253, TEXT_LAST_MON_SENT_OUT, "Ah ha ha! It itches! It itches!\n"
@@ -460,27 +460,27 @@ _0400: // Trainer 254
 _040C: // Trainer 255
     trainertextentry 255, TEXT_LAST_MON_SENT_OUT, "It’s not over yet. It’s just beginning!\n"
     trainertextentry 255, TEXT_LAST_MON_CRITICAL, "Oh, last one! Never give up!\n"
-    trainertextentry 255, TEXT_DEFEATED_IN_BATTLE, "My electric trick...\n"
+    trainertextentry 255, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "My electric trick...\n"
 
 _0418: // Trainer 256
     trainertextentry 256, TEXT_LAST_MON_SENT_OUT, "Don’t go easy on me.\nGive me everything you’ve got!\n"
     trainertextentry 256, TEXT_LAST_MON_CRITICAL, "Wow, that’s a bit harsh!\n"
-    trainertextentry 256, TEXT_DEFEATED_IN_BATTLE, "Looks like I underestimated you...\n"
+    trainertextentry 256, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "Looks like I underestimated you...\n"
 
 _0424: // Trainer 257
     trainertextentry 257, TEXT_LAST_MON_SENT_OUT, "You’ve got a great battle technique!\n"
     trainertextentry 257, TEXT_LAST_MON_CRITICAL, "Not good. Seriously not good.\n"
-    trainertextentry 257, TEXT_DEFEATED_IN_BATTLE, "...!!!\nSo... So strong!\n"
+    trainertextentry 257, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "...!!!\nSo... So strong!\n"
 
 _0430: // Trainer 258
     trainertextentry 258, TEXT_LAST_MON_SENT_OUT, "What will happen after this?\nI already know.\n"
     trainertextentry 258, TEXT_LAST_MON_CRITICAL, "Was the future I saw...wrong?\n"
-    trainertextentry 258, TEXT_DEFEATED_IN_BATTLE, "I get it...\n"
+    trainertextentry 258, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "I get it...\n"
 
 _043C: // Trainer 259
     trainertextentry 259, TEXT_LAST_MON_SENT_OUT, "I’ll show you the spirit of this\ncave Gym!\n"
     trainertextentry 259, TEXT_LAST_MON_CRITICAL, "We can still do it!\n"
-    trainertextentry 259, TEXT_DEFEATED_IN_BATTLE, "My spirit has not been defeated!\n"
+    trainertextentry 259, TTEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "My spirit has not been defeated!\n"
 
 _0448: // Trainer 727
     trainertextentry 727, TEXT_LAST_MON_SENT_OUT, "Heh heh heh... You’re unprepared\nfor this. We’ll knock you down!\n"
@@ -923,11 +923,6 @@ _0868: // Trainer 315
     trainertextentry 315, TEXT_NOTICE_IN_OVERWORLD, "Hey! Want to have a speed battle?\r"
     trainertextentry 315, TEXT_DEFEATED_IN_BATTLE, "Yikes! You’ve got awesome torque!\n"
     trainertextentry 315, TEXT_DEFEATED_IN_OVERWORLD, "Hands-free riding is considered cool on\nCycling Road.\n"
-
-_0874: // Trainer 312
-    trainertextentry 312, TEXT_NOTICE_IN_OVERWORLD, "We’re fearless highway stars!\r"
-    trainertextentry 312, TEXT_DEFEATED_IN_BATTLE, "Arrrgh! Crash and burn!\n"
-    trainertextentry 312, TEXT_DEFEATED_IN_OVERWORLD, "Reckless riding causes accidents!\nTake it easy!\n"
 
 _0880: // Trainer 301
     trainertextentry 301, TEXT_NOTICE_IN_OVERWORLD, "If you’re looking for Pokémon, you have\nto look in the tall grass.\r"
@@ -3292,6 +3287,14 @@ _1CA0: // Trainer 514
     trainertextentry 514, TEXT_DEFEATED_IN_BATTLE, "My instincts let me down...\n"
     trainertextentry 514, TEXT_DEFEATED_IN_OVERWORLD, "I guess I need to plan better\nagainst the better trainers..."
 
+_1CAC: // Trainer 312
+    trainertextentry 312, TEXT_DOUBLE_NOTICE_IN_OVERWORLD_1, "We’re fearless highway stars!\r"
+    trainertextentry 312, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "Arrrgh! Crash and burn!\n"
+    trainertextentry 312, TEXT_DOUBLE_DEFEATED_IN_OVERWORLD_1, "Reckless riding causes accidents!\nTake it easy!\n"
+    trainertextentry 399, TEXT_DOUBLE_ONLY_1_POKEMON_1, "Only one Pokémon?\nLet's not fight."
+
+// 0874, 0878 and 087C are all free, moved from previous trainer 312
+
 .close
 
 .create "build/trainer_text_offsets/1_0", 0
@@ -3608,7 +3611,7 @@ _1CA0: // Trainer 514
 /* Trainer 309 */ .halfword _0698
 /* Trainer 310 */ .halfword _06A4
 /* Trainer 311 */ .halfword _06B0
-/* Trainer 312 */ .halfword _0874
+/* Trainer 312 */ .halfword _1CAC
 /* Trainer 313 */ .halfword _084C
 /* Trainer 314 */ .halfword _085C
 /* Trainer 315 */ .halfword _0868
