@@ -480,7 +480,7 @@ _0430: // Trainer 258
 _043C: // Trainer 259
     trainertextentry 259, TEXT_LAST_MON_SENT_OUT, "I’ll show you the spirit of this\ncave Gym!\n"
     trainertextentry 259, TEXT_LAST_MON_CRITICAL, "We can still do it!\n"
-    trainertextentry 259, TTEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "My spirit has not been defeated!\n"
+    trainertextentry 259, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "My spirit has not been defeated!\n"
 
 _0448: // Trainer 727
     trainertextentry 727, TEXT_LAST_MON_SENT_OUT, "Heh heh heh... You’re unprepared\nfor this. We’ll knock you down!\n"

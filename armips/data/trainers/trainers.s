@@ -9024,7 +9024,7 @@ trainerdata 220, "Grunt"
     endparty
 
 trainerdata 221, "Jasmine"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET | TRAINER_DATA_TYPE_SHINY_LOCK | TRAINER_DATA_TYPE_ADDITIONAL_FLAGS
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET | TRAINER_DATA_TYPE_SHINY_LOCK
     trainerclass TRAINERCLASS_LEADER_JASMINE
     nummons 1
     item ITEM_NONE
@@ -9052,8 +9052,6 @@ trainerdata 221, "Jasmine"
         setevs 252, 0, 4, 0, 252, 0
         nature NATURE_MODEST
         shinylock 0
-        additionalflags TRAINER_DATA_EXTRA_TYPE_NICKNAME // nickname will be read from here
-        nickname _A, _m_, _p_, _h_, _y_, _endstr, 0, 0, 0, 0, 0
         ballseal 0
     endparty
 

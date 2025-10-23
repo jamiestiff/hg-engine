@@ -204,13 +204,13 @@ const u16 *_0210FA3C[] = {
 .halfword ITEM_ETHER
 .halfword 0xFFFF
 
-/* const u16 _020FBBB4[] = {ITEM_X_SPEED, ITEM_X_ATTACK, ITEM_X_DEFENSE, ITEM_GUARD_SPEC_, ITEM_DIRE_HIT, ITEM_X_ACCURACY, ITEM_X_SPECIAL, ITEM_X_SP__DEF, 0xFFFF}; */
+/* const u16 _020FBBB4[] = {ITEM_X_SPEED, ITEM_X_ATTACK, ITEM_X_DEFENSE, ITEM_GUARD_SPEC_, ITEM_DIRE_HIT, ITEM_X_ACCURACY, ITEM_X_SPECIAL, ITEM_X_SP__EF, 0xFFFF}; */
 /* Script 5 - Goldenrod Dept Store 3F & Celadon Dept Store 5F -> Goldenrod Dept Store 3F */ 
 .org 0x020FBBB4
 .halfword ITEM_X_SPEED
 .halfword ITEM_X_ATTACK
 .halfword ITEM_X_DEFENSE
-.halfword ITEM_X_SPECIAL
+.halfword ITEM_X_SP_ATK
 .halfword ITEM_X_SP_DEF
 .halfword ITEM_X_ACCURACY
 .halfword ITEM_GUARD_SPEC

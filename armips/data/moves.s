@@ -7396,7 +7396,7 @@ movedata MOVE_LUNAR_DANCE, "Lunar Waltz"
     effectchance 0
     target RANGE_RANDOM_OPPONENT
     priority 0
-    flags FLAG_HIDE_SHADOW | FLAG_KINGS_ROCK | FLAG_MIRROR_MOVE | FLAG_PROTECT | FLAG_CONTACT
+    flags FLAG_HIDE_SHADOW | FLAG_MIRROR_MOVE | FLAG_PROTECT | FLAG_CONTACT
     appeal 0x15
     contesttype CONTEST_BEAUTY
     terminatedata
@@ -12473,7 +12473,7 @@ movedata MOVE_CLANGOROUS_SOUL, "Clangorous Soul"
     effectchance 100
     target RANGE_ADJACENT_OPPONENTS
     priority 0
-    flags FLAG_KEEP_HP_BAR | FLAG_PROTECT | FLAG_MIRROR_MOVE | FLAG_KINGS_ROCK
+    flags FLAG_KEEP_HP_BAR | FLAG_PROTECT | FLAG_MIRROR_MOVE
     appeal 0x00
     contesttype CONTEST_COOL
     terminatedata

@@ -85,10 +85,10 @@
 #define ALLOW_LEVEL_CAP_EVOLVE
 
 // System flags that need to be enabled for the player to use the gimmick. If you want to change them, remember to change them in flags.s as well for consistency
-//#define FLAG_MEGA_EVOLUTION_ENABLED 2518
-//#define FLAG_Z_MOVE_ENABLED 2519
-//#define FLAG_DYNAMAX_ENABLED 2520
-//#define FLAG_TERASTALIZATION_ENABLED 2521
+#define FLAG_MEGA_EVOLUTION_ENABLED 2518
+#define FLAG_Z_MOVE_ENABLED 2519
+#define FLAG_DYNAMAX_ENABLED 2520
+#define FLAG_TERASTALIZATION_ENABLED 2521
 
 // UPDATE_OVERWORLD_POISON will remove overworld poison if enabled
 // comment the line out below to retain overworld poison
@@ -143,7 +143,7 @@
 // SNOW_WARNING_GENERATION controls whether to summon Snow or Hail when the ability is activated.
 // 9 or above: Snow
 // Otherwise: Hail
-#define SNOW_WARNING_GENERATION 8
+#define SNOW_WARNING_GENERATION 9
 
 // IMPLEMENT_REUSABLE_REPELS defines whether or not a prompt to use another repel automatically appears upon the previous repel being used up
 #define IMPLEMENT_REUSABLE_REPELS
