@@ -27,7 +27,6 @@
 .include "armips/asm/no_partner_double_battles.s" // allows no partner double battles
 
 // custom asm scripts
-.include "armips/asm/custom/mart_items.s" // edits ingame marts
 .include "armips/asm/custom/hm_changes.s" // edits required badges for hm use
 .include "armips/asm/custom/rock_smash.s" // edits items obtained from rock smash
 .include "armips/asm/custom/pickup.s" // edits items obtained from pickup ability

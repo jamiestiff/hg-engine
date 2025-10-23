@@ -182,7 +182,7 @@ const u16 *_0210FA3C[] = {
 .halfword 0xFFFF
 
 /* const u16 _020FBB16[] = {ITEM_POKE_DOLL, ITEM_FRESH_WATER, ITEM_SODA_POP, ITEM_LEMONADE, ITEM_REPEL, ITEM_HEART_MAIL, 0xFFFF}; */
-/* Celadon Dept Store 5F -> Safari Zone Gate 3 */
+/* Mt. Moon -> Mt. Moon */
 .org 0x020FBB08
 .halfword ITEM_POMEG_BERRY
 .halfword ITEM_KELPSY_BERRY
@@ -201,7 +201,7 @@ const u16 *_0210FA3C[] = {
 .halfword ITEM_FULL_RESTORE
 .halfword ITEM_FULL_HEAL
 .halfword ITEM_REVIVE
-.halfword ITEM_ETHER
+.halfword ITEM_MAX_ETHER
 .halfword 0xFFFF
 
 /* const u16 _020FBBB4[] = {ITEM_X_SPEED, ITEM_X_ATTACK, ITEM_X_DEFENSE, ITEM_GUARD_SPEC_, ITEM_DIRE_HIT, ITEM_X_ACCURACY, ITEM_X_SPECIAL, ITEM_X_SP__EF, 0xFFFF}; */

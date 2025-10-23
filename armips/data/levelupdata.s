@@ -7228,46 +7228,10 @@ levelup SPECIES_TORKOAL
 
 
 levelup SPECIES_SPOINK
-    learnset MOVE_SPLASH, 1
-    learnset MOVE_PSYWAVE, 7
-    learnset MOVE_ODOR_SLEUTH, 10
-    learnset MOVE_PSYBEAM, 14
-    learnset MOVE_PSYCH_UP, 15
-    learnset MOVE_CONFUSE_RAY, 18
-    learnset MOVE_MAGIC_COAT, 21
-    learnset MOVE_ZEN_HEADBUTT, 26
-    learnset MOVE_POWER_GEM, 29
-    learnset MOVE_REST, 29
-    learnset MOVE_SNORE, 33
-    learnset MOVE_PSYSHOCK, 38
-    learnset MOVE_PAYBACK, 40
-    learnset MOVE_PSYCHIC, 44
-    learnset MOVE_BOUNCE, 50
     terminatelearnset
 
 
 levelup SPECIES_GRUMPIG
-    learnset MOVE_TEETER_DANCE, 0
-    learnset MOVE_TEETER_DANCE, 1
-    learnset MOVE_BELCH, 1
-    learnset MOVE_SPLASH, 1
-    learnset MOVE_PSYWAVE, 1
-    learnset MOVE_ODOR_SLEUTH, 1
-    learnset MOVE_PSYBEAM, 1
-    learnset MOVE_PSYWAVE, 7
-    learnset MOVE_ODOR_SLEUTH, 10
-    learnset MOVE_PSYBEAM, 14
-    learnset MOVE_PSYCH_UP, 15
-    learnset MOVE_CONFUSE_RAY, 18
-    learnset MOVE_MAGIC_COAT, 21
-    learnset MOVE_ZEN_HEADBUTT, 26
-    learnset MOVE_POWER_GEM, 29
-    learnset MOVE_REST, 35
-    learnset MOVE_SNORE, 35
-    learnset MOVE_PSYSHOCK, 42
-    learnset MOVE_PAYBACK, 46
-    learnset MOVE_PSYCHIC, 52
-    learnset MOVE_BOUNCE, 60
     terminatelearnset
 
 
