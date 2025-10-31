@@ -523,10 +523,9 @@ _049C: // Trainer 726
     trainertextentry 726, TEXT_DEFEATED_IN_BATTLE, "My spirit has not been defeated!\n"
 
 _04A8: // Trainer 681
-    trainertextentry 681, TEXT_DOUBLE_NOTICE_IN_OVERWORLD_1, "Anyway, fight me and see!\r"
-    trainertextentry 681, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "I was deceived!\n"
-    trainertextentry 681, TEXT_DOUBLE_DEFEATED_IN_OVERWORLD_1, "Me, I should be a pretty good practice\npartner...\fI shouldn’t say that about myself!\n"
-	trainertextentry 681, TEXT_DOUBLE_ONLY_1_POKEMON_1, "Pfft, challenging the leader with just\na single Pokémon?\n"
+    trainertextentry 681, TEXT_NOTICE_IN_OVERWORLD, "Anyway, fight me and see!\r"
+    trainertextentry 681, TEXT_DEFEATED_IN_BATTLE, "I was deceived!\n"
+    trainertextentry 681, TEXT_DEFEATED_IN_OVERWORLD, "Me, I should be a pretty good practice\npartner...\fI shouldn’t say that about myself!\n"
 
 _04B4: // Trainer 683
     trainertextentry 683, TEXT_NOTICE_IN_OVERWORLD, "What do you think? You’ve never seen\nsuch a wonderful Gym before, have you?\r"
@@ -534,11 +533,9 @@ _04B4: // Trainer 683
     trainertextentry 683, TEXT_DEFEATED_IN_OVERWORLD, "There are many kinds of Gyms\nin the world, but I really like this one!\n"
 
 _04C0: // Trainer 682
-    trainertextentry 682, TEXT_DOUBLE_NOTICE_IN_OVERWORLD_1, "Looking around the room like that,\ndoesn’t it make you a little dizzy?\r"
-    trainertextentry 682, TEXT_DOUBLE_DEFEATED_IN_BATTLE_1, "All of my Pokémon...\nAll dizzy and fainting...\n"
-    trainertextentry 682, TEXT_DOUBLE_DEFEATED_IN_OVERWORLD_1, "Looks like you’ve still got some\nenergy left.\n"
-	trainertextentry 682, TEXT_DOUBLE_ONLY_1_POKEMON_1, "...Maybe you should just leave.\n"
-
+    trainertextentry 682, TEXT_NOTICE_IN_OVERWORLD, "Looking around the room like that,\ndoesn’t it make you a little dizzy?\r"
+    trainertextentry 682, TEXT_DEFEATED_IN_BATTLE, "All of my Pokémon...\nAll dizzy and fainting...\n"
+    trainertextentry 682, TEXT_DEFEATED_IN_OVERWORLD, "Looks like you’ve still got some\nenergy left.\n"
 
 _04CC: // Trainer 684
     trainertextentry 684, TEXT_DOUBLE_NOTICE_IN_OVERWORLD_1, "Ida: I’m Ida!\nNext to me is Elan!\fTogether, we’re a double team!\r"
