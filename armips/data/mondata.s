@@ -3212,7 +3212,7 @@ mondata SPECIES_CHIKORITA, "Chikorita"
     catchrate 45
     baseexp 0 // defined in baseexp.s
     evyields 0, 0, 0, 0, 0, 1
-    items ITEM_LUM_BERRY, ITEM_NONE
+    items ITEM_NONE, ITEM_NONE
     genderratio 31
     eggcycles 20
     basefriendship 70
